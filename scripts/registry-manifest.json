@@ -1,0 +1,91 @@
+{
+ "note": "Which discovered dungeons are emitted into MapData.lua / BossData.lua. 389 (Ragefire Chasm) is hand-verified in MapRegistry.lua and only cross-checked here. Excavation Site 2998 has no single dungeon map identified and is intentionally absent.",
+ "entries": [
+  {
+   "instanceID": 33,
+   "source": "wmo",
+   "wmoRoot": 109971
+  },
+  {
+   "instanceID": 34,
+   "source": "wmo",
+   "wmoRoot": 108631
+  },
+  {
+   "instanceID": 36,
+   "source": "wmo",
+   "wmoRoot": 108483,
+   "note": "main mine WMO only: the ship area (VanCleef, Cookie, Smite, Greenskin) has no minimap tiles in this build; az_deadmines_d (6 tiles) lies in an unrelated area and is omitted"
+  },
+  {
+   "instanceID": 43,
+   "source": "wmo",
+   "wmoRoot": 7952328
+  },
+  {
+   "instanceID": 47,
+   "source": "wmo",
+   "wmoRoot": 109523
+  },
+  {
+   "instanceID": 48,
+   "source": "wmo",
+   "wmoRoot": 109197
+  },
+  {
+   "instanceID": 70,
+   "source": "wmo",
+   "wmoRoot": 109782
+  },
+  {
+   "instanceID": 90,
+   "source": "wmo",
+   "wmoRoot": 109621
+  },
+  {
+   "instanceID": 129,
+   "source": "wmo",
+   "wmoRoot": 109503
+  },
+  {
+   "instanceID": 189,
+   "source": "wmo-pages",
+   "wmoRoots": [
+    7958652,
+    7958653,
+    7958654,
+    7958650
+   ],
+   "floorNoun": "Wing",
+   "floorLabels": [
+    "Graveyard",
+    "Library",
+    "Armory",
+    "Cathedral"
+   ],
+   "labelNote": "labels = the wing that contains Vishas+Thalnos / Loksey+Doan / Herod / Fairbanks+Whitemane (Build-Bosses containment)"
+  },
+  {
+   "instanceID": 2999,
+   "source": "ground",
+   "crop": {
+    "x": 500,
+    "y": 720,
+    "width": 560,
+    "height": 600
+   }
+  },
+  {
+   "instanceID": 3065,
+   "source": "wmo",
+   "wmoRoot": 7732775
+  }
+ ],
+ "unavailable": [
+  {
+   "instanceID": 2998,
+   "name": "Excavation Site: Wetlands",
+   "reason": "many small cave WMOs plus terrain; no single dungeon map identified"
+  }
+ ]
+}

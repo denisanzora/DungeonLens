@@ -1,0 +1,847 @@
+[
+{
+"floor": 1,
+"map": 389,
+"name": "Oggleflint",
+"status": "verified-source-registration",
+"world": [
+-147.55,
+38.71,
+-38.8
+],
+"x": 0.4603,
+"y": 0.5092
+},
+{
+"floor": 1,
+"map": 389,
+"name": "Taragaman the Hungerer",
+"status": "verified-source-registration",
+"world": [
+-244.74,
+150.09,
+-18.75
+],
+"x": 0.6389,
+"y": 0.7402
+},
+{
+"floor": 1,
+"map": 389,
+"name": "Jergosh the Invoker",
+"status": "verified-source-registration",
+"world": [
+-376.81,
+209.22,
+-21.8
+],
+"x": 0.8816,
+"y": 0.8628
+},
+{
+"floor": 1,
+"map": 389,
+"name": "Bazzalan",
+"status": "verified-source-registration",
+"world": [
+-384.87,
+146.04,
+7.82
+],
+"x": 0.8964,
+"y": 0.7318
+},
+{
+"floor": 1,
+"map": 43,
+"name": "Lady Anacondra",
+"status": "verified-source-registration",
+"world": [
+15.34,
+297.18,
+-87.7
+],
+"x": 0.2885,
+"y": 0.766
+},
+{
+"floor": 1,
+"map": 43,
+"name": "Lord Cobrahn",
+"status": "verified-source-registration",
+"world": [
+-151.14,
+414.37,
+-72.63
+],
+"x": 0.5674,
+"y": 0.8797
+},
+{
+"floor": 1,
+"map": 43,
+"name": "Kresh",
+"status": "verified-source-registration",
+"world": [
+-64.41,
+319.08,
+-106.7
+],
+"x": 0.4221,
+"y": 0.7873
+},
+{
+"floor": 1,
+"map": 43,
+"name": "Lord Pythas",
+"status": "verified-source-registration",
+"world": [
+36.81,
+-241.06,
+-79.5
+],
+"x": 0.2525,
+"y": 0.2438
+},
+{
+"floor": 1,
+"map": 43,
+"name": "Skum",
+"status": "verified-source-registration",
+"world": [
+-285.58,
+-312.97,
+-69.19
+],
+"x": 0.7926,
+"y": 0.1741
+},
+{
+"floor": 1,
+"map": 43,
+"name": "Lord Serpentis",
+"status": "verified-source-registration",
+"world": [
+-120.16,
+-24.62,
+-28.58
+],
+"x": 0.5155,
+"y": 0.4538
+},
+{
+"floor": 1,
+"map": 43,
+"name": "Verdan the Everliving",
+"status": "verified-source-registration",
+"world": [
+-81.86,
+32.26,
+-30.99
+],
+"x": 0.4513,
+"y": 0.509
+},
+{
+"floor": 1,
+"map": 36,
+"name": "Rhahk'Zor",
+"status": "verified-source-registration",
+"world": [
+-192.91,
+-448.21,
+54.43
+],
+"x": 0.5076,
+"y": 0.4997
+},
+{
+"floor": 1,
+"map": 36,
+"name": "Sneed",
+"status": "approximate",
+"world": [
+-288.39,
+-518.11,
+56.06
+],
+"x": 0.3436,
+"y": 0.2776
+},
+{
+"floor": 1,
+"map": 36,
+"name": "Miner Johnson",
+"status": "verified-source-registration",
+"world": [
+-152.54,
+-526.43,
+51.13
+],
+"x": 0.33,
+"y": 0.598
+},
+{
+"floor": 1,
+"map": 36,
+"name": "Gilnid",
+"status": "verified-source-registration",
+"world": [
+-177.36,
+-574.46,
+19.31
+],
+"x": 0.219,
+"y": 0.5415
+},
+{
+"floor": 6,
+"map": 33,
+"name": "Rethilgore",
+"status": "verified-source-registration",
+"world": [
+-252.09,
+2123.11,
+81.18
+],
+"x": 0.6079,
+"y": 0.6014
+},
+{
+"floor": 7,
+"map": 33,
+"name": "Razorclaw the Butcher",
+"status": "verified-source-registration",
+"world": [
+-202.6,
+2257.96,
+76.28
+],
+"x": 0.1522,
+"y": 0.6034
+},
+{
+"floor": 7,
+"map": 33,
+"name": "Baron Silverlaine",
+"status": "verified-source-registration",
+"world": [
+-275.34,
+2297.35,
+76.24
+],
+"x": 0.0882,
+"y": 0.9375
+},
+{
+"floor": 6,
+"map": 33,
+"name": "Commander Springvale",
+"status": "verified-source-registration",
+"world": [
+-222.59,
+2259.44,
+102.84
+],
+"x": 0.1854,
+"y": 0.6817
+},
+{
+"floor": 5,
+"map": 33,
+"name": "Odo the Blindwatcher",
+"status": "approximate",
+"world": [
+-236.71,
+2146.08,
+100.11
+],
+"x": 0.3471,
+"y": 0.8417
+},
+{
+"floor": 2,
+"map": 33,
+"name": "Fenrus the Devourer",
+"status": "approximate",
+"world": [
+-135.61,
+2168.66,
+128.78
+],
+"x": 0.2389,
+"y": 0.7644
+},
+{
+"floor": 1,
+"map": 33,
+"name": "Wolf Master Nandos",
+"status": "verified-source-registration",
+"world": [
+-120.72,
+2162.03,
+155.76
+],
+"x": 0.1624,
+"y": 0.7479
+},
+{
+"floor": 1,
+"map": 33,
+"name": "Archmage Arugal",
+"status": "verified-source-registration",
+"world": [
+-76.75,
+2152.41,
+155.79
+],
+"x": 0.1113,
+"y": 0.5552
+},
+{
+"floor": 1,
+"map": 34,
+"name": "Targorr the Dread",
+"status": "verified-source-registration",
+"world": [
+159.58,
+1.25,
+-25.61
+],
+"x": 0.1422,
+"y": 0.621
+},
+{
+"floor": 1,
+"map": 34,
+"name": "Kam Deepfury",
+"status": "verified-source-registration",
+"world": [
+142.64,
+-71.85,
+-34.86
+],
+"x": 0.206,
+"y": 0.437
+},
+{
+"floor": 1,
+"map": 34,
+"name": "Hamhock",
+"status": "verified-source-registration",
+"world": [
+105.52,
+-105.8,
+-35.11
+],
+"x": 0.3459,
+"y": 0.3516
+},
+{
+"floor": 1,
+"map": 34,
+"name": "Dextren Ward",
+"status": "verified-source-registration",
+"world": [
+166.79,
+134.79,
+-33.94
+],
+"x": 0.115,
+"y": 0.9571
+},
+{
+"floor": 1,
+"map": 34,
+"name": "Bazil Thredd",
+"status": "verified-source-registration",
+"world": [
+89.55,
+-136.92,
+-33.94
+],
+"x": 0.4062,
+"y": 0.2732
+},
+{
+"floor": 1,
+"map": 48,
+"name": "Aku'mai",
+"status": "verified-source-registration",
+"world": [
+-848.45,
+-453.87,
+-33.89
+],
+"x": 0.8727,
+"y": 0.1982
+},
+{
+"floor": 3,
+"map": 48,
+"name": "Ghamoo-ra",
+"status": "verified-source-registration",
+"world": [
+-442.42,
+211.82,
+-52.64
+],
+"x": 0.5556,
+"y": 0.5966
+},
+{
+"floor": 3,
+"map": 48,
+"name": "Lady Sarevess",
+"status": "verified-source-registration",
+"world": [
+-299.92,
+413.75,
+-57.12
+],
+"x": 0.339,
+"y": 0.9805
+},
+{
+"floor": 1,
+"map": 48,
+"name": "Twilight Lord Kelris",
+"status": "verified-source-registration",
+"world": [
+-818.83,
+-155.58,
+-25.79
+],
+"x": 0.8084,
+"y": 0.673
+},
+{
+"floor": 3,
+"map": 48,
+"name": "Gelihast",
+"status": "verified-source-registration",
+"world": [
+-412.65,
+40.92,
+-48.14
+],
+"x": 0.5103,
+"y": 0.2717
+},
+{
+"floor": 1,
+"map": 48,
+"name": "Old Serra'kis",
+"status": "approximate",
+"world": [
+-746.74,
+-169.43,
+-50.62
+],
+"x": 0.6519,
+"y": 0.6509
+},
+{
+"floor": 1,
+"map": 48,
+"name": "Lorgus Jett",
+"status": "verified-source-registration",
+"world": [
+-622.36,
+-10.35,
+-22.78
+],
+"x": 0.382,
+"y": 0.9041
+},
+{
+"floor": 1,
+"map": 90,
+"name": "Grubbis",
+"status": "approximate",
+"world": [
+-524.72,
+-107.44,
+-154.29
+],
+"x": 0.6001,
+"y": 0.1627
+},
+{
+"floor": 2,
+"map": 90,
+"name": "Viscous Fallout",
+"status": "approximate",
+"world": [
+-471.39,
+48.48,
+-207.95
+],
+"x": 0.2881,
+"y": 0.1985
+},
+{
+"floor": 2,
+"map": 90,
+"name": "Electrocutioner 6000",
+"status": "verified-source-registration",
+"world": [
+-552.05,
+502.9,
+-216.73
+],
+"x": 0.4854,
+"y": 0.8404
+},
+{
+"floor": 3,
+"map": 90,
+"name": "Crowd Pummeler 9-60",
+"status": "verified-source-registration",
+"world": [
+-889.14,
+360.67,
+-272.51
+],
+"x": 0.7555,
+"y": 0.6804
+},
+{
+"floor": 4,
+"map": 90,
+"name": "Mekgineer Thermaplugg",
+"status": "verified-source-registration",
+"world": [
+-531.32,
+670.16,
+-325.19
+],
+"x": 0.1629,
+"y": 0.8151
+},
+{
+"floor": 1,
+"map": 47,
+"name": "Roogug",
+"status": "approximate",
+"world": [
+2142.99,
+1581.57,
+80.38
+],
+"x": 0.3801,
+"y": 0.7089
+},
+{
+"floor": 1,
+"map": 47,
+"name": "Aggem Thorncurse",
+"status": "verified-source-registration",
+"world": [
+2082.31,
+1463.54,
+73.18
+],
+"x": 0.2376,
+"y": 0.7492
+},
+{
+"floor": 1,
+"map": 47,
+"name": "Death Speaker Jargba",
+"status": "verified-source-registration",
+"world": [
+2146.43,
+1411.24,
+73.95
+],
+"x": 0.2437,
+"y": 0.8414
+},
+{
+"floor": 1,
+"map": 47,
+"name": "Overlord Ramtusk",
+"status": "verified-source-registration",
+"world": [
+2203.13,
+1640.05,
+85.9
+],
+"x": 0.4736,
+"y": 0.7135
+},
+{
+"floor": 1,
+"map": 47,
+"name": "Agathelos the Raging",
+"status": "verified-source-registration",
+"world": [
+1994.4,
+1976.44,
+63.29
+],
+"x": 0.5893,
+"y": 0.2871
+},
+{
+"floor": 1,
+"map": 47,
+"name": "Charlga Razorflank",
+"status": "verified-source-registration",
+"world": [
+2190.4,
+1864.29,
+79.14
+],
+"x": 0.6469,
+"y": 0.5324
+},
+{
+"floor": 1,
+"map": 189,
+"name": "Interrogator Vishas",
+"status": "verified-source-registration",
+"world": [
+1786.55,
+1124.44,
+7.57
+],
+"x": 0.4597,
+"y": 0.3854
+},
+{
+"floor": 1,
+"map": 189,
+"name": "Bloodmage Thalnos",
+"status": "verified-source-registration",
+"world": [
+1820.34,
+1416.71,
+-7.92
+],
+"x": 0.3959,
+"y": 0.8191
+},
+{
+"floor": 2,
+"map": 189,
+"name": "Houndmaster Loksey",
+"status": "verified-source-registration",
+"world": [
+119.94,
+-260.87,
+18.63
+],
+"x": 0.6193,
+"y": 0.6866
+},
+{
+"floor": 2,
+"map": 189,
+"name": "Arcanist Doan",
+"status": "verified-source-registration",
+"world": [
+148.32,
+-428.69,
+18.49
+],
+"x": 0.5159,
+"y": 0.2775
+},
+{
+"floor": 3,
+"map": 189,
+"name": "Herod",
+"status": "verified-source-registration",
+"world": [
+1965.09,
+-431.61,
+6.26
+],
+"x": 0.0459,
+"y": 0.4031
+},
+{
+"floor": 4,
+"map": 189,
+"name": "High Inquisitor Fairbanks",
+"status": "verified-source-registration",
+"world": [
+1158.86,
+1354.27,
+30.39
+],
+"x": 0.1237,
+"y": 0.5662
+},
+{
+"floor": 4,
+"map": 189,
+"name": "High Inquisitor Whitemane",
+"status": "verified-source-registration",
+"world": [
+1202.13,
+1399.07,
+29.09
+],
+"x": 0.0498,
+"y": 0.6848
+},
+{
+"floor": 1,
+"map": 129,
+"name": "Mordresh Fire Eye",
+"status": "verified-source-registration",
+"world": [
+2466.62,
+671.44,
+63.47
+],
+"x": 0.3725,
+"y": 0.2714
+},
+{
+"floor": 1,
+"map": 129,
+"name": "Ragglesnout",
+"status": "verified-source-registration",
+"world": [
+2364.75,
+904.52,
+28.77
+],
+"x": 0.5575,
+"y": 0.6117
+},
+{
+"floor": 1,
+"map": 129,
+"name": "Glutton",
+"status": "verified-source-registration",
+"world": [
+2468.71,
+1006.83,
+23.76
+],
+"x": 0.3687,
+"y": 0.7611
+},
+{
+"floor": 1,
+"map": 129,
+"name": "Amnennar the Coldbringer",
+"status": "verified-source-registration",
+"world": [
+2403.37,
+960.93,
+55.14
+],
+"x": 0.4873,
+"y": 0.6941
+},
+{
+"floor": 1,
+"map": 70,
+"name": "Revelosh",
+"status": "verified-source-registration",
+"world": [
+-225.6,
+161.22,
+-44.55
+],
+"x": 0.6525,
+"y": 0.5055
+},
+{
+"floor": 1,
+"map": 70,
+"name": "The Lost Dwarves",
+"status": "verified-source-registration",
+"world": [
+-355.0,
+124.64,
+-46.03
+],
+"x": 0.8585,
+"y": 0.4462
+},
+{
+"floor": 1,
+"map": 70,
+"name": "Ironaya",
+"status": "verified-source-registration",
+"world": [
+-235.67,
+309.64,
+-47.6
+],
+"x": 0.6686,
+"y": 0.746
+},
+{
+"floor": 1,
+"map": 70,
+"name": "Obsidian Sentinel",
+"status": "verified-source-registration",
+"world": [
+-163.76,
+387.99,
+-36.36
+],
+"x": 0.5541,
+"y": 0.873
+},
+{
+"floor": 1,
+"map": 70,
+"name": "Ancient Stone Keeper",
+"status": "verified-source-registration",
+"world": [
+-38.43,
+221.25,
+-48.37
+],
+"x": 0.3546,
+"y": 0.6028
+},
+{
+"floor": 1,
+"map": 70,
+"name": "Galgann Firehammer",
+"status": "verified-source-registration",
+"world": [
+-10.38,
+414.71,
+-46.86
+],
+"x": 0.3099,
+"y": 0.9163
+},
+{
+"floor": 1,
+"map": 70,
+"name": "Grimlok",
+"status": "verified-source-registration",
+"world": [
+56.71,
+455.3,
+-40.96
+],
+"x": 0.2031,
+"y": 0.9821
+},
+{
+"floor": 2,
+"map": 70,
+"name": "Archaedas",
+"status": "verified-source-registration",
+"world": [
+104.34,
+272.31,
+-51.7
+],
+"x": 0.313,
+"y": 0.7808
+}
+]

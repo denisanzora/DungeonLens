@@ -1,0 +1,500 @@
+{
+ "bosses": [
+  {
+   "agreementYards": 6.9,
+   "confidence": "high",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    547
+   ],
+   "floor": 1,
+   "floorSource": "group-containment",
+   "id": 547,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Revelosh",
+   "notes": [],
+   "onContent": true,
+   "order": 1,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      6910
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -225.6,
+      161.22,
+      -44.55
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.5342,
+      0.7254
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 230,
+     "world": [
+      -227.88,
+      167.76
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -225.6,
+    161.22,
+    -44.55
+   ],
+   "x": 0.6525,
+   "y": 0.5055
+  },
+  {
+   "agreementYards": 11.3,
+   "confidence": "high",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    548
+   ],
+   "floor": 1,
+   "floorSource": "group-containment",
+   "id": 548,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "The Lost Dwarves",
+   "notes": [],
+   "onContent": true,
+   "order": 2,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      6906,
+      6908
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 2,
+     "type": "server-spawn-db",
+     "world": [
+      -355.0,
+      124.64,
+      -46.03
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.5847,
+      0.9201
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 230,
+     "world": [
+      -343.86,
+      122.59
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -355.0,
+    124.64,
+    -46.03
+   ],
+   "x": 0.8585,
+   "y": 0.4462
+  },
+  {
+   "agreementYards": 2.3,
+   "confidence": "high",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    549
+   ],
+   "floor": 1,
+   "floorSource": "group-containment",
+   "id": 549,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Ironaya",
+   "notes": [],
+   "onContent": true,
+   "order": 3,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      7228
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -235.67,
+      309.64,
+      -47.6
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.373,
+      0.7398
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 230,
+     "world": [
+      -236.42,
+      311.82
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -235.67,
+    309.64,
+    -47.6
+   ],
+   "x": 0.6686,
+   "y": 0.746
+  },
+  {
+   "agreementYards": 12.2,
+   "confidence": "high",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    1887
+   ],
+   "floor": 1,
+   "floorSource": "group-containment",
+   "id": 1887,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Obsidian Sentinel",
+   "notes": [],
+   "onContent": true,
+   "order": 4,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      7023
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -163.76,
+      387.99,
+      -36.36
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.2894,
+      0.5974
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 230,
+     "world": [
+      -151.61,
+      386.47
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -163.76,
+    387.99,
+    -36.36
+   ],
+   "x": 0.5541,
+   "y": 0.873
+  },
+  {
+   "agreementYards": 19.8,
+   "confidence": "high",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    551
+   ],
+   "floor": 1,
+   "floorSource": "group-containment",
+   "id": 551,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Ancient Stone Keeper",
+   "notes": [],
+   "onContent": true,
+   "order": 5,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      7206
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -38.43,
+      221.25,
+      -48.37
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.4754,
+      0.4406
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 230,
+     "world": [
+      -58.18,
+      220.26
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -38.43,
+    221.25,
+    -48.37
+   ],
+   "x": 0.3546,
+   "y": 0.6028
+  },
+  {
+   "agreementYards": 21.3,
+   "confidence": "high",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    552
+   ],
+   "floor": 1,
+   "floorSource": "group-containment",
+   "id": 552,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Galgann Firehammer",
+   "notes": [],
+   "onContent": true,
+   "order": 6,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      7291
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -10.38,
+      414.71,
+      -46.86
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.2678,
+      0.3279
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 230,
+     "world": [
+      8.97,
+      405.83
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -10.38,
+    414.71,
+    -46.86
+   ],
+   "x": 0.3099,
+   "y": 0.9163
+  },
+  {
+   "agreementYards": 8.4,
+   "confidence": "high",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    553
+   ],
+   "floor": 1,
+   "floorSource": "group-containment",
+   "id": 553,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Grimlok",
+   "notes": [],
+   "onContent": true,
+   "order": 7,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      4854
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      56.71,
+      455.3,
+      -40.96
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.2199,
+      0.2561
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 230,
+     "world": [
+      51.7,
+      448.56
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    56.71,
+    455.3,
+    -40.96
+   ],
+   "x": 0.2031,
+   "y": 0.9821
+  },
+  {
+   "agreementYards": 0.8,
+   "confidence": "high",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    554
+   ],
+   "floor": 2,
+   "floorSource": "group-containment",
+   "id": 554,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Archaedas",
+   "notes": [],
+   "onContent": true,
+   "order": 8,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      2748
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      104.34,
+      272.31,
+      -51.7
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.5533,
+      0.5041
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 231,
+     "world": [
+      105.07,
+      272.59
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    104.34,
+    272.31,
+    -51.7
+   ],
+   "x": 0.313,
+   "y": 0.7808
+  }
+ ],
+ "counts": {
+  "verified-source-registration": 8
+ },
+ "floors": [
+  {
+   "floor": 1,
+   "groupCount": 46,
+   "source": "blizzard-retail-uimap-assignment",
+   "uiMapID": 230,
+   "wmoRoot": 109782
+  },
+  {
+   "floor": 2,
+   "groupCount": 5,
+   "source": "blizzard-retail-uimap-assignment",
+   "uiMapID": 231,
+   "wmoRoot": 109782
+  }
+ ],
+ "foreverBuild": "1.60.1.70245",
+ "frame": {
+  "formula": "local = Rot(180 - yaw) * (world - origin); canvas = (local.x*rho - minX, maxY - local.y*rho)",
+  "origin": [
+   0.0,
+   0.0
+  ],
+  "perFloorFrames": [
+   {
+    "floor": 1,
+    "origin": [
+     0.0,
+     0.0
+    ],
+    "yaw": 0.0
+   },
+   {
+    "floor": 2,
+    "origin": [
+     0.0,
+     0.0
+    ],
+    "yaw": 0.0
+   }
+  ],
+  "yaw": 0.0
+ },
+ "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+ "layouts": {
+  "1": "wmo:1256x1234:46:f1",
+  "2": "wmo:459x437:5:f2"
+ },
+ "mapID": 70,
+ "name": "Uldaman",
+ "notes": [],
+ "retailBuild": "12.1.0.69933"
+}

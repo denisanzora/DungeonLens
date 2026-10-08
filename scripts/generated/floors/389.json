@@ -1,0 +1,51 @@
+{
+ "coveragePercent": 58.3,
+ "directCoveragePercent": 50.0,
+ "directlyMatched": 6,
+ "floors": [
+  {
+   "floor": 1,
+   "inferredGroups": [
+    5
+   ],
+   "matchedGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    11
+   ],
+   "matchedInForever": 6,
+   "meanZ": -4.14,
+   "name": "Ragefire Chasm",
+   "retailMemberCount": 6,
+   "retailRegion": [
+    -452.953,
+    -285.993,
+    -10000.0,
+    39.623,
+    452.871,
+    1000000.0
+   ],
+   "uiMapID": 213,
+   "zMax": 58.91,
+   "zMin": -66.19
+  }
+ ],
+ "foreverBuild": "1.60.1.70245",
+ "mapID": 389,
+ "multiFloorGroups": [],
+ "name": "Ragefire Chasm",
+ "retailBuild": "12.1.0.69933",
+ "status": "retail-uimap-assignment",
+ "tiledGroups": 12,
+ "unassigned": [
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "wmoRoot": 109483
+}

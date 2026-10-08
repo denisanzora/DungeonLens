@@ -1,0 +1,341 @@
+{
+ "bosses": [
+  {
+   "boss": "Rhahk'Zor",
+   "encounterID": 2741,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 872,
+     "name": "Rockslicer",
+     "quality": "rare",
+     "slot": "two-hand, axe",
+     "sourcePercent": "3%"
+    },
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 273289,
+     "name": "Ogre Loincloth",
+     "quality": "rare",
+     "slot": "legs, cloth",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 5187,
+     "name": "Rhahk'Zor's Hammer",
+     "quality": "rare",
+     "slot": "two-hand, mace",
+     "sourcePercent": "75%"
+    }
+   ],
+   "page": "the-deadmines",
+   "sourceBoss": "Rhahk'Zor",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Miner Johnson",
+   "encounterID": 3676,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 5443,
+     "name": "Gold-plated Buckler",
+     "quality": "rare",
+     "slot": "off hand, shield",
+     "sourcePercent": "41%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 5444,
+     "name": "Miner's Cape",
+     "quality": "rare",
+     "slot": "back, cloth",
+     "sourcePercent": "54%"
+    }
+   ],
+   "page": "the-deadmines",
+   "sourceBoss": "Miner Johnson",
+   "sourceItemCount": 2
+  },
+  {
+   "boss": "Sneed",
+   "encounterID": 2742,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 1937,
+     "name": "Buzz Saw",
+     "quality": "rare",
+     "slot": "one-hand, sword",
+     "sourcePercent": "10%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 2169,
+     "name": "Buzzer Blade",
+     "quality": "rare",
+     "slot": "main hand, dagger",
+     "sourcePercent": "56%"
+    }
+   ],
+   "page": "the-deadmines",
+   "sourceBoss": "Sneed's Shredder",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Sneed",
+   "encounterID": 2742,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 5194,
+     "name": "Taskmaster Axe",
+     "quality": "rare",
+     "slot": "two-hand, axe",
+     "sourcePercent": "27%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 5195,
+     "name": "Gold-flecked Gloves",
+     "quality": "rare",
+     "slot": "hands, cloth",
+     "sourcePercent": "67%"
+    },
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 273293,
+     "name": "Bandsaw Wristbands",
+     "quality": "rare",
+     "slot": "wrist, mail",
+     "sourcePercent": null
+    }
+   ],
+   "page": "the-deadmines",
+   "sourceBoss": "Sneed",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Gilnid",
+   "encounterID": 2743,
+   "items": [
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 273297,
+     "name": "Goblin Hammer",
+     "quality": "rare",
+     "slot": "main hand, mace",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 1156,
+     "name": "Lavishly Jeweled Ring",
+     "quality": "rare",
+     "slot": "finger",
+     "sourcePercent": "37%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 5199,
+     "name": "Smelting Pants",
+     "quality": "rare",
+     "slot": "legs, leather",
+     "sourcePercent": "56%"
+    }
+   ],
+   "page": "the-deadmines",
+   "sourceBoss": "Gilnid",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Mr. Smite",
+   "encounterID": 2745,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 7230,
+     "name": "Smite's Mighty Hammer",
+     "quality": "rare",
+     "slot": "two-hand, mace",
+     "sourcePercent": "18%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 5192,
+     "name": "Thief's Blade",
+     "quality": "rare",
+     "slot": "one-hand, sword",
+     "sourcePercent": "38%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 5196,
+     "name": "Smite's Reaver",
+     "quality": "rare",
+     "slot": "one-hand, axe",
+     "sourcePercent": "37%"
+    }
+   ],
+   "page": "the-deadmines",
+   "sourceBoss": "Mr. Smite",
+   "sourceItemCount": 4
+  },
+  {
+   "boss": "Cookie",
+   "encounterID": 2746,
+   "items": [
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 273298,
+     "name": "Lookie's Spyglass",
+     "quality": "rare",
+     "slot": "trinket",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 5198,
+     "name": "Cookie's Stirring Rod",
+     "quality": "rare",
+     "slot": "ranged, wand",
+     "sourcePercent": "33%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 5197,
+     "name": "Cookie's Tenderizer",
+     "quality": "rare",
+     "slot": "one-hand, mace",
+     "sourcePercent": "54%"
+    }
+   ],
+   "page": "the-deadmines",
+   "sourceBoss": "Cookie",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Captain Greenskin",
+   "encounterID": 2744,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 5200,
+     "name": "Impaling Harpoon",
+     "quality": "rare",
+     "slot": "two-hand, polearm",
+     "sourcePercent": "28%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 5201,
+     "name": "Emberstone Staff",
+     "quality": "rare",
+     "slot": "two-hand, staff",
+     "sourcePercent": "38%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 10403,
+     "name": "Blackened Defias Belt",
+     "quality": "rare",
+     "slot": "waist, leather",
+     "sourcePercent": "26%"
+    }
+   ],
+   "page": "the-deadmines",
+   "sourceBoss": "Captain Greenskin",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Edwin VanCleef",
+   "encounterID": 2747,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 5191,
+     "name": "Cruel Barb",
+     "quality": "rare",
+     "slot": "one-hand, sword",
+     "sourcePercent": "15%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 5193,
+     "name": "Cape of the Brotherhood",
+     "quality": "rare",
+     "slot": "back, cloth",
+     "sourcePercent": "23%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 5202,
+     "name": "Corsair's Overshirt",
+     "quality": "rare",
+     "slot": "chest, cloth",
+     "sourcePercent": "23%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 10399,
+     "name": "Blackened Defias Armor",
+     "quality": "rare",
+     "slot": "chest, leather",
+     "sourcePercent": "15%"
+    }
+   ],
+   "page": "the-deadmines",
+   "sourceBoss": "Edwin VanCleef",
+   "sourceItemCount": 4
+  }
+ ],
+ "bossesWithoutSourceEntry": [],
+ "map": 36,
+ "source": "wowtbc.gg/warcraftforever",
+ "unmatchedSourceBosses": [
+  {
+   "boss": "Trash",
+   "items": 12,
+   "page": "the-deadmines"
+  }
+ ],
+ "unresolvedItems": [
+  {
+   "boss": "Sneed's Shredder",
+   "name": "Dull Sawblade",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Mr. Smite",
+   "name": "First Mate Band",
+   "reason": "no ID in client tables"
+  }
+ ]
+}

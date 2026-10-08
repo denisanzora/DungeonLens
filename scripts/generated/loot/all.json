@@ -1,0 +1,3285 @@
+[
+ {
+  "boss": "Oggleflint",
+  "complete": false,
+  "dungeon": "Ragefire Chasm",
+  "encounterID": 2732,
+  "items": [],
+  "map": 389,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Oggleflint"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Trogg Scepter",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Bone Knuckles",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Barbaric Crossbow",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Taragaman the Hungerer",
+  "complete": true,
+  "dungeon": "Ragefire Chasm",
+  "encounterID": 2733,
+  "items": [
+   {
+    "confidence": "forever-corroborated",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 14145,
+    "name": "Cursed Felblade",
+    "slot": "main hand, sword",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "16%"
+   },
+   {
+    "confidence": "forever-corroborated",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 14148,
+    "name": "Crystalline Cuffs",
+    "slot": "wrist, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "30%"
+   },
+   {
+    "confidence": "forever-corroborated",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 14149,
+    "name": "Subterranean Cape",
+    "slot": "back, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "32%"
+   }
+  ],
+  "map": 389,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Taragaman the Hungerer"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Jergosh the Invoker",
+  "complete": true,
+  "dungeon": "Ragefire Chasm",
+  "encounterID": 2734,
+  "items": [
+   {
+    "confidence": "forever-corroborated",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 14147,
+    "name": "Cavedweller Bracers",
+    "slot": "wrist, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "33%"
+   },
+   {
+    "confidence": "forever-corroborated",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 14150,
+    "name": "Robe of Evocation",
+    "slot": "chest, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "36%"
+   },
+   {
+    "confidence": "forever-corroborated",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 14151,
+    "name": "Chanting Blade",
+    "slot": "one-hand, dagger",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "16%"
+   }
+  ],
+  "map": 389,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Jergosh the Invoker"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Bazzalan",
+  "complete": false,
+  "dungeon": "Ragefire Chasm",
+  "encounterID": 2735,
+  "items": [],
+  "map": 389,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Bazzalan"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Searing Dagger",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Satyrskin Cloak",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Chasm Walkers",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Faldrim Anvilmar",
+  "complete": false,
+  "dungeon": "The Hall of Thanes",
+  "encounterID": 3493,
+  "items": [],
+  "map": 3065,
+  "markerStatus": "unresolved",
+  "sourceBoss": [
+   "Faldrim Anvilmar"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Ephemeral Choker",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Aetherwisp Bracers",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Spiritwraith Drape",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Infurnus",
+  "complete": false,
+  "dungeon": "The Hall of Thanes",
+  "encounterID": 3495,
+  "items": [],
+  "map": 3065,
+  "markerStatus": "unresolved",
+  "sourceBoss": [],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Plunder",
+  "complete": false,
+  "dungeon": "The Hall of Thanes",
+  "encounterID": 3494,
+  "items": [],
+  "map": 3065,
+  "markerStatus": "unresolved",
+  "sourceBoss": [
+   "Plunder"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Golemheart Stave",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Treads of the Protector Golem",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Golemguard Chest",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Durgen Dirgehammer",
+  "complete": true,
+  "dungeon": "The Hall of Thanes",
+  "encounterID": 3496,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 270256,
+    "name": "Durgen's Crescent Axe",
+    "slot": "main hand, axe",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 270260,
+    "name": "Direhammer Leggings",
+    "slot": "legs, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 270261,
+    "name": "Robes of the Disgraced Thane",
+    "slot": "chest, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 3065,
+  "markerStatus": "unresolved",
+  "sourceBoss": [
+   "Durgen Dirgehammer"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Witherfang",
+  "complete": true,
+  "dungeon": "Ruins of Lordaeron",
+  "encounterID": 3353,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 271201,
+    "name": "Atrophic Girdle",
+    "slot": "waist, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 271202,
+    "name": "Witherbite Bracers",
+    "slot": "wrist, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 271203,
+    "name": "Segmented Spider Leg",
+    "slot": "two-hand, staff",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 2999,
+  "markerStatus": "unresolved",
+  "sourceBoss": [
+   "Witherfang"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "The Abandoned",
+  "complete": true,
+  "dungeon": "Ruins of Lordaeron",
+  "encounterID": 3357,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 271207,
+    "name": "Rotmender's Leggings",
+    "slot": "legs, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 271208,
+    "name": "Grip of Fear",
+    "slot": "hands, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 271216,
+    "name": "Scepter of the Abandoned",
+    "slot": "main hand, mace",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 2999,
+  "markerStatus": "unresolved",
+  "sourceBoss": [
+   "The Abandoned"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "The Butcher",
+  "complete": false,
+  "dungeon": "Ruins of Lordaeron",
+  "encounterID": 3355,
+  "items": [],
+  "map": 2999,
+  "markerStatus": "unresolved",
+  "sourceBoss": [],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Rath'mael",
+  "complete": true,
+  "dungeon": "Ruins of Lordaeron",
+  "encounterID": 3354,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 271213,
+    "name": "Mirror of Rath'mael",
+    "slot": "off hand, shield",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 271214,
+    "name": "Rotmender's Treads",
+    "slot": "feet, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 271215,
+    "name": "Coldspire Staff",
+    "slot": "two-hand, staff",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 2999,
+  "markerStatus": "unresolved",
+  "sourceBoss": [
+   "Rath'mael"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Lordaeron Captain",
+  "complete": false,
+  "dungeon": "Ruins of Lordaeron",
+  "encounterID": 3408,
+  "items": [],
+  "map": 2999,
+  "markerStatus": "unresolved",
+  "sourceBoss": [],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Viktor the Vile",
+  "complete": true,
+  "dungeon": "Ruins of Lordaeron",
+  "encounterID": 3411,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 271211,
+    "name": "Vilewalkers",
+    "slot": "feet, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 271212,
+    "name": "Bloodied Chestwraps",
+    "slot": "chest, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 271218,
+    "name": "Vileblood Scimitar",
+    "slot": "one-hand, sword",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 2999,
+  "markerStatus": "unresolved",
+  "sourceBoss": [
+   "Viktor the Vile"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Bjork",
+  "complete": true,
+  "dungeon": "Ruins of Lordaeron",
+  "encounterID": 3412,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 271209,
+    "name": "Bonerust Leggings",
+    "slot": "legs, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 271210,
+    "name": "Tuskwrap Belt",
+    "slot": "waist, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 271217,
+    "name": "Corpse Chopper",
+    "slot": "two-hand, axe",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 2999,
+  "markerStatus": "unresolved",
+  "sourceBoss": [
+   "Bjork"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Lady Anacondra",
+  "complete": false,
+  "dungeon": "Wailing Caverns",
+  "encounterID": 585,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 5404,
+    "name": "Serpent's Shoulders",
+    "slot": "shoulder, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "47%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 10412,
+    "name": "Belt of the Fang",
+    "slot": "waist, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "9%"
+   }
+  ],
+  "map": 43,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Lady Anacondra"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Snake Eye Kaleidoscope",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Lord Cobrahn",
+  "complete": true,
+  "dungeon": "Wailing Caverns",
+  "encounterID": 586,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6460,
+    "name": "Cobrahn's Grasp",
+    "slot": "waist, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "17%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6465,
+    "name": "Robe of the Moccasin",
+    "slot": "chest, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "54%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 10410,
+    "name": "Leggings of the Fang",
+    "slot": "legs, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "17%"
+   }
+  ],
+  "map": 43,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Lord Cobrahn"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Kresh",
+  "complete": false,
+  "dungeon": "Wailing Caverns",
+  "encounterID": 587,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 13245,
+    "name": "Kresh's Back",
+    "slot": "off hand, shield",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "12%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6447,
+    "name": "Worn Turtle Shell Shield",
+    "slot": "off hand, shield",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "69%"
+   }
+  ],
+  "map": 43,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Kresh"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Cloak of Hermitic Bliss",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Lord Pythas",
+  "complete": false,
+  "dungeon": "Wailing Caverns",
+  "encounterID": 588,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6472,
+    "name": "Stinging Viper",
+    "slot": "one-hand, mace",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "29%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6473,
+    "name": "Armor of the Fang",
+    "slot": "chest, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "55%"
+   }
+  ],
+  "map": 43,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Lord Pythas"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Slither Cord",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Skum",
+  "complete": true,
+  "dungeon": "Wailing Caverns",
+  "encounterID": 589,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6449,
+    "name": "Glowing Lizardscale Cloak",
+    "slot": "back, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "45%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 273137,
+    "name": "Skum's Bucket",
+    "slot": "held in off-hand",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6448,
+    "name": "Tail Spike",
+    "slot": "one-hand, dagger",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "46%"
+   }
+  ],
+  "map": 43,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Skum"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Lord Serpentis",
+  "complete": true,
+  "dungeon": "Wailing Caverns",
+  "encounterID": 590,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6469,
+    "name": "Venomstrike",
+    "slot": "ranged, bow",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "17%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 5970,
+    "name": "Serpent Gloves",
+    "slot": "hands, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "19%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6459,
+    "name": "Savage Trodders",
+    "slot": "feet, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "23%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 10411,
+    "name": "Footpads of the Fang",
+    "slot": "feet, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "21%"
+   }
+  ],
+  "map": 43,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Lord Serpentis"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Verdan the Everliving",
+  "complete": true,
+  "dungeon": "Wailing Caverns",
+  "encounterID": 591,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6630,
+    "name": "Seedcloud Buckler",
+    "slot": "off hand, shield",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "38%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6631,
+    "name": "Living Root",
+    "slot": "two-hand, staff",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "38%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6629,
+    "name": "Sporid Cape",
+    "slot": "back, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "19%"
+   }
+  ],
+  "map": 43,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Verdan the Everliving"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Mutanus the Devourer",
+  "complete": true,
+  "dungeon": "Wailing Caverns",
+  "encounterID": 592,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6461,
+    "name": "Slime-encrusted Pads",
+    "slot": "shoulder, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "29%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6463,
+    "name": "Deep Fathom Ring",
+    "slot": "finger",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "30%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6627,
+    "name": "Mutant Scale Breastplate",
+    "slot": "chest, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "23%"
+   }
+  ],
+  "map": 43,
+  "markerStatus": "unresolved",
+  "sourceBoss": [
+   "Mutanus the Devourer"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Rhahk'Zor",
+  "complete": true,
+  "dungeon": "Deadmines",
+  "encounterID": 2741,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 872,
+    "name": "Rockslicer",
+    "slot": "two-hand, axe",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "3%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 273289,
+    "name": "Ogre Loincloth",
+    "slot": "legs, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 5187,
+    "name": "Rhahk'Zor's Hammer",
+    "slot": "two-hand, mace",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "75%"
+   }
+  ],
+  "map": 36,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Rhahk'Zor"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Sneed",
+  "complete": false,
+  "dungeon": "Deadmines",
+  "encounterID": 2742,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 1937,
+    "name": "Buzz Saw",
+    "slot": "one-hand, sword",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "10%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 2169,
+    "name": "Buzzer Blade",
+    "slot": "main hand, dagger",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "56%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 5194,
+    "name": "Taskmaster Axe",
+    "slot": "two-hand, axe",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "27%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 5195,
+    "name": "Gold-flecked Gloves",
+    "slot": "hands, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "67%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 273293,
+    "name": "Bandsaw Wristbands",
+    "slot": "wrist, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 36,
+  "markerStatus": "approximate",
+  "sourceBoss": [
+   "Sneed's Shredder",
+   "Sneed"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Dull Sawblade",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Miner Johnson",
+  "complete": true,
+  "dungeon": "Deadmines",
+  "encounterID": 3676,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 5443,
+    "name": "Gold-plated Buckler",
+    "slot": "off hand, shield",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "41%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 5444,
+    "name": "Miner's Cape",
+    "slot": "back, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "54%"
+   }
+  ],
+  "map": 36,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Miner Johnson"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Gilnid",
+  "complete": true,
+  "dungeon": "Deadmines",
+  "encounterID": 2743,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 273297,
+    "name": "Goblin Hammer",
+    "slot": "main hand, mace",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 1156,
+    "name": "Lavishly Jeweled Ring",
+    "slot": "finger",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "37%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 5199,
+    "name": "Smelting Pants",
+    "slot": "legs, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "56%"
+   }
+  ],
+  "map": 36,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Gilnid"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Captain Greenskin",
+  "complete": true,
+  "dungeon": "Deadmines",
+  "encounterID": 2744,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 5200,
+    "name": "Impaling Harpoon",
+    "slot": "two-hand, polearm",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "28%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 5201,
+    "name": "Emberstone Staff",
+    "slot": "two-hand, staff",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "38%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 10403,
+    "name": "Blackened Defias Belt",
+    "slot": "waist, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "26%"
+   }
+  ],
+  "map": 36,
+  "markerStatus": "unresolved",
+  "sourceBoss": [
+   "Captain Greenskin"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Mr. Smite",
+  "complete": false,
+  "dungeon": "Deadmines",
+  "encounterID": 2745,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 7230,
+    "name": "Smite's Mighty Hammer",
+    "slot": "two-hand, mace",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "18%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 5192,
+    "name": "Thief's Blade",
+    "slot": "one-hand, sword",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "38%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 5196,
+    "name": "Smite's Reaver",
+    "slot": "one-hand, axe",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "37%"
+   }
+  ],
+  "map": 36,
+  "markerStatus": "unresolved",
+  "sourceBoss": [
+   "Mr. Smite"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "First Mate Band",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Cookie",
+  "complete": true,
+  "dungeon": "Deadmines",
+  "encounterID": 2746,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 273298,
+    "name": "Lookie's Spyglass",
+    "slot": "trinket",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 5198,
+    "name": "Cookie's Stirring Rod",
+    "slot": "ranged, wand",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "33%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 5197,
+    "name": "Cookie's Tenderizer",
+    "slot": "one-hand, mace",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "54%"
+   }
+  ],
+  "map": 36,
+  "markerStatus": "unresolved",
+  "sourceBoss": [
+   "Cookie"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Edwin VanCleef",
+  "complete": true,
+  "dungeon": "Deadmines",
+  "encounterID": 2747,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 5191,
+    "name": "Cruel Barb",
+    "slot": "one-hand, sword",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "15%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 5193,
+    "name": "Cape of the Brotherhood",
+    "slot": "back, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "23%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 5202,
+    "name": "Corsair's Overshirt",
+    "slot": "chest, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "23%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 10399,
+    "name": "Blackened Defias Armor",
+    "slot": "chest, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "15%"
+   }
+  ],
+  "map": 36,
+  "markerStatus": "unresolved",
+  "sourceBoss": [
+   "Edwin VanCleef"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Rethilgore",
+  "complete": false,
+  "dungeon": "Shadowfang Keep",
+  "encounterID": 2748,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 5254,
+    "name": "Rugged Spaulders",
+    "slot": "shoulder, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "85%"
+   }
+  ],
+  "map": 33,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Rethilgore"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Cell Keeper's Claws",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Sorcerer Collar",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Razorclaw the Butcher",
+  "complete": true,
+  "dungeon": "Shadowfang Keep",
+  "encounterID": 2749,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 1292,
+    "name": "Butcher's Cleaver",
+    "slot": "one-hand, axe",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "8%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6226,
+    "name": "Bloody Apron",
+    "slot": "chest, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "42%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6633,
+    "name": "Butcher's Slicer",
+    "slot": "one-hand, sword",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "39%"
+   }
+  ],
+  "map": 33,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Razorclaw the Butcher"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Baron Silverlaine",
+  "complete": true,
+  "dungeon": "Shadowfang Keep",
+  "encounterID": 2750,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6321,
+    "name": "Silverlaine's Family Seal",
+    "slot": "finger",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "19%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6323,
+    "name": "Baron's Scepter",
+    "slot": "main hand, mace",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "38%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 273637,
+    "name": "Blade of Silverlaine",
+    "slot": "main hand, sword",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 33,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Baron Silverlaine"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Commander Springvale",
+  "complete": true,
+  "dungeon": "Shadowfang Keep",
+  "encounterID": 2751,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 3191,
+    "name": "Arced War Axe",
+    "slot": "two-hand, axe",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "35%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6320,
+    "name": "Commander's Crest",
+    "slot": "off hand, shield",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "30%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 273643,
+    "name": "Worgenbane Talisman",
+    "slot": "trinket",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 33,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Commander Springvale"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Odo the Blindwatcher",
+  "complete": true,
+  "dungeon": "Shadowfang Keep",
+  "encounterID": 2752,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6318,
+    "name": "Odo's Ley Staff",
+    "slot": "two-hand, staff",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "33%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6319,
+    "name": "Girdle of the Blindwatcher",
+    "slot": "waist, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "58%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 273645,
+    "name": "Blindwatcher's Sight",
+    "slot": "head",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 33,
+  "markerStatus": "approximate",
+  "sourceBoss": [
+   "Odo the Blindwatcher"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Fenrus the Devourer",
+  "complete": true,
+  "dungeon": "Shadowfang Keep",
+  "encounterID": 2753,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 3230,
+    "name": "Black Wolf Bracers",
+    "slot": "wrist, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "17%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6340,
+    "name": "Fenrus' Hide",
+    "slot": "back, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 273646,
+    "name": "Half-Eaten Boots",
+    "slot": "feet, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 33,
+  "markerStatus": "approximate",
+  "sourceBoss": [
+   "Fenrus the Devourer"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Wolf Master Nandos",
+  "complete": true,
+  "dungeon": "Shadowfang Keep",
+  "encounterID": 2754,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 3748,
+    "name": "Feline Mantle",
+    "slot": "shoulder, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "56%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6314,
+    "name": "Wolfmaster Cape",
+    "slot": "back, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "38%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 273647,
+    "name": "Worgpelt Leggings",
+    "slot": "legs, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 33,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Wolf Master Nandos"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Archmage Arugal",
+  "complete": true,
+  "dungeon": "Shadowfang Keep",
+  "encounterID": 2755,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6220,
+    "name": "Meteor Shard",
+    "slot": "one-hand, dagger",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "17%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6324,
+    "name": "Robes of Arugal",
+    "slot": "chest, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "35%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6392,
+    "name": "Belt of Arugal",
+    "slot": "waist, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "34%"
+   }
+  ],
+  "map": 33,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Archmage Arugal"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Targorr the Dread",
+  "complete": false,
+  "dungeon": "Stormwind Stockade",
+  "encounterID": 2756,
+  "items": [],
+  "map": 34,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Targorr the Dread"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Executioner Mantle",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Blackrock Harness",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Dark Horde Band",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Kam Deepfury",
+  "complete": false,
+  "dungeon": "Stormwind Stockade",
+  "encounterID": 2757,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 2280,
+    "name": "Kam's Walking Stick",
+    "slot": "two-hand, staff",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "1%"
+   }
+  ],
+  "map": 34,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Kam Deepfury"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Demolition Girdle",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Bridgebreaker Bindings",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Hamhock",
+  "complete": false,
+  "dungeon": "Stormwind Stockade",
+  "encounterID": 2758,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 273809,
+    "name": "Hamhock's Cleaver",
+    "slot": "main hand, axe",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 34,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Hamhock"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Ogre Grips",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Repurposed Rack",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Dextren Ward",
+  "complete": false,
+  "dungeon": "Stormwind Stockade",
+  "encounterID": 2759,
+  "items": [],
+  "map": 34,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Dextren Ward"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Graverobber's Shovel",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Boneslicer",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Nightskulker Ring",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Bazil Thredd",
+  "complete": false,
+  "dungeon": "Stormwind Stockade",
+  "encounterID": 2760,
+  "items": [],
+  "map": 34,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Bazil Thredd"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Defias Jailbreakers",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Red Wool Cloak",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Debt Collector",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Concealed Hand Crossbow",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Aku'mai",
+  "complete": true,
+  "dungeon": "Blackfathom Deeps",
+  "encounterID": 2767,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6909,
+    "name": "Strike of the Hydra",
+    "slot": "two-hand, sword",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "19%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6911,
+    "name": "Moss Cinch",
+    "slot": "waist, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "38%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6910,
+    "name": "Leech Pants",
+    "slot": "legs, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "36%"
+   }
+  ],
+  "map": 48,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Aku'mai"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Baron Aquanis",
+  "complete": false,
+  "dungeon": "Blackfathom Deeps",
+  "encounterID": 2694,
+  "items": [],
+  "map": 48,
+  "markerStatus": "unresolved",
+  "sourceBoss": [],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Ghamoo-ra",
+  "complete": true,
+  "dungeon": "Blackfathom Deeps",
+  "encounterID": 2697,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6907,
+    "name": "Tortoise Armor",
+    "slot": "chest, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "37%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6908,
+    "name": "Ghamoo-ra's Bind",
+    "slot": "waist, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "56%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 273839,
+    "name": "Spiked Shell Band",
+    "slot": "finger",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 48,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Ghamoo-ra"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Lady Sarevess",
+  "complete": true,
+  "dungeon": "Blackfathom Deeps",
+  "encounterID": 2699,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 888,
+    "name": "Naga Battle Gloves",
+    "slot": "hands, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "38%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 3078,
+    "name": "Naga Heartpiercer",
+    "slot": "ranged, bow",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "18%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 11121,
+    "name": "Darkwater Talwar",
+    "slot": "main hand, sword",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "38%"
+   }
+  ],
+  "map": 48,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Lady Sarevess"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Twilight Lord Kelris",
+  "complete": true,
+  "dungeon": "Blackfathom Deeps",
+  "encounterID": 2766,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 273846,
+    "name": "Twilight Lord Girdle",
+    "slot": "waist, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 1155,
+    "name": "Rod of the Sleepwalker",
+    "slot": "two-hand, staff",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "49%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6903,
+    "name": "Gaze Dreamer Pants",
+    "slot": "legs, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "34%"
+   }
+  ],
+  "map": 48,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Twilight Lord Kelris"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Gelihast",
+  "complete": true,
+  "dungeon": "Blackfathom Deeps",
+  "encounterID": 2704,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 273840,
+    "name": "Cursed Murloc Eye",
+    "slot": "trinket",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6906,
+    "name": "Algae Fists",
+    "slot": "hands, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "44%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6905,
+    "name": "Reef Axe",
+    "slot": "two-hand, axe",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "47%"
+   }
+  ],
+  "map": 48,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Gelihast"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Old Serra'kis",
+  "complete": true,
+  "dungeon": "Blackfathom Deeps",
+  "encounterID": 2765,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6901,
+    "name": "Glowing Thresher Cape",
+    "slot": "back, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "40%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6904,
+    "name": "Bite of Serra'kis",
+    "slot": "one-hand, dagger",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "21%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6902,
+    "name": "Bands of Serra'kis",
+    "slot": "wrist, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "32%"
+   }
+  ],
+  "map": 48,
+  "markerStatus": "approximate",
+  "sourceBoss": [
+   "Old Serra'kis"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Lorgus Jett",
+  "complete": true,
+  "dungeon": "Blackfathom Deeps",
+  "encounterID": 2710,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 273841,
+    "name": "Twilight Maul",
+    "slot": "two-hand, mace",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 273842,
+    "name": "Treacherous Treads",
+    "slot": "feet, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 273843,
+    "name": "Fallenroot Longbow",
+    "slot": "ranged, bow",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 48,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Lorgus Jett"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Grubbis",
+  "complete": false,
+  "dungeon": "Gnomeregan",
+  "encounterID": 2768,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 9445,
+    "name": "Grubbis Paws",
+    "slot": "hands, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "8%"
+   }
+  ],
+  "map": 90,
+  "markerStatus": "approximate",
+  "sourceBoss": [
+   "Grubbis"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Irradiated Shield",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Viscous Fallout",
+  "complete": true,
+  "dungeon": "Gnomeregan",
+  "encounterID": 2769,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 9452,
+    "name": "Hydrocane",
+    "slot": "two-hand, staff",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "19%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 9453,
+    "name": "Toxic Revenger",
+    "slot": "one-hand, dagger",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "17%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 9454,
+    "name": "Acidic Walkers",
+    "slot": "feet, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "59%"
+   }
+  ],
+  "map": 90,
+  "markerStatus": "approximate",
+  "sourceBoss": [
+   "Viscous Fallout"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Electrocutioner 6000",
+  "complete": true,
+  "dungeon": "Gnomeregan",
+  "encounterID": 2770,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 9446,
+    "name": "Electrocutioner Leg",
+    "slot": "main hand, sword",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "16%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 9447,
+    "name": "Electrocutioner Lagnut",
+    "slot": "finger",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "31%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 9448,
+    "name": "Spidertank Oilrag",
+    "slot": "wrist, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "39%"
+   }
+  ],
+  "map": 90,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Electrocutioner 6000"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Crowd Pummeler 9-60",
+  "complete": true,
+  "dungeon": "Gnomeregan",
+  "encounterID": 2771,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 9449,
+    "name": "Manual Crowd Pummeler",
+    "slot": "two-hand, mace",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "33%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 9450,
+    "name": "Gnomebot Operating Boots",
+    "slot": "feet, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "64%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 274068,
+    "name": "Thermaplugg Medal of Honor",
+    "slot": "neck",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 90,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Crowd Pummeler 9-60"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Mekgineer Thermaplugg",
+  "complete": true,
+  "dungeon": "Gnomeregan",
+  "encounterID": 2772,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 9458,
+    "name": "Thermaplugg's Central Core",
+    "slot": "off hand, shield",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "31%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 9459,
+    "name": "Thermaplugg's Left Arm",
+    "slot": "two-hand, axe",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "18%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 9461,
+    "name": "Charged Gear",
+    "slot": "finger",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "32%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 9492,
+    "name": "Electromagnetic Gigaflux Reactivator",
+    "slot": "head, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "9%"
+   }
+  ],
+  "map": 90,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Mekgineer Thermaplugg"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Mechanical Menagerie",
+  "complete": false,
+  "dungeon": "Gnomeregan",
+  "encounterID": 2935,
+  "items": [],
+  "map": 90,
+  "markerStatus": "unresolved",
+  "sourceBoss": [],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Roogug",
+  "complete": false,
+  "dungeon": "Razorfen Kraul",
+  "encounterID": 2773,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 274152,
+    "name": "Roogug's Severed Head",
+    "slot": "trinket",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 47,
+  "markerStatus": "approximate",
+  "sourceBoss": [
+   "Roogug"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Thornweaver Drape",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Geomancer Headdress",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Aggem Thorncurse",
+  "complete": true,
+  "dungeon": "Razorfen Kraul",
+  "encounterID": 2774,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 274159,
+    "name": "Thorncursed Grips",
+    "slot": "hands, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6681,
+    "name": "Thornspike",
+    "slot": "one-hand, dagger",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "53%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 274158,
+    "name": "Death Prophet Spine",
+    "slot": "two-hand, staff",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 47,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Aggem Thorncurse"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Death Speaker Jargba",
+  "complete": true,
+  "dungeon": "Razorfen Kraul",
+  "encounterID": 2775,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 2816,
+    "name": "Death Speaker Scepter",
+    "slot": "main hand, mace",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "10%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6685,
+    "name": "Death Speaker Mantle",
+    "slot": "shoulder, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "43%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6682,
+    "name": "Death Speaker Robes",
+    "slot": "chest, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "42%"
+   }
+  ],
+  "map": 47,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Death Speaker Jargba"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Overlord Ramtusk",
+  "complete": true,
+  "dungeon": "Razorfen Kraul",
+  "encounterID": 2776,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6686,
+    "name": "Tusken Helm",
+    "slot": "head, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "61%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6687,
+    "name": "Corpsemaker",
+    "slot": "two-hand, axe",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "34%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 274161,
+    "name": "Quillord Mail Leggings",
+    "slot": "legs, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 47,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Overlord Ramtusk"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Agathelos the Raging",
+  "complete": true,
+  "dungeon": "Razorfen Kraul",
+  "encounterID": 2777,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 274160,
+    "name": "Quilrager Throwing Axe",
+    "slot": "thrown, thrown",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6691,
+    "name": "Swinetusk Shank",
+    "slot": "main hand, dagger",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "33%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6690,
+    "name": "Ferine Leggings",
+    "slot": "legs, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "62%"
+   }
+  ],
+  "map": 47,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Agathelos the Raging"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Charlga Razorflank",
+  "complete": true,
+  "dungeon": "Razorfen Kraul",
+  "encounterID": 2778,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6692,
+    "name": "Pronged Reaver",
+    "slot": "one-hand, axe",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "17%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6693,
+    "name": "Agamaggan's Clutch",
+    "slot": "finger",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "35%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 6694,
+    "name": "Heart of Agamaggan",
+    "slot": "off hand, shield",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "33%"
+   }
+  ],
+  "map": 47,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Charlga Razorflank"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Interrogator Vishas",
+  "complete": true,
+  "dungeon": "Scarlet Monastery",
+  "encounterID": 444,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 7682,
+    "name": "Torturing Poker",
+    "slot": "one-hand, dagger",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "5%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 7683,
+    "name": "Bloody Brass Knuckles",
+    "slot": "one-hand, fist weapon",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "54%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 274290,
+    "name": "Painwalker Buckler",
+    "slot": "off hand, shield",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   }
+  ],
+  "map": 189,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Interrogator Vishas"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Bloodmage Thalnos",
+  "complete": true,
+  "dungeon": "Scarlet Monastery",
+  "encounterID": 2779,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 7685,
+    "name": "Orb of the Forgotten Seer",
+    "slot": "held in off-hand",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "49%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": true,
+    "foreverSpecific": true,
+    "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+    "itemID": 274291,
+    "name": "Polished Skullcap",
+    "slot": "head, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": null
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 7684,
+    "name": "Bloodmage Mantle",
+    "slot": "shoulder, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "47%"
+   }
+  ],
+  "map": 189,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Bloodmage Thalnos"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Houndmaster Loksey",
+  "complete": true,
+  "dungeon": "Scarlet Monastery",
+  "encounterID": 446,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 7710,
+    "name": "Loksey's Training Stick",
+    "slot": "two-hand, staff",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "14%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 7756,
+    "name": "Dog Training Gloves",
+    "slot": "hands, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "56%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 3456,
+    "name": "Dog Whistle",
+    "slot": "trinket",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "24%"
+   }
+  ],
+  "map": 189,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Houndmaster Loksey"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Arcanist Doan",
+  "complete": false,
+  "dungeon": "Scarlet Monastery",
+  "encounterID": 447,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 7711,
+    "name": "Robe of Doan",
+    "slot": "chest, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "46%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 7712,
+    "name": "Mantle of Doan",
+    "slot": "shoulder, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "47%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 7713,
+    "name": "Illusionary Rod",
+    "slot": "two-hand, staff",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "46%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 7714,
+    "name": "Hypnotic Blade",
+    "slot": "main hand, dagger",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "47%"
+   }
+  ],
+  "map": 189,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Arcanist Doan"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Spellsever Crossbow",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Herod",
+  "complete": true,
+  "dungeon": "Scarlet Monastery",
+  "encounterID": 448,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 7717,
+    "name": "Ravager",
+    "slot": "two-hand, axe",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "13%"
+   }
+  ],
+  "map": 189,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Herod"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "High Inquisitor Fairbanks",
+  "complete": false,
+  "dungeon": "Scarlet Monastery",
+  "encounterID": 449,
+  "items": [],
+  "map": 189,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "High Inquisitor Fairbanks"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "High Inquisitor Whitemane",
+  "complete": false,
+  "dungeon": "Scarlet Monastery",
+  "encounterID": 450,
+  "items": [],
+  "map": 189,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "High Inquisitor Whitemane"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Tuten'kash",
+  "complete": true,
+  "dungeon": "Razorfen Downs",
+  "encounterID": 2780,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 10775,
+    "name": "Carapace of Tuten'kash",
+    "slot": "chest, plate",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "32%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 10777,
+    "name": "Arachnid Gloves",
+    "slot": "hands, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "30%"
+   }
+  ],
+  "map": 129,
+  "markerStatus": "unresolved",
+  "sourceBoss": [
+   "Tuten'kash"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Plaguemaw the Rotting",
+  "complete": false,
+  "dungeon": "Razorfen Downs",
+  "encounterID": 2781,
+  "items": [],
+  "map": 129,
+  "markerStatus": "unresolved",
+  "sourceBoss": [
+   "Plaguemaw the Rotting"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Mordresh Fire Eye",
+  "complete": true,
+  "dungeon": "Razorfen Downs",
+  "encounterID": 2782,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 10770,
+    "name": "Mordresh's Lifeless Skull",
+    "slot": "held in off-hand",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "32%"
+   }
+  ],
+  "map": 129,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Mordresh Fire Eye"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Ragglesnout",
+  "complete": false,
+  "dungeon": "Razorfen Downs",
+  "encounterID": 2783,
+  "items": [],
+  "map": 129,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Ragglesnout"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Glutton",
+  "complete": true,
+  "dungeon": "Razorfen Downs",
+  "encounterID": 2784,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 10772,
+    "name": "Glutton's Cleaver",
+    "slot": "one-hand, axe",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "50%"
+   }
+  ],
+  "map": 129,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Glutton"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Amnennar the Coldbringer",
+  "complete": false,
+  "dungeon": "Razorfen Downs",
+  "encounterID": 2785,
+  "items": [],
+  "map": 129,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Amnennar the Coldbringer"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Revelosh",
+  "complete": true,
+  "dungeon": "Uldaman",
+  "encounterID": 547,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 9387,
+    "name": "Revelosh's Boots",
+    "slot": "feet, plate",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "22%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 9388,
+    "name": "Revelosh's Armguards",
+    "slot": "wrist, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "21%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 9389,
+    "name": "Revelosh's Spaulders",
+    "slot": "shoulder, leather",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "23%"
+   }
+  ],
+  "map": 70,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Revelosh"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "The Lost Dwarves",
+  "complete": false,
+  "dungeon": "Uldaman",
+  "encounterID": 548,
+  "items": [],
+  "map": 70,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Baelog",
+   "Eric \"The Swift\"",
+   "Olaf"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Ironaya",
+  "complete": true,
+  "dungeon": "Uldaman",
+  "encounterID": 549,
+  "items": [
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 9407,
+    "name": "Stoneweaver Leggings",
+    "slot": "legs, cloth",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "37%"
+   },
+   {
+    "confidence": "forever-listed",
+    "foreverNew": false,
+    "foreverSpecific": true,
+    "idSource": "Forever Item table + classic-era item name",
+    "itemID": 9409,
+    "name": "Ironaya's Bracers",
+    "slot": "wrist, mail",
+    "source": "wowtbc.gg Warcraft Forever loot tables (Forever-specific; flags Forever-new items)",
+    "sourcePercent": "37%"
+   }
+  ],
+  "map": 70,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Ironaya"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Obsidian Sentinel",
+  "complete": false,
+  "dungeon": "Uldaman",
+  "encounterID": 1887,
+  "items": [],
+  "map": 70,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Ancient Stone Keeper",
+  "complete": false,
+  "dungeon": "Uldaman",
+  "encounterID": 551,
+  "items": [],
+  "map": 70,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Ancient Stone Keeper"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Galgann Firehammer",
+  "complete": false,
+  "dungeon": "Uldaman",
+  "encounterID": 552,
+  "items": [],
+  "map": 70,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Galgann Firehammer"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Grimlok",
+  "complete": false,
+  "dungeon": "Uldaman",
+  "encounterID": 553,
+  "items": [],
+  "map": 70,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Grimlok"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Archaedas",
+  "complete": false,
+  "dungeon": "Uldaman",
+  "encounterID": 554,
+  "items": [],
+  "map": 70,
+  "markerStatus": "verified-source-registration",
+  "sourceBoss": [
+   "Archaedas"
+  ],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Saltspine",
+  "complete": false,
+  "dungeon": "Excavation Site: Wetlands",
+  "encounterID": 3480,
+  "items": [],
+  "map": 2998,
+  "markerStatus": "unresolved",
+  "sourceBoss": [
+   "Saltspine"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Supple Bellyskin Leggings",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Saltscale Girdle",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Glinteye Slippers",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Shadetooth",
+  "complete": false,
+  "dungeon": "Excavation Site: Wetlands",
+  "encounterID": 3481,
+  "items": [],
+  "map": 2998,
+  "markerStatus": "unresolved",
+  "sourceBoss": [
+   "Shadetooth"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Raptorclaw Greaves",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Garb of Florid Feathers",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Raptor's Gaze",
+    "reason": "no ID in client tables"
+   }
+  ]
+ },
+ {
+  "boss": "Highland Horror",
+  "complete": false,
+  "dungeon": "Excavation Site: Wetlands",
+  "encounterID": 3644,
+  "items": [],
+  "map": 2998,
+  "markerStatus": "unresolved",
+  "sourceBoss": [],
+  "unverifiedItems": []
+ },
+ {
+  "boss": "Relic Guardian",
+  "complete": false,
+  "dungeon": "Excavation Site: Wetlands",
+  "encounterID": 3482,
+  "items": [],
+  "map": 2998,
+  "markerStatus": "unresolved",
+  "sourceBoss": [
+   "Relic Guardian"
+  ],
+  "unverifiedItems": [
+   {
+    "name": "Reliquary Mantle",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Golemsight Long Gun",
+    "reason": "no ID in client tables"
+   },
+   {
+    "name": "Ring of Power Regulation",
+    "reason": "no ID in client tables"
+   }
+  ]
+ }
+]

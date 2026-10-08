@@ -1,0 +1,248 @@
+{
+ "bosses": [
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2756
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2756,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Targorr the Dread",
+   "notes": [],
+   "onContent": true,
+   "order": 1,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      1696
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      159.58,
+      1.25,
+      -25.61
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    159.58,
+    1.25,
+    -25.61
+   ],
+   "x": 0.1422,
+   "y": 0.621
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2757
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2757,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Kam Deepfury",
+   "notes": [],
+   "onContent": true,
+   "order": 2,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      1666
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      142.64,
+      -71.85,
+      -34.86
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    142.64,
+    -71.85,
+    -34.86
+   ],
+   "x": 0.206,
+   "y": 0.437
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2758
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2758,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Hamhock",
+   "notes": [],
+   "onContent": true,
+   "order": 3,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      1717
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      105.52,
+      -105.8,
+      -35.11
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    105.52,
+    -105.8,
+    -35.11
+   ],
+   "x": 0.3459,
+   "y": 0.3516
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2759
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2759,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Dextren Ward",
+   "notes": [],
+   "onContent": true,
+   "order": 4,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      1663
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      166.79,
+      134.79,
+      -33.94
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    166.79,
+    134.79,
+    -33.94
+   ],
+   "x": 0.115,
+   "y": 0.9571
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2760
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2760,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Bazil Thredd",
+   "notes": [],
+   "onContent": true,
+   "order": 5,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      1716
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      89.55,
+      -136.92,
+      -33.94
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    89.55,
+    -136.92,
+    -33.94
+   ],
+   "x": 0.4062,
+   "y": 0.2732
+  }
+ ],
+ "counts": {
+  "verified-source-registration": 5
+ },
+ "floors": [
+  {
+   "floor": 1,
+   "groupCount": 26,
+   "source": "single-floor",
+   "uiMapID": 225,
+   "wmoRoot": 108631
+  }
+ ],
+ "foreverBuild": "1.60.1.70245",
+ "frame": {
+  "formula": "local = Rot(180 - yaw) * (world - origin); canvas = (local.x*rho - minX, maxY - local.y*rho)",
+  "origin": [
+   0.0,
+   0.0
+  ],
+  "perFloorFrames": [
+   {
+    "floor": 1,
+    "origin": [
+     0.0,
+     0.0
+    ],
+    "yaw": 0.0
+   }
+  ],
+  "yaw": 0.0
+ },
+ "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+ "layouts": {
+  "1": "wmo:531x795:26"
+ },
+ "mapID": 34,
+ "name": "Stormwind Stockade",
+ "notes": [],
+ "retailBuild": "12.1.0.69933"
+}

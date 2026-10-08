@@ -1,0 +1,199 @@
+{
+ "bosses": [
+  {
+   "boss": "Grubbis",
+   "encounterID": 2768,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 9445,
+     "name": "Grubbis Paws",
+     "quality": "rare",
+     "slot": "hands, mail",
+     "sourcePercent": "8%"
+    }
+   ],
+   "page": "gnomeregan",
+   "sourceBoss": "Grubbis",
+   "sourceItemCount": 2
+  },
+  {
+   "boss": "Viscous Fallout",
+   "encounterID": 2769,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 9452,
+     "name": "Hydrocane",
+     "quality": "rare",
+     "slot": "two-hand, staff",
+     "sourcePercent": "19%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 9453,
+     "name": "Toxic Revenger",
+     "quality": "rare",
+     "slot": "one-hand, dagger",
+     "sourcePercent": "17%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 9454,
+     "name": "Acidic Walkers",
+     "quality": "rare",
+     "slot": "feet, cloth",
+     "sourcePercent": "59%"
+    }
+   ],
+   "page": "gnomeregan",
+   "sourceBoss": "Viscous Fallout",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Electrocutioner 6000",
+   "encounterID": 2770,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 9446,
+     "name": "Electrocutioner Leg",
+     "quality": "rare",
+     "slot": "main hand, sword",
+     "sourcePercent": "16%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 9447,
+     "name": "Electrocutioner Lagnut",
+     "quality": "rare",
+     "slot": "finger",
+     "sourcePercent": "31%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 9448,
+     "name": "Spidertank Oilrag",
+     "quality": "rare",
+     "slot": "wrist, cloth",
+     "sourcePercent": "39%"
+    }
+   ],
+   "page": "gnomeregan",
+   "sourceBoss": "Electrocutioner 6000",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Crowd Pummeler 9-60",
+   "encounterID": 2771,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 9449,
+     "name": "Manual Crowd Pummeler",
+     "quality": "rare",
+     "slot": "two-hand, mace",
+     "sourcePercent": "33%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 9450,
+     "name": "Gnomebot Operating Boots",
+     "quality": "rare",
+     "slot": "feet, leather",
+     "sourcePercent": "64%"
+    },
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 274068,
+     "name": "Thermaplugg Medal of Honor",
+     "quality": "rare",
+     "slot": "neck",
+     "sourcePercent": null
+    }
+   ],
+   "page": "gnomeregan",
+   "sourceBoss": "Crowd Pummeler 9-60",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Mekgineer Thermaplugg",
+   "encounterID": 2772,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 9458,
+     "name": "Thermaplugg's Central Core",
+     "quality": "rare",
+     "slot": "off hand, shield",
+     "sourcePercent": "31%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 9459,
+     "name": "Thermaplugg's Left Arm",
+     "quality": "rare",
+     "slot": "two-hand, axe",
+     "sourcePercent": "18%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 9461,
+     "name": "Charged Gear",
+     "quality": "rare",
+     "slot": "finger",
+     "sourcePercent": "32%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 9492,
+     "name": "Electromagnetic Gigaflux Reactivator",
+     "quality": "rare",
+     "slot": "head, cloth",
+     "sourcePercent": "9%"
+    }
+   ],
+   "page": "gnomeregan",
+   "sourceBoss": "Mekgineer Thermaplugg",
+   "sourceItemCount": 4
+  }
+ ],
+ "bossesWithoutSourceEntry": [
+  "Mechanical Menagerie"
+ ],
+ "map": 90,
+ "source": "wowtbc.gg/warcraftforever",
+ "unmatchedSourceBosses": [
+  {
+   "boss": "Dark Iron Ambassador",
+   "items": 3,
+   "page": "gnomeregan"
+  },
+  {
+   "boss": "Trash",
+   "items": 10,
+   "page": "gnomeregan"
+  }
+ ],
+ "unresolvedItems": [
+  {
+   "boss": "Grubbis",
+   "name": "Irradiated Shield",
+   "reason": "no ID in client tables"
+  }
+ ]
+}

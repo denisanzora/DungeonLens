@@ -1,0 +1,296 @@
+{
+ "dungeons": [
+  {
+   "classification": "C",
+   "directory": "OrgrimmarInstance",
+   "groundTiles": 0,
+   "instanceType": 1,
+   "layout": "global-wmo",
+   "mapID": 389,
+   "maxStackDepth": 1,
+   "name": "Ragefire Chasm",
+   "nativeUiMaps": [],
+   "present": true,
+   "reason": "wmo-minimap",
+   "wdtFileDataID": 789981,
+   "wmoRoots": [
+    109483
+   ],
+   "wmoTiles": 19
+  },
+  {
+   "classification": "D",
+   "directory": "3065",
+   "groundTiles": 81,
+   "instanceType": 1,
+   "layout": "terrain",
+   "mapID": 3065,
+   "maxStackDepth": 1,
+   "name": "The Hall of Thanes",
+   "nativeUiMaps": [],
+   "present": true,
+   "reason": "mixed-ground-and-wmo-minimaps",
+   "wdtFileDataID": 7713294,
+   "wmoRoots": [
+    7732775
+   ],
+   "wmoTiles": 45
+  },
+  {
+   "classification": "D",
+   "directory": "2999",
+   "groundTiles": 9,
+   "instanceType": 1,
+   "layout": "terrain",
+   "mapID": 2999,
+   "maxStackDepth": 3,
+   "name": "Ruins of Lordaeron",
+   "nativeUiMaps": [],
+   "present": true,
+   "reason": "mixed-ground-and-wmo-minimaps",
+   "wdtFileDataID": 7255103,
+   "wmoRoots": [
+    106732,
+    106735,
+    106747,
+    106787,
+    106793,
+    106800,
+    107175,
+    114612
+   ],
+   "wmoTiles": 241
+  },
+  {
+   "classification": "C",
+   "directory": "WailingCaverns",
+   "groundTiles": 0,
+   "instanceType": 1,
+   "layout": "global-wmo",
+   "mapID": 43,
+   "maxStackDepth": 1,
+   "name": "Wailing Caverns",
+   "nativeUiMaps": [],
+   "present": true,
+   "reason": "wmo-minimap",
+   "wdtFileDataID": 791429,
+   "wmoRoots": [
+    7952328
+   ],
+   "wmoTiles": 50
+  },
+  {
+   "classification": "D",
+   "directory": "DeadminesInstance",
+   "groundTiles": 36,
+   "instanceType": 1,
+   "layout": "terrain",
+   "mapID": 36,
+   "maxStackDepth": 1,
+   "name": "Deadmines",
+   "nativeUiMaps": [],
+   "present": true,
+   "reason": "mixed-ground-and-wmo-minimaps",
+   "wdtFileDataID": 780605,
+   "wmoRoots": [
+    108483,
+    108538
+   ],
+   "wmoTiles": 33
+  },
+  {
+   "classification": "D",
+   "directory": "Shadowfang",
+   "groundTiles": 25,
+   "instanceType": 1,
+   "layout": "terrain",
+   "mapID": 33,
+   "maxStackDepth": 5,
+   "name": "Shadowfang Keep",
+   "nativeUiMaps": [],
+   "present": true,
+   "reason": "mixed-ground-and-wmo-minimaps",
+   "wdtFileDataID": 790796,
+   "wmoRoots": [
+    106732,
+    106735,
+    106740,
+    106747,
+    106787,
+    106793,
+    106800,
+    106803,
+    109971,
+    110650
+   ],
+   "wmoTiles": 103
+  },
+  {
+   "classification": "C",
+   "directory": "StormwindJail",
+   "groundTiles": 0,
+   "instanceType": 1,
+   "layout": "global-wmo",
+   "mapID": 34,
+   "maxStackDepth": 1,
+   "name": "Stormwind Stockade",
+   "nativeUiMaps": [],
+   "present": true,
+   "reason": "wmo-minimap",
+   "wdtFileDataID": 791060,
+   "wmoRoots": [
+    108631
+   ],
+   "wmoTiles": 26
+  },
+  {
+   "classification": "D",
+   "directory": "Blackfathom",
+   "groundTiles": 0,
+   "instanceType": 1,
+   "layout": "global-wmo",
+   "mapID": 48,
+   "maxStackDepth": 2,
+   "name": "Blackfathom Deeps",
+   "nativeUiMaps": [],
+   "present": true,
+   "reason": "wmo-multi-floor",
+   "wdtFileDataID": 780169,
+   "wmoRoots": [
+    109197
+   ],
+   "wmoTiles": 39
+  },
+  {
+   "classification": "D",
+   "directory": "GnomeragonInstance",
+   "groundTiles": 0,
+   "instanceType": 1,
+   "layout": "global-wmo",
+   "mapID": 90,
+   "maxStackDepth": 3,
+   "name": "Gnomeregan",
+   "nativeUiMaps": [],
+   "present": true,
+   "reason": "wmo-multi-floor",
+   "wdtFileDataID": 782773,
+   "wmoRoots": [
+    109621
+   ],
+   "wmoTiles": 94
+  },
+  {
+   "classification": "D",
+   "directory": "RazorfenKraulInstance",
+   "groundTiles": 6,
+   "instanceType": 1,
+   "layout": "terrain",
+   "mapID": 47,
+   "maxStackDepth": 1,
+   "name": "Razorfen Kraul",
+   "nativeUiMaps": [],
+   "present": true,
+   "reason": "mixed-ground-and-wmo-minimaps",
+   "wdtFileDataID": 790640,
+   "wmoRoots": [
+    109523
+   ],
+   "wmoTiles": 79
+  },
+  {
+   "classification": "D",
+   "directory": "MonasteryInstances",
+   "groundTiles": 36,
+   "instanceType": 1,
+   "layout": "terrain",
+   "mapID": 189,
+   "maxStackDepth": 2,
+   "name": "Scarlet Monastery",
+   "nativeUiMaps": [],
+   "present": true,
+   "reason": "mixed-ground-and-wmo-minimaps",
+   "wdtFileDataID": 788662,
+   "wmoRoots": [
+    7958650,
+    7958652,
+    7958653,
+    7958654
+   ],
+   "wmoTiles": 114
+  },
+  {
+   "classification": "D",
+   "directory": "RazorfenDowns",
+   "groundTiles": 24,
+   "instanceType": 1,
+   "layout": "terrain",
+   "mapID": 129,
+   "maxStackDepth": 1,
+   "name": "Razorfen Downs",
+   "nativeUiMaps": [],
+   "present": true,
+   "reason": "mixed-ground-and-wmo-minimaps",
+   "wdtFileDataID": 790517,
+   "wmoRoots": [
+    109503
+   ],
+   "wmoTiles": 50
+  },
+  {
+   "classification": "D",
+   "directory": "Uldaman",
+   "groundTiles": 0,
+   "instanceType": 1,
+   "layout": "global-wmo",
+   "mapID": 70,
+   "maxStackDepth": 2,
+   "name": "Uldaman",
+   "nativeUiMaps": [],
+   "present": true,
+   "reason": "wmo-multi-floor",
+   "wdtFileDataID": 791372,
+   "wmoRoots": [
+    109782
+   ],
+   "wmoTiles": 50
+  },
+  {
+   "classification": "D",
+   "directory": "2998",
+   "groundTiles": 39,
+   "instanceType": 1,
+   "layout": "terrain",
+   "mapID": 2998,
+   "maxStackDepth": 2,
+   "name": "Excavation Site: Wetlands",
+   "nativeUiMaps": [],
+   "present": true,
+   "reason": "mixed-ground-and-wmo-minimaps",
+   "wdtFileDataID": 7252920,
+   "wmoRoots": [
+    110497,
+    110602,
+    110707,
+    110729,
+    111194,
+    111202,
+    113869,
+    113878,
+    113922,
+    113947,
+    113990,
+    114099
+   ],
+   "wmoTiles": 49
+  }
+ ],
+ "provenance": {
+  "bogusVersionRejected": true,
+  "buildKeyMatchesProvider": true,
+  "installedBuild": "1.60.1.70245",
+  "installedBuildKey": "0bf141260c698dfc9cb3b5b7947b78c3",
+  "providerBuildConfig": "0bf141260c698dfc9cb3b5b7947b78c3",
+  "providerLatest": "1.60.1.70245",
+  "requestedBuild": "1.60.1.70245"
+ }
+}

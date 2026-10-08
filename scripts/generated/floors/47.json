@@ -1,0 +1,63 @@
+{
+ "coveragePercent": 100.0,
+ "directCoveragePercent": 96.0,
+ "directlyMatched": 24,
+ "floors": [
+  {
+   "floor": 1,
+   "inferredGroups": [
+    19
+   ],
+   "matchedGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    17,
+    18,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+   ],
+   "matchedInForever": 24,
+   "meanZ": -5.08,
+   "name": "Razorfen Kraul",
+   "retailMemberCount": 25,
+   "retailRegion": [
+    1858.68,
+    1322.47,
+    -10000.0,
+    2349.64,
+    2058.92,
+    1000000.0
+   ],
+   "uiMapID": 301,
+   "zMax": 112.48,
+   "zMin": -55.48
+  }
+ ],
+ "foreverBuild": "1.60.1.70245",
+ "mapID": 47,
+ "multiFloorGroups": [],
+ "name": "Razorfen Kraul",
+ "retailBuild": "12.1.0.69933",
+ "status": "retail-uimap-assignment",
+ "tiledGroups": 25,
+ "unassigned": [],
+ "wmoRoot": 109523
+}

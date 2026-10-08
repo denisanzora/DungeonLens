@@ -1,0 +1,461 @@
+{
+ "build": "1.60.1.70245",
+ "classification": "C",
+ "classificationReason": "wmo-minimap",
+ "directory": "OrgrimmarInstance",
+ "ground": null,
+ "instanceID": 389,
+ "instanceType": 1,
+ "layout": "global-wmo",
+ "mapID": 389,
+ "mapType": 2,
+ "maxPlayers": 10,
+ "name": "Ragefire Chasm",
+ "nativeDungeonUiMaps": [],
+ "uiMapAssignments": [],
+ "wdt": {
+  "adtTileCount": 0,
+  "chunks": [
+   "MVER",
+   "MPHD",
+   "MAIN",
+   "MAID",
+   "MODF"
+  ],
+  "globalWMO": {
+   "fileDataID": 109483,
+   "isFileDataID": true,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "mphdFlags": 577,
+  "usesGlobalWMO": true
+ },
+ "wdtFileDataID": 789981,
+ "wmos": [
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 59.433555603027344,
+    "zMidpoints": [
+     -28.86,
+     -14.27,
+     -6.34,
+     -3.96,
+     -3.3,
+     4.75,
+     22.38,
+     23.03,
+     23.25,
+     29.85,
+     33.14,
+     43.01
+    ],
+    "zMin": -66.19143676757812
+   },
+   "groupCount": 12,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 109484,
+     "index": 0,
+     "maximum": [
+      131.3125762939453,
+      64.364501953125,
+      15.422064781188965
+     ],
+     "minimum": [
+      66.59652709960938,
+      4.691049098968506,
+      -43.970794677734375
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 213056,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_000_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 17670
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109485,
+     "index": 1,
+     "maximum": [
+      317.36114501953125,
+      108.50059509277344,
+      8.461996078491211
+     ],
+     "minimum": [
+      131.2570343017578,
+      -49.16991424560547,
+      -66.19143676757812
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 213057,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_001_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 213058,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_001_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 213059,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_001_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 213060,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_001_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 17671
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109486,
+     "index": 2,
+     "maximum": [
+      166.05641174316406,
+      7.274646282196045,
+      17.7731990814209
+     ],
+     "minimum": [
+      63.38911056518555,
+      -106.85586547851562,
+      -24.365713119506836
+     ],
+     "name": "Entrance",
+     "tiles": [
+      {
+       "fileDataID": 213061,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_002_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 17672
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109487,
+     "index": 3,
+     "maximum": [
+      416.2859802246094,
+      -126.5262451171875,
+      32.18679428100586
+     ],
+     "minimum": [
+      313.2587585449219,
+      -275.3790588378906,
+      -22.692407608032227
+     ],
+     "name": "BigRoom",
+     "tiles": [
+      {
+       "fileDataID": 213062,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_003_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 213063,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_003_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 17673
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109488,
+     "index": 4,
+     "maximum": [
+      323.4056396484375,
+      -43.01485824584961,
+      27.14217758178711
+     ],
+     "minimum": [
+      161.4136199951172,
+      -266.0632019042969,
+      -39.81938552856445
+     ],
+     "name": "SideRoom",
+     "tiles": [
+      {
+       "fileDataID": 213064,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_004_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 213065,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_004_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 213066,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_004_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 213067,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_004_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 17674
+    },
+    {
+     "flags": 40960,
+     "groupFileDataID": 109489,
+     "index": 5,
+     "maximum": [
+      20.272533416748047,
+      4.349178791046143,
+      58.909786224365234
+     ],
+     "minimum": [
+      -88.76231384277344,
+      -62.86724853515625,
+      -12.85830307006836
+     ],
+     "name": "BossRoom",
+     "tiles": [
+      {
+       "fileDataID": 213068,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_005_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 17675
+    },
+    {
+     "flags": 40960,
+     "groupFileDataID": 109490,
+     "index": 6,
+     "maximum": [
+      -20.569921493530273,
+      -161.1537322998047,
+      59.433555603027344
+     ],
+     "minimum": [
+      -63.03799057006836,
+      -188.24867248535156,
+      26.591840744018555
+     ],
+     "name": "LavaRoom",
+     "tiles": [
+      {
+       "fileDataID": 213069,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_006_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 17676
+    },
+    {
+     "flags": 40960,
+     "groupFileDataID": 109491,
+     "index": 7,
+     "maximum": [
+      -5.730564117431641,
+      -154.52366638183594,
+      44.537696838378906
+     ],
+     "minimum": [
+      -26.122661590576172,
+      -186.25442504882812,
+      21.749601364135742
+     ],
+     "name": "Warlock01",
+     "tiles": [
+      {
+       "fileDataID": 213070,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_007_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 17677
+    },
+    {
+     "flags": 40960,
+     "groupFileDataID": 109492,
+     "index": 8,
+     "maximum": [
+      12.01396656036377,
+      -108.50076293945312,
+      56.48995590209961
+     ],
+     "minimum": [
+      -97.46189880371094,
+      -159.75418090820312,
+      3.2021238803863525
+     ],
+     "name": "Cleft of Shadow",
+     "tiles": [
+      {
+       "fileDataID": 213071,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_008_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 17678
+    },
+    {
+     "flags": 40960,
+     "groupFileDataID": 109493,
+     "index": 9,
+     "maximum": [
+      21.38006019592285,
+      -55.48188018798828,
+      57.29317855834961
+     ],
+     "minimum": [
+      -102.9556655883789,
+      -83.68533325195312,
+      -10.798360824584961
+     ],
+     "name": "AssToWar01",
+     "tiles": [
+      {
+       "fileDataID": 213072,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_009_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 17679
+    },
+    {
+     "flags": 40960,
+     "groupFileDataID": 109494,
+     "index": 10,
+     "maximum": [
+      16.067955017089844,
+      -82.64429473876953,
+      52.620765686035156
+     ],
+     "minimum": [
+      -99.32574462890625,
+      -116.60514831542969,
+      -7.869863510131836
+     ],
+     "name": "AssToWar02",
+     "tiles": [
+      {
+       "fileDataID": 213073,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_010_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 17680
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109495,
+     "index": 11,
+     "maximum": [
+      67.56114196777344,
+      78.93363952636719,
+      17.044885635375977
+     ],
+     "minimum": [
+      -16.71394920349121,
+      -7.885947227478027,
+      -24.95615577697754
+     ],
+     "name": "Cleft of Shadow",
+     "tiles": [
+      {
+       "fileDataID": 213074,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_011_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 17681
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon_",
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 12,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 12,
+    "tiledGroups": 12
+   },
+   "rootFileDataID": 109483,
+   "rootMD5": "18c9698976d1d0935ceb10f1f42674dd",
+   "rootPath": "world/wmo/dungeon/kl_orgrimmarlavadungeon/lavadungeon.wmo"
+  }
+ ]
+}

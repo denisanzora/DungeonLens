@@ -1,0 +1,248 @@
+{
+ "bosses": [
+  {
+   "boss": "Interrogator Vishas",
+   "encounterID": 444,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 7682,
+     "name": "Torturing Poker",
+     "quality": "rare",
+     "slot": "one-hand, dagger",
+     "sourcePercent": "5%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 7683,
+     "name": "Bloody Brass Knuckles",
+     "quality": "rare",
+     "slot": "one-hand, fist weapon",
+     "sourcePercent": "54%"
+    },
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 274290,
+     "name": "Painwalker Buckler",
+     "quality": "rare",
+     "slot": "off hand, shield",
+     "sourcePercent": null
+    }
+   ],
+   "page": "scarlet-monastery-graveyard",
+   "sourceBoss": "Interrogator Vishas",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Bloodmage Thalnos",
+   "encounterID": 2779,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 7685,
+     "name": "Orb of the Forgotten Seer",
+     "quality": "rare",
+     "slot": "held in off-hand",
+     "sourcePercent": "49%"
+    },
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 274291,
+     "name": "Polished Skullcap",
+     "quality": "rare",
+     "slot": "head, mail",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 7684,
+     "name": "Bloodmage Mantle",
+     "quality": "rare",
+     "slot": "shoulder, cloth",
+     "sourcePercent": "47%"
+    }
+   ],
+   "page": "scarlet-monastery-graveyard",
+   "sourceBoss": "Bloodmage Thalnos",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Houndmaster Loksey",
+   "encounterID": 446,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 7710,
+     "name": "Loksey's Training Stick",
+     "quality": "rare",
+     "slot": "two-hand, staff",
+     "sourcePercent": "14%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 7756,
+     "name": "Dog Training Gloves",
+     "quality": "rare",
+     "slot": "hands, leather",
+     "sourcePercent": "56%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 3456,
+     "name": "Dog Whistle",
+     "quality": "rare",
+     "slot": "trinket",
+     "sourcePercent": "24%"
+    }
+   ],
+   "page": "scarlet-monastery-library",
+   "sourceBoss": "Houndmaster Loksey",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Arcanist Doan",
+   "encounterID": 447,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 7711,
+     "name": "Robe of Doan",
+     "quality": "uncommon",
+     "slot": "chest, cloth",
+     "sourcePercent": "46%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 7712,
+     "name": "Mantle of Doan",
+     "quality": "uncommon",
+     "slot": "shoulder, cloth",
+     "sourcePercent": "47%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 7713,
+     "name": "Illusionary Rod",
+     "quality": "rare",
+     "slot": "two-hand, staff",
+     "sourcePercent": "46%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 7714,
+     "name": "Hypnotic Blade",
+     "quality": "rare",
+     "slot": "main hand, dagger",
+     "sourcePercent": "47%"
+    }
+   ],
+   "page": "scarlet-monastery-library",
+   "sourceBoss": "Arcanist Doan",
+   "sourceItemCount": 5
+  },
+  {
+   "boss": "Herod",
+   "encounterID": 448,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 7717,
+     "name": "Ravager",
+     "quality": "rare",
+     "slot": "two-hand, axe",
+     "sourcePercent": "13%"
+    }
+   ],
+   "page": "scarlet-monastery-armory",
+   "sourceBoss": "Herod",
+   "sourceItemCount": 1
+  },
+  {
+   "boss": "High Inquisitor Fairbanks",
+   "encounterID": 449,
+   "items": [],
+   "page": "scarlet-monastery-cathedral",
+   "sourceBoss": "High Inquisitor Fairbanks",
+   "sourceItemCount": 0
+  },
+  {
+   "boss": "High Inquisitor Whitemane",
+   "encounterID": 450,
+   "items": [],
+   "page": "scarlet-monastery-cathedral",
+   "sourceBoss": "High Inquisitor Whitemane",
+   "sourceItemCount": 0
+  }
+ ],
+ "bossesWithoutSourceEntry": [],
+ "map": 189,
+ "source": "wowtbc.gg/warcraftforever",
+ "unmatchedSourceBosses": [
+  {
+   "boss": "Ironspine",
+   "items": 3,
+   "page": "scarlet-monastery-graveyard"
+  },
+  {
+   "boss": "Azshir the Sleepless",
+   "items": 3,
+   "page": "scarlet-monastery-graveyard"
+  },
+  {
+   "boss": "Fallen Champion",
+   "items": 3,
+   "page": "scarlet-monastery-graveyard"
+  },
+  {
+   "boss": "Scorn",
+   "items": 1,
+   "page": "scarlet-monastery-graveyard"
+  },
+  {
+   "boss": "Trash",
+   "items": 24,
+   "page": "scarlet-monastery-graveyard"
+  },
+  {
+   "boss": "Trash",
+   "items": 24,
+   "page": "scarlet-monastery-library"
+  },
+  {
+   "boss": "Trash",
+   "items": 24,
+   "page": "scarlet-monastery-armory"
+  },
+  {
+   "boss": "Scarlet Commander Mograine",
+   "items": 1,
+   "page": "scarlet-monastery-cathedral"
+  },
+  {
+   "boss": "Trash",
+   "items": 24,
+   "page": "scarlet-monastery-cathedral"
+  }
+ ],
+ "unresolvedItems": [
+  {
+   "boss": "Arcanist Doan",
+   "name": "Spellsever Crossbow",
+   "reason": "no ID in client tables"
+  }
+ ]
+}

@@ -1,0 +1,929 @@
+{
+ "build": "1.60.1.70245",
+ "classification": "C",
+ "classificationReason": "wmo-minimap",
+ "directory": "WailingCaverns",
+ "ground": null,
+ "instanceID": 43,
+ "instanceType": 1,
+ "layout": "global-wmo",
+ "mapID": 43,
+ "mapType": 2,
+ "maxPlayers": 10,
+ "name": "Wailing Caverns",
+ "nativeDungeonUiMaps": [],
+ "uiMapAssignments": [],
+ "wdt": {
+  "adtTileCount": 0,
+  "chunks": [
+   "MVER",
+   "MPHD",
+   "MAIN",
+   "MAID",
+   "MODF"
+  ],
+  "globalWMO": {
+   "fileDataID": 7952328,
+   "isFileDataID": true,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "mphdFlags": 577,
+  "usesGlobalWMO": true
+ },
+ "wdtFileDataID": 791429,
+ "wmos": [
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 56.49671173095703,
+    "zMidpoints": [
+     -86.4,
+     -85.05,
+     -83.63,
+     -76.5,
+     -70.05,
+     -68.02,
+     -68.0,
+     -66.06,
+     -66.01,
+     -63.1,
+     -59.52,
+     -58.78,
+     -58.15,
+     -57.98,
+     -56.91,
+     -56.87,
+     -55.39,
+     -54.63,
+     -52.74,
+     -39.46,
+     -30.42,
+     -29.79,
+     -14.67
+    ],
+    "zMin": -119.18830108642578
+   },
+   "groupCount": 23,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953467,
+     "index": 0,
+     "maximum": [
+      77.0125503540039,
+      -236.9894256591797,
+      -26.986080169677734
+     ],
+     "minimum": [
+      -71.39302062988281,
+      -331.39068603515625,
+      -109.04936218261719
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 8111274,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_000_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111279,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_000_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 83981
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953468,
+     "index": 1,
+     "maximum": [
+      96.83457946777344,
+      -27.13969612121582,
+      -20.90947723388672
+     ],
+     "minimum": [
+      -41.39716339111328,
+      -158.92376708984375,
+      -119.18830108642578
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 8111283,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_001_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111290,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_001_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 8111286,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_001_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111294,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_001_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 83982
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953469,
+     "index": 2,
+     "maximum": [
+      169.65057373046875,
+      -360.0364074707031,
+      -11.02829360961914
+     ],
+     "minimum": [
+      -80.5040283203125,
+      -538.3789672851562,
+      -108.01744079589844
+     ],
+     "name": "bridge_right",
+     "tiles": [
+      {
+       "fileDataID": 8111298,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_002_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111305,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_002_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 8111301,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_002_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111310,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_002_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 83983
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953470,
+     "index": 3,
+     "maximum": [
+      367.4625549316406,
+      87.77273559570312,
+      46.17551040649414
+     ],
+     "minimum": [
+      25.33413314819336,
+      -100.47605895996094,
+      -107.01189422607422
+     ],
+     "name": "Screaming Gully",
+     "tiles": [
+      {
+       "fileDataID": 8111314,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_003_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111328,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_003_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 8111318,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_003_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111332,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_003_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      },
+      {
+       "fileDataID": 8111323,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_003_02_00.blp",
+       "width": 256,
+       "x": 2,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111336,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_003_02_01.blp",
+       "width": 256,
+       "x": 2,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 83984
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953471,
+     "index": 4,
+     "maximum": [
+      -60.49061965942383,
+      -151.55027770996094,
+      -61.04484176635742
+     ],
+     "minimum": [
+      -187.50392150878906,
+      -305.1559753417969,
+      -109.04936218261719
+     ],
+     "name": "bridge_left",
+     "tiles": [
+      {
+       "fileDataID": 8111342,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_004_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111345,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_004_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 83985
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953472,
+     "index": 5,
+     "maximum": [
+      173.19776916503906,
+      -113.99994659423828,
+      -53.8436393737793
+     ],
+     "minimum": [
+      97.74883270263672,
+      -146.81239318847656,
+      -82.16112518310547
+     ],
+     "name": "Screaming Gully",
+     "tiles": [
+      {
+       "fileDataID": 8111350,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_005_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 83986
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953473,
+     "index": 6,
+     "maximum": [
+      128.9569091796875,
+      -146.75685119628906,
+      -58.35016632080078
+     ],
+     "minimum": [
+      65.49764251708984,
+      -261.1318054199219,
+      -94.64430236816406
+     ],
+     "name": "32324",
+     "tiles": [
+      {
+       "fileDataID": 8111356,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_006_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 83987
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953474,
+     "index": 7,
+     "maximum": [
+      65.5531997680664,
+      -158.86822509765625,
+      -19.819660186767578
+     ],
+     "minimum": [
+      -65.6413803100586,
+      -237.0449676513672,
+      -106.38126373291016
+     ],
+     "name": "Pit of Fangs",
+     "tiles": [
+      {
+       "fileDataID": 8111360,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_007_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111365,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_007_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 83988
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953475,
+     "index": 8,
+     "maximum": [
+      82.79854583740234,
+      -301.6784362792969,
+      -65.84061431884766
+     ],
+     "minimum": [
+      55.74775314331055,
+      -369.063720703125,
+      -106.96517181396484
+     ],
+     "name": "fafaf",
+     "tiles": [
+      {
+       "fileDataID": 8111370,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_008_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 83989
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953476,
+     "index": 9,
+     "maximum": [
+      389.0978088378906,
+      176.92860412597656,
+      -12.387763023376465
+     ],
+     "minimum": [
+      280.1401062011719,
+      26.057336807250977,
+      -66.5406723022461
+     ],
+     "name": "Crag of the Everliving",
+     "tiles": [
+      {
+       "fileDataID": 8111374,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_009_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111378,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_009_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 83990
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953477,
+     "index": 10,
+     "maximum": [
+      380.4528503417969,
+      -81.50802612304688,
+      26.248817443847656
+     ],
+     "minimum": [
+      270.612548828125,
+      -335.66864013671875,
+      -85.83203125
+     ],
+     "name": "final",
+     "tiles": [
+      {
+       "fileDataID": 8111382,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_010_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111387,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_010_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 83991
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953478,
+     "index": 11,
+     "maximum": [
+      270.6680908203125,
+      -87.28905487060547,
+      56.49671173095703
+     ],
+     "minimum": [
+      161.0592803955078,
+      -337.2889404296875,
+      -85.83203125
+     ],
+     "name": "Dreamer's Rock",
+     "tiles": [
+      {
+       "fileDataID": 8111391,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_011_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111396,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_011_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 83992
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953479,
+     "index": 12,
+     "maximum": [
+      147.00851440429688,
+      -56.51600646972656,
+      -60.54527282714844
+     ],
+     "minimum": [
+      96.77902221679688,
+      -85.22213745117188,
+      -106.7092056274414
+     ],
+     "name": "afterbigroom",
+     "tiles": [
+      {
+       "fileDataID": 8111399,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_012_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 83993
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953480,
+     "index": 13,
+     "maximum": [
+      317.5474548339844,
+      267.6125793457031,
+      -40.04615783691406
+     ],
+     "minimum": [
+      221.7943878173828,
+      138.85386657714844,
+      -65.42620849609375
+     ],
+     "name": "slanted_hall",
+     "tiles": [
+      {
+       "fileDataID": 8111404,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_013_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111408,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_013_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 83994
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953481,
+     "index": 14,
+     "maximum": [
+      189.99732971191406,
+      212.91078186035156,
+      -29.527589797973633
+     ],
+     "minimum": [
+      45.766807556152344,
+      50.39824676513672,
+      -79.72530364990234
+     ],
+     "name": "bridge_middle",
+     "tiles": [
+      {
+       "fileDataID": 8111412,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_014_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111420,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_014_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 8111416,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_014_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111425,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_014_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 83995
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953482,
+     "index": 15,
+     "maximum": [
+      245.6201171875,
+      254.34654235839844,
+      -42.49625778198242
+     ],
+     "minimum": [
+      140.41883850097656,
+      176.81324768066406,
+      -73.47227478027344
+     ],
+     "name": "Screaming Gully",
+     "tiles": [
+      {
+       "fileDataID": 8111428,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_015_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 83996
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953483,
+     "index": 16,
+     "maximum": [
+      104.73727416992188,
+      108.7752685546875,
+      -45.98414993286133
+     ],
+     "minimum": [
+      -12.053643226623535,
+      14.60521125793457,
+      -71.58360290527344
+     ],
+     "name": "transition",
+     "tiles": [
+      {
+       "fileDataID": 8111432,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_016_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 83997
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953484,
+     "index": 17,
+     "maximum": [
+      60.536983489990234,
+      144.00048828125,
+      -55.69265365600586
+     ],
+     "minimum": [
+      -4.916680335998535,
+      102.63307189941406,
+      -76.33271789550781
+     ],
+     "name": "Pit of Fangs",
+     "tiles": [
+      {
+       "fileDataID": 8111436,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_017_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 83998
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953485,
+     "index": 18,
+     "maximum": [
+      86.20469665527344,
+      281.6437072753906,
+      -47.01899719238281
+     ],
+     "minimum": [
+      -53.4538459777832,
+      127.20149993896484,
+      -85.0976333618164
+     ],
+     "name": "stomach",
+     "tiles": [
+      {
+       "fileDataID": 8111441,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_018_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111451,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_018_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 8111446,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_018_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111456,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_018_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 83999
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953486,
+     "index": 19,
+     "maximum": [
+      215.73866271972656,
+      369.7778625488281,
+      -42.49625778198242
+     ],
+     "minimum": [
+      86.16390991210938,
+      236.38485717773438,
+      -71.2522964477539
+     ],
+     "name": "Winding Chasm",
+     "tiles": [
+      {
+       "fileDataID": 8111460,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_019_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111470,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_019_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 8111464,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_019_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111474,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_019_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 84000
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953487,
+     "index": 20,
+     "maximum": [
+      153.0848846435547,
+      264.0437927246094,
+      -45.357547760009766
+     ],
+     "minimum": [
+      107.31796264648438,
+      213.22586059570312,
+      -70.9455795288086
+     ],
+     "name": "big1",
+     "tiles": [
+      {
+       "fileDataID": 8111478,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_020_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84001
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953488,
+     "index": 21,
+     "maximum": [
+      303.9173278808594,
+      348.3592224121094,
+      -42.39933776855469
+     ],
+     "minimum": [
+      182.08270263671875,
+      228.02296447753906,
+      -71.42450714111328
+     ],
+     "name": "big4",
+     "tiles": [
+      {
+       "fileDataID": 8111481,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_021_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84002
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7953489,
+     "index": 22,
+     "maximum": [
+      128.57908630371094,
+      286.8619079589844,
+      -41.24107360839844
+     ],
+     "minimum": [
+      9.523932456970215,
+      176.76797485351562,
+      -69.54701232910156
+     ],
+     "name": "Sandy",
+     "tiles": [
+      {
+       "fileDataID": 8111485,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21066_022_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84003
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/autogen-names/unknown/21066_",
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 23,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 23,
+    "tiledGroups": 23
+   },
+   "rootFileDataID": 7952328,
+   "rootMD5": "7e5f73a5a252f27085b7aff0edf8551f",
+   "rootPath": "world/wmo/autogen-names/unknown/21066.wmo"
+  }
+ ]
+}

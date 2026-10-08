@@ -1,0 +1,203 @@
+{
+ "bosses": [
+  {
+   "boss": "Witherfang",
+   "encounterID": 3353,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 271201,
+     "name": "Atrophic Girdle",
+     "quality": "rare",
+     "slot": "waist, mail",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 271202,
+     "name": "Witherbite Bracers",
+     "quality": "rare",
+     "slot": "wrist, leather",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 271203,
+     "name": "Segmented Spider Leg",
+     "quality": "rare",
+     "slot": "two-hand, staff",
+     "sourcePercent": null
+    }
+   ],
+   "page": "ruins-of-lordaeron",
+   "sourceBoss": "Witherfang",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "The Abandoned",
+   "encounterID": 3357,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 271207,
+     "name": "Rotmender's Leggings",
+     "quality": "rare",
+     "slot": "legs, cloth",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 271208,
+     "name": "Grip of Fear",
+     "quality": "rare",
+     "slot": "hands, mail",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 271216,
+     "name": "Scepter of the Abandoned",
+     "quality": "rare",
+     "slot": "main hand, mace",
+     "sourcePercent": null
+    }
+   ],
+   "page": "ruins-of-lordaeron",
+   "sourceBoss": "The Abandoned",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Bjork",
+   "encounterID": 3412,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 271209,
+     "name": "Bonerust Leggings",
+     "quality": "rare",
+     "slot": "legs, mail",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 271210,
+     "name": "Tuskwrap Belt",
+     "quality": "rare",
+     "slot": "waist, cloth",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 271217,
+     "name": "Corpse Chopper",
+     "quality": "rare",
+     "slot": "two-hand, axe",
+     "sourcePercent": null
+    }
+   ],
+   "page": "ruins-of-lordaeron",
+   "sourceBoss": "Bjork",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Rath'mael",
+   "encounterID": 3354,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 271213,
+     "name": "Mirror of Rath'mael",
+     "quality": "rare",
+     "slot": "off hand, shield",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 271214,
+     "name": "Rotmender's Treads",
+     "quality": "rare",
+     "slot": "feet, cloth",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 271215,
+     "name": "Coldspire Staff",
+     "quality": "rare",
+     "slot": "two-hand, staff",
+     "sourcePercent": null
+    }
+   ],
+   "page": "ruins-of-lordaeron",
+   "sourceBoss": "Rath'mael",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Viktor the Vile",
+   "encounterID": 3411,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 271211,
+     "name": "Vilewalkers",
+     "quality": "rare",
+     "slot": "feet, mail",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 271212,
+     "name": "Bloodied Chestwraps",
+     "quality": "rare",
+     "slot": "chest, leather",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 271218,
+     "name": "Vileblood Scimitar",
+     "quality": "rare",
+     "slot": "one-hand, sword",
+     "sourcePercent": null
+    }
+   ],
+   "page": "ruins-of-lordaeron",
+   "sourceBoss": "Viktor the Vile",
+   "sourceItemCount": 3
+  }
+ ],
+ "bossesWithoutSourceEntry": [
+  "The Butcher",
+  "Lordaeron Captain"
+ ],
+ "map": 2999,
+ "source": "wowtbc.gg/warcraftforever",
+ "unmatchedSourceBosses": [
+  {
+   "boss": "The Baron",
+   "items": 3,
+   "page": "ruins-of-lordaeron"
+  },
+  {
+   "boss": "Deathsworn Captain",
+   "items": 2,
+   "page": "ruins-of-lordaeron"
+  }
+ ],
+ "unresolvedItems": []
+}

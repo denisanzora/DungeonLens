@@ -1,0 +1,91 @@
+{
+ "coveragePercent": 88.9,
+ "directCoveragePercent": 77.8,
+ "directlyMatched": 21,
+ "floors": [
+  {
+   "floor": 1,
+   "inferredGroups": [
+    11,
+    39
+   ],
+   "matchedGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    18,
+    19,
+    20,
+    21,
+    35,
+    41
+   ],
+   "matchedInForever": 18,
+   "meanZ": 30.62,
+   "name": "The Deadmines",
+   "retailMemberCount": 18,
+   "retailRegion": [
+    -337.509,
+    -796.622,
+    -10000.0,
+    35.333,
+    -237.358,
+    1000000.0
+   ],
+   "uiMapID": 291,
+   "zMax": 57.55,
+   "zMin": -10.61
+  },
+  {
+   "floor": 2,
+   "inferredGroups": [
+    15
+   ],
+   "matchedGroups": [
+    13,
+    14,
+    16,
+    21
+   ],
+   "matchedInForever": 4,
+   "meanZ": -3.54,
+   "name": "The Deadmines",
+   "retailMemberCount": 11,
+   "retailRegion": [
+    -20000.0,
+    -20000.0,
+    -1000000.0,
+    20000.0,
+    20000.0,
+    1000000.0
+   ],
+   "uiMapID": 292,
+   "zMax": 57.55,
+   "zMin": -23.49
+  }
+ ],
+ "foreverBuild": "1.60.1.70245",
+ "mapID": 36,
+ "multiFloorGroups": [
+  21
+ ],
+ "name": "Deadmines",
+ "retailBuild": "12.1.0.69933",
+ "status": "retail-uimap-assignment",
+ "tiledGroups": 27,
+ "unassigned": [
+  36,
+  37,
+  38
+ ],
+ "wmoRoot": 108483
+}

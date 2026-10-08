@@ -1,0 +1,320 @@
+{
+ "bosses": [
+  {
+   "agreementYards": 165.2,
+   "confidence": "low",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2773
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2773,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Roogug",
+   "notes": [
+    "spawn and retail pin disagree"
+   ],
+   "onContent": true,
+   "order": 1,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      6168
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      2142.99,
+      1581.57,
+      80.38
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.8723,
+      0.4108
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 301,
+     "world": [
+      2147.94,
+      1416.49
+     ]
+    }
+   ],
+   "status": "approximate",
+   "worldPosition": [
+    2142.99,
+    1581.57,
+    80.38
+   ],
+   "x": 0.3801,
+   "y": 0.7089
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2774
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2774,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Aggem Thorncurse",
+   "notes": [],
+   "onContent": true,
+   "order": 2,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      4424
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      2082.31,
+      1463.54,
+      73.18
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    2082.31,
+    1463.54,
+    73.18
+   ],
+   "x": 0.2376,
+   "y": 0.7492
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2775
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2775,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Death Speaker Jargba",
+   "notes": [],
+   "onContent": true,
+   "order": 3,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      4428
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      2146.43,
+      1411.24,
+      73.95
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    2146.43,
+    1411.24,
+    73.95
+   ],
+   "x": 0.2437,
+   "y": 0.8414
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2776
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2776,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Overlord Ramtusk",
+   "notes": [],
+   "onContent": true,
+   "order": 4,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      4420
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      2203.13,
+      1640.05,
+      85.9
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    2203.13,
+    1640.05,
+    85.9
+   ],
+   "x": 0.4736,
+   "y": 0.7135
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2777
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2777,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Agathelos the Raging",
+   "notes": [],
+   "onContent": true,
+   "order": 5,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      4422
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      1994.4,
+      1976.44,
+      63.29
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    1994.4,
+    1976.44,
+    63.29
+   ],
+   "x": 0.5893,
+   "y": 0.2871
+  },
+  {
+   "agreementYards": 33.5,
+   "confidence": "high",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2778
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2778,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Charlga Razorflank",
+   "notes": [],
+   "onContent": true,
+   "order": 6,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      4421
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      2190.4,
+      1864.29,
+      79.14
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.2196,
+      0.3117
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 301,
+     "world": [
+      2196.62,
+      1897.2
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    2190.4,
+    1864.29,
+    79.14
+   ],
+   "x": 0.6469,
+   "y": 0.5324
+  }
+ ],
+ "counts": {
+  "approximate": 1,
+  "verified-source-registration": 5
+ },
+ "floors": [
+  {
+   "floor": 1,
+   "groupCount": 25,
+   "source": "single-floor",
+   "uiMapID": 301,
+   "wmoRoot": 109523
+  }
+ ],
+ "foreverBuild": "1.60.1.70245",
+ "frame": {
+  "formula": "local = Rot(180 - yaw) * (world - origin); canvas = (local.x*rho - minX, maxY - local.y*rho)",
+  "origin": [
+   1952.1806000000015,
+   1587.892600000001
+  ],
+  "perFloorFrames": [
+   {
+    "floor": 1,
+    "origin": [
+     1952.1806000000015,
+     1587.892600000001
+    ],
+    "yaw": 227.0
+   }
+  ],
+  "yaw": 227.0
+ },
+ "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+ "layouts": {
+  "1": "wmo:1792x1792:79"
+ },
+ "mapID": 47,
+ "name": "Razorfen Kraul",
+ "notes": [],
+ "retailBuild": "12.1.0.69933"
+}

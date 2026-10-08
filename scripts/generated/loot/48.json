@@ -1,0 +1,269 @@
+{
+ "bosses": [
+  {
+   "boss": "Ghamoo-ra",
+   "encounterID": 2697,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6907,
+     "name": "Tortoise Armor",
+     "quality": "rare",
+     "slot": "chest, mail",
+     "sourcePercent": "37%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6908,
+     "name": "Ghamoo-ra's Bind",
+     "quality": "rare",
+     "slot": "waist, cloth",
+     "sourcePercent": "56%"
+    },
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 273839,
+     "name": "Spiked Shell Band",
+     "quality": "rare",
+     "slot": "finger",
+     "sourcePercent": null
+    }
+   ],
+   "page": "blackfathom-deeps",
+   "sourceBoss": "Ghamoo-ra",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Lady Sarevess",
+   "encounterID": 2699,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 888,
+     "name": "Naga Battle Gloves",
+     "quality": "rare",
+     "slot": "hands, leather",
+     "sourcePercent": "38%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 3078,
+     "name": "Naga Heartpiercer",
+     "quality": "rare",
+     "slot": "ranged, bow",
+     "sourcePercent": "18%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 11121,
+     "name": "Darkwater Talwar",
+     "quality": "rare",
+     "slot": "main hand, sword",
+     "sourcePercent": "38%"
+    }
+   ],
+   "page": "blackfathom-deeps",
+   "sourceBoss": "Lady Sarevess",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Gelihast",
+   "encounterID": 2704,
+   "items": [
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 273840,
+     "name": "Cursed Murloc Eye",
+     "quality": "rare",
+     "slot": "trinket",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6906,
+     "name": "Algae Fists",
+     "quality": "rare",
+     "slot": "hands, mail",
+     "sourcePercent": "44%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6905,
+     "name": "Reef Axe",
+     "quality": "rare",
+     "slot": "two-hand, axe",
+     "sourcePercent": "47%"
+    }
+   ],
+   "page": "blackfathom-deeps",
+   "sourceBoss": "Gelihast",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Twilight Lord Kelris",
+   "encounterID": 2766,
+   "items": [
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 273846,
+     "name": "Twilight Lord Girdle",
+     "quality": "rare",
+     "slot": "waist, mail",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 1155,
+     "name": "Rod of the Sleepwalker",
+     "quality": "rare",
+     "slot": "two-hand, staff",
+     "sourcePercent": "49%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6903,
+     "name": "Gaze Dreamer Pants",
+     "quality": "rare",
+     "slot": "legs, cloth",
+     "sourcePercent": "34%"
+    }
+   ],
+   "page": "blackfathom-deeps",
+   "sourceBoss": "Twilight Lord Kelris",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Old Serra'kis",
+   "encounterID": 2765,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6901,
+     "name": "Glowing Thresher Cape",
+     "quality": "rare",
+     "slot": "back, cloth",
+     "sourcePercent": "40%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6904,
+     "name": "Bite of Serra'kis",
+     "quality": "rare",
+     "slot": "one-hand, dagger",
+     "sourcePercent": "21%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6902,
+     "name": "Bands of Serra'kis",
+     "quality": "rare",
+     "slot": "wrist, leather",
+     "sourcePercent": "32%"
+    }
+   ],
+   "page": "blackfathom-deeps",
+   "sourceBoss": "Old Serra'kis",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Aku'mai",
+   "encounterID": 2767,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6909,
+     "name": "Strike of the Hydra",
+     "quality": "rare",
+     "slot": "two-hand, sword",
+     "sourcePercent": "19%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6911,
+     "name": "Moss Cinch",
+     "quality": "rare",
+     "slot": "waist, leather",
+     "sourcePercent": "38%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6910,
+     "name": "Leech Pants",
+     "quality": "rare",
+     "slot": "legs, cloth",
+     "sourcePercent": "36%"
+    }
+   ],
+   "page": "blackfathom-deeps",
+   "sourceBoss": "Aku'mai",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Lorgus Jett",
+   "encounterID": 2710,
+   "items": [
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 273841,
+     "name": "Twilight Maul",
+     "quality": "rare",
+     "slot": "two-hand, mace",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 273842,
+     "name": "Treacherous Treads",
+     "quality": "rare",
+     "slot": "feet, mail",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 273843,
+     "name": "Fallenroot Longbow",
+     "quality": "rare",
+     "slot": "ranged, bow",
+     "sourcePercent": null
+    }
+   ],
+   "page": "blackfathom-deeps",
+   "sourceBoss": "Lorgus Jett",
+   "sourceItemCount": 3
+  }
+ ],
+ "bossesWithoutSourceEntry": [
+  "Baron Aquanis"
+ ],
+ "map": 48,
+ "source": "wowtbc.gg/warcraftforever",
+ "unmatchedSourceBosses": [
+  {
+   "boss": "Trash",
+   "items": 12,
+   "page": "blackfathom-deeps"
+  }
+ ],
+ "unresolvedItems": []
+}

@@ -1,0 +1,450 @@
+{
+ "bosses": [
+  {
+   "agreementYards": 6.6,
+   "confidence": "high",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2741
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2741,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Rhahk'Zor",
+   "notes": [],
+   "onContent": true,
+   "order": 1,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      644
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -192.91,
+      -448.21,
+      54.43
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.3653,
+      0.6123
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 291,
+     "world": [
+      -192.95,
+      -441.64
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -192.91,
+    -448.21,
+    54.43
+   ],
+   "x": 0.5076,
+   "y": 0.4997
+  },
+  {
+   "confidence": "low",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2742
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2742,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Sneed",
+   "notes": [
+    "single source (retail pin only)"
+   ],
+   "onContent": true,
+   "order": 2,
+   "sources": [
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.502,
+      0.8683
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 291,
+     "world": [
+      -288.39,
+      -518.11
+     ]
+    }
+   ],
+   "status": "approximate",
+   "worldPosition": [
+    -288.39,
+    -518.11,
+    56.06
+   ],
+   "x": 0.3436,
+   "y": 0.2776
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    3676
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 3676,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Miner Johnson",
+   "notes": [],
+   "onContent": true,
+   "order": 3,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      3586
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -152.54,
+      -526.43,
+      51.13
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -152.54,
+    -526.43,
+    51.13
+   ],
+   "x": 0.33,
+   "y": 0.598
+  },
+  {
+   "agreementYards": 11.2,
+   "confidence": "high",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2743
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2743,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Gilnid",
+   "notes": [],
+   "onContent": true,
+   "order": 4,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      1763
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -177.36,
+      -574.46,
+      19.31
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.1248,
+      0.759
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 292,
+     "world": [
+      -187.29,
+      -579.64
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -177.36,
+    -574.46,
+    19.31
+   ],
+   "x": 0.219,
+   "y": 0.5415
+  },
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2744
+   ],
+   "floorSource": "single-floor-map",
+   "id": 2744,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Captain Greenskin",
+   "notes": [
+    "source position lies outside the generated map (that area has no minimap tiles in this build)"
+   ],
+   "onContent": false,
+   "order": 5,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      647
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -59.62,
+      -820.13,
+      41.61
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.6076,
+      0.3748
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 292,
+     "world": [
+      -59.42,
+      -820.7
+     ]
+    }
+   ],
+   "status": "unresolved",
+   "worldPosition": [
+    -59.62,
+    -820.13,
+    41.61
+   ]
+  },
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2745
+   ],
+   "floorSource": "single-floor-map",
+   "id": 2745,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Mr. Smite",
+   "notes": [
+    "source position lies outside the generated map (that area has no minimap tiles in this build)"
+   ],
+   "onContent": false,
+   "order": 6,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      646
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -22.85,
+      -797.28,
+      20.37
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.5518,
+      0.2536
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 292,
+     "world": [
+      -19.08,
+      -792.85
+     ]
+    }
+   ],
+   "status": "unresolved",
+   "worldPosition": [
+    -22.85,
+    -797.28,
+    20.37
+   ]
+  },
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2746
+   ],
+   "floorSource": "single-floor-map",
+   "id": 2746,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Cookie",
+   "notes": [
+    "source position lies outside the generated map (that area has no minimap tiles in this build)"
+   ],
+   "onContent": false,
+   "order": 7,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      645
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -67.58,
+      -853.75,
+      17.07
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.6048,
+      0.4551
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 292,
+     "world": [
+      -86.14,
+      -819.31
+     ]
+    }
+   ],
+   "status": "unresolved",
+   "worldPosition": [
+    -67.58,
+    -853.75,
+    17.07
+   ]
+  },
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2747
+   ],
+   "floorSource": "single-floor-map",
+   "id": 2747,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Edwin VanCleef",
+   "notes": [
+    "source position lies outside the generated map (that area has no minimap tiles in this build)"
+   ],
+   "onContent": false,
+   "order": 8,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      639
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -87.37,
+      -819.89,
+      39.3
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.6076,
+      0.4489
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 292,
+     "world": [
+      -84.09,
+      -820.7
+     ]
+    }
+   ],
+   "status": "unresolved",
+   "worldPosition": [
+    -87.37,
+    -819.89,
+    39.3
+   ]
+  }
+ ],
+ "counts": {
+  "approximate": 1,
+  "unresolved": 4,
+  "verified-source-registration": 3
+ },
+ "floors": [
+  {
+   "floor": 1,
+   "groupCount": 27,
+   "source": "single-floor",
+   "uiMapID": null,
+   "wmoRoot": 108483
+  }
+ ],
+ "foreverBuild": "1.60.1.70245",
+ "frame": {
+  "formula": "local = Rot(180 - yaw) * (world - origin); canvas = (local.x*rho - minX, maxY - local.y*rho)",
+  "origin": [
+   -156.40629999999874,
+   -651.595699999998
+  ],
+  "perFloorFrames": [
+   {
+    "floor": 1,
+    "origin": [
+     -156.40629999999874,
+     -651.595699999998
+    ],
+    "yaw": 269.0
+   }
+  ],
+  "yaw": 269.0
+ },
+ "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+ "layouts": {
+  "1": "wmo:873x849:27"
+ },
+ "mapID": 36,
+ "name": "Deadmines",
+ "notes": [],
+ "retailBuild": "12.1.0.69933"
+}

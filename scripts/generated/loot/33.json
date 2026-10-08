@@ -1,0 +1,306 @@
+{
+ "bosses": [
+  {
+   "boss": "Rethilgore",
+   "encounterID": 2748,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 5254,
+     "name": "Rugged Spaulders",
+     "quality": "rare",
+     "slot": "shoulder, leather",
+     "sourcePercent": "85%"
+    }
+   ],
+   "page": "shadowfang-keep",
+   "sourceBoss": "Rethilgore",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Razorclaw the Butcher",
+   "encounterID": 2749,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 1292,
+     "name": "Butcher's Cleaver",
+     "quality": "rare",
+     "slot": "one-hand, axe",
+     "sourcePercent": "8%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6226,
+     "name": "Bloody Apron",
+     "quality": "rare",
+     "slot": "chest, cloth",
+     "sourcePercent": "42%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6633,
+     "name": "Butcher's Slicer",
+     "quality": "rare",
+     "slot": "one-hand, sword",
+     "sourcePercent": "39%"
+    }
+   ],
+   "page": "shadowfang-keep",
+   "sourceBoss": "Razorclaw the Butcher",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Baron Silverlaine",
+   "encounterID": 2750,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6321,
+     "name": "Silverlaine's Family Seal",
+     "quality": "rare",
+     "slot": "finger",
+     "sourcePercent": "19%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6323,
+     "name": "Baron's Scepter",
+     "quality": "rare",
+     "slot": "main hand, mace",
+     "sourcePercent": "38%"
+    },
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 273637,
+     "name": "Blade of Silverlaine",
+     "quality": "rare",
+     "slot": "main hand, sword",
+     "sourcePercent": null
+    }
+   ],
+   "page": "shadowfang-keep",
+   "sourceBoss": "Baron Silverlaine",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Commander Springvale",
+   "encounterID": 2751,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 3191,
+     "name": "Arced War Axe",
+     "quality": "rare",
+     "slot": "two-hand, axe",
+     "sourcePercent": "35%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6320,
+     "name": "Commander's Crest",
+     "quality": "rare",
+     "slot": "off hand, shield",
+     "sourcePercent": "30%"
+    },
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 273643,
+     "name": "Worgenbane Talisman",
+     "quality": "rare",
+     "slot": "trinket",
+     "sourcePercent": null
+    }
+   ],
+   "page": "shadowfang-keep",
+   "sourceBoss": "Commander Springvale",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Odo the Blindwatcher",
+   "encounterID": 2752,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6318,
+     "name": "Odo's Ley Staff",
+     "quality": "rare",
+     "slot": "two-hand, staff",
+     "sourcePercent": "33%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6319,
+     "name": "Girdle of the Blindwatcher",
+     "quality": "rare",
+     "slot": "waist, leather",
+     "sourcePercent": "58%"
+    },
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 273645,
+     "name": "Blindwatcher's Sight",
+     "quality": "rare",
+     "slot": "head",
+     "sourcePercent": null
+    }
+   ],
+   "page": "shadowfang-keep",
+   "sourceBoss": "Odo the Blindwatcher",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Fenrus the Devourer",
+   "encounterID": 2753,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 3230,
+     "name": "Black Wolf Bracers",
+     "quality": "rare",
+     "slot": "wrist, leather",
+     "sourcePercent": "17%"
+    },
+    {
+     "foreverNew": true,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6340,
+     "name": "Fenrus' Hide",
+     "quality": "rare",
+     "slot": "back, cloth",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 273646,
+     "name": "Half-Eaten Boots",
+     "quality": "rare",
+     "slot": "feet, mail",
+     "sourcePercent": null
+    }
+   ],
+   "page": "shadowfang-keep",
+   "sourceBoss": "Fenrus the Devourer",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Wolf Master Nandos",
+   "encounterID": 2754,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 3748,
+     "name": "Feline Mantle",
+     "quality": "rare",
+     "slot": "shoulder, cloth",
+     "sourcePercent": "56%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6314,
+     "name": "Wolfmaster Cape",
+     "quality": "rare",
+     "slot": "back, cloth",
+     "sourcePercent": "38%"
+    },
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 273647,
+     "name": "Worgpelt Leggings",
+     "quality": "rare",
+     "slot": "legs, leather",
+     "sourcePercent": null
+    }
+   ],
+   "page": "shadowfang-keep",
+   "sourceBoss": "Wolf Master Nandos",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Archmage Arugal",
+   "encounterID": 2755,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6220,
+     "name": "Meteor Shard",
+     "quality": "rare",
+     "slot": "one-hand, dagger",
+     "sourcePercent": "17%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6324,
+     "name": "Robes of Arugal",
+     "quality": "rare",
+     "slot": "chest, cloth",
+     "sourcePercent": "35%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6392,
+     "name": "Belt of Arugal",
+     "quality": "rare",
+     "slot": "waist, cloth",
+     "sourcePercent": "34%"
+    }
+   ],
+   "page": "shadowfang-keep",
+   "sourceBoss": "Archmage Arugal",
+   "sourceItemCount": 3
+  }
+ ],
+ "bossesWithoutSourceEntry": [],
+ "map": 33,
+ "source": "wowtbc.gg/warcraftforever",
+ "unmatchedSourceBosses": [
+  {
+   "boss": "Sever",
+   "items": 0,
+   "page": "shadowfang-keep"
+  },
+  {
+   "boss": "Deathsworn Captain",
+   "items": 2,
+   "page": "shadowfang-keep"
+  },
+  {
+   "boss": "Trash",
+   "items": 13,
+   "page": "shadowfang-keep"
+  }
+ ],
+ "unresolvedItems": [
+  {
+   "boss": "Rethilgore",
+   "name": "Cell Keeper's Claws",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Rethilgore",
+   "name": "Sorcerer Collar",
+   "reason": "no ID in client tables"
+  }
+ ]
+}

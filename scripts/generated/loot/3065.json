@@ -1,0 +1,100 @@
+{
+ "bosses": [
+  {
+   "boss": "Faldrim Anvilmar",
+   "encounterID": 3493,
+   "items": [],
+   "page": "hall-of-thanes",
+   "sourceBoss": "Faldrim Anvilmar",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Plunder",
+   "encounterID": 3494,
+   "items": [],
+   "page": "hall-of-thanes",
+   "sourceBoss": "Plunder",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Durgen Dirgehammer",
+   "encounterID": 3496,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 270256,
+     "name": "Durgen's Crescent Axe",
+     "quality": "rare",
+     "slot": "main hand, axe",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 270260,
+     "name": "Direhammer Leggings",
+     "quality": "rare",
+     "slot": "legs, leather",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 270261,
+     "name": "Robes of the Disgraced Thane",
+     "quality": "rare",
+     "slot": "chest, cloth",
+     "sourcePercent": null
+    }
+   ],
+   "page": "hall-of-thanes",
+   "sourceBoss": "Durgen Dirgehammer",
+   "sourceItemCount": 3
+  }
+ ],
+ "bossesWithoutSourceEntry": [
+  "Infurnus"
+ ],
+ "map": 3065,
+ "source": "wowtbc.gg/warcraftforever",
+ "unmatchedSourceBosses": [
+  {
+   "boss": "Magmatus",
+   "items": 3,
+   "page": "hall-of-thanes"
+  }
+ ],
+ "unresolvedItems": [
+  {
+   "boss": "Faldrim Anvilmar",
+   "name": "Ephemeral Choker",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Faldrim Anvilmar",
+   "name": "Aetherwisp Bracers",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Faldrim Anvilmar",
+   "name": "Spiritwraith Drape",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Plunder",
+   "name": "Golemheart Stave",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Plunder",
+   "name": "Treads of the Protector Golem",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Plunder",
+   "name": "Golemguard Chest",
+   "reason": "no ID in client tables"
+  }
+ ]
+}

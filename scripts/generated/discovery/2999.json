@@ -1,0 +1,7867 @@
+{
+ "build": "1.60.1.70245",
+ "classification": "D",
+ "classificationReason": "mixed-ground-and-wmo-minimaps",
+ "directory": "2999",
+ "ground": {
+  "adtTileCount": 9,
+  "adtTilesWithoutMinimap": 0,
+  "bounds": {
+   "maxX": 32,
+   "maxY": 29,
+   "minX": 30,
+   "minY": 27
+  },
+  "contentBounds": {
+   "maxX": 32,
+   "maxY": 29,
+   "minX": 30,
+   "minY": 27
+  },
+  "contentTileCount": 9,
+  "gridColumns": 3,
+  "gridRows": 3,
+  "missingCoordinates": [],
+  "tileCount": 9,
+  "tileDimensions": [
+   "512x512"
+  ],
+  "tiles": [
+   {
+    "fileDataID": 7255712,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 30,
+    "y": 27
+   },
+   {
+    "fileDataID": 7255718,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 31,
+    "y": 27
+   },
+   {
+    "fileDataID": 7255724,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 32,
+    "y": 27
+   },
+   {
+    "fileDataID": 7255730,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 30,
+    "y": 28
+   },
+   {
+    "fileDataID": 7255736,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 31,
+    "y": 28
+   },
+   {
+    "fileDataID": 7255742,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 32,
+    "y": 28
+   },
+   {
+    "fileDataID": 7255748,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 30,
+    "y": 29
+   },
+   {
+    "fileDataID": 7255754,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 31,
+    "y": 29
+   },
+   {
+    "fileDataID": 7255760,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 32,
+    "y": 29
+   }
+  ]
+ },
+ "instanceID": 2999,
+ "instanceType": 1,
+ "layout": "terrain",
+ "mapID": 2999,
+ "mapType": 1,
+ "maxPlayers": 0,
+ "name": "Ruins of Lordaeron",
+ "nativeDungeonUiMaps": [],
+ "placedWMOCountWithoutMinimaps": 16,
+ "placedWMOsWithoutMinimaps": [
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 106779,
+   "rootPath": "world/wmo/azeroth/buildings/duskwood_stable/duskwood_stable.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 3,
+   "rootFileDataID": 106885,
+   "rootPath": "world/wmo/azeroth/buildings/guardtower_ruined/ruinedhumanguardtower01.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 108022,
+   "rootPath": "world/wmo/azeroth/buildings/westfall_human_farm_burnt/westfallfarmhouseburnt.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 108100,
+   "rootPath": "world/wmo/azeroth/collidable doodads/duskwood/coveredbridge/duskwoodcoveredbridge.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 108143,
+   "rootPath": "world/wmo/azeroth/collidable doodads/redridge/redridgedocks02/redridgedocks02.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 108185,
+   "rootPath": "world/wmo/azeroth/collidable doodads/swampofsorrows/swampdock01/swampdock01.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 3,
+   "rootFileDataID": 108191,
+   "rootPath": "world/wmo/azeroth/collidable doodads/westfall/westfallgrainsilo01/westfallgrainsilo01.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 114127,
+   "rootPath": "world/wmo/lorderon/buildings/alterac/greenhouse01.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 114418,
+   "rootPath": "world/wmo/lorderon/buildings/tirisfalglade/lorderonzeppelintower/lorderonzeppelin.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 2,
+   "rootFileDataID": 114422,
+   "rootPath": "world/wmo/lorderon/buildings/tirisfalglade/mausoleum/mausoleumactive.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 114562,
+   "rootPath": "world/wmo/lorderon/collidabledoodads/arathihighlands/humanruinedbuildings/huruinedbuildingsbig01.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 114566,
+   "rootPath": "world/wmo/lorderon/collidabledoodads/arathihighlands/humanruinedbuildings/huruinedbuildingsbig03.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 114568,
+   "rootPath": "world/wmo/lorderon/collidabledoodads/arathihighlands/humanruinedbuildings/huruinedbuildingsmed01.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 114580,
+   "rootPath": "world/wmo/lorderon/collidabledoodads/arathihighlands/humanruinedbuildings/huruinedbuildingssmall01.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 114582,
+   "rootPath": "world/wmo/lorderon/collidabledoodads/arathihighlands/humanruinedbuildings/huruinedbuildingssmall02.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 3,
+   "rootFileDataID": 3937974,
+   "rootPath": "world/wmo/expansion08/progenitor/9prg_progenitor_pillar08.wmo"
+  }
+ ],
+ "uiMapAssignments": [],
+ "wdt": {
+  "adtTileCount": 9,
+  "chunks": [
+   "MVER",
+   "MPHD",
+   "MAIN",
+   "MAID"
+  ],
+  "mphdFlags": 970,
+  "usesGlobalWMO": false
+ },
+ "wdtFileDataID": 7255103,
+ "wmos": [
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 12.514751434326172,
+    "zMidpoints": [
+     7.11
+    ],
+    "zMin": 1.698729157447815
+   },
+   "groupCount": 2,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 106733,
+     "index": 0,
+     "maximum": [
+      10.66884994506836,
+      7.780393123626709,
+      12.514751434326172
+     ],
+     "minimum": [
+      -9.484932899475098,
+      -7.875834941864014,
+      1.698729157447815
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 209881,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_blacksmith/duskwood_blacksmith_000_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 721
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 106734,
+     "index": 1,
+     "maximum": [
+      16.235414505004883,
+      23.934741973876953,
+      27.051429748535156
+     ],
+     "minimum": [
+      -28.078693389892578,
+      -13.956985473632812,
+      -2.845475673675537
+     ],
+     "name": null,
+     "tiles": []
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/azeroth/buildings/duskwood_blacksmith/duskwood_blacksmith_",
+   "placements": [
+    {
+     "position": [
+      16752.9277,
+      34.9114,
+      14835.9434
+     ],
+     "rotation": [
+      0.0,
+      140.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65748538
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 1,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 1,
+    "tiledGroups": 1
+   },
+   "rootFileDataID": 106732,
+   "rootMD5": "6bab00bd2dcc2ee388c6eb1d117b42f1",
+   "rootPath": "world/wmo/azeroth/buildings/duskwood_blacksmith/duskwood_blacksmith.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 13.270939826965332,
+    "zMidpoints": [
+     8.66
+    ],
+    "zMin": 4.0525665283203125
+   },
+   "groupCount": 2,
+   "groups": [
+    {
+     "flags": 8,
+     "groupFileDataID": 106736,
+     "index": 0,
+     "maximum": [
+      9.59707260131836,
+      8.874414443969727,
+      16.904447555541992
+     ],
+     "minimum": [
+      -9.332298278808594,
+      -9.19920825958252,
+      -0.027779050171375275
+     ],
+     "name": null,
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106737,
+     "index": 1,
+     "maximum": [
+      6.835772514343262,
+      8.260397911071777,
+      13.270939826965332
+     ],
+     "minimum": [
+      -6.492843151092529,
+      -6.0538530349731445,
+      4.0525665283203125
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 209882,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_human_farm/duskwood_human_farm_001_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 730
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/azeroth/buildings/duskwood_human_farm/duskwood_human_farm_",
+   "placements": [
+    {
+     "position": [
+      16721.5234,
+      31.9114,
+      14804.7324
+     ],
+     "rotation": [
+      0.0,
+      245.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65749577
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 1,
+     "1": 1,
+     "2": 1,
+     "4": 0,
+     "8": 0
+    },
+    "best": 0.5,
+    "matchedGroups": 1,
+    "tiledGroups": 1
+   },
+   "rootFileDataID": 106735,
+   "rootMD5": "bbd69beacdf474d106368efafc1c861c",
+   "rootPath": "world/wmo/azeroth/buildings/duskwood_human_farm/duskwood_human_farm.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 2,
+    "stackedGroupPairs": [
+     [
+      2,
+      7
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      4,
+      6
+     ]
+    ],
+    "zMax": 16.439435958862305,
+    "zMidpoints": [
+     -3.16,
+     2.38,
+     3.48,
+     3.54,
+     8.05,
+     11.77,
+     11.79,
+     11.79,
+     11.79,
+     11.79
+    ],
+    "zMin": -6.761812686920166
+   },
+   "groupCount": 11,
+   "groups": [
+    {
+     "flags": 8,
+     "groupFileDataID": 106748,
+     "index": 0,
+     "maximum": [
+      21.942615509033203,
+      18.76671028137207,
+      23.276613235473633
+     ],
+     "minimum": [
+      -37.77299880981445,
+      -13.525418281555176,
+      -2.509817600250244
+     ],
+     "name": null,
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106749,
+     "index": 1,
+     "maximum": [
+      20.47116470336914,
+      -0.3776881992816925,
+      4.37204647064209
+     ],
+     "minimum": [
+      14.111644744873047,
+      -4.856584072113037,
+      0.3954527676105499
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 209888,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_001_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 732
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106750,
+     "index": 2,
+     "maximum": [
+      14.167328834533691,
+      2.822838306427002,
+      6.565201759338379
+     ],
+     "minimum": [
+      9.977810859680176,
+      -4.940431118011475,
+      0.3954527676105499
+     ],
+     "name": "exterior",
+     "tiles": [
+      {
+       "fileDataID": 209889,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_002_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 733
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106751,
+     "index": 3,
+     "maximum": [
+      -17.00946044921875,
+      4.355214595794678,
+      6.684334754943848
+     ],
+     "minimum": [
+      -33.03268051147461,
+      -8.627368927001953,
+      0.3954615890979767
+     ],
+     "name": "hall",
+     "tiles": [
+      {
+       "fileDataID": 209890,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_003_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 735
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106752,
+     "index": 4,
+     "maximum": [
+      -15.21663761138916,
+      1.7366511821746826,
+      16.439435958862305
+     ],
+     "minimum": [
+      -33.504150390625,
+      -10.723105430603027,
+      7.107014179229736
+     ],
+     "name": "entry",
+     "tiles": [
+      {
+       "fileDataID": 209891,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_004_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 739
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106753,
+     "index": 5,
+     "maximum": [
+      -1.2754827737808228,
+      3.892812967300415,
+      16.319196701049805
+     ],
+     "minimum": [
+      -15.46663761138916,
+      -9.92844295501709,
+      7.265183448791504
+     ],
+     "name": "kitchen",
+     "tiles": [
+      {
+       "fileDataID": 209892,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_005_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 740
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106754,
+     "index": 6,
+     "maximum": [
+      -17.01403045654297,
+      12.679150581359863,
+      0.4510285556316376
+     ],
+     "minimum": [
+      -36.747108459472656,
+      -8.665312767028809,
+      -6.761812686920166
+     ],
+     "name": "room03",
+     "tiles": [
+      {
+       "fileDataID": 209893,
+       "height": 64,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_006_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 741
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106755,
+     "index": 7,
+     "maximum": [
+      14.145209312438965,
+      4.266018867492676,
+      16.319196701049805
+     ],
+     "minimum": [
+      -0.7175195813179016,
+      -9.92844295501709,
+      7.266311168670654
+     ],
+     "name": "room04",
+     "tiles": [
+      {
+       "fileDataID": 209894,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_007_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 738
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106756,
+     "index": 8,
+     "maximum": [
+      15.73867416381836,
+      15.608723640441895,
+      16.321521759033203
+     ],
+     "minimum": [
+      3.0555477142333984,
+      4.8925371170043945,
+      7.266208171844482
+     ],
+     "name": "cellar",
+     "tiles": [
+      {
+       "fileDataID": 209895,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_008_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 737
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106757,
+     "index": 9,
+     "maximum": [
+      3.1111032962799072,
+      15.528806686401367,
+      16.32151985168457
+     ],
+     "minimum": [
+      -4.95742130279541,
+      0.8781032562255859,
+      7.25258731842041
+     ],
+     "name": "room02",
+     "tiles": [
+      {
+       "fileDataID": 209896,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_009_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 734
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106758,
+     "index": 10,
+     "maximum": [
+      14.38597297668457,
+      15.54039192199707,
+      16.321521759033203
+     ],
+     "minimum": [
+      -17.065021514892578,
+      -11.07707405090332,
+      -0.21472708880901337
+     ],
+     "name": "room01",
+     "tiles": [
+      {
+       "fileDataID": 209897,
+       "height": 64,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_010_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 736
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_",
+   "placements": [
+    {
+     "position": [
+      16821.3867,
+      33.8207,
+      14807.2998
+     ],
+     "rotation": [
+      0.0,
+      350.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65747461
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 6,
+     "1": 6,
+     "2": 10,
+     "4": 2,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 10,
+    "tiledGroups": 10
+   },
+   "rootFileDataID": 106747,
+   "rootMD5": "5dddc552e3a6fd4ce3d48969da85da65",
+   "rootPath": "world/wmo/azeroth/buildings/duskwood_inn/duskwood_inn.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 31.23395538330078,
+    "zMidpoints": [
+     4.46,
+     8.74,
+     10.43,
+     15.65
+    ],
+    "zMin": 0.05935721844434738
+   },
+   "groupCount": 5,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 106788,
+     "index": 0,
+     "maximum": [
+      -24.294267654418945,
+      0.8941210508346558,
+      7.943650722503662
+     ],
+     "minimum": [
+      -27.885826110839844,
+      -3.7505972385406494,
+      0.9697498679161072
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 209914,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_townhall_nowall/duskwood_townhall_nowall_000_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 757
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106789,
+     "index": 1,
+     "maximum": [
+      -27.83026695251465,
+      4.018614768981934,
+      16.52157211303711
+     ],
+     "minimum": [
+      -40.24615478515625,
+      -7.09326696395874,
+      0.9601331353187561
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 209915,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_townhall_nowall/duskwood_townhall_nowall_001_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 758
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 106790,
+     "index": 2,
+     "maximum": [
+      -11.693597793579102,
+      19.65187644958496,
+      59.44802474975586
+     ],
+     "minimum": [
+      -67.94279479980469,
+      -35.76280975341797,
+      -1.4797331094741821
+     ],
+     "name": "entry01",
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106791,
+     "index": 3,
+     "maximum": [
+      -41.56037521362305,
+      13.158075332641602,
+      19.9075927734375
+     ],
+     "minimum": [
+      -58.99623107910156,
+      -29.069124221801758,
+      0.9461259841918945
+     ],
+     "name": "entry02",
+     "tiles": [
+      {
+       "fileDataID": 209916,
+       "height": 128,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_townhall_nowall/duskwood_townhall_nowall_003_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 760
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106792,
+     "index": 4,
+     "maximum": [
+      -30.65001106262207,
+      -7.034021377563477,
+      31.23395538330078
+     ],
+     "minimum": [
+      -41.61593246459961,
+      -20.178285598754883,
+      0.05935721844434738
+     ],
+     "name": "exterior",
+     "tiles": [
+      {
+       "fileDataID": 209917,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_townhall_nowall/duskwood_townhall_nowall_004_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 756
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/azeroth/buildings/duskwood_townhall_nowall/duskwood_townhall_nowall_",
+   "placements": [
+    {
+     "position": [
+      16780.3926,
+      36.3123,
+      14805.4717
+     ],
+     "rotation": [
+      0.0,
+      345.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65749093
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 3,
+     "1": 3,
+     "2": 4,
+     "4": 1,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 4,
+    "tiledGroups": 4
+   },
+   "rootFileDataID": 106787,
+   "rootMD5": "d928ccc20ee99561b72495bb25b2bce1",
+   "rootPath": "world/wmo/azeroth/buildings/duskwood_townhall_nowall/duskwood_townhall_nowall.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 19.85147476196289,
+    "zMidpoints": [
+     4.18,
+     10.81
+    ],
+    "zMin": 1.7591955661773682
+   },
+   "groupCount": 3,
+   "groups": [
+    {
+     "flags": 8,
+     "groupFileDataID": 106794,
+     "index": 0,
+     "maximum": [
+      12.231377601623535,
+      18.636476516723633,
+      21.482391357421875
+     ],
+     "minimum": [
+      -12.231380462646484,
+      -18.636474609375,
+      -0.09117380529642105
+     ],
+     "name": null,
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106795,
+     "index": 1,
+     "maximum": [
+      4.870707035064697,
+      -6.258483409881592,
+      6.5432634353637695
+     ],
+     "minimum": [
+      -8.526973724365234,
+      -11.42636775970459,
+      1.8128395080566406
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 209918,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwoodabandoned_barn/duskwoodabandoned_barn_001_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 659
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106796,
+     "index": 2,
+     "maximum": [
+      9.050633430480957,
+      12.494346618652344,
+      19.85147476196289
+     ],
+     "minimum": [
+      -9.022928237915039,
+      -11.844528198242188,
+      1.7591955661773682
+     ],
+     "name": "barn_exterior01",
+     "tiles": [
+      {
+       "fileDataID": 209919,
+       "height": 64,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwoodabandoned_barn/duskwoodabandoned_barn_002_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 660
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/azeroth/buildings/duskwoodabandoned_barn/duskwoodabandoned_barn_",
+   "placements": [
+    {
+     "position": [
+      17518.4082,
+      33.8966,
+      15026.0654
+     ],
+     "rotation": [
+      0.0,
+      34.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65749582
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 1,
+     "1": 1,
+     "2": 2,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 2,
+    "tiledGroups": 2
+   },
+   "rootFileDataID": 106793,
+   "rootMD5": "9f3ba7d977523fe660a5afac5cb4b938",
+   "rootPath": "world/wmo/azeroth/buildings/duskwoodabandoned_barn/duskwoodabandoned_barn.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 13.270939826965332,
+    "zMidpoints": [
+     8.66
+    ],
+    "zMin": 4.0525665283203125
+   },
+   "groupCount": 2,
+   "groups": [
+    {
+     "flags": 8,
+     "groupFileDataID": 106801,
+     "index": 0,
+     "maximum": [
+      9.59707260131836,
+      8.874414443969727,
+      16.904447555541992
+     ],
+     "minimum": [
+      -9.332298278808594,
+      -9.19920825958252,
+      -0.027779050171375275
+     ],
+     "name": null,
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106802,
+     "index": 1,
+     "maximum": [
+      6.835772514343262,
+      8.260397911071777,
+      13.270939826965332
+     ],
+     "minimum": [
+      -6.492843151092529,
+      -6.0538530349731445,
+      4.0525665283203125
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 209921,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwoodabandoned_human_farm/duskwoodabandoned_human_farm_001_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 670
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/azeroth/buildings/duskwoodabandoned_human_farm/duskwoodabandoned_human_farm_",
+   "placements": [
+    {
+     "position": [
+      16409.6973,
+      30.4368,
+      14905.1309
+     ],
+     "rotation": [
+      0.0,
+      46.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65747497
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 1,
+     "1": 1,
+     "2": 1,
+     "4": 0,
+     "8": 0
+    },
+    "best": 0.5,
+    "matchedGroups": 1,
+    "tiledGroups": 1
+   },
+   "rootFileDataID": 106800,
+   "rootMD5": "359563884a021fe735cfb8dd64795d42",
+   "rootPath": "world/wmo/azeroth/buildings/duskwoodabandoned_human_farm/duskwoodabandoned_human_farm.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 2,
+    "stackedGroupPairs": [
+     [
+      2,
+      3
+     ]
+    ],
+    "zMax": 11.855043411254883,
+    "zMidpoints": [
+     1.69,
+     1.71,
+     3.75,
+     7.49,
+     8.02
+    ],
+    "zMin": -0.843313455581665
+   },
+   "groupCount": 6,
+   "groups": [
+    {
+     "flags": 2149580808,
+     "groupFileDataID": 107176,
+     "index": 0,
+     "maximum": [
+      23.869579315185547,
+      22.89708137512207,
+      13.965960502624512
+     ],
+     "minimum": [
+      -8.988425254821777,
+      -14.45567512512207,
+      -4.510108470916748
+     ],
+     "name": null,
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 107177,
+     "index": 1,
+     "maximum": [
+      6.207916736602783,
+      4.599064350128174,
+      8.345879554748535
+     ],
+     "minimum": [
+      -5.501868724822998,
+      -7.188457012176514,
+      -0.843313455581665
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 210121,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/redridge_humantwostory/redridge_humantwostory_001_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2300
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 107178,
+     "index": 2,
+     "maximum": [
+      17.477611541748047,
+      3.894808769226074,
+      3.9447457790374756
+     ],
+     "minimum": [
+      6.152348518371582,
+      -7.137890815734863,
+      -0.5308147072792053
+     ],
+     "name": "exterior",
+     "tiles": [
+      {
+       "fileDataID": 210122,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/redridge_humantwostory/redridge_humantwostory_002_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2301
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 107179,
+     "index": 3,
+     "maximum": [
+      20.336824417114258,
+      4.61738920211792,
+      11.855043411254883
+     ],
+     "minimum": [
+      5.027459621429443,
+      -11.06641674041748,
+      4.1850199699401855
+     ],
+     "name": "livingroom",
+     "tiles": [
+      {
+       "fileDataID": 210123,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/redridge_humantwostory/redridge_humantwostory_003_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2302
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 107180,
+     "index": 4,
+     "maximum": [
+      20.13897132873535,
+      18.30658721923828,
+      11.424513816833496
+     ],
+     "minimum": [
+      4.112945079803467,
+      4.508281230926514,
+      3.5547444820404053
+     ],
+     "name": "entrance",
+     "tiles": [
+      {
+       "fileDataID": 210124,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/redridge_humantwostory/redridge_humantwostory_004_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2303
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 107181,
+     "index": 5,
+     "maximum": [
+      17.489700317382812,
+      15.114924430847168,
+      3.9447457790374756
+     ],
+     "minimum": [
+      3.0126895904541016,
+      3.8392527103424072,
+      -0.5692148208618164
+     ],
+     "name": "upstairs",
+     "tiles": [
+      {
+       "fileDataID": 210125,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/redridge_humantwostory/redridge_humantwostory_005_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2304
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/azeroth/buildings/redridge_humantwostory/redridge_humantwostory_",
+   "placements": [
+    {
+     "position": [
+      17374.4297,
+      44.1303,
+      15850.584
+     ],
+     "rotation": [
+      0.0,
+      110.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65748945
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 4,
+     "1": 4,
+     "2": 5,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 5,
+    "tiledGroups": 5
+   },
+   "rootFileDataID": 107175,
+   "rootMD5": "c316b53ac000bfcfc8597a178c4323ca",
+   "rootPath": "world/wmo/azeroth/buildings/redridge_humantwostory/redridge_humantwostory.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 3,
+    "stackedGroupPairs": [
+     [
+      0,
+      213
+     ],
+     [
+      1,
+      2
+     ],
+     [
+      1,
+      3
+     ],
+     [
+      1,
+      15
+     ],
+     [
+      1,
+      187
+     ],
+     [
+      2,
+      45
+     ],
+     [
+      2,
+      47
+     ],
+     [
+      2,
+      48
+     ],
+     [
+      2,
+      51
+     ],
+     [
+      2,
+      52
+     ],
+     [
+      2,
+      187
+     ],
+     [
+      3,
+      52
+     ],
+     [
+      3,
+      119
+     ],
+     [
+      3,
+      120
+     ],
+     [
+      3,
+      187
+     ],
+     [
+      5,
+      96
+     ],
+     [
+      5,
+      184
+     ],
+     [
+      6,
+      96
+     ],
+     [
+      11,
+      112
+     ],
+     [
+      11,
+      181
+     ],
+     [
+      14,
+      96
+     ],
+     [
+      15,
+      187
+     ],
+     [
+      16,
+      181
+     ],
+     [
+      17,
+      176
+     ],
+     [
+      21,
+      112
+     ],
+     [
+      21,
+      181
+     ],
+     [
+      22,
+      112
+     ],
+     [
+      22,
+      181
+     ],
+     [
+      27,
+      113
+     ],
+     [
+      27,
+      180
+     ],
+     [
+      28,
+      113
+     ],
+     [
+      28,
+      180
+     ],
+     [
+      29,
+      180
+     ],
+     [
+      36,
+      52
+     ],
+     [
+      37,
+      52
+     ],
+     [
+      38,
+      52
+     ],
+     [
+      39,
+      52
+     ],
+     [
+      40,
+      52
+     ],
+     [
+      41,
+      52
+     ],
+     [
+      42,
+      113
+     ],
+     [
+      42,
+      180
+     ],
+     [
+      43,
+      182
+     ],
+     [
+      44,
+      52
+     ],
+     [
+      44,
+      120
+     ],
+     [
+      44,
+      190
+     ],
+     [
+      45,
+      52
+     ],
+     [
+      46,
+      120
+     ],
+     [
+      46,
+      187
+     ],
+     [
+      46,
+      190
+     ],
+     [
+      47,
+      187
+     ],
+     [
+      48,
+      187
+     ],
+     [
+      49,
+      119
+     ],
+     [
+      49,
+      187
+     ],
+     [
+      49,
+      188
+     ],
+     [
+      50,
+      52
+     ],
+     [
+      50,
+      119
+     ],
+     [
+      50,
+      188
+     ],
+     [
+      51,
+      52
+     ],
+     [
+      94,
+      107
+     ],
+     [
+      95,
+      214
+     ],
+     [
+      97,
+      209
+     ],
+     [
+      103,
+      108
+     ],
+     [
+      107,
+      111
+     ],
+     [
+      113,
+      213
+     ],
+     [
+      115,
+      202
+     ],
+     [
+      116,
+      204
+     ],
+     [
+      117,
+      203
+     ],
+     [
+      118,
+      189
+     ],
+     [
+      119,
+      188
+     ],
+     [
+      120,
+      190
+     ],
+     [
+      121,
+      191
+     ],
+     [
+      122,
+      189
+     ],
+     [
+      123,
+      188
+     ],
+     [
+      124,
+      190
+     ],
+     [
+      125,
+      191
+     ],
+     [
+      126,
+      189
+     ],
+     [
+      127,
+      188
+     ],
+     [
+      128,
+      190
+     ],
+     [
+      137,
+      138
+     ],
+     [
+      143,
+      146
+     ],
+     [
+      144,
+      146
+     ],
+     [
+      145,
+      146
+     ],
+     [
+      147,
+      150
+     ],
+     [
+      148,
+      150
+     ],
+     [
+      149,
+      150
+     ],
+     [
+      150,
+      214
+     ],
+     [
+      153,
+      156
+     ],
+     [
+      154,
+      156
+     ],
+     [
+      155,
+      156
+     ],
+     [
+      156,
+      209
+     ],
+     [
+      157,
+      160
+     ],
+     [
+      158,
+      160
+     ],
+     [
+      159,
+      160
+     ],
+     [
+      163,
+      166
+     ],
+     [
+      164,
+      166
+     ],
+     [
+      165,
+      166
+     ],
+     [
+      167,
+      170
+     ],
+     [
+      168,
+      170
+     ],
+     [
+      169,
+      170
+     ],
+     [
+      173,
+      175
+     ],
+     [
+      174,
+      175
+     ],
+     [
+      175,
+      182
+     ],
+     [
+      176,
+      179
+     ],
+     [
+      177,
+      179
+     ],
+     [
+      178,
+      179
+     ],
+     [
+      189,
+      196
+     ],
+     [
+      189,
+      197
+     ],
+     [
+      190,
+      194
+     ],
+     [
+      191,
+      199
+     ],
+     [
+      191,
+      200
+     ],
+     [
+      191,
+      205
+     ],
+     [
+      192,
+      204
+     ],
+     [
+      195,
+      202
+     ],
+     [
+      198,
+      203
+     ]
+    ],
+    "zMax": 49.569889068603516,
+    "zMidpoints": [
+     -142.46,
+     -140.57,
+     -139.14,
+     -133.86,
+     -131.4,
+     -130.72,
+     -124.73,
+     -124.7,
+     -118.5,
+     -118.5,
+     -118.5,
+     -118.5,
+     -118.5,
+     -118.5,
+     -118.5,
+     -118.5,
+     -118.5,
+     -118.5,
+     -118.5,
+     -118.5,
+     -118.5,
+     -118.5,
+     -118.5,
+     -118.5,
+     -118.48,
+     -117.85,
+     -117.85,
+     -117.4,
+     -116.55,
+     -116.05,
+     -116.05,
+     -116.05,
+     -116.05,
+     -115.17,
+     -115.17,
+     -115.17,
+     -115.17,
+     -114.89,
+     -111.84,
+     -111.54,
+     -111.32,
+     -110.59,
+     -109.31,
+     -109.05,
+     -109.05,
+     -107.39,
+     -106.8,
+     -105.53,
+     -105.53,
+     -105.53,
+     -105.53,
+     -105.53,
+     -105.53,
+     -105.53,
+     -105.53,
+     -105.03,
+     -104.91,
+     -103.72,
+     -103.72,
+     -103.72,
+     -103.72,
+     -103.72,
+     -103.72,
+     -103.72,
+     -103.72,
+     -102.54,
+     -102.54,
+     -102.54,
+     -102.54,
+     -102.54,
+     -102.54,
+     -102.54,
+     -102.54,
+     -102.28,
+     -102.28,
+     -102.28,
+     -102.28,
+     -101.49,
+     -101.49,
+     -101.49,
+     -101.49,
+     -101.49,
+     -101.49,
+     -101.49,
+     -101.49,
+     -100.02,
+     -100.02,
+     -99.99,
+     -99.74,
+     -98.65,
+     -98.65,
+     -98.65,
+     -98.61,
+     -98.59,
+     -98.59,
+     -98.59,
+     -98.58,
+     -98.57,
+     -98.57,
+     -98.57,
+     -98.35,
+     -98.35,
+     -98.32,
+     -97.43,
+     -96.61,
+     -96.61,
+     -96.6,
+     -96.6,
+     -93.05,
+     -93.05,
+     -93.05,
+     -93.05,
+     -92.09,
+     -92.02,
+     -90.51,
+     -86.91,
+     -86.34,
+     -76.82,
+     -75.66,
+     -75.66,
+     -75.66,
+     -75.66,
+     -75.66,
+     -75.66,
+     -75.66,
+     -75.66,
+     -72.6,
+     -70.7,
+     -70.45,
+     -70.33,
+     -70.27,
+     -70.27,
+     -70.27,
+     -70.27,
+     -70.27,
+     -68.68,
+     -65.41,
+     -61.38,
+     -60.58,
+     -56.86,
+     -50.05,
+     -50.05,
+     -50.04,
+     -49.09,
+     -44.1,
+     -44.1,
+     -44.1,
+     -44.1,
+     -44.1,
+     -44.1,
+     -44.1,
+     -44.1,
+     -35.81,
+     -8.08,
+     -7.16,
+     -7.16,
+     -5.77,
+     -5.77,
+     -4.22,
+     -4.22,
+     -3.51,
+     -3.51,
+     -1.59,
+     -1.59,
+     -0.96,
+     -0.96,
+     -0.96,
+     -0.89,
+     -0.89,
+     2.71,
+     2.71,
+     3.26,
+     3.3,
+     3.45,
+     3.45,
+     4.11,
+     4.43,
+     4.62,
+     5.2,
+     5.2,
+     5.2,
+     5.2,
+     5.2,
+     5.2,
+     5.2,
+     5.2,
+     7.87,
+     8.24,
+     8.85,
+     8.85,
+     11.21,
+     12.41,
+     14.86,
+     14.94,
+     23.37,
+     29.97
+    ],
+    "zMin": -147.94757080078125
+   },
+   "groupCount": 216,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 114613,
+     "index": 0,
+     "maximum": [
+      176.1026153564453,
+      229.31149291992188,
+      -60.65885925292969
+     ],
+     "minimum": [
+      23.80345344543457,
+      75.13861846923828,
+      -134.20840454101562
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 217709,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_000_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 217710,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_000_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 217711,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_000_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 217712,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_000_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 3062
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114614,
+     "index": 1,
+     "maximum": [
+      28.868690490722656,
+      7.146885395050049,
+      -83.2579574584961
+     ],
+     "minimum": [
+      -4.607943534851074,
+      -7.13575553894043,
+      -100.91495513916016
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 217713,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_001_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3064
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114615,
+     "index": 2,
+     "maximum": [
+      9.60110855102539,
+      15.262232780456543,
+      37.56702423095703
+     ],
+     "minimum": [
+      -20.970829010009766,
+      -15.276567459106445,
+      22.375246047973633
+     ],
+     "name": "MWb",
+     "tiles": [
+      {
+       "fileDataID": 217714,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_002_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3065
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114616,
+     "index": 3,
+     "maximum": [
+      13.441181182861328,
+      20.62921714782715,
+      22.430828094482422
+     ],
+     "minimum": [
+      -25.619407653808594,
+      -20.611295700073242,
+      -0.00794389471411705
+     ],
+     "name": "War Quarter",
+     "tiles": [
+      {
+       "fileDataID": 217715,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_003_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3066
+    },
+    {
+     "flags": 2147484744,
+     "groupFileDataID": 114617,
+     "index": 4,
+     "maximum": [
+      75.97655487060547,
+      7.701729774475098,
+      36.26530075073242
+     ],
+     "minimum": [
+      61.44268035888672,
+      -7.595118999481201,
+      16.495731353759766
+     ],
+     "name": "BatChute",
+     "tiles": []
+    },
+    {
+     "flags": 9280,
+     "groupFileDataID": 114618,
+     "index": 5,
+     "maximum": [
+      78.55335998535156,
+      10.644157409667969,
+      16.55129051208496
+     ],
+     "minimum": [
+      57.97663116455078,
+      -10.537546157836914,
+      -0.8142387270927429
+     ],
+     "name": "throne_dome",
+     "tiles": [
+      {
+       "fileDataID": 217717,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_005_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3068
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 114619,
+     "index": 6,
+     "maximum": [
+      77.34060668945312,
+      30.584877014160156,
+      17.74796485900879
+     ],
+     "minimum": [
+      59.7744140625,
+      10.588476181030273,
+      -0.05450439453125
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217718,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_006_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3069
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 114620,
+     "index": 7,
+     "maximum": [
+      210.6773681640625,
+      121.20744323730469,
+      46.38737487792969
+     ],
+     "minimum": [
+      71.15264892578125,
+      -71.55071258544922,
+      -14.532621383666992
+     ],
+     "name": "throne",
+     "tiles": []
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 114621,
+     "index": 8,
+     "maximum": [
+      230.08140563964844,
+      94.19886779785156,
+      43.74939727783203
+     ],
+     "minimum": [
+      197.35780334472656,
+      -92.37345886230469,
+      -4.702675819396973
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": []
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 114622,
+     "index": 9,
+     "maximum": [
+      224.79461669921875,
+      5.791454792022705,
+      10.469782829284668
+     ],
+     "minimum": [
+      210.75811767578125,
+      -5.767398834228516,
+      -1.2230092287063599
+     ],
+     "name": "belltower02",
+     "tiles": [
+      {
+       "fileDataID": 217723,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_009_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3072
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 114623,
+     "index": 10,
+     "maximum": [
+      91.41497039794922,
+      -54.13886260986328,
+      -7.64522123336792
+     ],
+     "minimum": [
+      87.25194549560547,
+      -58.36115264892578,
+      -13.104957580566406
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114624,
+     "index": 11,
+     "maximum": [
+      134.51429748535156,
+      -62.33136749267578,
+      0.40215134620666504
+     ],
+     "minimum": [
+      120.41612243652344,
+      -73.0972671508789,
+      -7.43051290512085
+     ],
+     "name": "belltower01",
+     "tiles": [
+      {
+       "fileDataID": 217725,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_011_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3074
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 114625,
+     "index": 12,
+     "maximum": [
+      159.44642639160156,
+      -35.56005096435547,
+      1.6120834350585938
+     ],
+     "minimum": [
+      155.65768432617188,
+      -43.8785400390625,
+      -4.801311016082764
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217726,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_012_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3075
+    },
+    {
+     "flags": 2147484744,
+     "groupFileDataID": 114626,
+     "index": 13,
+     "maximum": [
+      73.1953353881836,
+      12.99753189086914,
+      37.674400329589844
+     ],
+     "minimum": [
+      6.068576335906982,
+      -12.89093017578125,
+      -1.6090736389160156
+     ],
+     "name": "belltower_right",
+     "tiles": []
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 114627,
+     "index": 14,
+     "maximum": [
+      77.34061431884766,
+      -10.481866836547852,
+      17.74796485900879
+     ],
+     "minimum": [
+      59.7744140625,
+      -30.478261947631836,
+      -0.05450439453125
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217728,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_014_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3077
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 114628,
+     "index": 15,
+     "maximum": [
+      20.13798713684082,
+      3.192782402038574,
+      16.458438873291016
+     ],
+     "minimum": [
+      13.385610580444336,
+      -2.9472925662994385,
+      0.0198627058416605
+     ],
+     "name": "courtyard01",
+     "tiles": [
+      {
+       "fileDataID": 217729,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_015_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3078
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114629,
+     "index": 16,
+     "maximum": [
+      130.40306091308594,
+      -55.50055694580078,
+      -1.016315221786499
+     ],
+     "minimum": [
+      126.61429595947266,
+      -62.386924743652344,
+      -7.429704189300537
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217730,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_016_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3079
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114630,
+     "index": 17,
+     "maximum": [
+      163.55767822265625,
+      -43.6392936706543,
+      3.0305798053741455
+     ],
+     "minimum": [
+      122.5030517578125,
+      -55.73980712890625,
+      -4.802117824554443
+     ],
+     "name": "exterior_entrance",
+     "tiles": [
+      {
+       "fileDataID": 217731,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_017_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3080
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 114631,
+     "index": 18,
+     "maximum": [
+      92.86383819580078,
+      -58.30550765991211,
+      -7.64522123336792
+     ],
+     "minimum": [
+      87.39665985107422,
+      -65.48676300048828,
+      -12.350372314453125
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": []
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 114632,
+     "index": 19,
+     "maximum": [
+      97.96306610107422,
+      -63.79536819458008,
+      -6.8912129402160645
+     ],
+     "minimum": [
+      89.97492980957031,
+      -71.72726440429688,
+      -12.350373268127441
+     ],
+     "name": "entry01",
+     "tiles": []
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 114633,
+     "index": 20,
+     "maximum": [
+      104.920654296875,
+      -68.83838653564453,
+      -5.50232458114624
+     ],
+     "minimum": [
+      96.27162170410156,
+      -74.32569122314453,
+      -11.596364974975586
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": []
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 114634,
+     "index": 21,
+     "maximum": [
+      113.5140609741211,
+      -68.83834075927734,
+      -4.113435745239258
+     ],
+     "minimum": [
+      104.86509704589844,
+      -74.32569885253906,
+      -10.207475662231445
+     ],
+     "name": "sewer11",
+     "tiles": [
+      {
+       "fileDataID": 217735,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_021_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3084
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114635,
+     "index": 22,
+     "maximum": [
+      120.4716796875,
+      -66.2398681640625,
+      -2.7245588302612305
+     ],
+     "minimum": [
+      111.82270050048828,
+      -71.72724151611328,
+      -8.818598747253418
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217736,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_022_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3085
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 114636,
+     "index": 23,
+     "maximum": [
+      91.43284606933594,
+      58.36113357543945,
+      -7.6452178955078125
+     ],
+     "minimum": [
+      87.2337646484375,
+      54.138858795166016,
+      -13.235692024230957
+     ],
+     "name": "sewer15",
+     "tiles": []
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 114637,
+     "index": 24,
+     "maximum": [
+      92.86383056640625,
+      65.47077941894531,
+      -7.6452178955078125
+     ],
+     "minimum": [
+      87.39706420898438,
+      58.30551528930664,
+      -12.350372314453125
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": []
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 114638,
+     "index": 25,
+     "maximum": [
+      97.96305084228516,
+      71.71128845214844,
+      -6.891211986541748
+     ],
+     "minimum": [
+      89.97492980957031,
+      63.77940368652344,
+      -12.350372314453125
+     ],
+     "name": "tosewer04",
+     "tiles": []
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 114639,
+     "index": 26,
+     "maximum": [
+      104.92066955566406,
+      74.3097152709961,
+      -5.502323627471924
+     ],
+     "minimum": [
+      96.27163696289062,
+      68.8223876953125,
+      -11.59636402130127
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": []
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 114640,
+     "index": 27,
+     "maximum": [
+      113.51408386230469,
+      74.30972290039062,
+      -4.113434791564941
+     ],
+     "minimum": [
+      104.86508178710938,
+      68.82237243652344,
+      -10.207474708557129
+     ],
+     "name": "rosewalk",
+     "tiles": [
+      {
+       "fileDataID": 217741,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_027_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3090
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114641,
+     "index": 28,
+     "maximum": [
+      120.4716796875,
+      71.71126556396484,
+      -2.724557638168335
+     ],
+     "minimum": [
+      111.82269287109375,
+      66.22389221191406,
+      -8.818597793579102
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217742,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_028_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3091
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114642,
+     "index": 29,
+     "maximum": [
+      130.40306091308594,
+      62.37094497680664,
+      -1.016308307647705
+     ],
+     "minimum": [
+      126.61428833007812,
+      55.48457717895508,
+      -7.4297027587890625
+     ],
+     "name": "belltower_left",
+     "tiles": [
+      {
+       "fileDataID": 217743,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_029_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3092
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 114643,
+     "index": 30,
+     "maximum": [
+      159.44642639160156,
+      43.86255645751953,
+      1.6120847463607788
+     ],
+     "minimum": [
+      155.65768432617188,
+      35.5440673828125,
+      -4.801310062408447
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217744,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_030_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3093
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114644,
+     "index": 31,
+     "maximum": [
+      218.3419189453125,
+      13.808032989501953,
+      7.189351558685303
+     ],
+     "minimum": [
+      210.67117309570312,
+      5.735888957977295,
+      -0.29793253540992737
+     ],
+     "name": "throne_entry",
+     "tiles": [
+      {
+       "fileDataID": 217745,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_031_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3094
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114645,
+     "index": 32,
+     "maximum": [
+      218.34193420410156,
+      -5.711836338043213,
+      7.189352989196777
+     ],
+     "minimum": [
+      210.6711883544922,
+      -13.78396987915039,
+      -0.5970333218574524
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217746,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_032_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3095
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114646,
+     "index": 33,
+     "maximum": [
+      210.7267303466797,
+      -5.7118306159973145,
+      7.6207733154296875
+     ],
+     "minimum": [
+      203.0559539794922,
+      -14.20053768157959,
+      -1.094390869140625
+     ],
+     "name": "tosewer03",
+     "tiles": [
+      {
+       "fileDataID": 217747,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_033_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3096
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 114647,
+     "index": 34,
+     "maximum": [
+      209.70538330078125,
+      5.791457653045654,
+      10.469783782958984
+     ],
+     "minimum": [
+      196.50454711914062,
+      -5.767393112182617,
+      -1.5999130010604858
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217748,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_034_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3097
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114648,
+     "index": 35,
+     "maximum": [
+      210.72671508789062,
+      13.808032989501953,
+      7.189351558685303
+     ],
+     "minimum": [
+      203.0559844970703,
+      5.735894680023193,
+      -0.29793253540992737
+     ],
+     "name": "sewer16",
+     "tiles": [
+      {
+       "fileDataID": 217749,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_035_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3098
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114649,
+     "index": 36,
+     "maximum": [
+      -41.37064743041992,
+      10.981756210327148,
+      10.70987606048584
+     ],
+     "minimum": [
+      -62.95088195800781,
+      -11.109426498413086,
+      -2.4884490966796875
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217750,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_036_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3099
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114650,
+     "index": 37,
+     "maximum": [
+      -45.85503387451172,
+      -11.0538330078125,
+      5.409547805786133
+     ],
+     "minimum": [
+      -58.06072998046875,
+      -41.28536605834961,
+      -7.332334041595459
+     ],
+     "name": "sewer09",
+     "tiles": [
+      {
+       "fileDataID": 217751,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_037_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3100
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114651,
+     "index": 38,
+     "maximum": [
+      -20.5054988861084,
+      26.761930465698242,
+      7.852511882781982
+     ],
+     "minimum": [
+      -43.35645294189453,
+      3.745630979537964,
+      -2.4320876598358154
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217752,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_038_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3101
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114652,
+     "index": 39,
+     "maximum": [
+      -20.369836807250977,
+      -3.8732805252075195,
+      7.852511882781982
+     ],
+     "minimum": [
+      -43.356475830078125,
+      -26.91192054748535,
+      -2.4320876598358154
+     ],
+     "name": "sewer10",
+     "tiles": [
+      {
+       "fileDataID": 217753,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_039_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3102
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114653,
+     "index": 40,
+     "maximum": [
+      -62.89532470703125,
+      6.091599941253662,
+      5.409546852111816
+     ],
+     "minimum": [
+      -93.12705993652344,
+      -6.114098072052002,
+      -7.332334518432617
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217754,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_040_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3103
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114654,
+     "index": 41,
+     "maximum": [
+      -45.855045318603516,
+      41.15769577026367,
+      5.409547328948975
+     ],
+     "minimum": [
+      -58.06074523925781,
+      10.926162719726562,
+      -7.332334041595459
+     ],
+     "name": "sewer12",
+     "tiles": [
+      {
+       "fileDataID": 217755,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_041_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3104
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114655,
+     "index": 42,
+     "maximum": [
+      134.51429748535156,
+      73.08128356933594,
+      0.4021525979042053
+     ],
+     "minimum": [
+      120.41608428955078,
+      62.31538772583008,
+      -7.430511474609375
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217756,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_042_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3105
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114656,
+     "index": 43,
+     "maximum": [
+      163.55767822265625,
+      55.72382354736328,
+      3.030580997467041
+     ],
+     "minimum": [
+      122.5030517578125,
+      43.62331008911133,
+      -4.802116394042969
+     ],
+     "name": "sewer13",
+     "tiles": [
+      {
+       "fileDataID": 217757,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_043_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3106
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114657,
+     "index": 44,
+     "maximum": [
+      -7.83317232131958,
+      -17.268024444580078,
+      10.37077522277832
+     ],
+     "minimum": [
+      -14.93178939819336,
+      -23.452373504638672,
+      0.019853802397847176
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217758,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_044_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3107
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114658,
+     "index": 45,
+     "maximum": [
+      -16.87907600402832,
+      -11.250877380371094,
+      10.37077522277832
+     ],
+     "minimum": [
+      -24.56011390686035,
+      -18.863136291503906,
+      0.01985507644712925
+     ],
+     "name": "sewer14",
+     "tiles": [
+      {
+       "fileDataID": 217759,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_045_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3108
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114659,
+     "index": 46,
+     "maximum": [
+      3.536867618560791,
+      -17.203617095947266,
+      10.37077522277832
+     ],
+     "minimum": [
+      -3.502439022064209,
+      -23.46058464050293,
+      0.0198542270809412
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217760,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_046_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3109
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114660,
+     "index": 47,
+     "maximum": [
+      13.174745559692383,
+      -11.208539962768555,
+      10.370418548583984
+     ],
+     "minimum": [
+      5.566129684448242,
+      -18.886001586914062,
+      0.01967536099255085
+     ],
+     "name": "sewer17",
+     "tiles": [
+      {
+       "fileDataID": 217761,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_047_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3110
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114661,
+     "index": 48,
+     "maximum": [
+      13.190390586853027,
+      18.848798751831055,
+      10.370771408081055
+     ],
+     "minimum": [
+      5.509372234344482,
+      11.236539840698242,
+      0.0198542270809412
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217762,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_048_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3111
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114662,
+     "index": 49,
+     "maximum": [
+      3.562060832977295,
+      23.438034057617188,
+      10.37077522277832
+     ],
+     "minimum": [
+      -3.53656005859375,
+      17.253690719604492,
+      0.019856346771121025
+     ],
+     "name": "sewer18",
+     "tiles": [
+      {
+       "fileDataID": 217763,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_049_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3112
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114663,
+     "index": 50,
+     "maximum": [
+      -7.867283344268799,
+      23.44624900817871,
+      10.370773315429688
+     ],
+     "minimum": [
+      -14.906596183776855,
+      17.189273834228516,
+      0.01985507644712925
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217764,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_050_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3113
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114664,
+     "index": 51,
+     "maximum": [
+      -16.928573608398438,
+      18.868083953857422,
+      10.370773315429688
+     ],
+     "minimum": [
+      -24.540830612182617,
+      11.187042236328125,
+      0.01985507644712925
+     ],
+     "name": "sewer19",
+     "tiles": [
+      {
+       "fileDataID": 217765,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_051_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3114
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114665,
+     "index": 52,
+     "maximum": [
+      -4.552286624908447,
+      43.290924072265625,
+      -43.06794357299805
+     ],
+     "minimum": [
+      -96.61932373046875,
+      -43.218017578125,
+      -129.6097869873047
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217766,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_052_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3127
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114666,
+     "index": 53,
+     "maximum": [
+      -16.184528350830078,
+      246.111083984375,
+      -76.99034881591797
+     ],
+     "minimum": [
+      -24.608562469482422,
+      190.4824981689453,
+      -96.83675384521484
+     ],
+     "name": "sewer20",
+     "tiles": [
+      {
+       "fileDataID": 217767,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_053_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3137
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114667,
+     "index": 54,
+     "maximum": [
+      -23.46476936340332,
+      204.44671630859375,
+      -90.57162475585938
+     ],
+     "minimum": [
+      -56.96884536743164,
+      191.01597595214844,
+      -108.90812683105469
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217768,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_054_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3138
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114668,
+     "index": 55,
+     "maximum": [
+      8.991983413696289,
+      243.5842742919922,
+      -68.1988296508789
+     ],
+     "minimum": [
+      -17.240755081176758,
+      234.5802764892578,
+      -85.44184112548828
+     ],
+     "name": "sewer21",
+     "tiles": [
+      {
+       "fileDataID": 217769,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_055_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3139
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114669,
+     "index": 56,
+     "maximum": [
+      21.270401000976562,
+      247.56251525878906,
+      -62.8931999206543
+     ],
+     "minimum": [
+      8.26121711730957,
+      231.89894104003906,
+      -74.46394348144531
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217770,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_056_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3140
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114670,
+     "index": 57,
+     "maximum": [
+      61.29166793823242,
+      243.66822814941406,
+      -56.36051940917969
+     ],
+     "minimum": [
+      20.539644241333008,
+      234.65296936035156,
+      -74.46324157714844
+     ],
+     "name": "sewer22",
+     "tiles": [
+      {
+       "fileDataID": 217771,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_057_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3141
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114671,
+     "index": 58,
+     "maximum": [
+      19.00349998474121,
+      292.51080322265625,
+      -65.67855834960938
+     ],
+     "minimum": [
+      10.579427719116211,
+      246.78919982910156,
+      -75.72136688232422
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217772,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_058_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3142
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114672,
+     "index": 59,
+     "maximum": [
+      87.46694946289062,
+      287.4258117675781,
+      -47.1843376159668
+     ],
+     "minimum": [
+      50.52840805053711,
+      205.46986389160156,
+      -75.57930755615234
+     ],
+     "name": "tosewer05",
+     "tiles": [
+      {
+       "fileDataID": 217773,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_059_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3143
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114673,
+     "index": 60,
+     "maximum": [
+      70.24641418457031,
+      309.30322265625,
+      -43.6652946472168
+     ],
+     "minimum": [
+      28.78513526916504,
+      267.85894775390625,
+      -77.48753356933594
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217774,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_060_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3144
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114674,
+     "index": 61,
+     "maximum": [
+      78.73735046386719,
+      215.52920532226562,
+      -33.907230377197266
+     ],
+     "minimum": [
+      29.5052547454834,
+      164.12254333496094,
+      -64.26537322998047
+     ],
+     "name": "tosewer06",
+     "tiles": [
+      {
+       "fileDataID": 217775,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_061_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3145
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114675,
+     "index": 62,
+     "maximum": [
+      -71.77978515625,
+      -99.4184341430664,
+      -99.41653442382812
+     ],
+     "minimum": [
+      -78.15673065185547,
+      -105.3213882446289,
+      -105.65557098388672
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217776,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_062_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3146
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114676,
+     "index": 63,
+     "maximum": [
+      47.60637283325195,
+      27.367916107177734,
+      -99.41702270507812
+     ],
+     "minimum": [
+      32.70844268798828,
+      20.964754104614258,
+      -108.03097534179688
+     ],
+     "name": "entry04",
+     "tiles": [
+      {
+       "fileDataID": 217777,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_063_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3147
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114677,
+     "index": 64,
+     "maximum": [
+      53.453094482421875,
+      26.288393020629883,
+      -99.41653442382812
+     ],
+     "minimum": [
+      47.550148010253906,
+      19.911453247070312,
+      -105.65557861328125
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217778,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_064_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3148
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114678,
+     "index": 65,
+     "maximum": [
+      53.47610092163086,
+      19.9670467376709,
+      -97.33407592773438
+     ],
+     "minimum": [
+      49.12664794921875,
+      7.17411470413208,
+      -105.65385437011719
+     ],
+     "name": "entry02",
+     "tiles": [
+      {
+       "fileDataID": 217779,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_065_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3149
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114679,
+     "index": 66,
+     "maximum": [
+      53.47603988647461,
+      -7.0819010734558105,
+      -97.33407592773438
+     ],
+     "minimum": [
+      49.1265869140625,
+      -19.816795349121094,
+      -105.65384674072266
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217780,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_066_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3150
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114680,
+     "index": 67,
+     "maximum": [
+      53.45302963256836,
+      -19.761201858520508,
+      -99.41653442382812
+     ],
+     "minimum": [
+      47.550079345703125,
+      -26.138139724731445,
+      -105.65557098388672
+     ],
+     "name": "entry03",
+     "tiles": [
+      {
+       "fileDataID": 217781,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_067_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3151
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114681,
+     "index": 68,
+     "maximum": [
+      47.60630798339844,
+      -20.814504623413086,
+      -99.4170150756836
+     ],
+     "minimum": [
+      32.7083740234375,
+      -27.217668533325195,
+      -108.03097534179688
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217782,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_068_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3152
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114682,
+     "index": 69,
+     "maximum": [
+      -24.65069007873535,
+      -84.57676696777344,
+      -99.41702270507812
+     ],
+     "minimum": [
+      -31.053850173950195,
+      -99.47472381591797,
+      -108.03097534179688
+     ],
+     "name": "entry06",
+     "tiles": [
+      {
+       "fileDataID": 217783,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_069_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3153
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114683,
+     "index": 70,
+     "maximum": [
+      -25.730228424072266,
+      -99.41847229003906,
+      -99.41653442382812
+     ],
+     "minimum": [
+      -32.107173919677734,
+      -105.32141876220703,
+      -105.65557861328125
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217784,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_070_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3154
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114684,
+     "index": 71,
+     "maximum": [
+      -32.051578521728516,
+      -100.99497985839844,
+      -97.33407592773438
+     ],
+     "minimum": [
+      -44.844486236572266,
+      -105.34443664550781,
+      -105.65385437011719
+     ],
+     "name": "entry05",
+     "tiles": [
+      {
+       "fileDataID": 217785,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_071_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3155
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114685,
+     "index": 72,
+     "maximum": [
+      -59.10051727294922,
+      -100.99492645263672,
+      -97.33407592773438
+     ],
+     "minimum": [
+      -71.83541870117188,
+      -105.3443832397461,
+      -105.65384674072266
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217786,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_072_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3156
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114686,
+     "index": 73,
+     "maximum": [
+      -72.83309936523438,
+      -84.57672119140625,
+      -99.4170150756836
+     ],
+     "minimum": [
+      -79.23626708984375,
+      -99.47465515136719,
+      -108.03097534179688
+     ],
+     "name": "mausoleum",
+     "tiles": [
+      {
+       "fileDataID": 217787,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_073_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3157
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114687,
+     "index": 74,
+     "maximum": [
+      -8.404059410095215,
+      468.8072204589844,
+      23.76245880126953
+     ],
+     "minimum": [
+      -82.57182312011719,
+      386.0884094238281,
+      -39.91682052612305
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217788,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_074_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3158
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 114688,
+     "index": 75,
+     "maximum": [
+      33.54054260253906,
+      536.043701171875,
+      65.45195770263672
+     ],
+     "minimum": [
+      -18.941570281982422,
+      454.1009826660156,
+      0.2252875417470932
+     ],
+     "name": "mausoleum_hall01",
+     "tiles": []
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 114689,
+     "index": 76,
+     "maximum": [
+      3.8723199367523193,
+      515.1177368164062,
+      49.569889068603516
+     ],
+     "minimum": [
+      -65.9786148071289,
+      460.8537292480469,
+      -2.82303524017334
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217789,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_076_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3160
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114690,
+     "index": 77,
+     "maximum": [
+      59.09992980957031,
+      427.8846435546875,
+      -0.4390428364276886
+     ],
+     "minimum": [
+      -11.938230514526367,
+      344.4987487792969,
+      -71.18357849121094
+     ],
+     "name": "mausoleum_hall07",
+     "tiles": [
+      {
+       "fileDataID": 217790,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_077_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3161
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114691,
+     "index": 78,
+     "maximum": [
+      50.36764907836914,
+      362.58026123046875,
+      -32.68326950073242
+     ],
+     "minimum": [
+      -4.149827480316162,
+      289.26715087890625,
+      -81.032958984375
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217791,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_078_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3162
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114692,
+     "index": 79,
+     "maximum": [
+      -25.730247497558594,
+      105.47163391113281,
+      -99.41653442382812
+     ],
+     "minimum": [
+      -32.107177734375,
+      99.56868743896484,
+      -105.65557098388672
+     ],
+     "name": "mausoleum_hall06",
+     "tiles": [
+      {
+       "fileDataID": 217792,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_079_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3163
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114693,
+     "index": 80,
+     "maximum": [
+      -32.05158233642578,
+      105.49463653564453,
+      -97.33407592773438
+     ],
+     "minimum": [
+      -44.84444808959961,
+      101.14517974853516,
+      -105.65384674072266
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217793,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_080_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3164
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114694,
+     "index": 81,
+     "maximum": [
+      -24.650712966918945,
+      99.62492370605469,
+      -99.4170150756836
+     ],
+     "minimum": [
+      -31.053874969482422,
+      84.72696685791016,
+      -108.03097534179688
+     ],
+     "name": "mausoleum_hall02",
+     "tiles": [
+      {
+       "fileDataID": 217794,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_081_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3165
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114695,
+     "index": 82,
+     "maximum": [
+      -151.4371337890625,
+      -19.76120948791504,
+      -99.41653442382812
+     ],
+     "minimum": [
+      -157.34005737304688,
+      -26.138145446777344,
+      -105.65557098388672
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217795,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_082_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3166
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114696,
+     "index": 83,
+     "maximum": [
+      -136.5954132080078,
+      -20.814504623413086,
+      -99.41702270507812
+     ],
+     "minimum": [
+      -151.49331665039062,
+      -27.217668533325195,
+      -108.03097534179688
+     ],
+     "name": "mausoleum_hall03",
+     "tiles": [
+      {
+       "fileDataID": 217796,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_083_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3167
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114697,
+     "index": 84,
+     "maximum": [
+      -153.0136260986328,
+      -7.023871898651123,
+      -97.33407592773438
+     ],
+     "minimum": [
+      -157.36305236816406,
+      -19.816804885864258,
+      -105.65385437011719
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217797,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_084_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3168
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114698,
+     "index": 85,
+     "maximum": [
+      -151.4370880126953,
+      26.288381576538086,
+      -99.41653442382812
+     ],
+     "minimum": [
+      -157.3400115966797,
+      19.911460876464844,
+      -105.65557098388672
+     ],
+     "name": "sewer23",
+     "tiles": [
+      {
+       "fileDataID": 217798,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_085_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3169
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114699,
+     "index": 86,
+     "maximum": [
+      -153.01356506347656,
+      19.9670352935791,
+      -97.33407592773438
+     ],
+     "minimum": [
+      -157.36302185058594,
+      7.232150077819824,
+      -105.65384674072266
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217799,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_086_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3170
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114700,
+     "index": 87,
+     "maximum": [
+      -136.59535217285156,
+      27.367900848388672,
+      -99.4170150756836
+     ],
+     "minimum": [
+      -151.4933319091797,
+      20.964736938476562,
+      -108.03097534179688
+     ],
+     "name": "sewer24",
+     "tiles": [
+      {
+       "fileDataID": 217800,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_087_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3171
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114701,
+     "index": 88,
+     "maximum": [
+      -71.7799072265625,
+      105.4716796875,
+      -99.41653442382812
+     ],
+     "minimum": [
+      -78.15678405761719,
+      99.5687255859375,
+      -105.65557098388672
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217801,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_088_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3172
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114702,
+     "index": 89,
+     "maximum": [
+      -72.83313751220703,
+      99.62494659423828,
+      -99.41702270507812
+     ],
+     "minimum": [
+      -79.2363052368164,
+      84.72702026367188,
+      -108.03097534179688
+     ],
+     "name": "throne_hall05",
+     "tiles": [
+      {
+       "fileDataID": 217802,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_089_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3173
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114703,
+     "index": 90,
+     "maximum": [
+      -59.04246520996094,
+      105.49468994140625,
+      -97.33407592773438
+     ],
+     "minimum": [
+      -71.83546447753906,
+      101.14523315429688,
+      -105.65385437011719
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217803,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_090_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3174
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114704,
+     "index": 91,
+     "maximum": [
+      -212.80015563964844,
+      -161.97073364257812,
+      -96.32456970214844
+     ],
+     "minimum": [
+      -250.71359252929688,
+      -199.88424682617188,
+      -124.85260772705078
+     ],
+     "name": "throne_hall04",
+     "tiles": [
+      {
+       "fileDataID": 217804,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_091_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3175
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114705,
+     "index": 92,
+     "maximum": [
+      -127.69056701660156,
+      -74.99051666259766,
+      -55.9725456237793
+     ],
+     "minimum": [
+      -279.999267578125,
+      -229.161376953125,
+      -125.044677734375
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217805,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_092_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 217806,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_092_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 217807,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_092_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 217808,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_092_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 3176
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114706,
+     "index": 93,
+     "maximum": [
+      -171.3556365966797,
+      45.89633560180664,
+      -10.90927505493164
+     ],
+     "minimum": [
+      -241.21778869628906,
+      -45.677120208740234,
+      -129.6339111328125
+     ],
+     "name": "throne_hall06",
+     "tiles": [
+      {
+       "fileDataID": 217809,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_093_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3189
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114707,
+     "index": 94,
+     "maximum": [
+      -123.93047332763672,
+      220.9735870361328,
+      -77.58548736572266
+     ],
+     "minimum": [
+      -207.5477752685547,
+      156.4446563720703,
+      -132.23300170898438
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217810,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_094_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3190
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114708,
+     "index": 95,
+     "maximum": [
+      -6.122331619262695,
+      191.85043334960938,
+      -10.90927505493164
+     ],
+     "minimum": [
+      -97.69580078125,
+      119.48725128173828,
+      -129.6339111328125
+     ],
+     "name": "throne_hall07",
+     "tiles": [
+      {
+       "fileDataID": 217811,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_095_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3192
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114709,
+     "index": 96,
+     "maximum": [
+      137.33079528808594,
+      45.8273811340332,
+      -15.55308723449707
+     ],
+     "minimum": [
+      67.46865844726562,
+      -45.74606704711914,
+      -129.64878845214844
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217812,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_096_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3193
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114710,
+     "index": 97,
+     "maximum": [
+      -6.191213130950928,
+      -119.33702087402344,
+      -10.90927505493164
+     ],
+     "minimum": [
+      -97.7646484375,
+      -189.19912719726562,
+      -129.63755798339844
+     ],
+     "name": "throne_hall10",
+     "tiles": [
+      {
+       "fileDataID": 217813,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_097_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3194
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114711,
+     "index": 98,
+     "maximum": [
+      -300.74224853515625,
+      136.412841796875,
+      -91.89278411865234
+     ],
+     "minimum": [
+      -411.3446350097656,
+      25.898334503173828,
+      -130.7513427734375
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217814,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_098_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3199
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114712,
+     "index": 99,
+     "maximum": [
+      -204.6648406982422,
+      191.23782348632812,
+      -98.23719787597656
+     ],
+     "minimum": [
+      -241.17202758789062,
+      154.7306671142578,
+      -120.3917236328125
+     ],
+     "name": "throne_hall11",
+     "tiles": [
+      {
+       "fileDataID": 217815,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_099_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3200
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114713,
+     "index": 100,
+     "maximum": [
+      -325.669677734375,
+      169.48721313476562,
+      -104.92556762695312
+     ],
+     "minimum": [
+      -351.0606384277344,
+      130.96629333496094,
+      -129.86512756347656
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217816,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_100_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3201
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114714,
+     "index": 101,
+     "maximum": [
+      -301.76971435546875,
+      193.42453002929688,
+      -99.37001037597656
+     ],
+     "minimum": [
+      -336.63409423828125,
+      160.107421875,
+      -124.30535125732422
+     ],
+     "name": "throne_hall12",
+     "tiles": [
+      {
+       "fileDataID": 217817,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_101_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3202
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114715,
+     "index": 102,
+     "maximum": [
+      -266.84124755859375,
+      206.01319885253906,
+      -96.02529907226562
+     ],
+     "minimum": [
+      -305.2546691894531,
+      180.62228393554688,
+      -118.74980926513672
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217818,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_102_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3203
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114716,
+     "index": 103,
+     "maximum": [
+      -231.78269958496094,
+      205.66452026367188,
+      -96.02529907226562
+     ],
+     "minimum": [
+      -270.3130798339844,
+      180.27357482910156,
+      -117.56645965576172
+     ],
+     "name": "throne_hall13",
+     "tiles": [
+      {
+       "fileDataID": 217819,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_103_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3204
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114717,
+     "index": 104,
+     "maximum": [
+      -181.48619079589844,
+      164.1199493408203,
+      -101.06244659423828
+     ],
+     "minimum": [
+      -214.0541534423828,
+      129.90565490722656,
+      -122.02545928955078
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": [
+      {
+       "fileDataID": 217820,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_104_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3205
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114718,
+     "index": 105,
+     "maximum": [
+      -274.12957763671875,
+      141.3197784423828,
+      -116.3670654296875
+     ],
+     "minimum": [
+      -298.6373596191406,
+      118.66545867919922,
+      -133.09434509277344
+     ],
+     "name": "TradeDist01",
+     "tiles": [
+      {
+       "fileDataID": 217821,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_105_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3206
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114719,
+     "index": 106,
+     "maximum": [
+      -256.8532409667969,
+      176.0603790283203,
+      -122.98690795898438
+     ],
+     "minimum": [
+      -290.3177185058594,
+      137.3826904296875,
+      -139.8109130859375
+     ],
+     "name": "Trade Quarter",
+     "tiles": [
+      {
+       "fileDataID": 217822,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_106_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3207
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114720,
+     "index": 107,
+     "maximum": [
+      -174.9492950439453,
+      189.93072509765625,
+      -137.35647583007812
+     ],
+     "minimum": [
+      -200.9813690185547,
+      167.9802703857422,
+      -147.5692138671875
+     ],
+     "name": "SewerEnt02",
+     "tiles": [
+      {
+       "fileDataID": 217823,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_107_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3209
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114721,
+     "index": 108,
+     "maximum": [
+      -186.40171813964844,
+      209.74232482910156,
+      -119.76954650878906
+     ],
+     "minimum": [
+      -265.3463439941406,
+      130.75009155273438,
+      -147.94757080078125
+     ],
+     "name": "Sewers",
+     "tiles": [
+      {
+       "fileDataID": 217824,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_108_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3210
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114722,
+     "index": 109,
+     "maximum": [
+      -216.07119750976562,
+      214.63841247558594,
+      -121.62906646728516
+     ],
+     "minimum": [
+      -230.36715698242188,
+      200.39877319335938,
+      -139.80848693847656
+     ],
+     "name": "SewerEnt01",
+     "tiles": [
+      {
+       "fileDataID": 217825,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_109_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3211
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114723,
+     "index": 110,
+     "maximum": [
+      -194.99290466308594,
+      230.33639526367188,
+      -116.3670654296875
+     ],
+     "minimum": [
+      -224.4480438232422,
+      201.94032287597656,
+      -133.03663635253906
+     ],
+     "name": "Sewers",
+     "tiles": [
+      {
+       "fileDataID": 217826,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_110_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3212
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114724,
+     "index": 111,
+     "maximum": [
+      -98.5697250366211,
+      176.88035583496094,
+      -10.90927505493164
+     ],
+     "minimum": [
+      -228.59707641601562,
+      46.579681396484375,
+      -129.6339111328125
+     ],
+     "name": "SewerEnt03",
+     "tiles": [
+      {
+       "fileDataID": 217827,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_111_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 217828,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_111_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 217829,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_111_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 217830,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_111_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 3220
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114725,
+     "index": 112,
+     "maximum": [
+      124.709716796875,
+      -46.42946243286133,
+      -10.909261703491211
+     ],
+     "minimum": [
+      -5.317217826843262,
+      -176.7301483154297,
+      -129.7423553466797
+     ],
+     "name": "Sewers",
+     "tiles": [
+      {
+       "fileDataID": 217831,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_112_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 217832,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_112_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 217833,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_112_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 217834,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_112_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 3221
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114726,
+     "index": 113,
+     "maximum": [
+      124.86309051513672,
+      176.72857666015625,
+      -10.90638542175293
+     ],
+     "minimum": [
+      -5.438919544219971,
+      46.70138168334961,
+      -129.98460388183594
+     ],
+     "name": "SewerEnt04",
+     "tiles": [
+      {
+       "fileDataID": 217835,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_113_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 217836,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_113_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 217837,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_113_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 217838,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_113_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 3222
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114727,
+     "index": 114,
+     "maximum": [
+      -98.44804382324219,
+      -46.55113220214844,
+      -10.90928840637207
+     ],
+     "minimum": [
+      -228.748779296875,
+      -176.5784912109375,
+      -129.6339111328125
+     ],
+     "name": "Sewers",
+     "tiles": [
+      {
+       "fileDataID": 217839,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_114_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 217840,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_114_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 217841,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_114_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 217842,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_114_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 3225
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114728,
+     "index": 115,
+     "maximum": [
+      -43.08363342285156,
+      64.87103271484375,
+      3.891787052154541
+     ],
+     "minimum": [
+      -60.98952865600586,
+      41.10213851928711,
+      -103.99746704101562
+     ],
+     "name": "SewerEnt06",
+     "tiles": [
+      {
+       "fileDataID": 217843,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_115_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3226
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114729,
+     "index": 116,
+     "maximum": [
+      -43.03223419189453,
+      -41.22980880737305,
+      3.8917734622955322
+     ],
+     "minimum": [
+      -60.93812561035156,
+      -64.79814147949219,
+      -103.99746704101562
+     ],
+     "name": "Sewers",
+     "tiles": [
+      {
+       "fileDataID": 217844,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_116_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3227
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114730,
+     "index": 117,
+     "maximum": [
+      -93.07122039794922,
+      8.968990325927734,
+      3.8917734622955322
+     ],
+     "minimum": [
+      -116.41768646240234,
+      -8.936901092529297,
+      -103.96292114257812
+     ],
+     "name": "SewerEnt05",
+     "tiles": [
+      {
+       "fileDataID": 217845,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_117_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3228
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114731,
+     "index": 118,
+     "maximum": [
+      -61.73149108886719,
+      60.26688003540039,
+      -91.50374603271484
+     ],
+     "minimum": [
+      -80.51100158691406,
+      36.141578674316406,
+      -105.67554473876953
+     ],
+     "name": "Sewers",
+     "tiles": [
+      {
+       "fileDataID": 217846,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_118_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3115
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114732,
+     "index": 119,
+     "maximum": [
+      5.703097820281982,
+      29.794292449951172,
+      -91.47142028808594
+     ],
+     "minimum": [
+      -16.433168411254883,
+      10.752495765686035,
+      -105.67638397216797
+     ],
+     "name": "FFRoute02",
+     "tiles": [
+      {
+       "fileDataID": 217847,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_119_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3116
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114733,
+     "index": 120,
+     "maximum": [
+      5.703097820281982,
+      -10.679583549499512,
+      -91.47142028808594
+     ],
+     "minimum": [
+      -16.433170318603516,
+      -29.721378326416016,
+      -105.67638397216797
+     ],
+     "name": "Sewers",
+     "tiles": [
+      {
+       "fileDataID": 217848,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_120_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3117
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114734,
+     "index": 121,
+     "maximum": [
+      -87.6029052734375,
+      -10.67957878112793,
+      -91.46920776367188
+     ],
+     "minimum": [
+      -111.90135955810547,
+      -29.653226852416992,
+      -105.67638397216797
+     ],
+     "name": "FFRoute03",
+     "tiles": [
+      {
+       "fileDataID": 217849,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_121_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3118
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114735,
+     "index": 122,
+     "maximum": [
+      -87.6029052734375,
+      29.794288635253906,
+      -91.47142028808594
+     ],
+     "minimum": [
+      -109.73916625976562,
+      10.752492904663086,
+      -105.68756866455078
+     ],
+     "name": "Sewers",
+     "tiles": [
+      {
+       "fileDataID": 217850,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_122_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3119
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114736,
+     "index": 123,
+     "maximum": [
+      -7.025153636932373,
+      46.105953216552734,
+      -87.53059387207031
+     ],
+     "minimum": [
+      -27.607181549072266,
+      25.1726016998291,
+      -105.67566680908203
+     ],
+     "name": "FFRoute01",
+     "tiles": [
+      {
+       "fileDataID": 217851,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_123_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3120
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114737,
+     "index": 124,
+     "maximum": [
+      -7.025153636932373,
+      -25.099695205688477,
+      -87.53057861328125
+     ],
+     "minimum": [
+      -27.607175827026367,
+      -46.03304672241211,
+      -105.69171905517578
+     ],
+     "name": "Sewers",
+     "tiles": [
+      {
+       "fileDataID": 217852,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_124_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3121
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114738,
+     "index": 125,
+     "maximum": [
+      -76.42890930175781,
+      -25.09969139099121,
+      -87.53059387207031
+     ],
+     "minimum": [
+      -97.01091766357422,
+      -46.03304672241211,
+      -105.68756866455078
+     ],
+     "name": "DistRt09.5",
+     "tiles": [
+      {
+       "fileDataID": 217853,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_125_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3122
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114739,
+     "index": 126,
+     "maximum": [
+      -76.42891693115234,
+      46.10593032836914,
+      -87.53058624267578
+     ],
+     "minimum": [
+      -97.01091766357422,
+      25.172592163085938,
+      -105.67566680908203
+     ],
+     "name": "DistRt03",
+     "tiles": [
+      {
+       "fileDataID": 217854,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_126_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3123
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114740,
+     "index": 127,
+     "maximum": [
+      -23.525062561035156,
+      58.105247497558594,
+      -91.50375366210938
+     ],
+     "minimum": [
+      -42.30457305908203,
+      36.141578674316406,
+      -105.6755599975586
+     ],
+     "name": "DistRt03.5",
+     "tiles": [
+      {
+       "fileDataID": 217855,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_127_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3124
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114741,
+     "index": 128,
+     "maximum": [
+      -23.525053024291992,
+      -36.06867218017578,
+      -91.50374603271484
+     ],
+     "minimum": [
+      -42.3045654296875,
+      -60.19397735595703,
+      -105.67554473876953
+     ],
+     "name": "DistRt04",
+     "tiles": [
+      {
+       "fileDataID": 217856,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_128_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3126
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114742,
+     "index": 129,
+     "maximum": [
+      177.29493713378906,
+      -75.6744613647461,
+      -55.97254180908203
+     ],
+     "minimum": [
+      23.10084342956543,
+      -227.99571228027344,
+      -128.07725524902344
+     ],
+     "name": "DistRt05",
+     "tiles": [
+      {
+       "fileDataID": 217857,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_129_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 247605,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_129_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 247606,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_129_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 247607,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_129_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 3177
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114743,
+     "index": 130,
+     "maximum": [
+      154.64573669433594,
+      -173.57167053222656,
+      -103.89252471923828
+     ],
+     "minimum": [
+      122.86087799072266,
+      -205.3589324951172,
+      -125.88970184326172
+     ],
+     "name": "DistRt05.5",
+     "tiles": [
+      {
+       "fileDataID": 217858,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_130_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3178
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114744,
+     "index": 131,
+     "maximum": [
+      120.68421936035156,
+      -161.7455596923828,
+      -111.21786499023438
+     ],
+     "minimum": [
+      111.03536224365234,
+      -171.39437866210938,
+      -121.87309265136719
+     ],
+     "name": "DistRt06",
+     "tiles": [
+      {
+       "fileDataID": 217862,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_131_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3179
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114745,
+     "index": 132,
+     "maximum": [
+      130.16432189941406,
+      -167.1514434814453,
+      -112.90457916259766
+     ],
+     "minimum": [
+      116.44303131103516,
+      -180.8728485107422,
+      -124.05581665039062
+     ],
+     "name": "DistRt07",
+     "tiles": [
+      {
+       "fileDataID": 217863,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_132_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3180
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114746,
+     "index": 133,
+     "maximum": [
+      114.24982452392578,
+      -168.17994689941406,
+      -113.82477569580078
+     ],
+     "minimum": [
+      108.92925262451172,
+      -173.48545837402344,
+      -121.88324737548828
+     ],
+     "name": "DistRt07.5",
+     "tiles": [
+      {
+       "fileDataID": 217864,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_133_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3181
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114747,
+     "index": 134,
+     "maximum": [
+      122.7747802734375,
+      -159.63528442382812,
+      -113.82454681396484
+     ],
+     "minimum": [
+      117.46976470947266,
+      -164.95997619628906,
+      -121.88301849365234
+     ],
+     "name": "DistRt08",
+     "tiles": [
+      {
+       "fileDataID": 217865,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_134_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3182
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114748,
+     "index": 135,
+     "maximum": [
+      163.5893096923828,
+      -185.4551239013672,
+      -101.89573669433594
+     ],
+     "minimum": [
+      151.4063720703125,
+      -197.6461944580078,
+      -116.20683288574219
+     ],
+     "name": "DistRt09",
+     "tiles": [
+      {
+       "fileDataID": 217866,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_135_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3183
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114749,
+     "index": 136,
+     "maximum": [
+      146.93299865722656,
+      -202.11959838867188,
+      -101.8957290649414
+     ],
+     "minimum": [
+      134.73255920410156,
+      -214.31187438964844,
+      -116.20683288574219
+     ],
+     "name": "DistRt10",
+     "tiles": [
+      {
+       "fileDataID": 217867,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_136_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3184
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114750,
+     "index": 137,
+     "maximum": [
+      -208.21487426757812,
+      156.06195068359375,
+      -77.58548736572266
+     ],
+     "minimum": [
+      -277.66131591796875,
+      72.40382385253906,
+      -132.47467041015625
+     ],
+     "name": "FFRoutet05",
+     "tiles": [
+      {
+       "fileDataID": 217868,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_137_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3191
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114751,
+     "index": 138,
+     "maximum": [
+      -224.4833221435547,
+      144.47047424316406,
+      -133.57093811035156
+     ],
+     "minimum": [
+      -258.472412109375,
+      113.50088500976562,
+      -147.56922912597656
+     ],
+     "name": "Sewers",
+     "tiles": [
+      {
+       "fileDataID": 217869,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_138_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3208
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114752,
+     "index": 139,
+     "maximum": [
+      -78.84012603759766,
+      118.91106414794922,
+      -61.32294845581055
+     ],
+     "minimum": [
+      -171.1067352294922,
+      26.971759796142578,
+      -124.77906799316406
+     ],
+     "name": "FFRoutet07",
+     "tiles": [
+      {
+       "fileDataID": 217870,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_139_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3219
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114753,
+     "index": 140,
+     "maximum": [
+      66.89250183105469,
+      119.23841857910156,
+      -61.32296371459961
+     ],
+     "minimum": [
+      -25.04683494567871,
+      26.971755981445312,
+      -124.77906799316406
+     ],
+     "name": "Sewers",
+     "tiles": [
+      {
+       "fileDataID": 217871,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_140_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3224
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114754,
+     "index": 141,
+     "maximum": [
+      -78.84011840820312,
+      -26.821514129638672,
+      -61.32294464111328
+     ],
+     "minimum": [
+      -170.7794952392578,
+      -119.08818817138672,
+      -124.77906799316406
+     ],
+     "name": "FFRoutet06",
+     "tiles": [
+      {
+       "fileDataID": 217872,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_141_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3218
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114755,
+     "index": 142,
+     "maximum": [
+      67.21983337402344,
+      -26.82151985168457,
+      -61.32295608520508
+     ],
+     "minimum": [
+      -25.04684066772461,
+      -118.76084899902344,
+      -124.77906799316406
+     ],
+     "name": "Sewers",
+     "tiles": [
+      {
+       "fileDataID": 217873,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_142_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3223
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114756,
+     "index": 143,
+     "maximum": [
+      -94.08466339111328,
+      178.24798583984375,
+      -112.80192565917969
+     ],
+     "minimum": [
+      -102.62338256835938,
+      168.5990753173828,
+      -124.19351196289062
+     ],
+     "name": "FFRoutet08",
+     "tiles": [
+      {
+       "fileDataID": 217874,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_143_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6589
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114757,
+     "index": 144,
+     "maximum": [
+      -82.93864440917969,
+      136.65045166015625,
+      -112.8011703491211
+     ],
+     "minimum": [
+      -91.47737121582031,
+      127.00154876708984,
+      -124.19313049316406
+     ],
+     "name": "Sewers",
+     "tiles": [
+      {
+       "fileDataID": 217875,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_144_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6590
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114758,
+     "index": 145,
+     "maximum": [
+      -82.99372100830078,
+      160.15386962890625,
+      -82.18379211425781
+     ],
+     "minimum": [
+      -102.24746704101562,
+      144.43377685546875,
+      -128.88490295410156
+     ],
+     "name": "FFRoutet04",
+     "tiles": [
+      {
+       "fileDataID": 217876,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_145_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6591
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114759,
+     "index": 146,
+     "maximum": [
+      -78.25956726074219,
+      184.46690368652344,
+      -22.43507194519043
+     ],
+     "minimum": [
+      -106.73255920410156,
+      119.19961547851562,
+      -65.75882720947266
+     ],
+     "name": "Sewers",
+     "tiles": [
+      {
+       "fileDataID": 217877,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_146_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6592
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114760,
+     "index": 147,
+     "maximum": [
+      -1.19744873046875,
+      178.22962951660156,
+      -112.80191802978516
+     ],
+     "minimum": [
+      -9.733426094055176,
+      168.58131408691406,
+      -124.19351196289062
+     ],
+     "name": "DistRt01.5",
+     "tiles": [
+      {
+       "fileDataID": 217878,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_147_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6593
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114761,
+     "index": 148,
+     "maximum": [
+      -1.4919569492340088,
+      160.0835723876953,
+      -82.18379974365234
+     ],
+     "minimum": [
+      -20.630950927734375,
+      144.3942413330078,
+      -128.88490295410156
+     ],
+     "name": "DistRt01",
+     "tiles": [
+      {
+       "fileDataID": 217879,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_148_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6594
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114762,
+     "index": 149,
+     "maximum": [
+      -12.343491554260254,
+      136.6321258544922,
+      -112.80116271972656
+     ],
+     "minimum": [
+      -20.87946319580078,
+      126.98379516601562,
+      -124.19313049316406
+     ],
+     "name": "DistRt02",
+     "tiles": [
+      {
+       "fileDataID": 217880,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_149_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6595
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114763,
+     "index": 150,
+     "maximum": [
+      2.9626262187957764,
+      184.42379760742188,
+      -22.43505096435547
+     ],
+     "minimum": [
+      -25.466222763061523,
+      119.16818237304688,
+      -65.75883483886719
+     ],
+     "name": "DistRt11.5",
+     "tiles": [
+      {
+       "fileDataID": 217881,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_150_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6596
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114764,
+     "index": 151,
+     "maximum": [
+      -87.4415283203125,
+      181.9242706298828,
+      -22.43505859375
+     ],
+     "minimum": [
+      -125.01763153076172,
+      116.48600006103516,
+      -128.88490295410156
+     ],
+     "name": "DistRt11",
+     "tiles": [
+      {
+       "fileDataID": 217882,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_151_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6597
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114765,
+     "index": 152,
+     "maximum": [
+      20.98868751525879,
+      181.90650939941406,
+      -22.43505859375
+     ],
+     "minimum": [
+      -16.379375457763672,
+      116.47530364990234,
+      -128.88490295410156
+     ],
+     "name": "DistRt12",
+     "tiles": [
+      {
+       "fileDataID": 217883,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_152_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6598
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114766,
+     "index": 153,
+     "maximum": [
+      -1.2653260231018066,
+      -168.44940185546875,
+      -112.80191040039062
+     ],
+     "minimum": [
+      -9.802325248718262,
+      -178.09786987304688,
+      -124.19351196289062
+     ],
+     "name": "DistRt13.5",
+     "tiles": [
+      {
+       "fileDataID": 217884,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_153_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6599
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114767,
+     "index": 154,
+     "maximum": [
+      -1.6395435333251953,
+      -144.28370666503906,
+      -82.18377685546875
+     ],
+     "minimum": [
+      -20.893301010131836,
+      -160.00376892089844,
+      -128.88490295410156
+     ],
+     "name": "DistRt13",
+     "tiles": [
+      {
+       "fileDataID": 217885,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_154_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6600
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114768,
+     "index": 155,
+     "maximum": [
+      -12.409564018249512,
+      -126.85145568847656,
+      -112.80115509033203
+     ],
+     "minimum": [
+      -20.948341369628906,
+      -136.50038146972656,
+      -124.19313049316406
+     ],
+     "name": "DistRt14",
+     "tiles": [
+      {
+       "fileDataID": 217886,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_155_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6601
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114769,
+     "index": 156,
+     "maximum": [
+      2.9272899627685547,
+      -119.02764129638672,
+      -22.43504524230957
+     ],
+     "minimum": [
+      -25.603090286254883,
+      -184.31021118164062,
+      -65.75881958007812
+     ],
+     "name": "DistRt15.5",
+     "tiles": [
+      {
+       "fileDataID": 217887,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_156_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6602
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114770,
+     "index": 157,
+     "maximum": [
+      -94.15350341796875,
+      -168.43121337890625,
+      -112.80192565917969
+     ],
+     "minimum": [
+      -102.68952178955078,
+      -178.07940673828125,
+      -124.19352722167969
+     ],
+     "name": "DistRt15",
+     "tiles": [
+      {
+       "fileDataID": 217888,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_157_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6603
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114771,
+     "index": 158,
+     "maximum": [
+      -83.19860076904297,
+      -144.2288055419922,
+      -82.18379974365234
+     ],
+     "minimum": [
+      -102.4523696899414,
+      -159.94886779785156,
+      -128.88490295410156
+     ],
+     "name": "DistRt16",
+     "tiles": [
+      {
+       "fileDataID": 217889,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_158_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6604
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114772,
+     "index": 159,
+     "maximum": [
+      -83.00749206542969,
+      -126.833740234375,
+      -112.8011703491211
+     ],
+     "minimum": [
+      -91.54350280761719,
+      -136.48193359375,
+      -124.19313049316406
+     ],
+     "name": "Rb_int",
+     "tiles": [
+      {
+       "fileDataID": 217890,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_159_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6605
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114773,
+     "index": 160,
+     "maximum": [
+      -78.39540100097656,
+      -119.02761840820312,
+      -22.43507194519043
+     ],
+     "minimum": [
+      -106.81427001953125,
+      -184.2803497314453,
+      -65.75883483886719
+     ],
+     "name": "Rogues' Quarter",
+     "tiles": [
+      {
+       "fileDataID": 217891,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_160_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6606
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114774,
+     "index": 161,
+     "maximum": [
+      21.130523681640625,
+      -116.33595275878906,
+      -22.43505859375
+     ],
+     "minimum": [
+      -16.443326950073242,
+      -181.77357482910156,
+      -128.88490295410156
+     ],
+     "name": "Rb",
+     "tiles": [
+      {
+       "fileDataID": 217892,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_161_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6607
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114775,
+     "index": 162,
+     "maximum": [
+      -87.50765991210938,
+      -116.26641082763672,
+      -22.43507194519043
+     ],
+     "minimum": [
+      -125.01763153076172,
+      -181.75640869140625,
+      -128.88490295410156
+     ],
+     "name": "Rogues' Quarter",
+     "tiles": [
+      {
+       "fileDataID": 217893,
+       "height": 256,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_162_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6608
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114776,
+     "index": 163,
+     "maximum": [
+      -220.46734619140625,
+      -42.04896926879883,
+      -112.80191040039062
+     ],
+     "minimum": [
+      -230.12106323242188,
+      -50.60478973388672,
+      -124.19349670410156
+     ],
+     "name": "Canal12",
+     "tiles": [
+      {
+       "fileDataID": 217894,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_163_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6609
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114777,
+     "index": 164,
+     "maximum": [
+      -196.31680297851562,
+      -30.975236892700195,
+      -82.18377685546875
+     ],
+     "minimum": [
+      -212.02236938476562,
+      -50.17405700683594,
+      -128.88490295410156
+     ],
+     "name": "Canals",
+     "tiles": [
+      {
+       "fileDataID": 217895,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_164_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6610
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114778,
+     "index": 165,
+     "maximum": [
+      -178.869873046875,
+      -30.90296745300293,
+      -112.80115509033203
+     ],
+     "minimum": [
+      -188.5235595703125,
+      -39.45879364013672,
+      -124.193115234375
+     ],
+     "name": "LabB",
+     "tiles": [
+      {
+       "fileDataID": 217896,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_165_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6611
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114779,
+     "index": 166,
+     "maximum": [
+      -171.07275390625,
+      -26.268779754638672,
+      -22.43504524230957
+     ],
+     "minimum": [
+      -236.32781982421875,
+      -54.696163177490234,
+      -65.75880432128906
+     ],
+     "name": "The Apothecarium",
+     "tiles": [
+      {
+       "fileDataID": 217897,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_166_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6612
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114780,
+     "index": 167,
+     "maximum": [
+      -220.4496307373047,
+      50.821044921875,
+      -112.80192565917969
+     ],
+     "minimum": [
+      -230.10299682617188,
+      42.26567840576172,
+      -124.19349670410156
+     ],
+     "name": "Canal11",
+     "tiles": [
+      {
+       "fileDataID": 217898,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_167_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6613
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114781,
+     "index": 168,
+     "maximum": [
+      -196.24720764160156,
+      50.583900451660156,
+      -82.18379974365234
+     ],
+     "minimum": [
+      -211.96730041503906,
+      31.330171585083008,
+      -128.88490295410156
+     ],
+     "name": "Canals",
+     "tiles": [
+      {
+       "fileDataID": 217899,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_168_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6614
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114782,
+     "index": 169,
+     "maximum": [
+      -178.8521728515625,
+      39.675048828125,
+      -112.80116271972656
+     ],
+     "minimum": [
+      -188.50550842285156,
+      31.11966896057129,
+      -124.193115234375
+     ],
+     "name": "Canal10",
+     "tiles": [
+      {
+       "fileDataID": 217900,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_169_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6615
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114783,
+     "index": 170,
+     "maximum": [
+      -171.04010009765625,
+      54.9680061340332,
+      -22.43505096435547
+     ],
+     "minimum": [
+      -236.29542541503906,
+      26.539424896240234,
+      -65.75883483886719
+     ],
+     "name": "Canals",
+     "tiles": [
+      {
+       "fileDataID": 217901,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_170_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6616
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114784,
+     "index": 171,
+     "maximum": [
+      -168.35440063476562,
+      -35.42294692993164,
+      -22.43504524230957
+     ],
+     "minimum": [
+      -233.7925262451172,
+      -72.99894714355469,
+      -128.88490295410156
+     ],
+     "name": "Canal09",
+     "tiles": [
+      {
+       "fileDataID": 217902,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_171_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6617
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114785,
+     "index": 172,
+     "maximum": [
+      -168.28501892089844,
+      73.14921569824219,
+      -22.43505096435547
+     ],
+     "minimum": [
+      -233.77484130859375,
+      35.63917922973633,
+      -128.88490295410156
+     ],
+     "name": "Canals",
+     "tiles": [
+      {
+       "fileDataID": 217903,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_172_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6618
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114786,
+     "index": 173,
+     "maximum": [
+      108.13529968261719,
+      50.32419204711914,
+      -82.18378448486328
+     ],
+     "minimum": [
+      92.42990112304688,
+      31.12535285949707,
+      -128.8848876953125
+     ],
+     "name": "ThrnRm",
+     "tiles": [
+      {
+       "fileDataID": 217904,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_173_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6619
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114787,
+     "index": 174,
+     "maximum": [
+      84.63652038574219,
+      39.60892868041992,
+      -112.8011474609375
+     ],
+     "minimum": [
+      74.98299407958984,
+      31.053049087524414,
+      -124.19309997558594
+     ],
+     "name": "Royal Quarter",
+     "tiles": [
+      {
+       "fileDataID": 217905,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_174_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6620
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114788,
+     "index": 175,
+     "maximum": [
+      132.438232421875,
+      54.84629440307617,
+      -22.43504524230957
+     ],
+     "minimum": [
+      67.18584442138672,
+      26.428998947143555,
+      -65.75881958007812
+     ],
+     "name": "ThrnHall06",
+     "tiles": [
+      {
+       "fileDataID": 217906,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_175_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6621
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114789,
+     "index": 176,
+     "maximum": [
+      126.21623229980469,
+      -42.115577697753906,
+      -112.80191040039062
+     ],
+     "minimum": [
+      116.56272888183594,
+      -50.67091751098633,
+      -124.19351196289062
+     ],
+     "name": "Royal Quarter",
+     "tiles": [
+      {
+       "fileDataID": 217907,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_176_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6622
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114790,
+     "index": 177,
+     "maximum": [
+      108.08052062988281,
+      -31.180028915405273,
+      -82.18378448486328
+     ],
+     "minimum": [
+      92.3603286743164,
+      -50.43375778198242,
+      -128.8848876953125
+     ],
+     "name": "ThrnHall05",
+     "tiles": [
+      {
+       "fileDataID": 217908,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_177_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6623
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114791,
+     "index": 178,
+     "maximum": [
+      84.61873626708984,
+      -30.969566345214844,
+      -112.80115509033203
+     ],
+     "minimum": [
+      74.96526336669922,
+      -39.52490997314453,
+      -124.193115234375
+     ],
+     "name": "Royal Quarter",
+     "tiles": [
+      {
+       "fileDataID": 217909,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_178_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6624
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114792,
+     "index": 179,
+     "maximum": [
+      132.40855407714844,
+      -26.389299392700195,
+      -22.43502426147461
+     ],
+     "minimum": [
+      67.15321350097656,
+      -54.81787109375,
+      -65.75882720947266
+     ],
+     "name": "ThrnHall04",
+     "tiles": [
+      {
+       "fileDataID": 217910,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_179_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6625
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114793,
+     "index": 180,
+     "maximum": [
+      129.90565490722656,
+      73.14923858642578,
+      -22.43504524230957
+     ],
+     "minimum": [
+      64.46760559082031,
+      35.57307052612305,
+      -128.88490295410156
+     ],
+     "name": "Royal Quarter",
+     "tiles": [
+      {
+       "fileDataID": 217911,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_180_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6626
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114794,
+     "index": 181,
+     "maximum": [
+      129.887939453125,
+      -35.48905563354492,
+      -22.43503761291504
+     ],
+     "minimum": [
+      64.45700073242188,
+      -72.85711669921875,
+      -128.88490295410156
+     ],
+     "name": "ThrnHall03",
+     "tiles": [
+      {
+       "fileDataID": 217912,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_181_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6627
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114795,
+     "index": 182,
+     "maximum": [
+      126.23399353027344,
+      50.75496292114258,
+      -112.80191040039062
+     ],
+     "minimum": [
+      116.58045959472656,
+      42.1990852355957,
+      -124.1934814453125
+     ],
+     "name": "Royal Quarter",
+     "tiles": [
+      {
+       "fileDataID": 217913,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_182_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6628
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114796,
+     "index": 183,
+     "maximum": [
+      -43.44115447998047,
+      -80.71097564697266,
+      -79.80791473388672
+     ],
+     "minimum": [
+      -60.427085876464844,
+      -122.13975524902344,
+      -124.75066375732422
+     ],
+     "name": "ThrnHall02",
+     "tiles": [
+      {
+       "fileDataID": 217914,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_183_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3185
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114797,
+     "index": 184,
+     "maximum": [
+      70.27139282226562,
+      8.577436447143555,
+      -79.80792236328125
+     ],
+     "minimum": [
+      28.81287956237793,
+      -8.40848159790039,
+      -124.75065612792969
+     ],
+     "name": "Royal Quarter",
+     "tiles": [
+      {
+       "fileDataID": 217915,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_184_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3186
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114798,
+     "index": 185,
+     "maximum": [
+      -43.45988082885742,
+      122.28998565673828,
+      -79.80789947509766
+     ],
+     "minimum": [
+      -60.44580078125,
+      80.86119842529297,
+      -124.75065612792969
+     ],
+     "name": "ThrnHall01",
+     "tiles": [
+      {
+       "fileDataID": 217916,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_185_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3187
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114799,
+     "index": 186,
+     "maximum": [
+      -132.72958374023438,
+      8.558735847473145,
+      -79.80789947509766
+     ],
+     "minimum": [
+      -174.15834045410156,
+      -8.427204132080078,
+      -124.75065612792969
+     ],
+     "name": "Royal Quarter",
+     "tiles": [
+      {
+       "fileDataID": 217917,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_186_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3188
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114800,
+     "index": 187,
+     "maximum": [
+      28.897037506103516,
+      31.368515014648438,
+      -105.58073425292969
+     ],
+     "minimum": [
+      -5.952117919921875,
+      -31.84918975830078,
+      -124.75137329101562
+     ],
+     "name": "LabK",
+     "tiles": [
+      {
+       "fileDataID": 217918,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_187_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3132
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114801,
+     "index": 188,
+     "maximum": [
+      25.44452667236328,
+      77.1111068725586,
+      -107.35169219970703
+     ],
+     "minimum": [
+      -32.70222091674805,
+      18.91860580444336,
+      -124.75694274902344
+     ],
+     "name": "The Apothecarium",
+     "tiles": [
+      {
+       "fileDataID": 217919,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_188_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3136
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114802,
+     "index": 189,
+     "maximum": [
+      -70.78660583496094,
+      77.46347045898438,
+      -107.35169219970703
+     ],
+     "minimum": [
+      -128.9797821044922,
+      19.316368103027344,
+      -124.75694274902344
+     ],
+     "name": "LabJ",
+     "tiles": [
+      {
+       "fileDataID": 217920,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_189_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3135
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114803,
+     "index": 190,
+     "maximum": [
+      25.092308044433594,
+      -19.166139602661133,
+      -107.35169219970703
+     ],
+     "minimum": [
+      -33.099876403808594,
+      -77.31285095214844,
+      -124.75694274902344
+     ],
+     "name": "The Apothecarium",
+     "tiles": [
+      {
+       "fileDataID": 217921,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_190_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3129
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114804,
+     "index": 191,
+     "maximum": [
+      -71.18475341796875,
+      -18.768497467041016,
+      -107.35169219970703
+     ],
+     "minimum": [
+      -129.33216857910156,
+      -76.96067810058594,
+      -124.75694274902344
+     ],
+     "name": "LabG",
+     "tiles": [
+      {
+       "fileDataID": 217922,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_191_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3134
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114805,
+     "index": 192,
+     "maximum": [
+      -44.07175064086914,
+      -63.93205261230469,
+      -92.71089172363281
+     ],
+     "minimum": [
+      -56.352882385253906,
+      -77.5753173828125,
+      -103.99746704101562
+     ],
+     "name": "The Apothecarium",
+     "tiles": [
+      {
+       "fileDataID": 217923,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_192_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7727
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114806,
+     "index": 193,
+     "maximum": [
+      -29.571643829345703,
+      -61.81547546386719,
+      -91.62921905517578
+     ],
+     "minimum": [
+      -44.1273078918457,
+      -77.47987365722656,
+      -105.66411590576172
+     ],
+     "name": "LabF",
+     "tiles": [
+      {
+       "fileDataID": 217924,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_193_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7728
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114807,
+     "index": 194,
+     "maximum": [
+      -16.779348373413086,
+      -56.08478927612305,
+      -94.37774658203125
+     ],
+     "minimum": [
+      -35.086421966552734,
+      -73.56729888916016,
+      -105.66432189941406
+     ],
+     "name": "The Apothecarium",
+     "tiles": [
+      {
+       "fileDataID": 217925,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_194_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7729
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114808,
+     "index": 195,
+     "maximum": [
+      -47.68318176269531,
+      77.64823150634766,
+      -92.71089172363281
+     ],
+     "minimum": [
+      -59.964317321777344,
+      64.00496673583984,
+      -103.99746704101562
+     ],
+     "name": "LabE",
+     "tiles": [
+      {
+       "fileDataID": 217926,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_195_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7730
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114809,
+     "index": 196,
+     "maximum": [
+      -59.90876007080078,
+      77.55278015136719,
+      -91.62921905517578
+     ],
+     "minimum": [
+      -74.46442413330078,
+      61.88838577270508,
+      -105.66413116455078
+     ],
+     "name": "The Apothecarium",
+     "tiles": [
+      {
+       "fileDataID": 217927,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_196_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7731
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114810,
+     "index": 197,
+     "maximum": [
+      -68.94963836669922,
+      73.64020538330078,
+      -94.37774658203125
+     ],
+     "minimum": [
+      -87.25672149658203,
+      56.15769958496094,
+      -105.66432189941406
+     ],
+     "name": "LabD",
+     "tiles": [
+      {
+       "fileDataID": 217928,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_197_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7732
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114811,
+     "index": 198,
+     "maximum": [
+      -115.55160522460938,
+      4.374627113342285,
+      -92.67634582519531
+     ],
+     "minimum": [
+      -129.1948699951172,
+      -9.106534004211426,
+      -103.96292114257812
+     ],
+     "name": "The Apothecarium",
+     "tiles": [
+      {
+       "fileDataID": 217929,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_198_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7733
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114812,
+     "index": 199,
+     "maximum": [
+      -113.52285766601562,
+      -9.050976753234863,
+      -91.59466552734375
+     ],
+     "minimum": [
+      -129.18724060058594,
+      -23.606639862060547,
+      -105.62957000732422
+     ],
+     "name": "LabDist",
+     "tiles": [
+      {
+       "fileDataID": 217930,
+       "height": 32,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_199_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7734
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114813,
+     "index": 200,
+     "maximum": [
+      -107.79216766357422,
+      -18.09186553955078,
+      -94.34320068359375
+     ],
+     "minimum": [
+      -125.27467346191406,
+      -36.3989372253418,
+      -105.62977600097656
+     ],
+     "name": "The Apothecarium",
+     "tiles": [
+      {
+       "fileDataID": 217931,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_200_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7735
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114814,
+     "index": 201,
+     "maximum": [
+      -150.59231567382812,
+      204.28990173339844,
+      -132.16177368164062
+     ],
+     "minimum": [
+      -180.4643096923828,
+      177.70266723632812,
+      -146.1154327392578
+     ],
+     "name": "WryrPrst",
+     "tiles": [
+      {
+       "fileDataID": 217932,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_201_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3213
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114815,
+     "index": 202,
+     "maximum": [
+      -20.019166946411133,
+      80.91676330566406,
+      -105.58074188232422
+     ],
+     "minimum": [
+      -83.23783874511719,
+      46.066524505615234,
+      -124.75138854980469
+     ],
+     "name": "Magic Quarter",
+     "tiles": [
+      {
+       "fileDataID": 217933,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_202_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3133
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114816,
+     "index": 203,
+     "maximum": [
+      -97.93484497070312,
+      31.999418258666992,
+      -105.58072662353516
+     ],
+     "minimum": [
+      -132.78512573242188,
+      -31.2182559967041,
+      -124.75137329101562
+     ],
+     "name": "MageWarlock",
+     "tiles": [
+      {
+       "fileDataID": 217934,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_203_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3130
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114817,
+     "index": 204,
+     "maximum": [
+      -20.650117874145508,
+      -45.91624450683594,
+      -105.58073425292969
+     ],
+     "minimum": [
+      -83.86778259277344,
+      -80.76653289794922,
+      -124.75137329101562
+     ],
+     "name": "War Quarter",
+     "tiles": [
+      {
+       "fileDataID": 217935,
+       "height": 128,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_204_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3131
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 114818,
+     "index": 205,
+     "maximum": [
+      -61.73151397705078,
+      -36.068668365478516,
+      -91.50374603271484
+     ],
+     "minimum": [
+      -80.51100158691406,
+      -58.0323371887207,
+      -105.7896728515625
+     ],
+     "name": "Rogue",
+     "tiles": [
+      {
+       "fileDataID": 217936,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_205_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 3125
+    },
+    {
+     "flags": 2149581832,
+     "groupFileDataID": 433572,
+     "index": 206,
+     "maximum": [
+      214.97476196289062,
+      -71.16871643066406,
+      80.71150970458984
+     ],
+     "minimum": [
+      -46.01848220825195,
+      -233.517333984375,
+      -4.73319149017334
+     ],
+     "name": "Rogues' Quarter",
+     "tiles": []
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 433573,
+     "index": 207,
+     "maximum": [
+      -32.28616714477539,
+      10.42099666595459,
+      93.72013854980469
+     ],
+     "minimum": [
+      -309.25543212890625,
+      -222.44227600097656,
+      -4.775743007659912
+     ],
+     "name": "elevatorA_12",
+     "tiles": []
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 433574,
+     "index": 208,
+     "maximum": [
+      214.97471618652344,
+      235.34266662597656,
+      93.5867691040039
+     ],
+     "minimum": [
+      -54.13283920288086,
+      67.93313598632812,
+      -4.73319149017334
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": []
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 433575,
+     "index": 209,
+     "maximum": [
+      -17.356796264648438,
+      -137.90272521972656,
+      30.065383911132812
+     ],
+     "minimum": [
+      -36.69785690307617,
+      -157.2159881591797,
+      -0.35351991653442383
+     ],
+     "name": "elevatorA_04",
+     "tiles": [
+      {
+       "fileDataID": 435582,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_209_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 26352
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 433576,
+     "index": 210,
+     "maximum": [
+      -28.22675132751465,
+      224.26759338378906,
+      34.12636947631836
+     ],
+     "minimum": [
+      -309.2554016113281,
+      -21.412588119506836,
+      -4.775743007659912
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": []
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 433577,
+     "index": 211,
+     "maximum": [
+      95.51126098632812,
+      101.40895080566406,
+      133.43370056152344
+     ],
+     "minimum": [
+      -127.3504638671875,
+      -100.0972900390625,
+      -3.664679527282715
+     ],
+     "name": "elevatorA_11",
+     "tiles": []
+    },
+    {
+     "flags": 2149581832,
+     "groupFileDataID": 433578,
+     "index": 212,
+     "maximum": [
+      162.34910583496094,
+      -64.07909393310547,
+      24.13689422607422
+     ],
+     "minimum": [
+      152.9302978515625,
+      -78.31316375732422,
+      6.0678019523620605
+     ],
+     "name": "Ruins of Lordaeron",
+     "tiles": []
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 433579,
+     "index": 213,
+     "maximum": [
+      130.13400268554688,
+      105.27274322509766,
+      23.91398811340332
+     ],
+     "minimum": [
+      104.21812438964844,
+      83.40719604492188,
+      0.9107367396354675
+     ],
+     "name": "trade_alcove_03",
+     "tiles": [
+      {
+       "fileDataID": 435584,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_213_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 26358
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 433580,
+     "index": 214,
+     "maximum": [
+      -17.553905487060547,
+      159.12484741210938,
+      30.065383911132812
+     ],
+     "minimum": [
+      -36.89497756958008,
+      139.8115692138672,
+      -0.19051605463027954
+     ],
+     "name": "Trade Quarter",
+     "tiles": [
+      {
+       "fileDataID": 435585,
+       "height": 64,
+       "path": "world/minimaps/wmo/lorderon/undercity/undercity_214_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 26359
+    },
+    {
+     "flags": 2214600832,
+     "groupFileDataID": 466829,
+     "index": 215,
+     "maximum": [
+      212.24334716796875,
+      220.9710235595703,
+      26.848299026489258
+     ],
+     "minimum": [
+      -294.9244689941406,
+      -219.44496154785156,
+      -113.23414611816406
+     ],
+     "name": "trade_alcove_06",
+     "tiles": []
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/lorderon/undercity/undercity_",
+   "placements": [
+    {
+     "position": [
+      16826.8359,
+      62.5453,
+      15418.9492
+     ],
+     "rotation": [
+      0.0,
+      179.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65749827
+    }
+   ],
+   "rejectedTiles": [
+    "world/minimaps/wmo/lorderon/undercity/undercity_004_00_00.blp",
+    "world/minimaps/wmo/lorderon/undercity/undercity_007_00_00.blp",
+    "world/minimaps/wmo/lorderon/undercity/undercity_007_00_01.blp",
+    "world/minimaps/wmo/lorderon/undercity/undercity_007_01_00.blp",
+    "world/minimaps/wmo/lorderon/undercity/undercity_007_01_01.blp",
+    "world/minimaps/wmo/lorderon/undercity/undercity_010_00_00.blp",
+    "world/minimaps/wmo/lorderon/undercity/undercity_013_00_00.blp",
+    "world/minimaps/wmo/lorderon/undercity/undercity_018_00_00.blp",
+    "world/minimaps/wmo/lorderon/undercity/undercity_019_00_00.blp",
+    "world/minimaps/wmo/lorderon/undercity/undercity_020_00_00.blp",
+    "world/minimaps/wmo/lorderon/undercity/undercity_023_00_00.blp",
+    "world/minimaps/wmo/lorderon/undercity/undercity_024_00_00.blp",
+    "world/minimaps/wmo/lorderon/undercity/undercity_025_00_00.blp",
+    "world/minimaps/wmo/lorderon/undercity/undercity_026_00_00.blp",
+    "world/minimaps/wmo/lorderon/undercity/undercity_130_00_01.blp",
+    "world/minimaps/wmo/lorderon/undercity/undercity_130_01_00.blp",
+    "world/minimaps/wmo/lorderon/undercity/undercity_130_01_01.blp"
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 79,
+     "1": 79,
+     "2": 196,
+     "4": 21,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 196,
+    "tiledGroups": 196
+   },
+   "rootFileDataID": 114612,
+   "rootMD5": "5082304b07f52ba8a5609955336984ff",
+   "rootPath": "world/wmo/lorderon/undercity/undercity.wmo"
+  }
+ ]
+}

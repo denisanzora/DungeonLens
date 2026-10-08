@@ -1,0 +1,62 @@
+{
+ "33": {
+  "floors": 7,
+  "stackedFraction": 0.1956,
+  "verdict": "VERIFIED: 7 Blizzard floors, 97% of groups assigned directly"
+ },
+ "34": {
+  "floors": 1,
+  "stackedFraction": 0.0,
+  "verdict": "single floor justified (stacking 0.0% < 3%)"
+ },
+ "36": {
+  "floors": 1,
+  "stackedFraction": 0.0,
+  "verdict": "single floor justified (stacking 0.0% < 3%)"
+ },
+ "43": {
+  "floors": 1,
+  "stackedFraction": 0.0,
+  "verdict": "single floor justified (stacking 0.0% < 3%)"
+ },
+ "47": {
+  "floors": 1,
+  "stackedFraction": 0.0,
+  "verdict": "single floor justified (stacking 0.0% < 3%)"
+ },
+ "48": {
+  "floors": 3,
+  "stackedFraction": 0.0,
+  "verdict": "VERIFIED: 3 Blizzard floors, 100% of groups assigned directly"
+ },
+ "70": {
+  "floors": 2,
+  "stackedFraction": 0.0,
+  "verdict": "VERIFIED: 2 Blizzard floors, 100% of groups assigned directly"
+ },
+ "90": {
+  "floors": 4,
+  "stackedFraction": 0.0553,
+  "verdict": "VERIFIED: 4 Blizzard floors, 100% of groups assigned directly"
+ },
+ "129": {
+  "floors": 1,
+  "stackedFraction": 0.0,
+  "verdict": "single floor justified (stacking 0.0% < 3%)"
+ },
+ "189": {
+  "floors": 4,
+  "stackedFraction": 0.0,
+  "verdict": "VERIFIED: 4 wings = 4 separate WMOs (exact; each boss lands in exactly one wing)"
+ },
+ "389": {
+  "floors": 1,
+  "stackedFraction": 0.0,
+  "verdict": "single floor justified (stacking 0.0% < 3%)"
+ },
+ "3065": {
+  "floors": 1,
+  "stackedFraction": 0.0,
+  "verdict": "single floor justified (stacking 0.0% < 3%)"
+ }
+}

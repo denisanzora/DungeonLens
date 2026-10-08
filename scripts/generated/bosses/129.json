@@ -1,0 +1,274 @@
+{
+ "bosses": [
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2780
+   ],
+   "id": 2780,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Tuten'kash",
+   "notes": [
+    "no coordinate source: not in the server database or in retail Encounter Journal"
+   ],
+   "order": 1,
+   "sources": [],
+   "status": "unresolved",
+   "worldPosition": null
+  },
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2781
+   ],
+   "id": 2781,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Plaguemaw the Rotting",
+   "notes": [
+    "no coordinate source: not in the server database or in retail Encounter Journal"
+   ],
+   "order": 2,
+   "sources": [],
+   "status": "unresolved",
+   "worldPosition": null
+  },
+  {
+   "agreementYards": 5.2,
+   "confidence": "high",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2782
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2782,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Mordresh Fire Eye",
+   "notes": [],
+   "onContent": true,
+   "order": 3,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      7357
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      2466.62,
+      671.44,
+      63.47
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.8607,
+      0.4672
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 300,
+     "world": [
+      2461.7,
+      669.69
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    2466.62,
+    671.44,
+    63.47
+   ],
+   "x": 0.3725,
+   "y": 0.2714
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2783
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2783,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Ragglesnout",
+   "notes": [],
+   "onContent": true,
+   "order": 4,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      7354
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      2364.75,
+      904.52,
+      28.77
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    2364.75,
+    904.52,
+    28.77
+   ],
+   "x": 0.5575,
+   "y": 0.6117
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2784
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2784,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Glutton",
+   "notes": [],
+   "onContent": true,
+   "order": 5,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      8567
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      2468.71,
+      1006.83,
+      23.76
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    2468.71,
+    1006.83,
+    23.76
+   ],
+   "x": 0.3687,
+   "y": 0.7611
+  },
+  {
+   "agreementYards": 5.4,
+   "confidence": "high",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2785
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2785,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Amnennar the Coldbringer",
+   "notes": [],
+   "onContent": true,
+   "order": 6,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      7358
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      2403.37,
+      960.93,
+      55.14
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.4551,
+      0.5823
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 300,
+     "world": [
+      2407.28,
+      957.26
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    2403.37,
+    960.93,
+    55.14
+   ],
+   "x": 0.4873,
+   "y": 0.6941
+  }
+ ],
+ "counts": {
+  "unresolved": 2,
+  "verified-source-registration": 4
+ },
+ "floors": [
+  {
+   "floor": 1,
+   "groupCount": 12,
+   "source": "single-floor",
+   "uiMapID": 300,
+   "wmoRoot": 109503
+  }
+ ],
+ "foreverBuild": "1.60.1.70245",
+ "frame": {
+  "formula": "local = Rot(180 - yaw) * (world - origin); canvas = (local.x*rho - minX, maxY - local.y*rho)",
+  "origin": [
+   2402.279300000002,
+   1208.3213000000014
+  ],
+  "perFloorFrames": [
+   {
+    "floor": 1,
+    "origin": [
+     2402.279300000002,
+     1208.3213000000014
+    ],
+    "yaw": 0.0
+   }
+  ],
+  "yaw": 0.0
+ },
+ "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+ "layouts": {
+  "1": "wmo:1101x1370:50"
+ },
+ "mapID": 129,
+ "name": "Razorfen Downs",
+ "notes": [],
+ "retailBuild": "12.1.0.69933"
+}

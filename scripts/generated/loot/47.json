@@ -1,0 +1,234 @@
+{
+ "bosses": [
+  {
+   "boss": "Aggem Thorncurse",
+   "encounterID": 2774,
+   "items": [
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 274159,
+     "name": "Thorncursed Grips",
+     "quality": "rare",
+     "slot": "hands, leather",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6681,
+     "name": "Thornspike",
+     "quality": "rare",
+     "slot": "one-hand, dagger",
+     "sourcePercent": "53%"
+    },
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 274158,
+     "name": "Death Prophet Spine",
+     "quality": "rare",
+     "slot": "two-hand, staff",
+     "sourcePercent": null
+    }
+   ],
+   "page": "razorfen-kraul",
+   "sourceBoss": "Aggem Thorncurse",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Roogug",
+   "encounterID": 2773,
+   "items": [
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 274152,
+     "name": "Roogug's Severed Head",
+     "quality": "rare",
+     "slot": "trinket",
+     "sourcePercent": null
+    }
+   ],
+   "page": "razorfen-kraul",
+   "sourceBoss": "Roogug",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Death Speaker Jargba",
+   "encounterID": 2775,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 2816,
+     "name": "Death Speaker Scepter",
+     "quality": "rare",
+     "slot": "main hand, mace",
+     "sourcePercent": "10%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6685,
+     "name": "Death Speaker Mantle",
+     "quality": "rare",
+     "slot": "shoulder, cloth",
+     "sourcePercent": "43%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6682,
+     "name": "Death Speaker Robes",
+     "quality": "rare",
+     "slot": "chest, cloth",
+     "sourcePercent": "42%"
+    }
+   ],
+   "page": "razorfen-kraul",
+   "sourceBoss": "Death Speaker Jargba",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Overlord Ramtusk",
+   "encounterID": 2776,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6686,
+     "name": "Tusken Helm",
+     "quality": "rare",
+     "slot": "head, mail",
+     "sourcePercent": "61%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6687,
+     "name": "Corpsemaker",
+     "quality": "rare",
+     "slot": "two-hand, axe",
+     "sourcePercent": "34%"
+    },
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 274161,
+     "name": "Quillord Mail Leggings",
+     "quality": "rare",
+     "slot": "legs, mail",
+     "sourcePercent": null
+    }
+   ],
+   "page": "razorfen-kraul",
+   "sourceBoss": "Overlord Ramtusk",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Agathelos the Raging",
+   "encounterID": 2777,
+   "items": [
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 274160,
+     "name": "Quilrager Throwing Axe",
+     "quality": "rare",
+     "slot": "thrown, thrown",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6691,
+     "name": "Swinetusk Shank",
+     "quality": "rare",
+     "slot": "main hand, dagger",
+     "sourcePercent": "33%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6690,
+     "name": "Ferine Leggings",
+     "quality": "rare",
+     "slot": "legs, leather",
+     "sourcePercent": "62%"
+    }
+   ],
+   "page": "razorfen-kraul",
+   "sourceBoss": "Agathelos the Raging",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Charlga Razorflank",
+   "encounterID": 2778,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6692,
+     "name": "Pronged Reaver",
+     "quality": "rare",
+     "slot": "one-hand, axe",
+     "sourcePercent": "17%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6693,
+     "name": "Agamaggan's Clutch",
+     "quality": "rare",
+     "slot": "finger",
+     "sourcePercent": "35%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6694,
+     "name": "Heart of Agamaggan",
+     "quality": "rare",
+     "slot": "off hand, shield",
+     "sourcePercent": "33%"
+    }
+   ],
+   "page": "razorfen-kraul",
+   "sourceBoss": "Charlga Razorflank",
+   "sourceItemCount": 3
+  }
+ ],
+ "bossesWithoutSourceEntry": [],
+ "map": 47,
+ "source": "wowtbc.gg/warcraftforever",
+ "unmatchedSourceBosses": [
+  {
+   "boss": "Blind Hunter",
+   "items": 3,
+   "page": "razorfen-kraul"
+  },
+  {
+   "boss": "Earthcaller Halmgar",
+   "items": 2,
+   "page": "razorfen-kraul"
+  },
+  {
+   "boss": "Trash",
+   "items": 12,
+   "page": "razorfen-kraul"
+  }
+ ],
+ "unresolvedItems": [
+  {
+   "boss": "Roogug",
+   "name": "Thornweaver Drape",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Roogug",
+   "name": "Geomancer Headdress",
+   "reason": "no ID in client tables"
+  }
+ ]
+}

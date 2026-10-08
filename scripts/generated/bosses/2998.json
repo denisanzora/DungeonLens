@@ -1,0 +1,99 @@
+{
+ "bosses": [
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    3480
+   ],
+   "id": 3480,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Saltspine",
+   "notes": [
+    "no generated map for this dungeon yet"
+   ],
+   "order": 1,
+   "sources": [],
+   "status": "unresolved",
+   "worldPosition": null
+  },
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    3481
+   ],
+   "id": 3481,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Shadetooth",
+   "notes": [
+    "no generated map for this dungeon yet"
+   ],
+   "order": 2,
+   "sources": [],
+   "status": "unresolved",
+   "worldPosition": null
+  },
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    3644
+   ],
+   "id": 3644,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Highland Horror",
+   "notes": [
+    "no generated map for this dungeon yet"
+   ],
+   "order": 3,
+   "sources": [],
+   "status": "unresolved",
+   "worldPosition": null
+  },
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    3482
+   ],
+   "id": 3482,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Relic Guardian",
+   "notes": [
+    "no generated map for this dungeon yet"
+   ],
+   "order": 4,
+   "sources": [],
+   "status": "unresolved",
+   "worldPosition": null
+  }
+ ],
+ "counts": {
+  "unresolved": 4
+ },
+ "floors": [],
+ "foreverBuild": "1.60.1.70245",
+ "frame": {
+  "formula": "local = Rot(180 - yaw) * (world - origin); canvas = (local.x*rho - minX, maxY - local.y*rho)",
+  "origin": null,
+  "perFloorFrames": [],
+  "yaw": null
+ },
+ "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+ "layouts": {},
+ "mapID": 2998,
+ "name": "Excavation Site: Wetlands",
+ "notes": [
+  "map layout not generated - coordinates withheld"
+ ],
+ "retailBuild": "12.1.0.69933"
+}

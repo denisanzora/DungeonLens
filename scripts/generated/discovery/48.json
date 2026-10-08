@@ -1,0 +1,905 @@
+{
+ "build": "1.60.1.70245",
+ "classification": "D",
+ "classificationReason": "wmo-multi-floor",
+ "directory": "Blackfathom",
+ "ground": null,
+ "instanceID": 48,
+ "instanceType": 1,
+ "layout": "global-wmo",
+ "mapID": 48,
+ "mapType": 2,
+ "maxPlayers": 10,
+ "name": "Blackfathom Deeps",
+ "nativeDungeonUiMaps": [],
+ "uiMapAssignments": [],
+ "wdt": {
+  "adtTileCount": 0,
+  "chunks": [
+   "MVER",
+   "MPHD",
+   "MAIN",
+   "MAID",
+   "MODF"
+  ],
+  "globalWMO": {
+   "fileDataID": 109197,
+   "isFileDataID": true,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "mphdFlags": 577,
+  "usesGlobalWMO": true
+ },
+ "wdtFileDataID": 780169,
+ "wmos": [
+  {
+   "floors": {
+    "maxStackDepth": 2,
+    "stackedGroupPairs": [
+     [
+      20,
+      21
+     ]
+    ],
+    "zMax": 65.2493667602539,
+    "zMidpoints": [
+     -55.32,
+     -51.74,
+     -49.1,
+     -48.18,
+     -48.05,
+     -47.32,
+     -46.41,
+     -45.89,
+     -44.6,
+     -43.05,
+     -43.0,
+     -39.46,
+     -39.45,
+     -38.73,
+     -38.31,
+     -37.67,
+     -33.95,
+     -29.4,
+     -21.7,
+     -21.51,
+     -19.52,
+     -18.08,
+     -14.78,
+     9.15
+    ],
+    "zMin": -80.52529907226562
+   },
+   "groupCount": 24,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 109198,
+     "index": 0,
+     "maximum": [
+      136.80096435546875,
+      -111.27249145507812,
+      -29.86028289794922
+     ],
+     "minimum": [
+      76.81781768798828,
+      -172.03933715820312,
+      -47.60194396972656
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 212444,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_000_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 334
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109199,
+     "index": 1,
+     "maximum": [
+      172.78738403320312,
+      -65.61160278320312,
+      -29.10059928894043
+     ],
+     "minimum": [
+      141.41671752929688,
+      -112.24239349365234,
+      -46.23939514160156
+     ],
+     "name": "Blackfathom Deeps",
+     "tiles": [
+      {
+       "fileDataID": 212445,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_001_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 335
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109200,
+     "index": 2,
+     "maximum": [
+      240.1860809326172,
+      -19.862398147583008,
+      -40.804813385009766
+     ],
+     "minimum": [
+      190.06167602539062,
+      -54.90877914428711,
+      -55.29758834838867
+     ],
+     "name": "tenth",
+     "tiles": [
+      {
+       "fileDataID": 212446,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_002_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 336
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109201,
+     "index": 3,
+     "maximum": [
+      199.84156799316406,
+      -42.27019500732422,
+      -35.70277786254883
+     ],
+     "minimum": [
+      161.457763671875,
+      -78.4101333618164,
+      -53.487545013427734
+     ],
+     "name": "twelth",
+     "tiles": [
+      {
+       "fileDataID": 212447,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_003_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 337
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109202,
+     "index": 4,
+     "maximum": [
+      587.5732421875,
+      -81.50765228271484,
+      -11.24826717376709
+     ],
+     "minimum": [
+      439.68304443359375,
+      -353.4624938964844,
+      -80.52529907226562
+     ],
+     "name": "fourteenth",
+     "tiles": [
+      {
+       "fileDataID": 212448,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_004_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 212449,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_004_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 212450,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_004_00_02.blp",
+       "width": 256,
+       "x": 0,
+       "y": 2
+      },
+      {
+       "fileDataID": 212451,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_004_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 212452,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_004_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      },
+      {
+       "fileDataID": 212453,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_004_01_02.blp",
+       "width": 256,
+       "x": 1,
+       "y": 2
+      }
+     ],
+     "wmoGroupID": 338
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109203,
+     "index": 5,
+     "maximum": [
+      439.73858642578125,
+      -79.24783325195312,
+      -23.97624969482422
+     ],
+     "minimum": [
+      285.8380126953125,
+      -367.7590637207031,
+      -79.50852966308594
+     ],
+     "name": "thirteenth",
+     "tiles": [
+      {
+       "fileDataID": 212454,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_005_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 212455,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_005_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 212456,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_005_00_02.blp",
+       "width": 256,
+       "x": 0,
+       "y": 2
+      },
+      {
+       "fileDataID": 212457,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_005_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 212458,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_005_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      },
+      {
+       "fileDataID": 212459,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_005_01_02.blp",
+       "width": 256,
+       "x": 1,
+       "y": 2
+      }
+     ],
+     "wmoGroupID": 339
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109204,
+     "index": 6,
+     "maximum": [
+      377.13165283203125,
+      -82.66064453125,
+      -26.3759765625
+     ],
+     "minimum": [
+      280.35321044921875,
+      -149.98959350585938,
+      -59.616390228271484
+     ],
+     "name": "bigroom02",
+     "tiles": [
+      {
+       "fileDataID": 212460,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_006_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 340
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109205,
+     "index": 7,
+     "maximum": [
+      381.8828125,
+      41.397499084472656,
+      -34.87895202636719
+     ],
+     "minimum": [
+      240.1305389404297,
+      -82.95891571044922,
+      -75.75706481933594
+     ],
+     "name": "The Pool of Ask'ar",
+     "tiles": [
+      {
+       "fileDataID": 212461,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_007_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 212462,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_007_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 341
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109206,
+     "index": 8,
+     "maximum": [
+      356.79095458984375,
+      -362.9248046875,
+      -36.78291702270508
+     ],
+     "minimum": [
+      286.44158935546875,
+      -424.0242614746094,
+      -57.86600875854492
+     ],
+     "name": "bigroom01",
+     "tiles": [
+      {
+       "fileDataID": 212463,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_008_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 342
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109207,
+     "index": 9,
+     "maximum": [
+      654.7236328125,
+      -147.5693359375,
+      -38.0823860168457
+     ],
+     "minimum": [
+      587.5177001953125,
+      -257.2361145019531,
+      -58.269466400146484
+     ],
+     "name": "The Pool of Ask'ar",
+     "tiles": [
+      {
+       "fileDataID": 212464,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_009_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 343
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109208,
+     "index": 10,
+     "maximum": [
+      654.7236328125,
+      -49.57242965698242,
+      -38.625911712646484
+     ],
+     "minimum": [
+      606.8701782226562,
+      -147.6248779296875,
+      -59.56681442260742
+     ],
+     "name": "sunkentemple02",
+     "tiles": [
+      {
+       "fileDataID": 212465,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_010_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 344
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109209,
+     "index": 11,
+     "maximum": [
+      624.4141845703125,
+      -10.248128890991211,
+      -36.25960922241211
+     ],
+     "minimum": [
+      574.4656372070312,
+      -62.93222427368164,
+      -56.55271530151367
+     ],
+     "name": "The Drowned Sacellum",
+     "tiles": [
+      {
+       "fileDataID": 212466,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_011_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 345
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109210,
+     "index": 12,
+     "maximum": [
+      592.2929077148438,
+      17.926292419433594,
+      -27.77561378479004
+     ],
+     "minimum": [
+      527.9154663085938,
+      -25.9769229888916,
+      -51.11953353881836
+     ],
+     "name": "sunkentemple01",
+     "tiles": [
+      {
+       "fileDataID": 212467,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_012_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 346
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109211,
+     "index": 13,
+     "maximum": [
+      527.9710083007812,
+      23.831951141357422,
+      -27.585140228271484
+     ],
+     "minimum": [
+      391.7141418457031,
+      -59.52072525024414,
+      -51.34427261352539
+     ],
+     "name": "The Drowned Sacellum",
+     "tiles": [
+      {
+       "fileDataID": 212468,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_013_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 212469,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_013_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 347
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109212,
+     "index": 14,
+     "maximum": [
+      529.2322387695312,
+      94.51219177246094,
+      -21.128015518188477
+     ],
+     "minimum": [
+      446.3564758300781,
+      22.85325813293457,
+      -46.771114349365234
+     ],
+     "name": "sub",
+     "tiles": [
+      {
+       "fileDataID": 212470,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_014_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 348
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109213,
+     "index": 15,
+     "maximum": [
+      599.0264892578125,
+      61.7599983215332,
+      -19.027420043945312
+     ],
+     "minimum": [
+      529.1766967773438,
+      24.489341735839844,
+      -39.77308654785156
+     ],
+     "name": "tunnel01",
+     "tiles": [
+      {
+       "fileDataID": 212471,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_015_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 349
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109214,
+     "index": 16,
+     "maximum": [
+      653.0266723632812,
+      53.76441192626953,
+      -6.647756099700928
+     ],
+     "minimum": [
+      591.8642578125,
+      1.2274576425552368,
+      -29.511398315429688
+     ],
+     "name": "tunnel02",
+     "tiles": [
+      {
+       "fileDataID": 212472,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_016_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 350
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109215,
+     "index": 17,
+     "maximum": [
+      756.3862915039062,
+      28.47337532043457,
+      -6.647756099700928
+     ],
+     "minimum": [
+      646.182373046875,
+      -49.892173767089844,
+      -32.3827018737793
+     ],
+     "name": "tunnel03",
+     "tiles": [
+      {
+       "fileDataID": 212473,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_017_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 351
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109216,
+     "index": 18,
+     "maximum": [
+      779.169189453125,
+      130.77232360839844,
+      2.5766923427581787
+     ],
+     "minimum": [
+      673.8114013671875,
+      -22.474559783935547,
+      -45.978050231933594
+     ],
+     "name": "tunnel04",
+     "tiles": [
+      {
+       "fileDataID": 212474,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_018_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 212475,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_018_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 352
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109217,
+     "index": 19,
+     "maximum": [
+      875.1114501953125,
+      120.87107849121094,
+      2.9664177894592285
+     ],
+     "minimum": [
+      779.1136474609375,
+      16.55485725402832,
+      -45.978050231933594
+     ],
+     "name": "tunnel05",
+     "tiles": [
+      {
+       "fileDataID": 212476,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_019_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 353
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109218,
+     "index": 20,
+     "maximum": [
+      872.2186279296875,
+      194.47265625,
+      -3.607337236404419
+     ],
+     "minimum": [
+      764.5479736328125,
+      103.57723999023438,
+      -25.94759178161621
+     ],
+     "name": "tunnel06",
+     "tiles": [
+      {
+       "fileDataID": 212477,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_020_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 354
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109219,
+     "index": 21,
+     "maximum": [
+      819.223388671875,
+      195.0382537841797,
+      -26.48203468322754
+     ],
+     "minimum": [
+      719.3988037109375,
+      120.81552124023438,
+      -59.61750030517578
+     ],
+     "name": "tunnel07",
+     "tiles": [
+      {
+       "fileDataID": 212478,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_021_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 355
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109220,
+     "index": 22,
+     "maximum": [
+      887.9960327148438,
+      502.3955993652344,
+      65.2493667602539
+     ],
+     "minimum": [
+      779.0541381835938,
+      194.40582275390625,
+      -46.948890686035156
+     ],
+     "name": "tunnel08",
+     "tiles": [
+      {
+       "fileDataID": 212479,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_022_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 212480,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_022_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 212481,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_022_00_02.blp",
+       "width": 256,
+       "x": 0,
+       "y": 2
+      }
+     ],
+     "wmoGroupID": 356
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109221,
+     "index": 23,
+     "maximum": [
+      194.04100036621094,
+      -112.18683624267578,
+      -27.68667984008789
+     ],
+     "minimum": [
+      136.74542236328125,
+      -208.64027404785156,
+      -48.926727294921875
+     ],
+     "name": "tunnel09",
+     "tiles": [
+      {
+       "fileDataID": 212482,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_023_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 357
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_",
+   "rejectedTiles": [
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_024_00_00.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_002_00_01.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_002_00_02.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_002_00_03.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_002_00_04.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_002_01_00.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_002_01_01.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_002_01_02.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_002_01_03.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_002_01_04.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_007_00_01.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_007_00_02.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_007_00_03.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_007_00_04.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_007_01_01.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_007_01_02.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_007_01_03.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_007_01_04.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_013_00_01.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_013_01_01.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_014_00_01.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_014_00_02.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_014_00_03.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_014_00_04.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_014_01_00.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_014_01_01.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_014_01_02.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_014_01_03.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_014_01_04.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_014_02_00.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_014_02_01.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_014_02_02.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_014_02_03.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_014_02_04.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_018_01_00.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_018_01_01.blp",
+    "world/minimaps/wmo/dungeon/kl_blackfathom/blackfathom_instance_019_01_00.blp"
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 24,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 24,
+    "tiledGroups": 24
+   },
+   "rootFileDataID": 109197,
+   "rootMD5": "e752c523d67e5fc7f219e2bbf18d326c",
+   "rootPath": "world/wmo/dungeon/kl_blackfathom/blackfathom_instance.wmo"
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "bosses": [
+  {
+   "boss": "Revelosh",
+   "encounterID": 547,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 9387,
+     "name": "Revelosh's Boots",
+     "quality": "rare",
+     "slot": "feet, plate",
+     "sourcePercent": "22%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 9388,
+     "name": "Revelosh's Armguards",
+     "quality": "rare",
+     "slot": "wrist, mail",
+     "sourcePercent": "21%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 9389,
+     "name": "Revelosh's Spaulders",
+     "quality": "rare",
+     "slot": "shoulder, leather",
+     "sourcePercent": "23%"
+    }
+   ],
+   "page": "uldaman",
+   "sourceBoss": "Revelosh",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "The Lost Dwarves",
+   "encounterID": 548,
+   "items": [],
+   "page": "uldaman",
+   "sourceBoss": "Baelog",
+   "sourceItemCount": 0
+  },
+  {
+   "boss": "The Lost Dwarves",
+   "encounterID": 548,
+   "items": [],
+   "page": "uldaman",
+   "sourceBoss": "Eric \"The Swift\"",
+   "sourceItemCount": 0
+  },
+  {
+   "boss": "The Lost Dwarves",
+   "encounterID": 548,
+   "items": [],
+   "page": "uldaman",
+   "sourceBoss": "Olaf",
+   "sourceItemCount": 0
+  },
+  {
+   "boss": "Ironaya",
+   "encounterID": 549,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 9407,
+     "name": "Stoneweaver Leggings",
+     "quality": "rare",
+     "slot": "legs, cloth",
+     "sourcePercent": "37%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 9409,
+     "name": "Ironaya's Bracers",
+     "quality": "rare",
+     "slot": "wrist, mail",
+     "sourcePercent": "37%"
+    }
+   ],
+   "page": "uldaman",
+   "sourceBoss": "Ironaya",
+   "sourceItemCount": 2
+  },
+  {
+   "boss": "Ancient Stone Keeper",
+   "encounterID": 551,
+   "items": [],
+   "page": "uldaman",
+   "sourceBoss": "Ancient Stone Keeper",
+   "sourceItemCount": 0
+  },
+  {
+   "boss": "Galgann Firehammer",
+   "encounterID": 552,
+   "items": [],
+   "page": "uldaman",
+   "sourceBoss": "Galgann Firehammer",
+   "sourceItemCount": 0
+  },
+  {
+   "boss": "Grimlok",
+   "encounterID": 553,
+   "items": [],
+   "page": "uldaman",
+   "sourceBoss": "Grimlok",
+   "sourceItemCount": 0
+  },
+  {
+   "boss": "Archaedas",
+   "encounterID": 554,
+   "items": [],
+   "page": "uldaman",
+   "sourceBoss": "Archaedas",
+   "sourceItemCount": 0
+  }
+ ],
+ "bossesWithoutSourceEntry": [
+  "Obsidian Sentinel"
+ ],
+ "map": 70,
+ "source": "wowtbc.gg/warcraftforever",
+ "unmatchedSourceBosses": [
+  {
+   "boss": "Trash",
+   "items": 1,
+   "page": "uldaman"
+  }
+ ],
+ "unresolvedItems": []
+}

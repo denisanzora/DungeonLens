@@ -1,0 +1,102 @@
+{
+ "maps": {
+  "33": {
+   "bossesWithLoot": 8,
+   "bossesWithoutSourceEntry": 0,
+   "items": 22,
+   "unmatchedSourceBosses": 3,
+   "unresolvedItems": 2
+  },
+  "34": {
+   "bossesWithLoot": 2,
+   "bossesWithoutSourceEntry": 0,
+   "items": 2,
+   "unmatchedSourceBosses": 2,
+   "unresolvedItems": 14
+  },
+  "36": {
+   "bossesWithLoot": 9,
+   "bossesWithoutSourceEntry": 0,
+   "items": 26,
+   "unmatchedSourceBosses": 1,
+   "unresolvedItems": 2
+  },
+  "43": {
+   "bossesWithLoot": 8,
+   "bossesWithoutSourceEntry": 0,
+   "items": 22,
+   "unmatchedSourceBosses": 2,
+   "unresolvedItems": 3
+  },
+  "47": {
+   "bossesWithLoot": 6,
+   "bossesWithoutSourceEntry": 0,
+   "items": 16,
+   "unmatchedSourceBosses": 3,
+   "unresolvedItems": 2
+  },
+  "48": {
+   "bossesWithLoot": 7,
+   "bossesWithoutSourceEntry": 1,
+   "items": 21,
+   "unmatchedSourceBosses": 1,
+   "unresolvedItems": 0
+  },
+  "70": {
+   "bossesWithLoot": 2,
+   "bossesWithoutSourceEntry": 1,
+   "items": 5,
+   "unmatchedSourceBosses": 1,
+   "unresolvedItems": 0
+  },
+  "90": {
+   "bossesWithLoot": 5,
+   "bossesWithoutSourceEntry": 1,
+   "items": 14,
+   "unmatchedSourceBosses": 2,
+   "unresolvedItems": 1
+  },
+  "129": {
+   "bossesWithLoot": 3,
+   "bossesWithoutSourceEntry": 0,
+   "items": 4,
+   "unmatchedSourceBosses": 2,
+   "unresolvedItems": 0
+  },
+  "189": {
+   "bossesWithLoot": 5,
+   "bossesWithoutSourceEntry": 0,
+   "items": 14,
+   "unmatchedSourceBosses": 9,
+   "unresolvedItems": 1
+  },
+  "389": {
+   "bossesWithLoot": 2,
+   "bossesWithoutSourceEntry": 0,
+   "items": 6,
+   "unmatchedSourceBosses": 0,
+   "unresolvedItems": 6
+  },
+  "2998": {
+   "bossesWithLoot": 0,
+   "bossesWithoutSourceEntry": 1,
+   "items": 0,
+   "unmatchedSourceBosses": 0,
+   "unresolvedItems": 9
+  },
+  "2999": {
+   "bossesWithLoot": 5,
+   "bossesWithoutSourceEntry": 2,
+   "items": 15,
+   "unmatchedSourceBosses": 2,
+   "unresolvedItems": 0
+  },
+  "3065": {
+   "bossesWithLoot": 1,
+   "bossesWithoutSourceEntry": 1,
+   "items": 3,
+   "unmatchedSourceBosses": 1,
+   "unresolvedItems": 6
+  }
+ }
+}

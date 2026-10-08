@@ -1,0 +1,1727 @@
+{
+ "build": "1.60.1.70245",
+ "classification": "D",
+ "classificationReason": "mixed-ground-and-wmo-minimaps",
+ "directory": "DeadminesInstance",
+ "ground": {
+  "adtTileCount": 36,
+  "adtTilesWithoutMinimap": 0,
+  "bounds": {
+   "maxX": 35,
+   "maxY": 35,
+   "minX": 30,
+   "minY": 30
+  },
+  "contentBounds": {
+   "maxX": 35,
+   "maxY": 35,
+   "minX": 30,
+   "minY": 30
+  },
+  "contentTileCount": 36,
+  "gridColumns": 6,
+  "gridRows": 6,
+  "missingCoordinates": [],
+  "tileCount": 36,
+  "tileDimensions": [
+   "512x512"
+  ],
+  "tiles": [
+   {
+    "fileDataID": 205028,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 30,
+    "y": 30
+   },
+   {
+    "fileDataID": 205034,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 31,
+    "y": 30
+   },
+   {
+    "fileDataID": 205040,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 32,
+    "y": 30
+   },
+   {
+    "fileDataID": 205046,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 33,
+    "y": 30
+   },
+   {
+    "fileDataID": 205052,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 34,
+    "y": 30
+   },
+   {
+    "fileDataID": 205058,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 35,
+    "y": 30
+   },
+   {
+    "fileDataID": 205029,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 30,
+    "y": 31
+   },
+   {
+    "fileDataID": 205035,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 31,
+    "y": 31
+   },
+   {
+    "fileDataID": 205041,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 32,
+    "y": 31
+   },
+   {
+    "fileDataID": 205047,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 33,
+    "y": 31
+   },
+   {
+    "fileDataID": 205053,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 34,
+    "y": 31
+   },
+   {
+    "fileDataID": 205059,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 35,
+    "y": 31
+   },
+   {
+    "fileDataID": 205030,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 30,
+    "y": 32
+   },
+   {
+    "fileDataID": 205036,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 31,
+    "y": 32
+   },
+   {
+    "fileDataID": 205042,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 32,
+    "y": 32
+   },
+   {
+    "fileDataID": 205048,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 33,
+    "y": 32
+   },
+   {
+    "fileDataID": 205054,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 34,
+    "y": 32
+   },
+   {
+    "fileDataID": 205060,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 35,
+    "y": 32
+   },
+   {
+    "fileDataID": 205031,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 30,
+    "y": 33
+   },
+   {
+    "fileDataID": 205037,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 31,
+    "y": 33
+   },
+   {
+    "fileDataID": 205043,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 32,
+    "y": 33
+   },
+   {
+    "fileDataID": 205049,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 33,
+    "y": 33
+   },
+   {
+    "fileDataID": 205055,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 34,
+    "y": 33
+   },
+   {
+    "fileDataID": 205061,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 35,
+    "y": 33
+   },
+   {
+    "fileDataID": 205032,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 30,
+    "y": 34
+   },
+   {
+    "fileDataID": 205038,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 31,
+    "y": 34
+   },
+   {
+    "fileDataID": 205044,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 32,
+    "y": 34
+   },
+   {
+    "fileDataID": 205050,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 33,
+    "y": 34
+   },
+   {
+    "fileDataID": 205056,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 34,
+    "y": 34
+   },
+   {
+    "fileDataID": 205062,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 35,
+    "y": 34
+   },
+   {
+    "fileDataID": 205033,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 30,
+    "y": 35
+   },
+   {
+    "fileDataID": 205039,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 31,
+    "y": 35
+   },
+   {
+    "fileDataID": 205045,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 32,
+    "y": 35
+   },
+   {
+    "fileDataID": 205051,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 33,
+    "y": 35
+   },
+   {
+    "fileDataID": 205057,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 34,
+    "y": 35
+   },
+   {
+    "fileDataID": 205063,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 35,
+    "y": 35
+   }
+  ]
+ },
+ "instanceID": 36,
+ "instanceType": 1,
+ "layout": "terrain",
+ "mapID": 36,
+ "mapType": 1,
+ "maxPlayers": 10,
+ "name": "Deadmines",
+ "nativeDungeonUiMaps": [],
+ "placedWMOCountWithoutMinimaps": 4,
+ "placedWMOsWithoutMinimaps": [
+  {
+   "hasMinimaps": false,
+   "placementCount": 4,
+   "rootFileDataID": 113966,
+   "rootPath": "world/wmo/khazmodan/buildings/greatwall/greatwall_tower_01.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 4,
+   "rootFileDataID": 113970,
+   "rootPath": "world/wmo/khazmodan/buildings/greatwall/greatwall_wall_01.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 114107,
+   "rootPath": "world/wmo/khazmodan/collidable doodads/lochmodan/excavationsite/excavationplatform01.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 114109,
+   "rootPath": "world/wmo/khazmodan/collidable doodads/lochmodan/excavationsite/excavationplatform02.wmo"
+  }
+ ],
+ "uiMapAssignments": [],
+ "wdt": {
+  "adtTileCount": 36,
+  "chunks": [
+   "MVER",
+   "MPHD",
+   "MAIN",
+   "MAID"
+  ],
+  "mphdFlags": 584,
+  "usesGlobalWMO": false
+ },
+ "wdtFileDataID": 780605,
+ "wmos": [
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 57.554893493652344,
+    "zMidpoints": [
+     -15.02,
+     -11.73,
+     -10.36,
+     -4.04,
+     22.86,
+     23.47,
+     24.6,
+     26.19,
+     26.22,
+     26.3,
+     28.36,
+     29.03,
+     29.78,
+     29.95,
+     30.51,
+     30.65,
+     30.86,
+     31.26,
+     31.95,
+     34.0,
+     34.08,
+     35.23,
+     40.13,
+     43.23,
+     43.93,
+     46.76,
+     49.48
+    ],
+    "zMin": -23.493513107299805
+   },
+   "groupCount": 46,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 108484,
+     "index": 0,
+     "maximum": [
+      261.1622009277344,
+      15.730850219726562,
+      36.351043701171875
+     ],
+     "minimum": [
+      241.18609619140625,
+      -7.533866882324219,
+      26.163013458251953
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 211409,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_000_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 193
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108485,
+     "index": 1,
+     "maximum": [
+      191.67108154296875,
+      51.78804397583008,
+      40.070274353027344
+     ],
+     "minimum": [
+      135.36851501464844,
+      21.56460952758789,
+      21.652009963989258
+     ],
+     "name": "The Deadmines",
+     "tiles": [
+      {
+       "fileDataID": 211410,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_001_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 194
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108486,
+     "index": 2,
+     "maximum": [
+      139.40281677246094,
+      9.124996185302734,
+      33.828208923339844
+     ],
+     "minimum": [
+      108.40279388427734,
+      -12.7515869140625,
+      18.777097702026367
+     ],
+     "name": "cave2_18",
+     "tiles": [
+      {
+       "fileDataID": 211411,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_002_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 195
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108487,
+     "index": 3,
+     "maximum": [
+      155.21728515625,
+      26.965740203857422,
+      35.617122650146484
+     ],
+     "minimum": [
+      135.4221954345703,
+      -4.12470006942749,
+      22.4378662109375
+     ],
+     "name": "cave2_45",
+     "tiles": [
+      {
+       "fileDataID": 211412,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_003_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 196
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108488,
+     "index": 4,
+     "maximum": [
+      311.4422302246094,
+      -79.61557006835938,
+      35.737098693847656
+     ],
+     "minimum": [
+      289.59906005859375,
+      -95.57749938964844,
+      23.824087142944336
+     ],
+     "name": "cave2_45b",
+     "tiles": [
+      {
+       "fileDataID": 211413,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_004_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 197
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108489,
+     "index": 5,
+     "maximum": [
+      257.3905029296875,
+      -2.515937566757202,
+      39.54018020629883
+     ],
+     "minimum": [
+      197.1448516845703,
+      -56.44169616699219,
+      20.3540096282959
+     ],
+     "name": "cave2_45a",
+     "tiles": [
+      {
+       "fileDataID": 211414,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_005_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 198
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108490,
+     "index": 6,
+     "maximum": [
+      259.26409912109375,
+      34.12099075317383,
+      36.57101821899414
+     ],
+     "minimum": [
+      229.2831268310547,
+      10.45734977722168,
+      24.440340042114258
+     ],
+     "name": "cave2_08",
+     "tiles": [
+      {
+       "fileDataID": 211415,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_006_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 199
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108491,
+     "index": 7,
+     "maximum": [
+      161.142822265625,
+      73.77195739746094,
+      31.34046173095703
+     ],
+     "minimum": [
+      126.2535400390625,
+      50.39759826660156,
+      17.86917495727539
+     ],
+     "name": "cave2_04",
+     "tiles": [
+      {
+       "fileDataID": 211416,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_007_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 200
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108492,
+     "index": 8,
+     "maximum": [
+      292.9507751464844,
+      -66.43562316894531,
+      38.24859619140625
+     ],
+     "minimum": [
+      238.97669982910156,
+      -113.79244232177734,
+      23.05863380432129
+     ],
+     "name": "cave2_17",
+     "tiles": [
+      {
+       "fileDataID": 211417,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_008_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 201
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108493,
+     "index": 9,
+     "maximum": [
+      287.329833984375,
+      -17.276172637939453,
+      41.64525604248047
+     ],
+     "minimum": [
+      237.1851806640625,
+      -71.8617935180664,
+      26.35527992248535
+     ],
+     "name": "cave2_47",
+     "tiles": [
+      {
+       "fileDataID": 211418,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_009_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 202
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108494,
+     "index": 10,
+     "maximum": [
+      235.39686584472656,
+      65.07563781738281,
+      48.666996002197266
+     ],
+     "minimum": [
+      176.56893920898438,
+      18.39395523071289,
+      21.800540924072266
+     ],
+     "name": "cave2_02",
+     "tiles": [
+      {
+       "fileDataID": 211419,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_010_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 203
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108495,
+     "index": 11,
+     "maximum": [
+      278.3058776855469,
+      -85.62610626220703,
+      50.41193389892578
+     ],
+     "minimum": [
+      264.27996826171875,
+      -101.84303283691406,
+      36.04881286621094
+     ],
+     "name": "cave2_03",
+     "tiles": [
+      {
+       "fileDataID": 211420,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_011_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 204
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108496,
+     "index": 12,
+     "maximum": [
+      182.32052612304688,
+      110.93810272216797,
+      35.47004318237305
+     ],
+     "minimum": [
+      152.56552124023438,
+      60.810302734375,
+      16.917434692382812
+     ],
+     "name": "goblin_entrance",
+     "tiles": [
+      {
+       "fileDataID": 211421,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_012_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 205
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108497,
+     "index": 13,
+     "maximum": [
+      85.64884948730469,
+      11.559287071228027,
+      5.33786153793335
+     ],
+     "minimum": [
+      54.65704345703125,
+      -32.744468688964844,
+      -13.418163299560547
+     ],
+     "name": "mineshaft01",
+     "tiles": [
+      {
+       "fileDataID": 211422,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_013_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 206
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108498,
+     "index": 14,
+     "maximum": [
+      56.3582763671875,
+      -11.916658401489258,
+      -2.7967333793640137
+     ],
+     "minimum": [
+      5.773823261260986,
+      -42.82933044433594,
+      -17.919694900512695
+     ],
+     "name": "cave2_46",
+     "tiles": [
+      {
+       "fileDataID": 211423,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_014_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 207
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108499,
+     "index": 15,
+     "maximum": [
+      43.4652099609375,
+      -42.054969787597656,
+      -5.860021591186523
+     ],
+     "minimum": [
+      26.36674690246582,
+      -59.60715866088867,
+      -17.591114044189453
+     ],
+     "name": "cave2_48",
+     "tiles": [
+      {
+       "fileDataID": 211424,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_015_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 208
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108500,
+     "index": 16,
+     "maximum": [
+      21.484657287597656,
+      -30.426971435546875,
+      -6.554780006408691
+     ],
+     "minimum": [
+      -18.807891845703125,
+      -65.93887329101562,
+      -23.493513107299805
+     ],
+     "name": "cave2_49",
+     "tiles": [
+      {
+       "fileDataID": 211425,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_016_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 209
+    },
+    {
+     "flags": 73856,
+     "groupFileDataID": 108501,
+     "index": 17,
+     "maximum": [
+      -160.13063049316406,
+      -68.82197570800781,
+      21.374895095825195
+     ],
+     "minimum": [
+      -173.5585479736328,
+      -82.76979064941406,
+      9.13121509552002
+     ],
+     "name": "cave2_50",
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108502,
+     "index": 18,
+     "maximum": [
+      85.7911148071289,
+      132.1140594482422,
+      37.17133712768555
+     ],
+     "minimum": [
+      45.2630615234375,
+      85.96353149414062,
+      19.54564094543457
+     ],
+     "name": "cave2_51",
+     "tiles": [
+      {
+       "fileDataID": 211427,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_018_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 211
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108503,
+     "index": 19,
+     "maximum": [
+      71.90421295166016,
+      160.69471740722656,
+      29.369596481323242
+     ],
+     "minimum": [
+      31.81226921081543,
+      124.12449645996094,
+      16.347333908081055
+     ],
+     "name": "captain_interior",
+     "tiles": [
+      {
+       "fileDataID": 211428,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_019_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 212
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108504,
+     "index": 20,
+     "maximum": [
+      110.5261001586914,
+      150.91783142089844,
+      35.47003936767578
+     ],
+     "minimum": [
+      63.2396240234375,
+      121.28260803222656,
+      16.961177825927734
+     ],
+     "name": "Ironclad Cove",
+     "tiles": [
+      {
+       "fileDataID": 211429,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_020_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 213
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108505,
+     "index": 21,
+     "maximum": [
+      109.09107208251953,
+      88.23027801513672,
+      57.554893493652344
+     ],
+     "minimum": [
+      33.81462860107422,
+      11.503731727600098,
+      -10.608790397644043
+     ],
+     "name": "cave2_42",
+     "tiles": [
+      {
+       "fileDataID": 211430,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_021_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 214
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 108506,
+     "index": 22,
+     "maximum": [
+      -124.30007934570312,
+      -98.91972351074219,
+      2.696359395980835
+     ],
+     "minimum": [
+      -163.06546020507812,
+      -146.80177307128906,
+      -11.516782760620117
+     ],
+     "name": "cave2_44",
+     "tiles": []
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 108507,
+     "index": 23,
+     "maximum": [
+      -124.15888214111328,
+      -29.796674728393555,
+      -0.03590554744005203
+     ],
+     "minimum": [
+      -162.24560546875,
+      -82.70047760009766,
+      -12.824453353881836
+     ],
+     "name": "cave2_43",
+     "tiles": []
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 108508,
+     "index": 24,
+     "maximum": [
+      -150.2235870361328,
+      -43.58829879760742,
+      6.3706231117248535
+     ],
+     "minimum": [
+      -167.5590362548828,
+      -59.09778594970703,
+      0.08692548424005508
+     ],
+     "name": "foundry",
+     "tiles": []
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 108509,
+     "index": 25,
+     "maximum": [
+      -138.10011291503906,
+      -74.00609588623047,
+      8.500465393066406
+     ],
+     "minimum": [
+      -148.32081604003906,
+      -97.18958282470703,
+      1.439948558807373
+     ],
+     "name": "Goblin Foundry",
+     "tiles": []
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 108510,
+     "index": 26,
+     "maximum": [
+      -151.27951049804688,
+      -117.39476013183594,
+      11.947230339050293
+     ],
+     "minimum": [
+      -182.78431701660156,
+      -131.18722534179688,
+      4.363271713256836
+     ],
+     "name": "d2_cannons_1",
+     "tiles": []
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 108511,
+     "index": 27,
+     "maximum": [
+      -181.4313507080078,
+      -115.71495056152344,
+      2.4565234184265137
+     ],
+     "minimum": [
+      -215.8489990234375,
+      -144.78501892089844,
+      -25.20009994506836
+     ],
+     "name": "Ironclad Cove",
+     "tiles": []
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 108512,
+     "index": 28,
+     "maximum": [
+      -164.93263244628906,
+      -13.634652137756348,
+      -10.679771423339844
+     ],
+     "minimum": [
+      -168.83428955078125,
+      -30.131908416748047,
+      -38.312801361083984
+     ],
+     "name": "d2_cannons_rear",
+     "tiles": []
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 108513,
+     "index": 29,
+     "maximum": [
+      -96.10014343261719,
+      -70.63362884521484,
+      -1.5211215019226074
+     ],
+     "minimum": [
+      -140.0246124267578,
+      -144.78501892089844,
+      -30.023591995239258
+     ],
+     "name": "Ironclad Cove",
+     "tiles": []
+    },
+    {
+     "flags": 2097160,
+     "groupFileDataID": 108514,
+     "index": 30,
+     "maximum": [
+      -98.8507308959961,
+      -26.843862533569336,
+      44.16720199584961
+     ],
+     "minimum": [
+      -210.9492645263672,
+      -162.76133728027344,
+      -46.59501266479492
+     ],
+     "name": "d3_cannons_rear",
+     "tiles": []
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 108515,
+     "index": 31,
+     "maximum": [
+      -113.80136108398438,
+      -115.36192321777344,
+      -12.742303848266602
+     ],
+     "minimum": [
+      -160.35986328125,
+      -164.18190002441406,
+      -46.3498649597168
+     ],
+     "name": "Ironclad Cove",
+     "tiles": []
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 108516,
+     "index": 32,
+     "maximum": [
+      -125.13947296142578,
+      -132.2761688232422,
+      -4.894960880279541
+     ],
+     "minimum": [
+      -147.31961059570312,
+      -157.98670959472656,
+      -21.40901756286621
+     ],
+     "name": "d3_cannons_1",
+     "tiles": []
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 108517,
+     "index": 33,
+     "maximum": [
+      -110.96189880371094,
+      -24.15650177001953,
+      -19.248735427856445
+     ],
+     "minimum": [
+      -143.48841857910156,
+      -64.11018371582031,
+      -52.13956069946289
+     ],
+     "name": "Ironclad Cove",
+     "tiles": []
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 108518,
+     "index": 34,
+     "maximum": [
+      9.208281517028809,
+      -35.6505012512207,
+      -0.8784615993499756
+     ],
+     "minimum": [
+      -39.68959426879883,
+      -77.63011932373047,
+      -29.437355041503906
+     ],
+     "name": "d3_cannons_2",
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108519,
+     "index": 35,
+     "maximum": [
+      288.70843505859375,
+      -105.59016418457031,
+      42.99238586425781
+     ],
+     "minimum": [
+      256.3677673339844,
+      -147.19009399414062,
+      25.16630744934082
+     ],
+     "name": "Ironclad Cove",
+     "tiles": [
+      {
+       "fileDataID": 211431,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_035_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 240
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108520,
+     "index": 36,
+     "maximum": [
+      184.84725952148438,
+      -77.16986083984375,
+      57.15448760986328
+     ],
+     "minimum": [
+      151.7450408935547,
+      -105.32048034667969,
+      41.8119010925293
+     ],
+     "name": "d2_cannon_back1",
+     "tiles": [
+      {
+       "fileDataID": 211432,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_036_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 241
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108521,
+     "index": 37,
+     "maximum": [
+      220.6773223876953,
+      -141.61672973632812,
+      47.54145431518555
+     ],
+     "minimum": [
+      196.17787170410156,
+      -172.29312133789062,
+      32.725990295410156
+     ],
+     "name": "Ironclad Cove",
+     "tiles": [
+      {
+       "fileDataID": 211433,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_037_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 242
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108522,
+     "index": 38,
+     "maximum": [
+      201.42982482910156,
+      -101.92160034179688,
+      52.22658920288086
+     ],
+     "minimum": [
+      170.35646057128906,
+      -131.019775390625,
+      41.283775329589844
+     ],
+     "name": "rudder_assembly",
+     "tiles": [
+      {
+       "fileDataID": 211434,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_038_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 243
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108523,
+     "index": 39,
+     "maximum": [
+      263.0907287597656,
+      -79.31090545654297,
+      55.13501739501953
+     ],
+     "minimum": [
+      200.96267700195312,
+      -148.9298858642578,
+      32.725990295410156
+     ],
+     "name": "Ironclad Cove",
+     "tiles": [
+      {
+       "fileDataID": 211435,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_039_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 244
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 108524,
+     "index": 40,
+     "maximum": [
+      -207.44183349609375,
+      -88.08892822265625,
+      -7.729738235473633
+     ],
+     "minimum": [
+      -242.05612182617188,
+      -97.62834930419922,
+      -18.13167953491211
+     ],
+     "name": "paddlewheels",
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108525,
+     "index": 41,
+     "maximum": [
+      175.78677368164062,
+      162.86549377441406,
+      46.039894104003906
+     ],
+     "minimum": [
+      110.46578979492188,
+      109.44966888427734,
+      17.855712890625
+     ],
+     "name": "Ironclad Cove",
+     "tiles": [
+      {
+       "fileDataID": 211436,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_041_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 246
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 108526,
+     "index": 42,
+     "maximum": [
+      -32.57502365112305,
+      -47.00884246826172,
+      -18.846248626708984
+     ],
+     "minimum": [
+      -105.81900787353516,
+      -164.41712951660156,
+      -45.91202163696289
+     ],
+     "name": "shiphull",
+     "tiles": []
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 108527,
+     "index": 43,
+     "maximum": [
+      -119.37644958496094,
+      -20.01186752319336,
+      13.453215599060059
+     ],
+     "minimum": [
+      -156.24139404296875,
+      -124.94966888427734,
+      -20.135026931762695
+     ],
+     "name": "Ironclad Cove",
+     "tiles": []
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 520115,
+     "index": 44,
+     "maximum": [
+      -166.1450653076172,
+      -86.77108764648438,
+      7.457396507263184
+     ],
+     "minimum": [
+      -167.16722106933594,
+      -87.60945892333984,
+      6.915061950683594
+     ],
+     "name": "stilts_front",
+     "tiles": []
+    },
+    {
+     "flags": 2097160,
+     "groupFileDataID": 520046,
+     "index": 45,
+     "maximum": [
+      419.13079833984375,
+      453.3924255371094,
+      249.1287384033203
+     ],
+     "minimum": [
+      -666.3240356445312,
+      -630.9376831054688,
+      39.76968002319336
+     ],
+     "name": "Ironclad Cove",
+     "tiles": []
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_",
+   "placements": [
+    {
+     "position": [
+      17718.2617,
+      29.8496,
+      17223.0723
+     ],
+     "rotation": [
+      0.0,
+      269.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 170633
+    }
+   ],
+   "rejectedTiles": [
+    "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_b_017_00_00.blp"
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 27,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 27,
+    "tiledGroups": 27
+   },
+   "rootFileDataID": 108483,
+   "rootMD5": "94650c66da541260ea1a09f11fab4fe0",
+   "rootPath": "world/wmo/dungeon/az_deadmines/az_deadmines_b.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 13.510810852050781,
+    "zMidpoints": [
+     -16.56,
+     -9.74,
+     -3.85,
+     1.66,
+     3.37,
+     7.84
+    ],
+    "zMin": -27.22352409362793
+   },
+   "groupCount": 7,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 108539,
+     "index": 0,
+     "maximum": [
+      -10.406632423400879,
+      45.86782455444336,
+      7.516538619995117
+     ],
+     "minimum": [
+      -25.909626007080078,
+      15.719122886657715,
+      -4.196115493774414
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 211445,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_d_000_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 256
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108540,
+     "index": 1,
+     "maximum": [
+      -4.238622188568115,
+      16.74986457824707,
+      9.527497291564941
+     ],
+     "minimum": [
+      -23.802263259887695,
+      -1.8144519329071045,
+      -2.7948074340820312
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 211446,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_d_001_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 257
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108541,
+     "index": 2,
+     "maximum": [
+      -15.833955764770508,
+      60.27933120727539,
+      4.7905144691467285
+     ],
+     "minimum": [
+      -49.18386459350586,
+      33.242889404296875,
+      -12.491793632507324
+     ],
+     "name": "exit03",
+     "tiles": [
+      {
+       "fileDataID": 211447,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_d_002_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 258
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108542,
+     "index": 3,
+     "maximum": [
+      -38.894561767578125,
+      36.482398986816406,
+      -3.2314674854278564
+     ],
+     "minimum": [
+      -64.45195007324219,
+      20.134708404541016,
+      -16.25359344482422
+     ],
+     "name": "exit02",
+     "tiles": [
+      {
+       "fileDataID": 211448,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_d_003_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 259
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108543,
+     "index": 4,
+     "maximum": [
+      -55.663578033447266,
+      64.13829040527344,
+      -5.903345584869385
+     ],
+     "minimum": [
+      -79.32664489746094,
+      24.2078857421875,
+      -27.22352409362793
+     ],
+     "name": "exit04",
+     "tiles": [
+      {
+       "fileDataID": 211449,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_d_004_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 260
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108544,
+     "index": 5,
+     "maximum": [
+      7.320772647857666,
+      6.856413841247559,
+      13.510810852050781
+     ],
+     "minimum": [
+      -9.966053009033203,
+      -7.41596794128418,
+      2.1602437496185303
+     ],
+     "name": "exit05",
+     "tiles": [
+      {
+       "fileDataID": 211450,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_d_005_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 261
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 108545,
+     "index": 6,
+     "maximum": [
+      20.73788833618164,
+      20.44963264465332,
+      26.276731491088867
+     ],
+     "minimum": [
+      -20.781991958618164,
+      -18.588260650634766,
+      -2.2821640968322754
+     ],
+     "name": "exit06",
+     "tiles": []
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/dungeon/az_deadmines/az_deadmines_d_",
+   "placements": [
+    {
+     "position": [
+      18024.2285,
+      38.2376,
+      17151.2266
+     ],
+     "rotation": [
+      0.0,
+      304.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 170817
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 6,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 6,
+    "tiledGroups": 6
+   },
+   "rootFileDataID": 108538,
+   "rootMD5": "36ff4de4d8af1bc16798330ff92b6d73",
+   "rootPath": "world/wmo/dungeon/az_deadmines/az_deadmines_d.wmo"
+  }
+ ]
+}

@@ -1,0 +1,1510 @@
+{
+ "build": "1.60.1.70245",
+ "classification": "D",
+ "classificationReason": "mixed-ground-and-wmo-minimaps",
+ "directory": "3065",
+ "ground": {
+  "adtTileCount": 81,
+  "adtTilesWithoutMinimap": 0,
+  "bounds": {
+   "maxX": 35,
+   "maxY": 33,
+   "minX": 27,
+   "minY": 25
+  },
+  "contentBounds": {
+   "maxX": 32,
+   "maxY": 32,
+   "minX": 31,
+   "minY": 30
+  },
+  "contentTileCount": 5,
+  "gridColumns": 9,
+  "gridRows": 9,
+  "missingCoordinates": [],
+  "tileCount": 81,
+  "tileDimensions": [
+   "512x512"
+  ],
+  "tiles": [
+   {
+    "fileDataID": 7725792,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 27,
+    "y": 25
+   },
+   {
+    "fileDataID": 7725798,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 28,
+    "y": 25
+   },
+   {
+    "fileDataID": 7725804,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 29,
+    "y": 25
+   },
+   {
+    "fileDataID": 7725810,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 30,
+    "y": 25
+   },
+   {
+    "fileDataID": 7725816,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 31,
+    "y": 25
+   },
+   {
+    "fileDataID": 7725822,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 32,
+    "y": 25
+   },
+   {
+    "fileDataID": 7725828,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 33,
+    "y": 25
+   },
+   {
+    "fileDataID": 7725834,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 34,
+    "y": 25
+   },
+   {
+    "fileDataID": 7725840,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 35,
+    "y": 25
+   },
+   {
+    "fileDataID": 7725846,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 27,
+    "y": 26
+   },
+   {
+    "fileDataID": 7725852,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 28,
+    "y": 26
+   },
+   {
+    "fileDataID": 7725858,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 29,
+    "y": 26
+   },
+   {
+    "fileDataID": 7725864,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 30,
+    "y": 26
+   },
+   {
+    "fileDataID": 7725870,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 31,
+    "y": 26
+   },
+   {
+    "fileDataID": 7725876,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 32,
+    "y": 26
+   },
+   {
+    "fileDataID": 7725882,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 33,
+    "y": 26
+   },
+   {
+    "fileDataID": 7725888,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 34,
+    "y": 26
+   },
+   {
+    "fileDataID": 7725894,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 35,
+    "y": 26
+   },
+   {
+    "fileDataID": 7725900,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 27,
+    "y": 27
+   },
+   {
+    "fileDataID": 7725906,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 28,
+    "y": 27
+   },
+   {
+    "fileDataID": 7725912,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 29,
+    "y": 27
+   },
+   {
+    "fileDataID": 7725918,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 30,
+    "y": 27
+   },
+   {
+    "fileDataID": 7725924,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 31,
+    "y": 27
+   },
+   {
+    "fileDataID": 7725930,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 32,
+    "y": 27
+   },
+   {
+    "fileDataID": 7725936,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 33,
+    "y": 27
+   },
+   {
+    "fileDataID": 7725942,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 34,
+    "y": 27
+   },
+   {
+    "fileDataID": 7725948,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 35,
+    "y": 27
+   },
+   {
+    "fileDataID": 7725954,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 27,
+    "y": 28
+   },
+   {
+    "fileDataID": 7725960,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 28,
+    "y": 28
+   },
+   {
+    "fileDataID": 7725966,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 29,
+    "y": 28
+   },
+   {
+    "fileDataID": 7725972,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 30,
+    "y": 28
+   },
+   {
+    "fileDataID": 7725978,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 31,
+    "y": 28
+   },
+   {
+    "fileDataID": 7725984,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 32,
+    "y": 28
+   },
+   {
+    "fileDataID": 7725990,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 33,
+    "y": 28
+   },
+   {
+    "fileDataID": 7725996,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 34,
+    "y": 28
+   },
+   {
+    "fileDataID": 7726002,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 35,
+    "y": 28
+   },
+   {
+    "fileDataID": 7726008,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 27,
+    "y": 29
+   },
+   {
+    "fileDataID": 7726014,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 28,
+    "y": 29
+   },
+   {
+    "fileDataID": 7726020,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 29,
+    "y": 29
+   },
+   {
+    "fileDataID": 7726026,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 30,
+    "y": 29
+   },
+   {
+    "fileDataID": 7726032,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 31,
+    "y": 29
+   },
+   {
+    "fileDataID": 7726038,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 32,
+    "y": 29
+   },
+   {
+    "fileDataID": 7726044,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 33,
+    "y": 29
+   },
+   {
+    "fileDataID": 7726050,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 34,
+    "y": 29
+   },
+   {
+    "fileDataID": 7726056,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 35,
+    "y": 29
+   },
+   {
+    "fileDataID": 7726062,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 27,
+    "y": 30
+   },
+   {
+    "fileDataID": 7726068,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 28,
+    "y": 30
+   },
+   {
+    "fileDataID": 7726074,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 29,
+    "y": 30
+   },
+   {
+    "fileDataID": 7726080,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 30,
+    "y": 30
+   },
+   {
+    "fileDataID": 7726086,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 31,
+    "y": 30
+   },
+   {
+    "fileDataID": 7726092,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 32,
+    "y": 30
+   },
+   {
+    "fileDataID": 7726098,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 33,
+    "y": 30
+   },
+   {
+    "fileDataID": 7726104,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 34,
+    "y": 30
+   },
+   {
+    "fileDataID": 7726110,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 35,
+    "y": 30
+   },
+   {
+    "fileDataID": 7726116,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 27,
+    "y": 31
+   },
+   {
+    "fileDataID": 7726122,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 28,
+    "y": 31
+   },
+   {
+    "fileDataID": 7726128,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 29,
+    "y": 31
+   },
+   {
+    "fileDataID": 7726134,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 30,
+    "y": 31
+   },
+   {
+    "fileDataID": 7726140,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 31,
+    "y": 31
+   },
+   {
+    "fileDataID": 7726146,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 32,
+    "y": 31
+   },
+   {
+    "fileDataID": 7726152,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 33,
+    "y": 31
+   },
+   {
+    "fileDataID": 7726158,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 34,
+    "y": 31
+   },
+   {
+    "fileDataID": 7726164,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 35,
+    "y": 31
+   },
+   {
+    "fileDataID": 7726170,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 27,
+    "y": 32
+   },
+   {
+    "fileDataID": 7726176,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 28,
+    "y": 32
+   },
+   {
+    "fileDataID": 7726182,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 29,
+    "y": 32
+   },
+   {
+    "fileDataID": 7726188,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 30,
+    "y": 32
+   },
+   {
+    "fileDataID": 7726194,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 31,
+    "y": 32
+   },
+   {
+    "fileDataID": 7726200,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 32,
+    "y": 32
+   },
+   {
+    "fileDataID": 7726206,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 33,
+    "y": 32
+   },
+   {
+    "fileDataID": 7726212,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 34,
+    "y": 32
+   },
+   {
+    "fileDataID": 7726218,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 35,
+    "y": 32
+   },
+   {
+    "fileDataID": 7726224,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 27,
+    "y": 33
+   },
+   {
+    "fileDataID": 7726230,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 28,
+    "y": 33
+   },
+   {
+    "fileDataID": 7726236,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 29,
+    "y": 33
+   },
+   {
+    "fileDataID": 7726242,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 30,
+    "y": 33
+   },
+   {
+    "fileDataID": 7726248,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 31,
+    "y": 33
+   },
+   {
+    "fileDataID": 7726254,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 32,
+    "y": 33
+   },
+   {
+    "fileDataID": 7726260,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 33,
+    "y": 33
+   },
+   {
+    "fileDataID": 7726266,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 34,
+    "y": 33
+   },
+   {
+    "fileDataID": 7726272,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 35,
+    "y": 33
+   }
+  ]
+ },
+ "instanceID": 3065,
+ "instanceType": 1,
+ "layout": "terrain",
+ "mapID": 3065,
+ "mapType": 1,
+ "maxPlayers": 0,
+ "name": "The Hall of Thanes",
+ "nativeDungeonUiMaps": [],
+ "placedWMOCountWithoutMinimaps": 0,
+ "placedWMOsWithoutMinimaps": [],
+ "uiMapAssignments": [],
+ "wdt": {
+  "adtTileCount": 81,
+  "chunks": [
+   "MVER",
+   "MPHD",
+   "MAIN",
+   "MAID"
+  ],
+  "mphdFlags": 970,
+  "usesGlobalWMO": false
+ },
+ "wdtFileDataID": 7713294,
+ "wmos": [
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 184.97479248046875,
+    "zMidpoints": [
+     -150.75,
+     -6.18,
+     -6.18,
+     -2.08,
+     -2.08,
+     -2.03,
+     -2.03,
+     -2.03,
+     -2.03,
+     0.76,
+     2.64,
+     2.93,
+     3.44,
+     4.31,
+     4.31,
+     17.46,
+     18.19,
+     18.88,
+     25.73,
+     27.38
+    ],
+    "zMin": -486.4781799316406
+   },
+   "groupCount": 20,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 7733564,
+     "index": 0,
+     "maximum": [
+      112.8401107788086,
+      32.146297454833984,
+      37.73456573486328
+     ],
+     "minimum": [
+      -9.734760284423828,
+      -32.18278121948242,
+      -1.353426456451416
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 8113201,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_000_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 82371
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7744101,
+     "index": 1,
+     "maximum": [
+      -22.1649227142334,
+      58.807552337646484,
+      6.6687421798706055
+     ],
+     "minimum": [
+      -30.686599731445312,
+      40.18498611450195,
+      -10.73218059539795
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 8113207,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_001_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 82361
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7744102,
+     "index": 2,
+     "maximum": [
+      -9.67918872833252,
+      53.73618698120117,
+      54.785953521728516
+     ],
+     "minimum": [
+      -98.49036407470703,
+      -42.38923263549805,
+      -0.03153935819864273
+     ],
+     "name": "Enter",
+     "tiles": [
+      {
+       "fileDataID": 8113213,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_002_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 82362
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7744103,
+     "index": 3,
+     "maximum": [
+      -11.916662216186523,
+      -58.75913619995117,
+      19.347402572631836
+     ],
+     "minimum": [
+      -96.26290893554688,
+      -88.01944732666016,
+      -10.732197761535645
+     ],
+     "name": "stairs2",
+     "tiles": [
+      {
+       "fileDataID": 8113219,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_003_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 82363
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7744104,
+     "index": 4,
+     "maximum": [
+      -77.5066909790039,
+      58.80757141113281,
+      6.668745040893555
+     ],
+     "minimum": [
+      -86.02836608886719,
+      40.18500518798828,
+      -10.732179641723633
+     ],
+     "name": "AngrySpirit",
+     "tiles": [
+      {
+       "fileDataID": 8113223,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_004_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 82364
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7744105,
+     "index": 5,
+     "maximum": [
+      -7.6001996994018555,
+      199.27099609375,
+      19.678550720214844
+     ],
+     "minimum": [
+      -100.4722671508789,
+      87.9683609008789,
+      -14.405707359313965
+     ],
+     "name": "sideroom1",
+     "tiles": [
+      {
+       "fileDataID": 8113229,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_005_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 82365
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7744106,
+     "index": 6,
+     "maximum": [
+      17.33232879638672,
+      -54.746219635009766,
+      -1.6417460441589355
+     ],
+     "minimum": [
+      -11.972221374511719,
+      -79.5046157836914,
+      -10.727327346801758
+     ],
+     "name": "stairs3",
+     "tiles": [
+      {
+       "fileDataID": 8113235,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_006_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 82366
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7744107,
+     "index": 7,
+     "maximum": [
+      -7.716749668121338,
+      -87.96378326416016,
+      19.67853355407715
+     ],
+     "minimum": [
+      -100.5888442993164,
+      -199.2664794921875,
+      -12.79728889465332
+     ],
+     "name": "kingtombs2",
+     "tiles": [
+      {
+       "fileDataID": 8113241,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_007_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 82367
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7744108,
+     "index": 8,
+     "maximum": [
+      -22.146860122680664,
+      -40.1921501159668,
+      6.668737411499023
+     ],
+     "minimum": [
+      -30.668535232543945,
+      -58.81470489501953,
+      -10.732184410095215
+     ],
+     "name": "hallstairs1",
+     "tiles": [
+      {
+       "fileDataID": 8113247,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_008_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 82368
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7744109,
+     "index": 9,
+     "maximum": [
+      -77.4760513305664,
+      -40.192161560058594,
+      6.668731689453125
+     ],
+     "minimum": [
+      -85.99772644042969,
+      -58.814720153808594,
+      -10.73219108581543
+     ],
+     "name": "kingtombs1",
+     "tiles": [
+      {
+       "fileDataID": 8113251,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_009_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 82369
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7744110,
+     "index": 10,
+     "maximum": [
+      17.322837829589844,
+      79.71125793457031,
+      -1.6417452096939087
+     ],
+     "minimum": [
+      -11.972229957580566,
+      54.74614715576172,
+      -10.727327346801758
+     ],
+     "name": "stairs004",
+     "tiles": [
+      {
+       "fileDataID": 8113257,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_010_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 82729
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7744111,
+     "index": 11,
+     "maximum": [
+      -11.916459083557129,
+      88.0239486694336,
+      19.347410202026367
+     ],
+     "minimum": [
+      -96.2724380493164,
+      58.75197982788086,
+      -10.73218059539795
+     ],
+     "name": "stairs005",
+     "tiles": [
+      {
+       "fileDataID": 8113263,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_011_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 82373
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7744112,
+     "index": 12,
+     "maximum": [
+      -98.43478393554688,
+      44.11506652832031,
+      37.78831100463867
+     ],
+     "minimum": [
+      -187.24609375,
+      -42.22601318359375,
+      -2.8631997108459473
+     ],
+     "name": "hallstairs3",
+     "tiles": [
+      {
+       "fileDataID": 8113269,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_012_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 82370
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7744113,
+     "index": 13,
+     "maximum": [
+      -313.5231628417969,
+      43.40199279785156,
+      51.492149353027344
+     ],
+     "minimum": [
+      -394.6174621582031,
+      -43.426753997802734,
+      -0.0380995012819767
+     ],
+     "name": "sideroom2",
+     "tiles": [
+      {
+       "fileDataID": 8113275,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_013_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 82374
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7748473,
+     "index": 14,
+     "maximum": [
+      -102.63555145263672,
+      267.7950134277344,
+      184.97479248046875
+     ],
+     "minimum": [
+      -616.922119140625,
+      -249.2576141357422,
+      -486.4781799316406
+     ],
+     "name": "crowns",
+     "tiles": [
+      {
+       "fileDataID": 8113282,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 8113309,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 8113340,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_00_02.blp",
+       "width": 256,
+       "x": 0,
+       "y": 2
+      },
+      {
+       "fileDataID": 8113370,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_00_03.blp",
+       "width": 256,
+       "x": 0,
+       "y": 3
+      },
+      {
+       "fileDataID": 8113397,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_00_04.blp",
+       "width": 256,
+       "x": 0,
+       "y": 4
+      },
+      {
+       "fileDataID": 8113286,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 8113314,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      },
+      {
+       "fileDataID": 8113346,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_01_02.blp",
+       "width": 256,
+       "x": 1,
+       "y": 2
+      },
+      {
+       "fileDataID": 8113376,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_01_03.blp",
+       "width": 256,
+       "x": 1,
+       "y": 3
+      },
+      {
+       "fileDataID": 8113403,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_01_04.blp",
+       "width": 256,
+       "x": 1,
+       "y": 4
+      },
+      {
+       "fileDataID": 8113292,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_02_00.blp",
+       "width": 256,
+       "x": 2,
+       "y": 0
+      },
+      {
+       "fileDataID": 8113321,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_02_01.blp",
+       "width": 256,
+       "x": 2,
+       "y": 1
+      },
+      {
+       "fileDataID": 8113353,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_02_02.blp",
+       "width": 256,
+       "x": 2,
+       "y": 2
+      },
+      {
+       "fileDataID": 8113380,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_02_03.blp",
+       "width": 256,
+       "x": 2,
+       "y": 3
+      },
+      {
+       "fileDataID": 8113409,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_02_04.blp",
+       "width": 256,
+       "x": 2,
+       "y": 4
+      },
+      {
+       "fileDataID": 8113297,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_03_00.blp",
+       "width": 256,
+       "x": 3,
+       "y": 0
+      },
+      {
+       "fileDataID": 8113327,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_03_01.blp",
+       "width": 256,
+       "x": 3,
+       "y": 1
+      },
+      {
+       "fileDataID": 8113359,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_03_02.blp",
+       "width": 256,
+       "x": 3,
+       "y": 2
+      },
+      {
+       "fileDataID": 8113384,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_03_03.blp",
+       "width": 256,
+       "x": 3,
+       "y": 3
+      },
+      {
+       "fileDataID": 8113414,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_03_04.blp",
+       "width": 256,
+       "x": 3,
+       "y": 4
+      },
+      {
+       "fileDataID": 8113303,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_04_00.blp",
+       "width": 256,
+       "x": 4,
+       "y": 0
+      },
+      {
+       "fileDataID": 8113333,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_04_01.blp",
+       "width": 256,
+       "x": 4,
+       "y": 1
+      },
+      {
+       "fileDataID": 8113364,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_04_02.blp",
+       "width": 256,
+       "x": 4,
+       "y": 2
+      },
+      {
+       "fileDataID": 8113390,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_04_03.blp",
+       "width": 256,
+       "x": 4,
+       "y": 3
+      },
+      {
+       "fileDataID": 8113419,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_014_04_04.blp",
+       "width": 256,
+       "x": 4,
+       "y": 4
+      }
+     ],
+     "wmoGroupID": 82634
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7748474,
+     "index": 15,
+     "maximum": [
+      -252.44142150878906,
+      14.02630615234375,
+      37.78799057006836
+     ],
+     "minimum": [
+      -313.5787048339844,
+      -14.026166915893555,
+      -0.027780737727880478
+     ],
+     "name": "vault",
+     "tiles": [
+      {
+       "fileDataID": 8113424,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_015_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 82660
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7748475,
+     "index": 16,
+     "maximum": [
+      -126.76773834228516,
+      120.66410827636719,
+      20.749221801757812
+     ],
+     "minimum": [
+      -182.20626831054688,
+      44.05950927734375,
+      -14.89133071899414
+     ],
+     "name": "bridge",
+     "tiles": [
+      {
+       "fileDataID": 8113430,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_016_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 82730
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7759743,
+     "index": 17,
+     "maximum": [
+      17.333887100219727,
+      54.801719665527344,
+      6.608461856842041
+     ],
+     "minimum": [
+      6.793731689453125,
+      18.547170639038086,
+      -10.771649360656738
+     ],
+     "name": "vaulthall",
+     "tiles": [
+      {
+       "fileDataID": 8113436,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_017_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 82372
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7759744,
+     "index": 18,
+     "maximum": [
+      17.3433895111084,
+      -18.547239303588867,
+      6.608470439910889
+     ],
+     "minimum": [
+      6.80322265625,
+      -54.801815032958984,
+      -10.771653175354004
+     ],
+     "name": "cave1",
+     "tiles": [
+      {
+       "fileDataID": 8113442,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_018_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 82731
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7759745,
+     "index": 19,
+     "maximum": [
+      -81.2005615234375,
+      236.56640625,
+      16.929855346679688
+     ],
+     "minimum": [
+      -221.0983123779297,
+      118.34903717041016,
+      -15.41451358795166
+     ],
+     "name": "hallstairs2",
+     "tiles": [
+      {
+       "fileDataID": 8113448,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_019_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 8113455,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/20708_019_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 82661
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/autogen-names/unknown/20708_",
+   "placements": [
+    {
+     "position": [
+      17066.666,
+      500.0,
+      17066.666
+     ],
+     "rotation": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 69464566
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 20,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 20,
+    "tiledGroups": 20
+   },
+   "rootFileDataID": 7732775,
+   "rootMD5": "90d6fff4f6860c7babbf7b4dbee8a4eb",
+   "rootPath": "world/wmo/autogen-names/unknown/20708.wmo"
+  }
+ ]
+}

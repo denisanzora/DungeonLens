@@ -1,0 +1,3342 @@
+{
+ "build": "1.60.1.70245",
+ "classification": "D",
+ "classificationReason": "mixed-ground-and-wmo-minimaps",
+ "directory": "MonasteryInstances",
+ "ground": {
+  "adtTileCount": 36,
+  "adtTilesWithoutMinimap": 0,
+  "bounds": {
+   "maxX": 33,
+   "maxY": 32,
+   "minX": 28,
+   "minY": 27
+  },
+  "contentBounds": {
+   "maxX": 32,
+   "maxY": 31,
+   "minX": 29,
+   "minY": 28
+  },
+  "contentTileCount": 8,
+  "gridColumns": 6,
+  "gridRows": 6,
+  "missingCoordinates": [],
+  "tileCount": 36,
+  "tileDimensions": [
+   "512x512"
+  ],
+  "tiles": [
+   {
+    "fileDataID": 208593,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 28,
+    "y": 27
+   },
+   {
+    "fileDataID": 208599,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 29,
+    "y": 27
+   },
+   {
+    "fileDataID": 208605,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 30,
+    "y": 27
+   },
+   {
+    "fileDataID": 208611,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 31,
+    "y": 27
+   },
+   {
+    "fileDataID": 208617,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 32,
+    "y": 27
+   },
+   {
+    "fileDataID": 208623,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 33,
+    "y": 27
+   },
+   {
+    "fileDataID": 208594,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 28,
+    "y": 28
+   },
+   {
+    "fileDataID": 208600,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 29,
+    "y": 28
+   },
+   {
+    "fileDataID": 208606,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 30,
+    "y": 28
+   },
+   {
+    "fileDataID": 208612,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 31,
+    "y": 28
+   },
+   {
+    "fileDataID": 208618,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 32,
+    "y": 28
+   },
+   {
+    "fileDataID": 208624,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 33,
+    "y": 28
+   },
+   {
+    "fileDataID": 208595,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 28,
+    "y": 29
+   },
+   {
+    "fileDataID": 208601,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 29,
+    "y": 29
+   },
+   {
+    "fileDataID": 208607,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 30,
+    "y": 29
+   },
+   {
+    "fileDataID": 208613,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 31,
+    "y": 29
+   },
+   {
+    "fileDataID": 208619,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 32,
+    "y": 29
+   },
+   {
+    "fileDataID": 208625,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 33,
+    "y": 29
+   },
+   {
+    "fileDataID": 208596,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 28,
+    "y": 30
+   },
+   {
+    "fileDataID": 208602,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 29,
+    "y": 30
+   },
+   {
+    "fileDataID": 208608,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 30,
+    "y": 30
+   },
+   {
+    "fileDataID": 208614,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 31,
+    "y": 30
+   },
+   {
+    "fileDataID": 208620,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 32,
+    "y": 30
+   },
+   {
+    "fileDataID": 208626,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 33,
+    "y": 30
+   },
+   {
+    "fileDataID": 208597,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 28,
+    "y": 31
+   },
+   {
+    "fileDataID": 208603,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 29,
+    "y": 31
+   },
+   {
+    "fileDataID": 208609,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 30,
+    "y": 31
+   },
+   {
+    "fileDataID": 208615,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 31,
+    "y": 31
+   },
+   {
+    "fileDataID": 208621,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 32,
+    "y": 31
+   },
+   {
+    "fileDataID": 208627,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 33,
+    "y": 31
+   },
+   {
+    "fileDataID": 208598,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 28,
+    "y": 32
+   },
+   {
+    "fileDataID": 208604,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 29,
+    "y": 32
+   },
+   {
+    "fileDataID": 208610,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 30,
+    "y": 32
+   },
+   {
+    "fileDataID": 208616,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 31,
+    "y": 32
+   },
+   {
+    "fileDataID": 208622,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 32,
+    "y": 32
+   },
+   {
+    "fileDataID": 208628,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 33,
+    "y": 32
+   }
+  ]
+ },
+ "instanceID": 189,
+ "instanceType": 1,
+ "layout": "terrain",
+ "mapID": 189,
+ "mapType": 1,
+ "maxPlayers": 10,
+ "name": "Scarlet Monastery",
+ "nativeDungeonUiMaps": [],
+ "placedWMOCountWithoutMinimaps": 0,
+ "placedWMOsWithoutMinimaps": [],
+ "uiMapAssignments": [],
+ "wdt": {
+  "adtTileCount": 36,
+  "chunks": [
+   "MVER",
+   "MPHD",
+   "MAIN",
+   "MAID"
+  ],
+  "mphdFlags": 584,
+  "usesGlobalWMO": false
+ },
+ "wdtFileDataID": 788662,
+ "wmos": [
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 205.1185302734375,
+    "zMidpoints": [
+     20.74,
+     20.74,
+     21.93,
+     21.93,
+     22.38,
+     22.48,
+     23.4,
+     23.4,
+     23.4,
+     23.4,
+     23.4,
+     23.4,
+     23.41,
+     24.72,
+     35.28,
+     35.28,
+     35.28,
+     35.28,
+     36.24,
+     37.34,
+     56.68,
+     56.71,
+     61.42,
+     102.28
+    ],
+    "zMin": -0.5510271191596985
+   },
+   "groupCount": 24,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959100,
+     "index": 0,
+     "maximum": [
+      -58.22299575805664,
+      -4.723805904388428,
+      25.21063232421875
+     ],
+     "minimum": [
+      -69.45623016357422,
+      -17.294166564941406,
+      18.64944839477539
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 8113272,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_000_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84440
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 7959101,
+     "index": 1,
+     "maximum": [
+      -367.0961608886719,
+      -36.34067916870117,
+      92.6009292602539
+     ],
+     "minimum": [
+      -468.0675964355469,
+      -170.10890197753906,
+      30.246265411376953
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 8113278,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_001_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 8113288,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_001_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 84441
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959102,
+     "index": 2,
+     "maximum": [
+      -449.3277893066406,
+      -137.5039520263672,
+      40.274208068847656
+     ],
+     "minimum": [
+      -465.56396484375,
+      -147.88084411621094,
+      30.27705192565918
+     ],
+     "name": "waitingroom03",
+     "tiles": [
+      {
+       "fileDataID": 8113294,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_002_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84442
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959103,
+     "index": 3,
+     "maximum": [
+      -475.76873779296875,
+      -81.15933227539062,
+      69.96897888183594
+     ],
+     "minimum": [
+      -519.5735473632812,
+      -124.87088012695312,
+      43.45122528076172
+     ],
+     "name": "cathedral01",
+     "tiles": [
+      {
+       "fileDataID": 8113300,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_003_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84443
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959104,
+     "index": 4,
+     "maximum": [
+      -472.8307800292969,
+      -87.2315673828125,
+      43.50680923461914
+     ],
+     "minimum": [
+      -513.5014038085938,
+      -118.82167053222656,
+      28.981952667236328
+     ],
+     "name": "Crusader's Chapel",
+     "tiles": [
+      {
+       "fileDataID": 8113306,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_004_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84444
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959105,
+     "index": 5,
+     "maximum": [
+      -449.3244323730469,
+      -155.74842834472656,
+      40.274208068847656
+     ],
+     "minimum": [
+      -465.56060791015625,
+      -166.12530517578125,
+      30.27705192565918
+     ],
+     "name": "chapel03",
+     "tiles": [
+      {
+       "fileDataID": 8113313,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_005_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84445
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959106,
+     "index": 6,
+     "maximum": [
+      -451.14044189453125,
+      -50.109657287597656,
+      40.27499771118164
+     ],
+     "minimum": [
+      -465.56060791015625,
+      -63.903343200683594,
+      30.27784538269043
+     ],
+     "name": "Crusader's Chapel",
+     "tiles": [
+      {
+       "fileDataID": 8113320,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_006_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84446
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959107,
+     "index": 7,
+     "maximum": [
+      -449.32135009765625,
+      -40.30289840698242,
+      40.27501678466797
+     ],
+     "minimum": [
+      -465.56060791015625,
+      -50.73894119262695,
+      30.27785873413086
+     ],
+     "name": "meditation02",
+     "tiles": [
+      {
+       "fileDataID": 8113326,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_007_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84447
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959108,
+     "index": 8,
+     "maximum": [
+      -158.52978515625,
+      -34.421226501464844,
+      28.83011245727539
+     ],
+     "minimum": [
+      -174.62261962890625,
+      -49.71147155761719,
+      17.97821617126465
+     ],
+     "name": "Crusader's Chapel",
+     "tiles": [
+      {
+       "fileDataID": 8113331,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_008_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84448
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959109,
+     "index": 9,
+     "maximum": [
+      -158.52978515625,
+      -49.655914306640625,
+      28.83011245727539
+     ],
+     "minimum": [
+      -174.62261962890625,
+      -64.94698333740234,
+      17.978225708007812
+     ],
+     "name": "meditation01",
+     "tiles": [
+      {
+       "fileDataID": 8113337,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_009_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84449
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959110,
+     "index": 10,
+     "maximum": [
+      -158.53152465820312,
+      -80.12694549560547,
+      28.83011245727539
+     ],
+     "minimum": [
+      -174.62435913085938,
+      -95.41720581054688,
+      17.97821617126465
+     ],
+     "name": "Crusader's Chapel",
+     "tiles": [
+      {
+       "fileDataID": 8113343,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_010_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84450
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959111,
+     "index": 11,
+     "maximum": [
+      -158.53152465820312,
+      -64.89142608642578,
+      28.83011245727539
+     ],
+     "minimum": [
+      -174.62437438964844,
+      -80.18251037597656,
+      17.978225708007812
+     ],
+     "name": "chapel02",
+     "tiles": [
+      {
+       "fileDataID": 8113349,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_011_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84451
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 7959112,
+     "index": 12,
+     "maximum": [
+      -158.53274536132812,
+      -95.36163330078125,
+      28.83011245727539
+     ],
+     "minimum": [
+      -179.93179321289062,
+      -118.7972183227539,
+      17.97821617126465
+     ],
+     "name": "Crusader's Chapel",
+     "tiles": [
+      {
+       "fileDataID": 8113355,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_012_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84452
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959113,
+     "index": 13,
+     "maximum": [
+      -468.0115051269531,
+      -97.95868682861328,
+      42.73925018310547
+     ],
+     "minimum": [
+      -472.8863220214844,
+      -108.09458923339844,
+      31.944515228271484
+     ],
+     "name": "chapel04",
+     "tiles": [
+      {
+       "fileDataID": 8113361,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_013_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84453
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959114,
+     "index": 14,
+     "maximum": [
+      -140.47537231445312,
+      -8.090749740600586,
+      22.833477020263672
+     ],
+     "minimum": [
+      -157.3736114501953,
+      -28.862136840820312,
+      18.64345932006836
+     ],
+     "name": "Crusader's Chapel",
+     "tiles": [
+      {
+       "fileDataID": 8113369,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_014_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84454
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 7959115,
+     "index": 15,
+     "maximum": [
+      -216.40664672851562,
+      2.133165121078491,
+      205.1185302734375
+     ],
+     "minimum": [
+      -527.0240478515625,
+      -211.51608276367188,
+      -0.5510271191596985
+     ],
+     "name": "chapel01",
+     "tiles": [
+      {
+       "fileDataID": 8113375,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_015_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 8113394,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_015_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 8113382,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_015_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 8113401,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_015_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      },
+      {
+       "fileDataID": 8113388,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_015_02_00.blp",
+       "width": 256,
+       "x": 2,
+       "y": 0
+      },
+      {
+       "fileDataID": 8113406,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_015_02_01.blp",
+       "width": 256,
+       "x": 2,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 84455
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 7959116,
+     "index": 16,
+     "maximum": [
+      -131.44454956054688,
+      6.328945636749268,
+      95.42131042480469
+     ],
+     "minimum": [
+      -266.91888427734375,
+      -222.1909637451172,
+      17.94486427307129
+     ],
+     "name": "Crusader's Chapel",
+     "tiles": [
+      {
+       "fileDataID": 8113413,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_016_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 8113427,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_016_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 8113420,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_016_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 8113432,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_016_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 84456
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959117,
+     "index": 17,
+     "maximum": [
+      -126.05723571777344,
+      42.74613952636719,
+      26.303144454956055
+     ],
+     "minimum": [
+      -147.0159149169922,
+      27.368837356567383,
+      18.649553298950195
+     ],
+     "name": "hall22",
+     "tiles": [
+      {
+       "fileDataID": 8113441,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_017_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84457
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959118,
+     "index": 18,
+     "maximum": [
+      -126.05723571777344,
+      -25.68095588684082,
+      26.303144454956055
+     ],
+     "minimum": [
+      -146.85186767578125,
+      -41.909210205078125,
+      18.459745407104492
+     ],
+     "name": "hall23",
+     "tiles": [
+      {
+       "fileDataID": 8113446,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_018_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84458
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959119,
+     "index": 19,
+     "maximum": [
+      -140.47537231445312,
+      30.549663543701172,
+      22.83347511291504
+     ],
+     "minimum": [
+      -157.37364196777344,
+      9.778276443481445,
+      18.643455505371094
+     ],
+     "name": "hall24",
+     "tiles": [
+      {
+       "fileDataID": 8113452,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_019_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84459
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959120,
+     "index": 20,
+     "maximum": [
+      -157.3179168701172,
+      -11.041202545166016,
+      28.83011245727539
+     ],
+     "minimum": [
+      -174.62139892578125,
+      -34.476783752441406,
+      17.97821617126465
+     ],
+     "name": "hall25",
+     "tiles": [
+      {
+       "fileDataID": 8113459,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_020_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84460
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959121,
+     "index": 21,
+     "maximum": [
+      -157.31793212890625,
+      36.16036605834961,
+      28.83155059814453
+     ],
+     "minimum": [
+      -173.44276428222656,
+      13.156460762023926,
+      17.979658126831055
+     ],
+     "name": "hall26",
+     "tiles": [
+      {
+       "fileDataID": 8113465,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_021_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84461
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959122,
+     "index": 22,
+     "maximum": [
+      -69.40067291259766,
+      27.424394607543945,
+      30.786222457885742
+     ],
+     "minimum": [
+      -140.53607177734375,
+      -25.736515045166016,
+      18.648983001708984
+     ],
+     "name": "connector01",
+     "tiles": [
+      {
+       "fileDataID": 8113471,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_022_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84462
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959123,
+     "index": 23,
+     "maximum": [
+      -58.22299575805664,
+      18.98204231262207,
+      25.21063232421875
+     ],
+     "minimum": [
+      -69.45632934570312,
+      6.411681652069092,
+      18.64944839477539
+     ],
+     "name": "Crusader's Chapel",
+     "tiles": [
+      {
+       "fileDataID": 8113478,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21122_023_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84463
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/autogen-names/unknown/21122_",
+   "placements": [
+    {
+     "position": [
+      15770.7861,
+      0.0,
+      16362.3965
+     ],
+     "rotation": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 353172
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 4,
+     "1": 4,
+     "2": 24,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 24,
+    "tiledGroups": 24
+   },
+   "rootFileDataID": 7958650,
+   "rootMD5": "c33d6c70839c9a88d98563111c1a6b07",
+   "rootPath": "world/wmo/autogen-names/unknown/21122.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 2,
+    "stackedGroupPairs": [
+     [
+      15,
+      20
+     ],
+     [
+      16,
+      19
+     ],
+     [
+      16,
+      20
+     ],
+     [
+      17,
+      20
+     ],
+     [
+      18,
+      19
+     ],
+     [
+      18,
+      20
+     ]
+    ],
+    "zMax": 233.72824096679688,
+    "zMidpoints": [
+     -2.55,
+     -1.42,
+     2.91,
+     3.78,
+     6.28,
+     8.83,
+     12.22,
+     12.22,
+     12.22,
+     12.22,
+     12.22,
+     12.22,
+     13.53,
+     16.0,
+     16.47,
+     16.47,
+     20.74,
+     21.93,
+     21.93,
+     22.38,
+     22.48,
+     23.4,
+     24.72,
+     122.82
+    ],
+    "zMin": -9.510652542114258
+   },
+   "groupCount": 24,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959171,
+     "index": 0,
+     "maximum": [
+      -58.22299575805664,
+      -4.723805904388428,
+      25.21063232421875
+     ],
+     "minimum": [
+      -69.45623016357422,
+      -17.294166564941406,
+      18.64944839477539
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 8111803,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_000_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84484
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959172,
+     "index": 1,
+     "maximum": [
+      -58.22299575805664,
+      18.98204231262207,
+      25.21063232421875
+     ],
+     "minimum": [
+      -69.45623016357422,
+      6.411681652069092,
+      18.64944839477539
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 8111810,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_001_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84485
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959173,
+     "index": 2,
+     "maximum": [
+      -183.02976989746094,
+      -69.98049926757812,
+      17.644105911254883
+     ],
+     "minimum": [
+      -194.39109802246094,
+      -86.07335662841797,
+      6.792213439941406
+     ],
+     "name": "waitingroom03",
+     "tiles": [
+      {
+       "fileDataID": 8111816,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_002_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84486
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959174,
+     "index": 3,
+     "maximum": [
+      -194.33522033691406,
+      -69.98046875,
+      17.644102096557617
+     ],
+     "minimum": [
+      -214.59652709960938,
+      -89.24905395507812,
+      6.792208671569824
+     ],
+     "name": "waitingroom02",
+     "tiles": [
+      {
+       "fileDataID": 8111821,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_003_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84487
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959175,
+     "index": 4,
+     "maximum": [
+      -152.55874633789062,
+      -69.98049926757812,
+      17.644107818603516
+     ],
+     "minimum": [
+      -183.08555603027344,
+      -86.0733642578125,
+      6.792219161987305
+     ],
+     "name": "hall15",
+     "tiles": [
+      {
+       "fileDataID": 8111827,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_004_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84488
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959176,
+     "index": 5,
+     "maximum": [
+      -129.61045837402344,
+      -69.94942474365234,
+      17.644107818603516
+     ],
+     "minimum": [
+      -152.61489868164062,
+      -86.07412719726562,
+      6.792216777801514
+     ],
+     "name": "hall16",
+     "tiles": [
+      {
+       "fileDataID": 8111833,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_005_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84489
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959177,
+     "index": 6,
+     "maximum": [
+      -69.40067291259766,
+      27.424394607543945,
+      30.786222457885742
+     ],
+     "minimum": [
+      -140.53599548339844,
+      -25.736515045166016,
+      18.648983001708984
+     ],
+     "name": "hall17",
+     "tiles": [
+      {
+       "fileDataID": 8111839,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_006_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84490
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959178,
+     "index": 7,
+     "maximum": [
+      -185.83506774902344,
+      -89.18671417236328,
+      19.59917640686035
+     ],
+     "minimum": [
+      -238.99595642089844,
+      -136.63783264160156,
+      7.4625067710876465
+     ],
+     "name": "hall18",
+     "tiles": [
+      {
+       "fileDataID": 8111845,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_007_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84491
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959179,
+     "index": 8,
+     "maximum": [
+      -126.05723571777344,
+      42.74613952636719,
+      26.303144454956055
+     ],
+     "minimum": [
+      -147.0159149169922,
+      27.368837356567383,
+      18.649553298950195
+     ],
+     "name": "entrance01",
+     "tiles": [
+      {
+       "fileDataID": 8111849,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_008_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84492
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959180,
+     "index": 9,
+     "maximum": [
+      -139.73165893554688,
+      -41.85365676879883,
+      25.63642692565918
+     ],
+     "minimum": [
+      -148.69813537597656,
+      -70.00498962402344,
+      7.295910358428955
+     ],
+     "name": "entrance04",
+     "tiles": [
+      {
+       "fileDataID": 8111855,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_009_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84493
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959181,
+     "index": 10,
+     "maximum": [
+      -126.05723571777344,
+      -25.68095588684082,
+      26.303144454956055
+     ],
+     "minimum": [
+      -146.85186767578125,
+      -41.90921401977539,
+      18.459745407104492
+     ],
+     "name": "Chamber of Atonement",
+     "tiles": [
+      {
+       "fileDataID": 8111862,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_010_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84494
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959182,
+     "index": 11,
+     "maximum": [
+      -210.23513793945312,
+      -136.57388305664062,
+      17.644512176513672
+     ],
+     "minimum": [
+      -231.8697052001953,
+      -155.83544921875,
+      6.7926177978515625
+     ],
+     "name": "instancehall01",
+     "tiles": [
+      {
+       "fileDataID": 8111868,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_011_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84495
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959183,
+     "index": 12,
+     "maximum": [
+      -234.35702514648438,
+      -155.81224060058594,
+      25.636829376220703
+     ],
+     "minimum": [
+      -243.32350158691406,
+      -191.6514892578125,
+      7.296313762664795
+     ],
+     "name": "stairs03",
+     "tiles": [
+      {
+       "fileDataID": 8111875,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_012_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84496
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959184,
+     "index": 13,
+     "maximum": [
+      -232.1715087890625,
+      -374.94183349609375,
+      17.996728897094727
+     ],
+     "minimum": [
+      -263.2945556640625,
+      -420.6702575683594,
+      -0.3383857011795044
+     ],
+     "name": "instancehall02",
+     "tiles": [
+      {
+       "fileDataID": 8111880,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_013_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84497
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959185,
+     "index": 14,
+     "maximum": [
+      -209.8910369873047,
+      -401.4628601074219,
+      13.568729400634766
+     ],
+     "minimum": [
+      -244.04649353027344,
+      -423.2347106933594,
+      -1.0075937509536743
+     ],
+     "name": "hall19",
+     "tiles": [
+      {
+       "fileDataID": 8111888,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_014_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84498
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959186,
+     "index": 15,
+     "maximum": [
+      -209.8910369873047,
+      -370.0364074707031,
+      8.571842193603516
+     ],
+     "minimum": [
+      -232.22706604003906,
+      -391.872802734375,
+      -1.007598876953125
+     ],
+     "name": "stairs04",
+     "tiles": [
+      {
+       "fileDataID": 8111893,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_015_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84499
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959187,
+     "index": 16,
+     "maximum": [
+      -239.64852905273438,
+      -377.37713623046875,
+      4.418664455413818
+     ],
+     "minimum": [
+      -267.05291748046875,
+      -415.91278076171875,
+      -9.510652542114258
+     ],
+     "name": "CryptRm01",
+     "tiles": [
+      {
+       "fileDataID": 8111898,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_016_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84500
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959188,
+     "index": 17,
+     "maximum": [
+      -224.36566162109375,
+      -389.9237976074219,
+      6.07551383972168
+     ],
+     "minimum": [
+      -230.146484375,
+      -403.38409423828125,
+      -0.2557785212993622
+     ],
+     "name": "Honor's Tomb",
+     "tiles": [
+      {
+       "fileDataID": 8111904,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_017_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84501
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959189,
+     "index": 18,
+     "maximum": [
+      -228.4271697998047,
+      -393.5733642578125,
+      5.632060527801514
+     ],
+     "minimum": [
+      -241.2180938720703,
+      -399.6778259277344,
+      -8.462162017822266
+     ],
+     "name": "CryptRm02",
+     "tiles": [
+      {
+       "fileDataID": 8111909,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_018_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84502
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959190,
+     "index": 19,
+     "maximum": [
+      -235.7709503173828,
+      -381.39801025390625,
+      23.540647506713867
+     ],
+     "minimum": [
+      -250.33154296875,
+      -400.7871398925781,
+      8.464810371398926
+     ],
+     "name": "Honor's Tomb",
+     "tiles": [
+      {
+       "fileDataID": 8111915,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_019_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84503
+    },
+    {
+     "flags": 8256,
+     "groupFileDataID": 7959191,
+     "index": 20,
+     "maximum": [
+      -167.47222900390625,
+      -124.20944213867188,
+      233.72824096679688
+     ],
+     "minimum": [
+      -471.4718322753906,
+      -518.4380493164062,
+      11.90602970123291
+     ],
+     "name": "CryptRm03",
+     "tiles": [
+      {
+       "fileDataID": 8111919,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_020_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111938,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_020_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 8111958,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_020_00_02.blp",
+       "width": 256,
+       "x": 0,
+       "y": 2
+      },
+      {
+       "fileDataID": 8111976,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_020_00_03.blp",
+       "width": 256,
+       "x": 0,
+       "y": 3
+      },
+      {
+       "fileDataID": 8111926,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_020_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111946,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_020_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      },
+      {
+       "fileDataID": 8111964,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_020_01_02.blp",
+       "width": 256,
+       "x": 1,
+       "y": 2
+      },
+      {
+       "fileDataID": 8111981,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_020_01_03.blp",
+       "width": 256,
+       "x": 1,
+       "y": 3
+      },
+      {
+       "fileDataID": 8111932,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_020_02_00.blp",
+       "width": 256,
+       "x": 2,
+       "y": 0
+      },
+      {
+       "fileDataID": 8111952,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_020_02_01.blp",
+       "width": 256,
+       "x": 2,
+       "y": 1
+      },
+      {
+       "fileDataID": 8111970,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_020_02_02.blp",
+       "width": 256,
+       "x": 2,
+       "y": 2
+      },
+      {
+       "fileDataID": 8111987,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_020_02_03.blp",
+       "width": 256,
+       "x": 2,
+       "y": 3
+      }
+     ],
+     "wmoGroupID": 84504
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959192,
+     "index": 21,
+     "maximum": [
+      -230.4408416748047,
+      -139.7430877685547,
+      17.644512176513672
+     ],
+     "minimum": [
+      -253.44471740722656,
+      -155.86778259277344,
+      6.79262113571167
+     ],
+     "name": "Honor's Tomb",
+     "tiles": [
+      {
+       "fileDataID": 8111994,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_021_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84505
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959193,
+     "index": 22,
+     "maximum": [
+      -140.4803924560547,
+      3.8940343856811523,
+      28.83011245727539
+     ],
+     "minimum": [
+      -164.68380737304688,
+      -19.541593551635742,
+      17.978212356567383
+     ],
+     "name": "CryptRm04",
+     "tiles": [
+      {
+       "fileDataID": 8112000,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_022_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84506
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959194,
+     "index": 23,
+     "maximum": [
+      -140.47537231445312,
+      30.549659729003906,
+      22.83347511291504
+     ],
+     "minimum": [
+      -157.379638671875,
+      9.778276443481445,
+      18.643455505371094
+     ],
+     "name": "Honor's Tomb",
+     "tiles": [
+      {
+       "fileDataID": 8112006,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21127_023_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84507
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/autogen-names/unknown/21127_",
+   "placements": [
+    {
+     "position": [
+      16046.5342,
+      0.0,
+      15507.9629
+     ],
+     "rotation": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 353171
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 4,
+     "1": 4,
+     "2": 24,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 24,
+    "tiledGroups": 24
+   },
+   "rootFileDataID": 7958652,
+   "rootMD5": "7ffdd80a191a36cee217447019a7b36c",
+   "rootPath": "world/wmo/autogen-names/unknown/21127.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 44.13098907470703,
+    "zMidpoints": [
+     20.74,
+     22.38,
+     22.45,
+     22.48,
+     23.23,
+     23.4,
+     23.4,
+     23.84,
+     23.84,
+     23.93,
+     23.93,
+     23.93,
+     23.93,
+     23.93,
+     23.93,
+     23.93,
+     23.93,
+     24.72,
+     25.43,
+     25.78,
+     25.78,
+     26.97,
+     26.97,
+     29.72,
+     29.72,
+     31.29
+    ],
+    "zMin": 17.978212356567383
+   },
+   "groupCount": 26,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959252,
+     "index": 0,
+     "maximum": [
+      -111.53813171386719,
+      141.03451538085938,
+      27.634824752807617
+     ],
+     "minimum": [
+      -124.11786651611328,
+      126.48908233642578,
+      20.04994773864746
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 8114191,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_000_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84508
+    },
+    {
+     "flags": 270592,
+     "groupFileDataID": 7959253,
+     "index": 1,
+     "maximum": [
+      -34.0643424987793,
+      140.6946258544922,
+      29.3533878326416
+     ],
+     "minimum": [
+      -57.49992752075195,
+      119.29556274414062,
+      18.501497268676758
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 8114195,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_001_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84509
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959254,
+     "index": 2,
+     "maximum": [
+      -57.44437026977539,
+      140.6958465576172,
+      29.3533878326416
+     ],
+     "minimum": [
+      -72.73460388183594,
+      124.60299682617188,
+      18.501497268676758
+     ],
+     "name": "waitingroom05",
+     "tiles": [
+      {
+       "fileDataID": 8114199,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_002_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84510
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959255,
+     "index": 3,
+     "maximum": [
+      -72.67904663085938,
+      140.6958465576172,
+      29.3533878326416
+     ],
+     "minimum": [
+      -87.97012329101562,
+      124.60299682617188,
+      18.50149917602539
+     ],
+     "name": "Gallery of Treasures",
+     "tiles": [
+      {
+       "fileDataID": 8114203,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_003_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84511
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959256,
+     "index": 4,
+     "maximum": [
+      -87.91452026367188,
+      141.18455505371094,
+      29.353395462036133
+     ],
+     "minimum": [
+      -110.91845703125,
+      121.4248046875,
+      18.501497268676758
+     ],
+     "name": "hall14",
+     "tiles": [
+      {
+       "fileDataID": 8114206,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_004_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84512
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959257,
+     "index": 5,
+     "maximum": [
+      -81.35559844970703,
+      170.26170349121094,
+      40.95964431762695
+     ],
+     "minimum": [
+      -154.90475463867188,
+      140.3142547607422,
+      18.490114212036133
+     ],
+     "name": "hall08",
+     "tiles": [
+      {
+       "fileDataID": 8114210,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_005_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84513
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959258,
+     "index": 6,
+     "maximum": [
+      -81.35560607910156,
+      270.33197021484375,
+      40.95963668823242
+     ],
+     "minimum": [
+      -154.90475463867188,
+      240.38450622558594,
+      18.490114212036133
+     ],
+     "name": "hall09",
+     "tiles": [
+      {
+       "fileDataID": 8114215,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_006_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84514
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959259,
+     "index": 7,
+     "maximum": [
+      -133.61708068847656,
+      141.03448486328125,
+      27.634828567504883
+     ],
+     "minimum": [
+      -146.19679260253906,
+      126.48909759521484,
+      20.04994773864746
+     ],
+     "name": "hall10",
+     "tiles": [
+      {
+       "fileDataID": 8114219,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_007_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84515
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959260,
+     "index": 8,
+     "maximum": [
+      -126.56514739990234,
+      61.95907974243164,
+      29.354825973510742
+     ],
+     "minimum": [
+      -137.92649841308594,
+      45.8662223815918,
+      18.502931594848633
+     ],
+     "name": "library01",
+     "tiles": [
+      {
+       "fileDataID": 8114223,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_008_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84516
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959261,
+     "index": 9,
+     "maximum": [
+      -137.87063598632812,
+      61.95908737182617,
+      29.354822158813477
+     ],
+     "minimum": [
+      -158.1319122314453,
+      42.69057846069336,
+      18.5029296875
+     ],
+     "name": "Gallery of Treasures",
+     "tiles": [
+      {
+       "fileDataID": 8114227,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_009_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84517
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959262,
+     "index": 10,
+     "maximum": [
+      -114.16585540771484,
+      61.95907974243164,
+      29.354825973510742
+     ],
+     "minimum": [
+      -126.6207046508789,
+      46.887393951416016,
+      18.502939224243164
+     ],
+     "name": "library02",
+     "tiles": [
+      {
+       "fileDataID": 8114231,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_010_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84518
+    },
+    {
+     "flags": 270592,
+     "groupFileDataID": 7959263,
+     "index": 11,
+     "maximum": [
+      -60.7467041015625,
+      61.990196228027344,
+      29.354825973510742
+     ],
+     "minimum": [
+      -114.22161102294922,
+      45.86545944213867,
+      18.5029354095459
+     ],
+     "name": "Athenaeum",
+     "tiles": [
+      {
+       "fileDataID": 8114234,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_011_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84519
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959264,
+     "index": 12,
+     "maximum": [
+      -126.05723571777344,
+      42.74613571166992,
+      26.303144454956055
+     ],
+     "minimum": [
+      -147.01593017578125,
+      27.368837356567383,
+      18.649553298950195
+     ],
+     "name": "waitingroom04",
+     "tiles": [
+      {
+       "fileDataID": 8114239,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_012_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84520
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959265,
+     "index": 13,
+     "maximum": [
+      -89.27495574951172,
+      121.48051452636719,
+      25.732873916625977
+     ],
+     "minimum": [
+      -101.84532165527344,
+      110.24708557128906,
+      19.171693801879883
+     ],
+     "name": "Gallery of Treasures",
+     "tiles": [
+      {
+       "fileDataID": 8114243,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_013_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84521
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959266,
+     "index": 14,
+     "maximum": [
+      -0.1945817768573761,
+      278.28094482421875,
+      44.13098907470703
+     ],
+     "minimum": [
+      -47.03106689453125,
+      231.5682830810547,
+      18.457664489746094
+     ],
+     "name": "hall02",
+     "tiles": [
+      {
+       "fileDataID": 8114246,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_014_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84522
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959267,
+     "index": 15,
+     "maximum": [
+      -121.72042846679688,
+      240.897705078125,
+      33.90033721923828
+     ],
+     "minimum": [
+      -157.98193359375,
+      205.0363006591797,
+      20.04720687866211
+     ],
+     "name": "hall01",
+     "tiles": [
+      {
+       "fileDataID": 8114250,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_015_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84523
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959268,
+     "index": 16,
+     "maximum": [
+      -121.72042083740234,
+      205.09193420410156,
+      33.90034866333008
+     ],
+     "minimum": [
+      -157.98191833496094,
+      169.2315673828125,
+      20.047216415405273
+     ],
+     "name": "hall03",
+     "tiles": [
+      {
+       "fileDataID": 8114253,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_016_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84524
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959269,
+     "index": 17,
+     "maximum": [
+      -46.199039459228516,
+      273.04119873046875,
+      32.35569381713867
+     ],
+     "minimum": [
+      -82.06124114990234,
+      236.7797088623047,
+      18.502565383911133
+     ],
+     "name": "hall04",
+     "tiles": [
+      {
+       "fileDataID": 8114258,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_017_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84525
+    },
+    {
+     "flags": 270592,
+     "groupFileDataID": 7959270,
+     "index": 18,
+     "maximum": [
+      -11.660428047180176,
+      90.68718719482422,
+      27.946989059448242
+     ],
+     "minimum": [
+      -23.69148826599121,
+      74.96141815185547,
+      18.51875114440918
+     ],
+     "name": "instancehall01",
+     "tiles": [
+      {
+       "fileDataID": 8114263,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_018_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84526
+    },
+    {
+     "flags": 270656,
+     "groupFileDataID": 7959271,
+     "index": 19,
+     "maximum": [
+      13.796268463134766,
+      98.23665618896484,
+      33.040706634521484
+     ],
+     "minimum": [
+      -18.282609939575195,
+      67.41293334960938,
+      18.51875114440918
+     ],
+     "name": "waitingroom06",
+     "tiles": [
+      {
+       "fileDataID": 8114267,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_019_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84527
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959272,
+     "index": 20,
+     "maximum": [
+      -148.59217834472656,
+      -19.485992431640625,
+      28.83011245727539
+     ],
+     "minimum": [
+      -164.68502807617188,
+      -34.77623748779297,
+      17.978212356567383
+     ],
+     "name": "study01",
+     "tiles": [
+      {
+       "fileDataID": 8114271,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_020_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84528
+    },
+    {
+     "flags": 270656,
+     "groupFileDataID": 7959273,
+     "index": 21,
+     "maximum": [
+      -23.63593101501465,
+      119.35115814208984,
+      33.04071044921875
+     ],
+     "minimum": [
+      -80.98002624511719,
+      61.93463897705078,
+      18.51874542236328
+     ],
+     "name": "Athenaeum",
+     "tiles": [
+      {
+       "fileDataID": 8114275,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_021_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84529
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959274,
+     "index": 22,
+     "maximum": [
+      -69.40067291259766,
+      27.424394607543945,
+      30.786222457885742
+     ],
+     "minimum": [
+      -140.53599548339844,
+      -25.736515045166016,
+      18.648983001708984
+     ],
+     "name": "libhall02",
+     "tiles": [
+      {
+       "fileDataID": 8114279,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_022_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84530
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959275,
+     "index": 23,
+     "maximum": [
+      -140.4803924560547,
+      3.8940343856811523,
+      28.83011245727539
+     ],
+     "minimum": [
+      -164.68380737304688,
+      -19.541549682617188,
+      17.978212356567383
+     ],
+     "name": "libhall01",
+     "tiles": [
+      {
+       "fileDataID": 8114283,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_023_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84531
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959276,
+     "index": 24,
+     "maximum": [
+      -140.47537231445312,
+      30.549659729003906,
+      22.83347511291504
+     ],
+     "minimum": [
+      -157.379638671875,
+      9.778276443481445,
+      18.643455505371094
+     ],
+     "name": "libhall03",
+     "tiles": [
+      {
+       "fileDataID": 8114287,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_024_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84532
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959277,
+     "index": 25,
+     "maximum": [
+      -126.05723571777344,
+      -25.68095588684082,
+      26.303144454956055
+     ],
+     "minimum": [
+      -146.85186767578125,
+      -41.909210205078125,
+      18.459745407104492
+     ],
+     "name": "Athenaeum",
+     "tiles": [
+      {
+       "fileDataID": 8114291,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21128_025_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84533
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/autogen-names/unknown/21128_",
+   "placements": [
+    {
+     "position": [
+      17240.8496,
+      0.0,
+      16941.4746
+     ],
+     "rotation": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 353169
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 5,
+     "1": 5,
+     "2": 26,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 26,
+    "tiledGroups": 26
+   },
+   "rootFileDataID": 7958653,
+   "rootMD5": "bcf4b104227aafb8f8b59ce3af93b053",
+   "rootPath": "world/wmo/autogen-names/unknown/21128.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 51.868099212646484,
+    "zMidpoints": [
+     16.99,
+     20.74,
+     20.74,
+     21.93,
+     21.93,
+     22.38,
+     22.48,
+     23.07,
+     23.12,
+     23.4,
+     23.41,
+     23.41,
+     23.41,
+     23.41,
+     23.41,
+     23.41,
+     24.72,
+     25.25,
+     28.34,
+     29.01
+    ],
+    "zMin": 6.149555206298828
+   },
+   "groupCount": 20,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959439,
+     "index": 0,
+     "maximum": [
+      -479.27606201171875,
+      163.055908203125,
+      51.868099212646484
+     ],
+     "minimum": [
+      -532.923095703125,
+      108.56808471679688,
+      6.149555206298828
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 8114976,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_000_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84534
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959440,
+     "index": 1,
+     "maximum": [
+      -455.4371337890625,
+      73.72916412353516,
+      28.832056045532227
+     ],
+     "minimum": [
+      -474.70562744140625,
+      53.46786880493164,
+      17.98016357421875
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 8114980,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_001_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84535
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959441,
+     "index": 2,
+     "maximum": [
+      -458.6127624511719,
+      85.03466796875,
+      28.832059860229492
+     ],
+     "minimum": [
+      -474.70562744140625,
+      73.67298126220703,
+      17.980165481567383
+     ],
+     "name": "roundtable02",
+     "tiles": [
+      {
+       "fileDataID": 8114984,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_002_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84536
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959442,
+     "index": 3,
+     "maximum": [
+      -459.63397216796875,
+      97.43375396728516,
+      28.832059860229492
+     ],
+     "minimum": [
+      -474.7056579589844,
+      84.9784927368164,
+      17.98017120361328
+     ],
+     "name": "Hall of Champions",
+     "tiles": [
+      {
+       "fileDataID": 8114988,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_003_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84537
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959443,
+     "index": 4,
+     "maximum": [
+      -458.6127624511719,
+      127.90478515625,
+      28.832063674926758
+     ],
+     "minimum": [
+      -474.70562744140625,
+      97.3781967163086,
+      17.98016929626465
+     ],
+     "name": "hall27",
+     "tiles": [
+      {
+       "fileDataID": 8114992,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_004_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84538
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959444,
+     "index": 5,
+     "maximum": [
+      -458.6120300292969,
+      150.8530731201172,
+      29.18474769592285
+     ],
+     "minimum": [
+      -479.3338623046875,
+      127.84860229492188,
+      17.064435958862305
+     ],
+     "name": "hall28",
+     "tiles": [
+      {
+       "fileDataID": 8114996,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_005_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84539
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959445,
+     "index": 6,
+     "maximum": [
+      -279.53717041015625,
+      140.37704467773438,
+      38.18665313720703
+     ],
+     "minimum": [
+      -356.48388671875,
+      59.77456283569336,
+      7.960655212402344
+     ],
+     "name": "hall29",
+     "tiles": [
+      {
+       "fileDataID": 8115000,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_006_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84540
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959446,
+     "index": 7,
+     "maximum": [
+      -257.40057373046875,
+      71.87071228027344,
+      26.15729522705078
+     ],
+     "minimum": [
+      -279.59271240234375,
+      62.90419387817383,
+      7.816779613494873
+     ],
+     "name": "hall30",
+     "tiles": [
+      {
+       "fileDataID": 8115003,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_007_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84541
+    },
+    {
+     "flags": 8256,
+     "groupFileDataID": 7959447,
+     "index": 8,
+     "maximum": [
+      -176.55593872070312,
+      91.4425048828125,
+      32.517433166503906
+     ],
+     "minimum": [
+      -257.47564697265625,
+      36.5745735168457,
+      17.988605499267578
+     ],
+     "name": "hall31",
+     "tiles": [
+      {
+       "fileDataID": 8115009,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_008_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84542
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959448,
+     "index": 9,
+     "maximum": [
+      -157.3179168701172,
+      36.1606330871582,
+      28.831546783447266
+     ],
+     "minimum": [
+      -173.44276428222656,
+      13.156460762023926,
+      17.97965431213379
+     ],
+     "name": "foyer03",
+     "tiles": [
+      {
+       "fileDataID": 8115013,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_009_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84543
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959449,
+     "index": 10,
+     "maximum": [
+      -157.3500213623047,
+      56.36603927612305,
+      28.831544876098633
+     ],
+     "minimum": [
+      -176.6115264892578,
+      36.104766845703125,
+      17.979650497436523
+     ],
+     "name": "Footman's Armory",
+     "tiles": [
+      {
+       "fileDataID": 8115016,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_010_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84544
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959450,
+     "index": 11,
+     "maximum": [
+      -356.4283447265625,
+      140.3719024658203,
+      48.85342025756836
+     ],
+     "minimum": [
+      -455.49273681640625,
+      59.76944351196289,
+      7.816976070404053
+     ],
+     "name": "stairs06",
+     "tiles": [
+      {
+       "fileDataID": 8115020,
+       "height": 256,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_011_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84545
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959451,
+     "index": 12,
+     "maximum": [
+      -140.47537231445312,
+      30.549663543701172,
+      22.83347511291504
+     ],
+     "minimum": [
+      -157.37362670898438,
+      9.778276443481445,
+      18.643455505371094
+     ],
+     "name": "training01",
+     "tiles": [
+      {
+       "fileDataID": 8115026,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_012_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84546
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959452,
+     "index": 13,
+     "maximum": [
+      -58.22299575805664,
+      -4.723805904388428,
+      25.21063232421875
+     ],
+     "minimum": [
+      -69.45639038085938,
+      -17.294166564941406,
+      18.64944839477539
+     ],
+     "name": "Training Grounds",
+     "tiles": [
+      {
+       "fileDataID": 8115030,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_013_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84547
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959453,
+     "index": 14,
+     "maximum": [
+      -58.22299575805664,
+      18.98204231262207,
+      25.21063232421875
+     ],
+     "minimum": [
+      -69.4564208984375,
+      6.411681652069092,
+      18.64944839477539
+     ],
+     "name": "hall32",
+     "tiles": [
+      {
+       "fileDataID": 8115034,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_014_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84548
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959454,
+     "index": 15,
+     "maximum": [
+      -126.05723571777344,
+      42.74613952636719,
+      26.303144454956055
+     ],
+     "minimum": [
+      -147.0159149169922,
+      27.368837356567383,
+      18.649553298950195
+     ],
+     "name": "hall33",
+     "tiles": [
+      {
+       "fileDataID": 8115036,
+       "height": 32,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_015_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84549
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959455,
+     "index": 16,
+     "maximum": [
+      -126.05723571777344,
+      -25.68095588684082,
+      26.303144454956055
+     ],
+     "minimum": [
+      -146.85186767578125,
+      -41.909210205078125,
+      18.459745407104492
+     ],
+     "name": "armory02",
+     "tiles": [
+      {
+       "fileDataID": 8115038,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_016_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84550
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959456,
+     "index": 17,
+     "maximum": [
+      -157.3180389404297,
+      -11.041202545166016,
+      28.83011245727539
+     ],
+     "minimum": [
+      -174.62139892578125,
+      -34.476829528808594,
+      17.97821617126465
+     ],
+     "name": "Crusader's Armory",
+     "tiles": [
+      {
+       "fileDataID": 8115040,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_017_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84551
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959457,
+     "index": 18,
+     "maximum": [
+      -140.47537231445312,
+      -8.090749740600586,
+      22.833477020263672
+     ],
+     "minimum": [
+      -157.37362670898438,
+      -28.862136840820312,
+      18.64345932006836
+     ],
+     "name": "instancehall03",
+     "tiles": [
+      {
+       "fileDataID": 8115042,
+       "height": 64,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_018_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84552
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 7959458,
+     "index": 19,
+     "maximum": [
+      -69.40067291259766,
+      27.424394607543945,
+      30.786222457885742
+     ],
+     "minimum": [
+      -140.53599548339844,
+      -25.736515045166016,
+      18.648983001708984
+     ],
+     "name": "waitingroom03",
+     "tiles": [
+      {
+       "fileDataID": 8115044,
+       "height": 128,
+       "path": "world/minimaps/wmo/autogen-names/unknown/21129_019_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 84553
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/autogen-names/unknown/21129_",
+   "placements": [
+    {
+     "position": [
+      17362.4395,
+      0.0,
+      15607.3359
+     ],
+     "rotation": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 353170
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 3,
+     "1": 3,
+     "2": 20,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 20,
+    "tiledGroups": 20
+   },
+   "rootFileDataID": 7958654,
+   "rootMD5": "b0dc5051d4348d38014bd71f15962665",
+   "rootPath": "world/wmo/autogen-names/unknown/21129.wmo"
+  }
+ ]
+}

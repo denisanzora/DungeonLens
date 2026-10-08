@@ -1,0 +1,81 @@
+{
+ "bosses": [
+  {
+   "boss": "Saltspine",
+   "encounterID": 3480,
+   "items": [],
+   "page": "excavation-site-wetlands",
+   "sourceBoss": "Saltspine",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Shadetooth",
+   "encounterID": 3481,
+   "items": [],
+   "page": "excavation-site-wetlands",
+   "sourceBoss": "Shadetooth",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Relic Guardian",
+   "encounterID": 3482,
+   "items": [],
+   "page": "excavation-site-wetlands",
+   "sourceBoss": "Relic Guardian",
+   "sourceItemCount": 3
+  }
+ ],
+ "bossesWithoutSourceEntry": [
+  "Highland Horror"
+ ],
+ "map": 2998,
+ "source": "wowtbc.gg/warcraftforever",
+ "unmatchedSourceBosses": [],
+ "unresolvedItems": [
+  {
+   "boss": "Saltspine",
+   "name": "Supple Bellyskin Leggings",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Saltspine",
+   "name": "Saltscale Girdle",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Saltspine",
+   "name": "Glinteye Slippers",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Shadetooth",
+   "name": "Raptorclaw Greaves",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Shadetooth",
+   "name": "Garb of Florid Feathers",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Shadetooth",
+   "name": "Raptor's Gaze",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Relic Guardian",
+   "name": "Reliquary Mantle",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Relic Guardian",
+   "name": "Golemsight Long Gun",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Relic Guardian",
+   "name": "Ring of Power Regulation",
+   "reason": "no ID in client tables"
+  }
+ ]
+}

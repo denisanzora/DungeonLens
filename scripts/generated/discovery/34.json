@@ -1,0 +1,814 @@
+{
+ "build": "1.60.1.70245",
+ "classification": "C",
+ "classificationReason": "wmo-minimap",
+ "directory": "StormwindJail",
+ "ground": null,
+ "instanceID": 34,
+ "instanceType": 1,
+ "layout": "global-wmo",
+ "mapID": 34,
+ "mapType": 2,
+ "maxPlayers": 10,
+ "name": "Stormwind Stockade",
+ "nativeDungeonUiMaps": [],
+ "uiMapAssignments": [],
+ "wdt": {
+  "adtTileCount": 0,
+  "chunks": [
+   "MVER",
+   "MPHD",
+   "MAIN",
+   "MAID",
+   "MODF"
+  ],
+  "globalWMO": {
+   "fileDataID": 108631,
+   "isFileDataID": true,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "mphdFlags": 577,
+  "usesGlobalWMO": true
+ },
+ "wdtFileDataID": 791060,
+ "wmos": [
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 15.21673583984375,
+    "zMidpoints": [
+     -31.2,
+     -31.2,
+     -30.86,
+     -30.63,
+     -30.61,
+     -30.61,
+     -30.52,
+     -30.52,
+     -30.45,
+     -30.45,
+     -29.67,
+     -29.67,
+     -29.67,
+     -29.59,
+     -29.59,
+     -29.56,
+     -29.37,
+     -29.37,
+     -24.74,
+     -22.42,
+     -22.42,
+     -22.27,
+     -22.27,
+     -16.3,
+     -13.89,
+     1.04
+    ],
+    "zMin": -35.549320220947266
+   },
+   "groupCount": 27,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 108632,
+     "index": 0,
+     "maximum": [
+      8.136323928833008,
+      33.29472732543945,
+      15.21673583984375
+     ],
+     "minimum": [
+      -60.0115966796875,
+      -34.85321807861328,
+      -13.143377304077148
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 211700,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_000_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2810
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108633,
+     "index": 1,
+     "maximum": [
+      -126.60728454589844,
+      85.00782012939453,
+      -26.023698806762695
+     ],
+     "minimum": [
+      -159.17222595214844,
+      58.64247512817383,
+      -35.01807403564453
+     ],
+     "name": "Stormwind Stockade",
+     "tiles": [
+      {
+       "fileDataID": 211701,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_001_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2811
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108634,
+     "index": 2,
+     "maximum": [
+      -132.6818389892578,
+      58.1169319152832,
+      -26.11397933959961
+     ],
+     "minimum": [
+      -163.09255981445312,
+      35.69552230834961,
+      -35.10835647583008
+     ],
+     "name": "BigJailRoom01",
+     "tiles": [
+      {
+       "fileDataID": 211702,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_002_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2812
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108635,
+     "index": 3,
+     "maximum": [
+      -93.17769622802734,
+      50.83319854736328,
+      -25.980104446411133
+     ],
+     "minimum": [
+      -123.08888244628906,
+      32.273193359375,
+      -34.922664642333984
+     ],
+     "name": "Stormwind Stockade",
+     "tiles": [
+      {
+       "fileDataID": 211703,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_003_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2813
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108636,
+     "index": 4,
+     "maximum": [
+      -88.84573364257812,
+      71.30770111083984,
+      -25.9801082611084
+     ],
+     "minimum": [
+      -120.00590515136719,
+      49.71897506713867,
+      -34.922664642333984
+     ],
+     "name": "Jail12",
+     "tiles": [
+      {
+       "fileDataID": 211704,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_004_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2814
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 108637,
+     "index": 5,
+     "maximum": [
+      -145.69387817382812,
+      7.714536666870117,
+      -2.15102481842041
+     ],
+     "minimum": [
+      -174.34632873535156,
+      -9.17009162902832,
+      -25.634014129638672
+     ],
+     "name": "Stormwind Stockade",
+     "tiles": [
+      {
+       "fileDataID": 211705,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_005_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2815
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108638,
+     "index": 6,
+     "maximum": [
+      -96.49575805664062,
+      -6.40730619430542,
+      -17.774396896362305
+     ],
+     "minimum": [
+      -116.97994232177734,
+      -35.05976104736328,
+      -26.768770217895508
+     ],
+     "name": "Jail10",
+     "tiles": [
+      {
+       "fileDataID": 211706,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_006_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2817
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108639,
+     "index": 7,
+     "maximum": [
+      -96.67445373535156,
+      33.56840133666992,
+      -17.923494338989258
+     ],
+     "minimum": [
+      -117.15862274169922,
+      4.915947914123535,
+      -26.917869567871094
+     ],
+     "name": "Stormwind Stockade",
+     "tiles": [
+      {
+       "fileDataID": 211707,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_007_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2818
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108640,
+     "index": 8,
+     "maximum": [
+      -74.54659271240234,
+      33.56840133666992,
+      -17.923494338989258
+     ],
+     "minimum": [
+      -95.03076171875,
+      4.915947914123535,
+      -26.91786766052246
+     ],
+     "name": "Jail11",
+     "tiles": [
+      {
+       "fileDataID": 211708,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_008_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2819
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108641,
+     "index": 9,
+     "maximum": [
+      -74.26055145263672,
+      -6.40730619430542,
+      -17.774394989013672
+     ],
+     "minimum": [
+      -94.74473571777344,
+      -35.05976104736328,
+      -26.768770217895508
+     ],
+     "name": "Stormwind Stockade",
+     "tiles": [
+      {
+       "fileDataID": 211709,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_009_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2820
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108642,
+     "index": 10,
+     "maximum": [
+      -87.38442993164062,
+      123.85834503173828,
+      -27.17266845703125
+     ],
+     "minimum": [
+      -122.82111358642578,
+      88.4216537475586,
+      -35.21734619140625
+     ],
+     "name": "Jail13",
+     "tiles": [
+      {
+       "fileDataID": 211710,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_010_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2821
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108643,
+     "index": 11,
+     "maximum": [
+      -76.32671356201172,
+      150.329833984375,
+      -25.16930389404297
+     ],
+     "minimum": [
+      -104.3633804321289,
+      117.46065521240234,
+      -34.16368103027344
+     ],
+     "name": "Stormwind Stockade",
+     "tiles": [
+      {
+       "fileDataID": 211711,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_011_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2822
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108644,
+     "index": 12,
+     "maximum": [
+      -116.42342376708984,
+      134.91603088378906,
+      -25.16930389404297
+     ],
+     "minimum": [
+      -149.2926025390625,
+      106.87937927246094,
+      -34.16368103027344
+     ],
+     "name": "Jail08",
+     "tiles": [
+      {
+       "fileDataID": 211712,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_012_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2823
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108645,
+     "index": 13,
+     "maximum": [
+      -60.91292953491211,
+      105.4006118774414,
+      -25.16930389404297
+     ],
+     "minimum": [
+      -93.78211975097656,
+      77.36393737792969,
+      -34.16368103027344
+     ],
+     "name": "Stormwind Stockade",
+     "tiles": [
+      {
+       "fileDataID": 211713,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_013_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2824
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108646,
+     "index": 14,
+     "maximum": [
+      -40.1891975402832,
+      5.542255878448486,
+      -6.0448222160339355
+     ],
+     "minimum": [
+      -95.80032348632812,
+      -6.956590175628662,
+      -26.55068016052246
+     ],
+     "name": "Jail06",
+     "tiles": [
+      {
+       "fileDataID": 211714,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_014_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2825
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108647,
+     "index": 15,
+     "maximum": [
+      -95.74476623535156,
+      21.504301071166992,
+      -19.67967414855957
+     ],
+     "minimum": [
+      -145.80029296875,
+      -22.99567413330078,
+      -29.810043334960938
+     ],
+     "name": "Stormwind Stockade",
+     "tiles": [
+      {
+       "fileDataID": 211715,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_015_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2826
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108648,
+     "index": 16,
+     "maximum": [
+      -108.63247680664062,
+      93.08747863769531,
+      -23.846343994140625
+     ],
+     "minimum": [
+      -134.68919372558594,
+      21.4487361907959,
+      -34.88401412963867
+     ],
+     "name": "Jail05",
+     "tiles": [
+      {
+       "fileDataID": 211716,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_016_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2827
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108649,
+     "index": 17,
+     "maximum": [
+      -99.03946685791016,
+      -60.13384246826172,
+      -26.01836395263672
+     ],
+     "minimum": [
+      -131.60440063476562,
+      -86.49919128417969,
+      -35.01274108886719
+     ],
+     "name": "Stormwind Stockade",
+     "tiles": [
+      {
+       "fileDataID": 211717,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_017_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7262
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108650,
+     "index": 18,
+     "maximum": [
+      -95.11912536621094,
+      -37.1868896484375,
+      -26.1113338470459
+     ],
+     "minimum": [
+      -125.52986907958984,
+      -59.608299255371094,
+      -35.105709075927734
+     ],
+     "name": "Jail02",
+     "tiles": [
+      {
+       "fileDataID": 211718,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_018_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7263
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108651,
+     "index": 19,
+     "maximum": [
+      -135.12281799316406,
+      -33.68329620361328,
+      -26.163061141967773
+     ],
+     "minimum": [
+      -165.03399658203125,
+      -52.324562072753906,
+      -35.10561752319336
+     ],
+     "name": "Stormwind Stockade",
+     "tiles": [
+      {
+       "fileDataID": 211719,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_019_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7264
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108652,
+     "index": 20,
+     "maximum": [
+      -138.205810546875,
+      -51.21034622192383,
+      -26.16306495666504
+     ],
+     "minimum": [
+      -169.365966796875,
+      -72.799072265625,
+      -35.549320220947266
+     ],
+     "name": "Jail03",
+     "tiles": [
+      {
+       "fileDataID": 211720,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_020_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7265
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108653,
+     "index": 21,
+     "maximum": [
+      -135.39059448242188,
+      -89.91302490234375,
+      -27.17266845703125
+     ],
+     "minimum": [
+      -170.8272705078125,
+      -125.34971618652344,
+      -35.21734619140625
+     ],
+     "name": "Stormwind Stockade",
+     "tiles": [
+      {
+       "fileDataID": 211721,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_021_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7266
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108654,
+     "index": 22,
+     "maximum": [
+      -153.84832763671875,
+      -118.9520263671875,
+      -25.06626319885254
+     ],
+     "minimum": [
+      -181.88497924804688,
+      -151.8212127685547,
+      -34.060638427734375
+     ],
+     "name": "Jail14",
+     "tiles": [
+      {
+       "fileDataID": 211722,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_022_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7267
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108655,
+     "index": 23,
+     "maximum": [
+      -108.9190902709961,
+      -108.37076568603516,
+      -25.089801788330078
+     ],
+     "minimum": [
+      -141.78826904296875,
+      -136.40744018554688,
+      -34.08417892456055
+     ],
+     "name": "Stormwind Stockade",
+     "tiles": [
+      {
+       "fileDataID": 211723,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_023_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7268
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108656,
+     "index": 24,
+     "maximum": [
+      -164.42958068847656,
+      -78.85531616210938,
+      -25.089801788330078
+     ],
+     "minimum": [
+      -197.2987518310547,
+      -106.89198303222656,
+      -34.08417892456055
+     ],
+     "name": "Jail16",
+     "tiles": [
+      {
+       "fileDataID": 211724,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_024_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7269
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 108657,
+     "index": 25,
+     "maximum": [
+      -123.52249908447266,
+      -22.94011116027832,
+      -23.846343994140625
+     ],
+     "minimum": [
+      -149.5792236328125,
+      -94.57884979248047,
+      -34.88401412963867
+     ],
+     "name": "Stormwind Stockade",
+     "tiles": [
+      {
+       "fileDataID": 211725,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_025_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7270
+    },
+    {
+     "flags": 2147747080,
+     "groupFileDataID": 2058163,
+     "index": 26,
+     "maximum": [
+      -155.54368591308594,
+      3.3378617763519287,
+      -0.2969970703125
+     ],
+     "minimum": [
+      -163.16554260253906,
+      -4.783355712890625,
+      -2.20658016204834
+     ],
+     "name": "Jail15",
+     "tiles": []
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/dungeon/az_stormwindprisons/stormwindjail_",
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 26,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 26,
+    "tiledGroups": 26
+   },
+   "rootFileDataID": 108631,
+   "rootMD5": "30f935a4d2f60abaaae98e245ddf2297",
+   "rootPath": "world/wmo/dungeon/az_stormwindprisons/stormwindjail.wmo"
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "bosses": [
+  {
+   "boss": "Taragaman the Hungerer",
+   "encounterID": 2733,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 14145,
+     "name": "Cursed Felblade",
+     "quality": "rare",
+     "slot": "main hand, sword",
+     "sourcePercent": "16%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 14148,
+     "name": "Crystalline Cuffs",
+     "quality": "rare",
+     "slot": "wrist, cloth",
+     "sourcePercent": "30%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 14149,
+     "name": "Subterranean Cape",
+     "quality": "rare",
+     "slot": "back, cloth",
+     "sourcePercent": "32%"
+    }
+   ],
+   "page": "ragefire-chasm",
+   "sourceBoss": "Taragaman the Hungerer",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Jergosh the Invoker",
+   "encounterID": 2734,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 14147,
+     "name": "Cavedweller Bracers",
+     "quality": "rare",
+     "slot": "wrist, mail",
+     "sourcePercent": "33%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 14150,
+     "name": "Robe of Evocation",
+     "quality": "rare",
+     "slot": "chest, cloth",
+     "sourcePercent": "36%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 14151,
+     "name": "Chanting Blade",
+     "quality": "rare",
+     "slot": "one-hand, dagger",
+     "sourcePercent": "16%"
+    }
+   ],
+   "page": "ragefire-chasm",
+   "sourceBoss": "Jergosh the Invoker",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Oggleflint",
+   "encounterID": 2732,
+   "items": [],
+   "page": "ragefire-chasm",
+   "sourceBoss": "Oggleflint",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Bazzalan",
+   "encounterID": 2735,
+   "items": [],
+   "page": "ragefire-chasm",
+   "sourceBoss": "Bazzalan",
+   "sourceItemCount": 3
+  }
+ ],
+ "bossesWithoutSourceEntry": [],
+ "map": 389,
+ "source": "wowtbc.gg/warcraftforever",
+ "unmatchedSourceBosses": [],
+ "unresolvedItems": [
+  {
+   "boss": "Oggleflint",
+   "name": "Trogg Scepter",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Oggleflint",
+   "name": "Bone Knuckles",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Oggleflint",
+   "name": "Barbaric Crossbow",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Bazzalan",
+   "name": "Searing Dagger",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Bazzalan",
+   "name": "Satyrskin Cloak",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Bazzalan",
+   "name": "Chasm Walkers",
+   "reason": "no ID in client tables"
+  }
+ ]
+}

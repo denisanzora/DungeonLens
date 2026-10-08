@@ -1,0 +1,63 @@
+{
+ "coveragePercent": 100.0,
+ "directCoveragePercent": 100.0,
+ "directlyMatched": 26,
+ "floors": [
+  {
+   "floor": 1,
+   "inferredGroups": [],
+   "matchedGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+   ],
+   "matchedInForever": 26,
+   "meanZ": -26.41,
+   "name": "The Stockade",
+   "retailMemberCount": 57,
+   "retailRegion": [
+    -31.469,
+    -188.331,
+    -10000.0,
+    220.633,
+    189.822,
+    1000000.0
+   ],
+   "uiMapID": 225,
+   "zMax": 15.22,
+   "zMin": -35.55
+  }
+ ],
+ "foreverBuild": "1.60.1.70245",
+ "mapID": 34,
+ "multiFloorGroups": [],
+ "name": "Stormwind Stockade",
+ "retailBuild": "12.1.0.69933",
+ "status": "retail-uimap-assignment",
+ "tiledGroups": 26,
+ "unassigned": [],
+ "wmoRoot": 108631
+}

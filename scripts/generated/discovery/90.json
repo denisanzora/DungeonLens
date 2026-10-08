@@ -1,0 +1,2354 @@
+{
+ "build": "1.60.1.70245",
+ "classification": "D",
+ "classificationReason": "wmo-multi-floor",
+ "directory": "GnomeragonInstance",
+ "ground": null,
+ "instanceID": 90,
+ "instanceType": 1,
+ "layout": "global-wmo",
+ "mapID": 90,
+ "mapType": 2,
+ "maxPlayers": 10,
+ "name": "Gnomeregan",
+ "nativeDungeonUiMaps": [],
+ "uiMapAssignments": [],
+ "wdt": {
+  "adtTileCount": 0,
+  "chunks": [
+   "MVER",
+   "MPHD",
+   "MAIN",
+   "MAID",
+   "MODF"
+  ],
+  "globalWMO": {
+   "fileDataID": 109621,
+   "isFileDataID": true,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "mphdFlags": 577,
+  "usesGlobalWMO": true
+ },
+ "wdtFileDataID": 782773,
+ "wmos": [
+  {
+   "floors": {
+    "maxStackDepth": 3,
+    "stackedGroupPairs": [
+     [
+      8,
+      23
+     ],
+     [
+      8,
+      24
+     ],
+     [
+      10,
+      21
+     ],
+     [
+      10,
+      23
+     ],
+     [
+      13,
+      14
+     ],
+     [
+      13,
+      22
+     ],
+     [
+      20,
+      21
+     ],
+     [
+      21,
+      52
+     ],
+     [
+      22,
+      57
+     ],
+     [
+      23,
+      24
+     ],
+     [
+      26,
+      44
+     ],
+     [
+      28,
+      44
+     ],
+     [
+      31,
+      43
+     ],
+     [
+      31,
+      54
+     ],
+     [
+      40,
+      54
+     ],
+     [
+      40,
+      71
+     ],
+     [
+      44,
+      47
+     ],
+     [
+      55,
+      56
+     ]
+    ],
+    "zMax": -90.81401824951172,
+    "zMidpoints": [
+     -312.86,
+     -312.25,
+     -308.85,
+     -307.85,
+     -305.8,
+     -305.77,
+     -303.25,
+     -299.09,
+     -298.85,
+     -296.95,
+     -294.25,
+     -291.17,
+     -289.85,
+     -285.27,
+     -280.85,
+     -276.25,
+     -271.85,
+     -267.93,
+     -267.85,
+     -267.84,
+     -267.83,
+     -267.69,
+     -267.69,
+     -267.66,
+     -267.33,
+     -266.91,
+     -266.76,
+     -266.69,
+     -263.73,
+     -263.49,
+     -263.16,
+     -257.87,
+     -256.91,
+     -256.18,
+     -255.99,
+     -254.5,
+     -249.76,
+     -244.97,
+     -243.66,
+     -234.51,
+     -232.51,
+     -221.62,
+     -210.27,
+     -208.97,
+     -199.18,
+     -196.52,
+     -196.46,
+     -196.46,
+     -196.46,
+     -195.88,
+     -193.25,
+     -192.59,
+     -192.54,
+     -192.53,
+     -192.53,
+     -192.45,
+     -192.27,
+     -190.22,
+     -185.08,
+     -176.48,
+     -176.15,
+     -172.32,
+     -172.26,
+     -167.26,
+     -161.8,
+     -151.81,
+     -144.4,
+     -144.0,
+     -141.81,
+     -140.84,
+     -140.42,
+     -137.38,
+     -133.21
+    ],
+    "zMin": -331.8306884765625
+   },
+   "groupCount": 73,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 109622,
+     "index": 0,
+     "maximum": [
+      624.731201171875,
+      -583.5713500976562,
+      -284.2337951660156
+     ],
+     "minimum": [
+      442.45709228515625,
+      -756.160888671875,
+      -327.3706970214844
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 213257,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_000_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 213258,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_000_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 213259,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_000_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 213260,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_000_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 1104
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109623,
+     "index": 1,
+     "maximum": [
+      459.13177490234375,
+      -236.6969757080078,
+      -181.33355712890625
+     ],
+     "minimum": [
+      413.4052734375,
+      -277.6426086425781,
+      -211.58473205566406
+     ],
+     "name": "Gnomeregan",
+     "tiles": [
+      {
+       "fileDataID": 213261,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_001_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1106
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109624,
+     "index": 2,
+     "maximum": [
+      468.90582275390625,
+      -247.3803253173828,
+      -181.3335723876953
+     ],
+     "minimum": [
+      428.8691101074219,
+      -295.574462890625,
+      -211.5847930908203
+     ],
+     "name": "RobotRoom",
+     "tiles": [
+      {
+       "fileDataID": 213262,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_002_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1107
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109625,
+     "index": 3,
+     "maximum": [
+      512.6450805664062,
+      -252.80101013183594,
+      -181.3336181640625
+     ],
+     "minimum": [
+      468.47808837890625,
+      -295.5765380859375,
+      -211.70851135253906
+     ],
+     "name": "Tinkers' Court",
+     "tiles": [
+      {
+       "fileDataID": 213263,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_003_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1108
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109626,
+     "index": 4,
+     "maximum": [
+      553.4776611328125,
+      -252.79969787597656,
+      -180.17958068847656
+     ],
+     "minimum": [
+      512.5161743164062,
+      -298.51751708984375,
+      -211.58474731445312
+     ],
+     "name": "TunnelLft10",
+     "tiles": [
+      {
+       "fileDataID": 213264,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_004_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1109
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109627,
+     "index": 5,
+     "maximum": [
+      571.4208374023438,
+      -268.2550354003906,
+      -181.33358764648438
+     ],
+     "minimum": [
+      523.2151489257812,
+      -308.145263671875,
+      -217.0281524658203
+     ],
+     "name": "TunnelLft11",
+     "tiles": [
+      {
+       "fileDataID": 213265,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_005_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1110
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109628,
+     "index": 6,
+     "maximum": [
+      571.5431518554688,
+      -308.0708312988281,
+      -186.6563720703125
+     ],
+     "minimum": [
+      528.2933349609375,
+      -352.5399475097656,
+      -231.27508544921875
+     ],
+     "name": "TunnelStr03",
+     "tiles": [
+      {
+       "fileDataID": 213266,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_006_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1111
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109629,
+     "index": 7,
+     "maximum": [
+      581.8414306640625,
+      -352.484375,
+      -188.8162078857422
+     ],
+     "minimum": [
+      515.6988525390625,
+      -394.6353454589844,
+      -231.73204040527344
+     ],
+     "name": "TunnelRgt12",
+     "tiles": [
+      {
+       "fileDataID": 213267,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_007_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1112
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109630,
+     "index": 8,
+     "maximum": [
+      560.574951171875,
+      47.74570846557617,
+      -117.20372009277344
+     ],
+     "minimum": [
+      514.8680419921875,
+      -35.81257629394531,
+      -157.54722595214844
+     ],
+     "name": "TunnelRgt13",
+     "tiles": [
+      {
+       "fileDataID": 213268,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_008_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1113
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109631,
+     "index": 9,
+     "maximum": [
+      583.6336669921875,
+      142.0381622314453,
+      -121.77835845947266
+     ],
+     "minimum": [
+      468.7220153808594,
+      47.69004440307617,
+      -159.06422424316406
+     ],
+     "name": "TunnelStr10",
+     "tiles": [
+      {
+       "fileDataID": 213269,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_009_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1114
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109632,
+     "index": 10,
+     "maximum": [
+      542.6393432617188,
+      -8.024868965148926,
+      -126.27841186523438
+     ],
+     "minimum": [
+      483.8952941894531,
+      -66.87370300292969,
+      -157.33311462402344
+     ],
+     "name": "Hall51",
+     "tiles": [
+      {
+       "fileDataID": 213270,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_010_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1115
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109633,
+     "index": 11,
+     "maximum": [
+      517.787841796875,
+      -28.70146369934082,
+      -90.81401824951172
+     ],
+     "minimum": [
+      356.6706237792969,
+      -190.5254669189453,
+      -175.61546325683594
+     ],
+     "name": "TunnelCaveIn01",
+     "tiles": [
+      {
+       "fileDataID": 213271,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_011_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 213272,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_011_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 213273,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_011_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 213274,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_011_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 1116
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109634,
+     "index": 12,
+     "maximum": [
+      562.1349487304688,
+      -148.5665740966797,
+      -176.65042114257812
+     ],
+     "minimum": [
+      542.2680053710938,
+      -166.85804748535156,
+      -203.78237915039062
+     ],
+     "name": "TunnelCaveIn02",
+     "tiles": [
+      {
+       "fileDataID": 213275,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_012_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1117
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109635,
+     "index": 13,
+     "maximum": [
+      635.5521240234375,
+      -134.67762756347656,
+      -185.39144897460938
+     ],
+     "minimum": [
+      594.9190673828125,
+      -167.8966064453125,
+      -199.6905517578125
+     ],
+     "name": "TunnelStr05",
+     "tiles": [
+      {
+       "fileDataID": 213276,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_013_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1118
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109636,
+     "index": 14,
+     "maximum": [
+      641.1705932617188,
+      -156.13629150390625,
+      -149.80294799804688
+     ],
+     "minimum": [
+      567.17138671875,
+      -233.0986328125,
+      -184.7196807861328
+     ],
+     "name": "Ruins02",
+     "tiles": [
+      {
+       "fileDataID": 213277,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_014_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1120
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109637,
+     "index": 15,
+     "maximum": [
+      627.5671997070312,
+      -26.66417121887207,
+      -165.24916076660156
+     ],
+     "minimum": [
+      524.1219482421875,
+      -163.98016357421875,
+      -204.91061401367188
+     ],
+     "name": "The Hall of Gears",
+     "tiles": [
+      {
+       "fileDataID": 213278,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_015_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 213279,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_015_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 1121
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109638,
+     "index": 16,
+     "maximum": [
+      574.310546875,
+      -149.95704650878906,
+      -128.70037841796875
+     ],
+     "minimum": [
+      480.0108642578125,
+      -240.76406860351562,
+      -194.89210510253906
+     ],
+     "name": "BackAlley04",
+     "tiles": [
+      {
+       "fileDataID": 213280,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_016_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1122
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109639,
+     "index": 17,
+     "maximum": [
+      584.4139404296875,
+      -24.99201011657715,
+      -184.44677734375
+     ],
+     "minimum": [
+      560.1223754882812,
+      -61.45685577392578,
+      -200.7411651611328
+     ],
+     "name": "The Dormitory",
+     "tiles": [
+      {
+       "fileDataID": 213281,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_017_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1123
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109640,
+     "index": 18,
+     "maximum": [
+      606.4285888671875,
+      -8.268763542175293,
+      -164.8067169189453
+     ],
+     "minimum": [
+      575.7587280273438,
+      -39.88531494140625,
+      -179.7140350341797
+     ],
+     "name": "BdRm01",
+     "tiles": [
+      {
+       "fileDataID": 213282,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_018_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1125
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109641,
+     "index": 19,
+     "maximum": [
+      575.734619140625,
+      -205.65127563476562,
+      -144.1605987548828
+     ],
+     "minimum": [
+      534.38232421875,
+      -243.68231201171875,
+      -159.45623779296875
+     ],
+     "name": "The Dormitory",
+     "tiles": [
+      {
+       "fileDataID": 213283,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_019_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1127
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109642,
+     "index": 20,
+     "maximum": [
+      528.1608276367188,
+      -161.66502380371094,
+      -132.74050903320312
+     ],
+     "minimum": [
+      490.1830139160156,
+      -199.64578247070312,
+      -155.26412963867188
+     ],
+     "name": "BkHall02",
+     "tiles": [
+      {
+       "fileDataID": 213284,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_020_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1129
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109643,
+     "index": 21,
+     "maximum": [
+      524.177490234375,
+      -26.476022720336914,
+      -167.10853576660156
+     ],
+     "minimum": [
+      353.61297607421875,
+      -196.5091552734375,
+      -217.4287872314453
+     ],
+     "name": "The Dormitory",
+     "tiles": [
+      {
+       "fileDataID": 213285,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_021_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 213286,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_021_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 213287,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_021_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 213288,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_021_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 1130
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109644,
+     "index": 22,
+     "maximum": [
+      653.4595947265625,
+      -112.4681167602539,
+      -169.0054168701172
+     ],
+     "minimum": [
+      612.476318359375,
+      -156.19802856445312,
+      -183.94960021972656
+     ],
+     "name": "SleepQuarters",
+     "tiles": [
+      {
+       "fileDataID": 213289,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_022_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1131
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109645,
+     "index": 23,
+     "maximum": [
+      555.3275146484375,
+      -25.39891815185547,
+      -184.38084411621094
+     ],
+     "minimum": [
+      531.0359497070312,
+      -61.45683670043945,
+      -200.5166015625
+     ],
+     "name": "The Dormitory",
+     "tiles": [
+      {
+       "fileDataID": 213290,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_023_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1133
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109646,
+     "index": 24,
+     "maximum": [
+      569.107177734375,
+      -8.318967819213867,
+      -164.86329650878906
+     ],
+     "minimum": [
+      538.4371948242188,
+      -39.88532257080078,
+      -179.7706298828125
+     ],
+     "name": "BackAlley01",
+     "tiles": [
+      {
+       "fileDataID": 213291,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_024_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1134
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109647,
+     "index": 25,
+     "maximum": [
+      682.49169921875,
+      -517.3010864257812,
+      -248.85916137695312
+     ],
+     "minimum": [
+      665.1634521484375,
+      -556.8209838867188,
+      -285.810546875
+     ],
+     "name": "The Clean Zone",
+     "tiles": [
+      {
+       "fileDataID": 213292,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_025_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1135
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109648,
+     "index": 26,
+     "maximum": [
+      652.4493408203125,
+      -360.4922790527344,
+      -217.69509887695312
+     ],
+     "minimum": [
+      606.6626586914062,
+      -413.41729736328125,
+      -247.31808471679688
+     ],
+     "name": "BdRm05",
+     "tiles": [
+      {
+       "fileDataID": 213293,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_026_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1137
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109649,
+     "index": 27,
+     "maximum": [
+      669.09130859375,
+      -343.14862060546875,
+      -242.6534423828125
+     ],
+     "minimum": [
+      629.2777099609375,
+      -388.5479431152344,
+      -273.0892333984375
+     ],
+     "name": "The Dormitory",
+     "tiles": [
+      {
+       "fileDataID": 213294,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_027_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1138
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109650,
+     "index": 28,
+     "maximum": [
+      669.7296752929688,
+      -404.19207763671875,
+      -212.58164978027344
+     ],
+     "minimum": [
+      634.3795776367188,
+      -437.9318542480469,
+      -230.656982421875
+     ],
+     "name": "BdRm06",
+     "tiles": [
+      {
+       "fileDataID": 213295,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_028_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1139
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109651,
+     "index": 29,
+     "maximum": [
+      638.4818725585938,
+      -352.37530517578125,
+      -234.32009887695312
+     ],
+     "minimum": [
+      618.73828125,
+      -372.4208068847656,
+      -255.6152801513672
+     ],
+     "name": "The Dormitory",
+     "tiles": [
+      {
+       "fileDataID": 213296,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_029_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1140
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109652,
+     "index": 30,
+     "maximum": [
+      893.953125,
+      -295.5234375,
+      -272.5684814453125
+     ],
+     "minimum": [
+      770.6049194335938,
+      -418.9463806152344,
+      -321.3355407714844
+     ],
+     "name": "BkHall01",
+     "tiles": [
+      {
+       "fileDataID": 213297,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_030_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1141
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109653,
+     "index": 31,
+     "maximum": [
+      884.105224609375,
+      -399.26483154296875,
+      -301.21673583984375
+     ],
+     "minimum": [
+      860.0814208984375,
+      -423.28863525390625,
+      -316.47979736328125
+     ],
+     "name": "The Dormitory",
+     "tiles": [
+      {
+       "fileDataID": 213298,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_031_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1142
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109654,
+     "index": 32,
+     "maximum": [
+      691.2623901367188,
+      -672.1038818359375,
+      -293.8840637207031
+     ],
+     "minimum": [
+      616.012939453125,
+      -725.5836181640625,
+      -331.8306884765625
+     ],
+     "name": "BackAlley03",
+     "tiles": [
+      {
+       "fileDataID": 213299,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_032_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1143
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109655,
+     "index": 33,
+     "maximum": [
+      760.4577026367188,
+      -651.954833984375,
+      -284.8840637207031
+     ],
+     "minimum": [
+      717.8369750976562,
+      -681.678955078125,
+      -330.810546875
+     ],
+     "name": "The Dormitory",
+     "tiles": [
+      {
+       "fileDataID": 213300,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_033_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1145
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109656,
+     "index": 34,
+     "maximum": [
+      767.581787109375,
+      -623.8108520507812,
+      -275.8840637207031
+     ],
+     "minimum": [
+      724.9592895507812,
+      -653.5367431640625,
+      -321.8105773925781
+     ],
+     "name": "Ruins01",
+     "tiles": [
+      {
+       "fileDataID": 213301,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_034_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1146
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109657,
+     "index": 35,
+     "maximum": [
+      774.7053833007812,
+      -595.6619262695312,
+      -266.8840637207031
+     ],
+     "minimum": [
+      732.08349609375,
+      -625.3930053710938,
+      -312.810546875
+     ],
+     "name": "The Hall of Gears",
+     "tiles": [
+      {
+       "fileDataID": 213302,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_035_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1147
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109658,
+     "index": 36,
+     "maximum": [
+      730.8322143554688,
+      -526.4417724609375,
+      -257.8840637207031
+     ],
+     "minimum": [
+      701.0982666015625,
+      -569.06103515625,
+      -303.81060791015625
+     ],
+     "name": "MstrBdRm",
+     "tiles": [
+      {
+       "fileDataID": 213303,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_036_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1148
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109659,
+     "index": 37,
+     "maximum": [
+      702.6881713867188,
+      -519.3116455078125,
+      -248.88406372070312
+     ],
+     "minimum": [
+      672.9590454101562,
+      -561.94189453125,
+      -294.8105163574219
+     ],
+     "name": "The Dormitory",
+     "tiles": [
+      {
+       "fileDataID": 213304,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_037_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1149
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109660,
+     "index": 38,
+     "maximum": [
+      779.218994140625,
+      -531.55224609375,
+      -266.72314453125
+     ],
+     "minimum": [
+      721.2987670898438,
+      -605.1957397460938,
+      -303.81060791015625
+     ],
+     "name": "BdRm07",
+     "tiles": [
+      {
+       "fileDataID": 213305,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_038_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1151
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109661,
+     "index": 39,
+     "maximum": [
+      755.3470458984375,
+      -672.1502685546875,
+      -293.6923522949219
+     ],
+     "minimum": [
+      681.8549194335938,
+      -729.9501342773438,
+      -330.810546875
+     ],
+     "name": "The Dormitory",
+     "tiles": [
+      {
+       "fileDataID": 213306,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_039_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1152
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109662,
+     "index": 40,
+     "maximum": [
+      869.2392578125,
+      -411.42547607421875,
+      -295.0695495605469
+     ],
+     "minimum": [
+      818.768310546875,
+      -454.3581237792969,
+      -316.479736328125
+     ],
+     "name": "BdRm08",
+     "tiles": [
+      {
+       "fileDataID": 213307,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_040_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1153
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109663,
+     "index": 41,
+     "maximum": [
+      828.601806640625,
+      -511.0833435058594,
+      -278.3722839355469
+     ],
+     "minimum": [
+      767.8233032226562,
+      -562.7299194335938,
+      -303.96502685546875
+     ],
+     "name": "The Dormitory",
+     "tiles": [
+      {
+       "fileDataID": 213308,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_041_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1154
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109664,
+     "index": 42,
+     "maximum": [
+      802.5691528320312,
+      -392.1541748046875,
+      -262.40362548828125
+     ],
+     "minimum": [
+      749.6427001953125,
+      -427.7978515625,
+      -272.923583984375
+     ],
+     "name": "HLTwo01",
+     "tiles": [
+      {
+       "fileDataID": 213309,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_042_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1155
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109665,
+     "index": 43,
+     "maximum": [
+      902.7696533203125,
+      -387.1016540527344,
+      -262.7474670410156
+     ],
+     "minimum": [
+      869.9957885742188,
+      -437.7257080078125,
+      -272.62408447265625
+     ],
+     "name": "HngrStiWl01",
+     "tiles": [
+      {
+       "fileDataID": 213310,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_043_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1157
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109666,
+     "index": 44,
+     "maximum": [
+      732.235107421875,
+      -375.5732116699219,
+      -252.79115295410156
+     ],
+     "minimum": [
+      599.8864135742188,
+      -476.3250427246094,
+      -274.6734313964844
+     ],
+     "name": "HngrStiWl03",
+     "tiles": [
+      {
+       "fileDataID": 213311,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_044_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 213312,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_044_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1158
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109667,
+     "index": 45,
+     "maximum": [
+      757.1377563476562,
+      -413.4543762207031,
+      -260.07781982421875
+     ],
+     "minimum": [
+      723.0303955078125,
+      -443.29205322265625,
+      -273.309814453125
+     ],
+     "name": "HngrStiWl04",
+     "tiles": [
+      {
+       "fileDataID": 213313,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_045_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1159
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109668,
+     "index": 46,
+     "maximum": [
+      674.5440063476562,
+      -425.6736145019531,
+      -228.00344848632812
+     ],
+     "minimum": [
+      470.3520202636719,
+      -584.0382080078125,
+      -285.81048583984375
+     ],
+     "name": "HnrStiWl02",
+     "tiles": [
+      {
+       "fileDataID": 213314,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_046_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 213315,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_046_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 213316,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_046_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 213317,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_046_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 1162
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109669,
+     "index": 47,
+     "maximum": [
+      664.5905151367188,
+      -379.85650634765625,
+      -153.43946838378906
+     ],
+     "minimum": [
+      439.6926574707031,
+      -615.842529296875,
+      -233.06776428222656
+     ],
+     "name": "WorkShop01",
+     "tiles": [
+      {
+       "fileDataID": 213318,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_047_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 213319,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_047_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 213320,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_047_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 213321,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_047_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 1166
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109670,
+     "index": 48,
+     "maximum": [
+      762.4721069335938,
+      -644.0023193359375,
+      -284.6811218261719
+     ],
+     "minimum": [
+      722.9472045898438,
+      -661.4835815429688,
+      -321.8105773925781
+     ],
+     "name": "Engineering Labs ",
+     "tiles": [
+      {
+       "fileDataID": 213322,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_048_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1167
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109671,
+     "index": 49,
+     "maximum": [
+      769.5975952148438,
+      -615.858154296875,
+      -275.6811218261719
+     ],
+     "minimum": [
+      730.0712890625,
+      -633.3377075195312,
+      -312.810546875
+     ],
+     "name": "WrkShpEnt01",
+     "tiles": [
+      {
+       "fileDataID": 213323,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_049_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1168
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109672,
+     "index": 50,
+     "maximum": [
+      710.6355590820312,
+      -524.4251708984375,
+      -257.6811218261719
+     ],
+     "minimum": [
+      693.1524658203125,
+      -563.9496459960938,
+      -294.810546875
+     ],
+     "name": "HL2Ent01",
+     "tiles": [
+      {
+       "fileDataID": 213324,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_050_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1169
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109673,
+     "index": 51,
+     "maximum": [
+      839.0929565429688,
+      -444.1529541015625,
+      -290.0498962402344
+     ],
+     "minimum": [
+      808.2772216796875,
+      -521.2884521484375,
+      -308.13177490234375
+     ],
+     "name": "HLTwo10",
+     "tiles": [
+      {
+       "fileDataID": 213325,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_051_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1170
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109674,
+     "index": 52,
+     "maximum": [
+      395.4295349121094,
+      14.553399085998535,
+      -126.27840423583984
+     ],
+     "minimum": [
+      323.0883483886719,
+      -62.1251220703125,
+      -162.5242156982422
+     ],
+     "name": "HLTwo08",
+     "tiles": [
+      {
+       "fileDataID": 213326,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_052_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1172
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109675,
+     "index": 53,
+     "maximum": [
+      324.8051452636719,
+      14.55141830444336,
+      -122.90337371826172
+     ],
+     "minimum": [
+      200.88833618164062,
+      -143.39471435546875,
+      -158.77957153320312
+     ],
+     "name": "HLTwo06",
+     "tiles": [
+      {
+       "fileDataID": 213327,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_053_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 213328,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_053_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 6957
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109676,
+     "index": 54,
+     "maximum": [
+      913.999755859375,
+      -275.84210205078125,
+      -239.00856018066406
+     ],
+     "minimum": [
+      750.6585693359375,
+      -439.1206359863281,
+      -272.9789123535156
+     ],
+     "name": "HLTwo04",
+     "tiles": [
+      {
+       "fileDataID": 213329,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_054_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 213330,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_054_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 213331,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_054_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 213332,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_054_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 1161
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109677,
+     "index": 55,
+     "maximum": [
+      666.4581298828125,
+      -64.56768035888672,
+      -169.0054168701172
+     ],
+     "minimum": [
+      612.4763793945312,
+      -99.9539794921875,
+      -183.3045196533203
+     ],
+     "name": "HLTwo02",
+     "tiles": [
+      {
+       "fileDataID": 213333,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_055_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1119
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109678,
+     "index": 56,
+     "maximum": [
+      648.9008178710938,
+      -48.9818115234375,
+      -185.38441467285156
+     ],
+     "minimum": [
+      594.9190673828125,
+      -84.36811065673828,
+      -199.6835174560547
+     ],
+     "name": "HLTwo05",
+     "tiles": [
+      {
+       "fileDataID": 213334,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_056_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1132
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109679,
+     "index": 57,
+     "maximum": [
+      648.9008178710938,
+      -89.951171875,
+      -185.38442993164062
+     ],
+     "minimum": [
+      594.9190673828125,
+      -125.33747100830078,
+      -199.68353271484375
+     ],
+     "name": "HLTwo11",
+     "tiles": [
+      {
+       "fileDataID": 213335,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_057_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1124
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109680,
+     "index": 58,
+     "maximum": [
+      824.4130859375,
+      -114.98915100097656,
+      -251.43455505371094
+     ],
+     "minimum": [
+      800.93505859375,
+      -193.6285400390625,
+      -274.88702392578125
+     ],
+     "name": "WrkShpEnt02",
+     "tiles": [
+      {
+       "fileDataID": 213336,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_058_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7187
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109681,
+     "index": 59,
+     "maximum": [
+      813.9009399414062,
+      -176.77284240722656,
+      -252.2940673828125
+     ],
+     "minimum": [
+      720.9603271484375,
+      -257.2474670410156,
+      -274.69134521484375
+     ],
+     "name": "WrkShpEnt04",
+     "tiles": [
+      {
+       "fileDataID": 213337,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_059_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7188
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109682,
+     "index": 60,
+     "maximum": [
+      776.0255126953125,
+      -247.53797912597656,
+      -260.4058532714844
+     ],
+     "minimum": [
+      746.21337890625,
+      -281.6767883300781,
+      -273.10797119140625
+     ],
+     "name": "WrkShp04",
+     "tiles": [
+      {
+       "fileDataID": 213338,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_060_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7189
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109683,
+     "index": 61,
+     "maximum": [
+      782.818603515625,
+      -74.51348114013672,
+      -247.5745849609375
+     ],
+     "minimum": [
+      753.9859619140625,
+      -103.62120819091797,
+      -261.4211120605469
+     ],
+     "name": "Engineering Labs ",
+     "tiles": [
+      {
+       "fileDataID": 213339,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_061_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7190
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109684,
+     "index": 62,
+     "maximum": [
+      822.1021118164062,
+      -87.61360931396484,
+      -247.5745849609375
+     ],
+     "minimum": [
+      782.7630615234375,
+      -115.04470825195312,
+      -264.781982421875
+     ],
+     "name": "WrkShp10",
+     "tiles": [
+      {
+       "fileDataID": 213340,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_062_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7191
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109685,
+     "index": 63,
+     "maximum": [
+      728.0073852539062,
+      20.69792366027832,
+      -220.9439697265625
+     ],
+     "minimum": [
+      658.2430419921875,
+      -13.228072166442871,
+      -248.0737762451172
+     ],
+     "name": "Engineering Labs ",
+     "tiles": [
+      {
+       "fileDataID": 213341,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_063_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7192
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109686,
+     "index": 64,
+     "maximum": [
+      769.6547241210938,
+      6.581502437591553,
+      -235.05816650390625
+     ],
+     "minimum": [
+      727.9518432617188,
+      -20.838302612304688,
+      -252.26182556152344
+     ],
+     "name": "HangerHall01",
+     "tiles": [
+      {
+       "fileDataID": 213342,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_064_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7193
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109687,
+     "index": 65,
+     "maximum": [
+      773.586181640625,
+      -20.782732009887695,
+      -238.9212646484375
+     ],
+     "minimum": [
+      748.3912963867188,
+      -74.56905364990234,
+      -260.5938415527344
+     ],
+     "name": "HangerHall02",
+     "tiles": [
+      {
+       "fileDataID": 213343,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_065_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7194
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109688,
+     "index": 66,
+     "maximum": [
+      456.18011474609375,
+      -196.37339782714844,
+      -181.33360290527344
+     ],
+     "minimum": [
+      413.4052734375,
+      -236.81455993652344,
+      -211.58473205566406
+     ],
+     "name": "Hanger01",
+     "tiles": [
+      {
+       "fileDataID": 213344,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_066_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1105
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109689,
+     "index": 67,
+     "maximum": [
+      797.3204956054688,
+      -274.1817321777344,
+      -262.7116394042969
+     ],
+     "minimum": [
+      761.7762451171875,
+      -327.6042785644531,
+      -273.15008544921875
+     ],
+     "name": "Launch Bay",
+     "tiles": [
+      {
+       "fileDataID": 213345,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_067_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1160
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109690,
+     "index": 68,
+     "maximum": [
+      820.8927001953125,
+      -276.5029296875,
+      -261.1912536621094
+     ],
+     "minimum": [
+      795.7774047851562,
+      -292.5968322753906,
+      -272.6240234375
+     ],
+     "name": "Hanger02",
+     "tiles": [
+      {
+       "fileDataID": 213346,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_068_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 18695
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109691,
+     "index": 69,
+     "maximum": [
+      912.8046875,
+      -287.0723876953125,
+      -262.7474365234375
+     ],
+     "minimum": [
+      862.1884765625,
+      -319.5840759277344,
+      -272.6240539550781
+     ],
+     "name": "Launch Bay",
+     "tiles": [
+      {
+       "fileDataID": 213347,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_069_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1156
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109692,
+     "index": 70,
+     "maximum": [
+      912.0467529296875,
+      -318.04107666015625,
+      -262.7474365234375
+     ],
+     "minimum": [
+      896.6600952148438,
+      -345.7872314453125,
+      -272.9235534667969
+     ],
+     "name": "HLTwo09",
+     "tiles": [
+      {
+       "fileDataID": 213348,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_070_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 18696
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109693,
+     "index": 71,
+     "maximum": [
+      871.538818359375,
+      -421.78070068359375,
+      -262.4036865234375
+     ],
+     "minimum": [
+      843.791015625,
+      -436.96783447265625,
+      -273.2554626464844
+     ],
+     "name": "HLTwo07",
+     "tiles": [
+      {
+       "fileDataID": 213349,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_071_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 18697
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109694,
+     "index": 72,
+     "maximum": [
+      767.7059936523438,
+      -369.0126953125,
+      -262.54315185546875
+     ],
+     "minimum": [
+      753.0416870117188,
+      -393.69720458984375,
+      -273.153564453125
+     ],
+     "name": "HLTwo03",
+     "tiles": [
+      {
+       "fileDataID": 213350,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_072_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 18698
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance_",
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 73,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 73,
+    "tiledGroups": 73
+   },
+   "rootFileDataID": 109621,
+   "rootMD5": "6955de86a00cdc73b21c077b06e96b1c",
+   "rootPath": "world/wmo/dungeon/kz_gnomeragon/kz_gnomeragon_instance.wmo"
+  }
+ ]
+}

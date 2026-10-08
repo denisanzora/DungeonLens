@@ -1,0 +1,156 @@
+{
+ "bosses": [
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    3353
+   ],
+   "id": 3353,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Witherfang",
+   "notes": [
+    "no generated map for this dungeon yet"
+   ],
+   "order": 1,
+   "sources": [],
+   "status": "unresolved",
+   "worldPosition": null
+  },
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    3357
+   ],
+   "id": 3357,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "The Abandoned",
+   "notes": [
+    "no generated map for this dungeon yet"
+   ],
+   "order": 2,
+   "sources": [],
+   "status": "unresolved",
+   "worldPosition": null
+  },
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    3355
+   ],
+   "id": 3355,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "The Butcher",
+   "notes": [
+    "no generated map for this dungeon yet"
+   ],
+   "order": 3,
+   "sources": [],
+   "status": "unresolved",
+   "worldPosition": null
+  },
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    3354
+   ],
+   "id": 3354,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Rath'mael",
+   "notes": [
+    "no generated map for this dungeon yet"
+   ],
+   "order": 4,
+   "sources": [],
+   "status": "unresolved",
+   "worldPosition": null
+  },
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    3408
+   ],
+   "id": 3408,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Lordaeron Captain",
+   "notes": [
+    "no generated map for this dungeon yet"
+   ],
+   "order": 5,
+   "sources": [],
+   "status": "unresolved",
+   "worldPosition": null
+  },
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    3411
+   ],
+   "id": 3411,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Viktor the Vile",
+   "notes": [
+    "no generated map for this dungeon yet"
+   ],
+   "order": 6,
+   "sources": [],
+   "status": "unresolved",
+   "worldPosition": null
+  },
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    3412
+   ],
+   "id": 3412,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Bjork",
+   "notes": [
+    "no generated map for this dungeon yet"
+   ],
+   "order": 7,
+   "sources": [],
+   "status": "unresolved",
+   "worldPosition": null
+  }
+ ],
+ "counts": {
+  "unresolved": 7
+ },
+ "floors": [],
+ "foreverBuild": "1.60.1.70245",
+ "frame": {
+  "formula": "local = Rot(180 - yaw) * (world - origin); canvas = (local.x*rho - minX, maxY - local.y*rho)",
+  "origin": null,
+  "perFloorFrames": [],
+  "yaw": null
+ },
+ "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+ "layouts": {},
+ "mapID": 2999,
+ "name": "Ruins of Lordaeron",
+ "notes": [
+  "registry map is the ground-tile minimap; no boss coordinate source exists for this dungeon"
+ ],
+ "retailBuild": "12.1.0.69933"
+}

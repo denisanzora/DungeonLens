@@ -1,0 +1,151 @@
+{
+ "bosses": [
+  {
+   "boss": "Hamhock",
+   "encounterID": 2758,
+   "items": [
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 273809,
+     "name": "Hamhock's Cleaver",
+     "quality": "rare",
+     "slot": "main hand, axe",
+     "sourcePercent": null
+    }
+   ],
+   "page": "the-stockade",
+   "sourceBoss": "Hamhock",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Targorr the Dread",
+   "encounterID": 2756,
+   "items": [],
+   "page": "the-stockade",
+   "sourceBoss": "Targorr the Dread",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Bazil Thredd",
+   "encounterID": 2760,
+   "items": [],
+   "page": "the-stockade",
+   "sourceBoss": "Bazil Thredd",
+   "sourceItemCount": 4
+  },
+  {
+   "boss": "Dextren Ward",
+   "encounterID": 2759,
+   "items": [],
+   "page": "the-stockade",
+   "sourceBoss": "Dextren Ward",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Kam Deepfury",
+   "encounterID": 2757,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 2280,
+     "name": "Kam's Walking Stick",
+     "quality": "rare",
+     "slot": "two-hand, staff",
+     "sourcePercent": "1%"
+    }
+   ],
+   "page": "the-stockade",
+   "sourceBoss": "Kam Deepfury",
+   "sourceItemCount": 3
+  }
+ ],
+ "bossesWithoutSourceEntry": [],
+ "map": 34,
+ "source": "wowtbc.gg/warcraftforever",
+ "unmatchedSourceBosses": [
+  {
+   "boss": "Bruegal Ironknuckle",
+   "items": 3,
+   "page": "the-stockade"
+  },
+  {
+   "boss": "Trash",
+   "items": 2,
+   "page": "the-stockade"
+  }
+ ],
+ "unresolvedItems": [
+  {
+   "boss": "Hamhock",
+   "name": "Ogre Grips",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Hamhock",
+   "name": "Repurposed Rack",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Targorr the Dread",
+   "name": "Executioner Mantle",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Targorr the Dread",
+   "name": "Blackrock Harness",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Targorr the Dread",
+   "name": "Dark Horde Band",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Bazil Thredd",
+   "name": "Defias Jailbreakers",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Bazil Thredd",
+   "name": "Red Wool Cloak",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Bazil Thredd",
+   "name": "Debt Collector",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Bazil Thredd",
+   "name": "Concealed Hand Crossbow",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Dextren Ward",
+   "name": "Graverobber's Shovel",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Dextren Ward",
+   "name": "Boneslicer",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Dextren Ward",
+   "name": "Nightskulker Ring",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Kam Deepfury",
+   "name": "Demolition Girdle",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Kam Deepfury",
+   "name": "Bridgebreaker Bindings",
+   "reason": "no ID in client tables"
+  }
+ ]
+}

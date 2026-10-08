@@ -1,0 +1,119 @@
+{
+ "bosses": [
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    3493
+   ],
+   "id": 3493,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Faldrim Anvilmar",
+   "notes": [
+    "no coordinate source: not in the server database or in retail Encounter Journal"
+   ],
+   "order": 1,
+   "sources": [],
+   "status": "unresolved",
+   "worldPosition": null
+  },
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    3495
+   ],
+   "id": 3495,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Infurnus",
+   "notes": [
+    "no coordinate source: not in the server database or in retail Encounter Journal"
+   ],
+   "order": 2,
+   "sources": [],
+   "status": "unresolved",
+   "worldPosition": null
+  },
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    3494
+   ],
+   "id": 3494,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Plunder",
+   "notes": [
+    "no coordinate source: not in the server database or in retail Encounter Journal"
+   ],
+   "order": 3,
+   "sources": [],
+   "status": "unresolved",
+   "worldPosition": null
+  },
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    3496
+   ],
+   "id": 3496,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Durgen Dirgehammer",
+   "notes": [
+    "no coordinate source: not in the server database or in retail Encounter Journal"
+   ],
+   "order": 4,
+   "sources": [],
+   "status": "unresolved",
+   "worldPosition": null
+  }
+ ],
+ "counts": {
+  "unresolved": 4
+ },
+ "floors": [
+  {
+   "floor": 1,
+   "groupCount": 20,
+   "source": "single-floor",
+   "uiMapID": null,
+   "wmoRoot": 7732775
+  }
+ ],
+ "foreverBuild": "1.60.1.70245",
+ "frame": {
+  "formula": "local = Rot(180 - yaw) * (world - origin); canvas = (local.x*rho - minX, maxY - local.y*rho)",
+  "origin": [
+   0.0,
+   0.0
+  ],
+  "perFloorFrames": [
+   {
+    "floor": 1,
+    "origin": [
+     0.0,
+     0.0
+    ],
+    "yaw": 0.0
+   }
+  ],
+  "yaw": 0.0
+ },
+ "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+ "layouts": {
+  "1": "wmo:1503x1280:45"
+ },
+ "mapID": 3065,
+ "name": "The Hall of Thanes",
+ "notes": [],
+ "retailBuild": "12.1.0.69933"
+}

@@ -1,0 +1,184 @@
+[
+ {
+  "bestAxisAlignedAlternative": 1.0,
+  "chanceLevel": 0.323,
+  "inFootprint": 132,
+  "map": 389,
+  "name": "Ragefire Chasm",
+  "onContent": 1.0,
+  "onContentInFootprint": 1.0,
+  "spawns": 132,
+  "wmos": [
+   109483
+  ],
+  "yaw": [
+   0.0
+  ]
+ },
+ {
+  "bestAxisAlignedAlternative": 1.0,
+  "chanceLevel": 0.347,
+  "inFootprint": 312,
+  "map": 43,
+  "name": "Wailing Caverns",
+  "onContent": 1.0,
+  "onContentInFootprint": 1.0,
+  "spawns": 312,
+  "wmos": [
+   7952328
+  ],
+  "yaw": [
+   0.0
+  ]
+ },
+ {
+  "bestAxisAlignedAlternative": 0.695,
+  "chanceLevel": 0.153,
+  "inFootprint": 148,
+  "map": 36,
+  "name": "Deadmines",
+  "onContent": 0.6948,
+  "onContentInFootprint": 1.0,
+  "spawns": 213,
+  "wmos": [
+   108483
+  ],
+  "yaw": [
+   269.0
+  ]
+ },
+ {
+  "bestAxisAlignedAlternative": 0.472,
+  "chanceLevel": 0.118,
+  "inFootprint": 216,
+  "map": 33,
+  "name": "Shadowfang Keep",
+  "onContent": 0.5509,
+  "onContentInFootprint": 0.5509,
+  "spawns": 216,
+  "wmos": [
+   109971
+  ],
+  "yaw": [
+   68.5
+  ]
+ },
+ {
+  "bestAxisAlignedAlternative": 1.0,
+  "chanceLevel": 0.159,
+  "inFootprint": 93,
+  "map": 34,
+  "name": "Stormwind Stockade",
+  "onContent": 1.0,
+  "onContentInFootprint": 1.0,
+  "spawns": 93,
+  "wmos": [
+   108631
+  ],
+  "yaw": [
+   0.0
+  ]
+ },
+ {
+  "bestAxisAlignedAlternative": 1.0,
+  "chanceLevel": 0.17,
+  "inFootprint": 212,
+  "map": 48,
+  "name": "Blackfathom Deeps",
+  "onContent": 1.0,
+  "onContentInFootprint": 1.0,
+  "spawns": 212,
+  "wmos": [
+   109197
+  ],
+  "yaw": [
+   0.0
+  ]
+ },
+ {
+  "bestAxisAlignedAlternative": 1.0,
+  "chanceLevel": 0.248,
+  "inFootprint": 404,
+  "map": 90,
+  "name": "Gnomeregan",
+  "onContent": 1.0,
+  "onContentInFootprint": 1.0,
+  "spawns": 404,
+  "wmos": [
+   109621
+  ],
+  "yaw": [
+   0.0
+  ]
+ },
+ {
+  "bestAxisAlignedAlternative": 0.806,
+  "chanceLevel": 0.357,
+  "inFootprint": 191,
+  "map": 47,
+  "name": "Razorfen Kraul",
+  "onContent": 1.0,
+  "onContentInFootprint": 1.0,
+  "spawns": 191,
+  "wmos": [
+   109523
+  ],
+  "yaw": [
+   227.0
+  ]
+ },
+ {
+  "bestAxisAlignedAlternative": 0.276,
+  "chanceLevel": 0.215,
+  "inFootprint": 340,
+  "map": 189,
+  "name": "Scarlet Monastery",
+  "onContent": 1.0,
+  "onContentInFootprint": 1.0,
+  "spawns": 340,
+  "wmos": [
+   7958652,
+   7958653,
+   7958654,
+   7958650
+  ],
+  "yaw": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ]
+ },
+ {
+  "bestAxisAlignedAlternative": 1.0,
+  "chanceLevel": 0.435,
+  "inFootprint": 263,
+  "map": 129,
+  "name": "Razorfen Downs",
+  "onContent": 1.0,
+  "onContentInFootprint": 1.0,
+  "spawns": 263,
+  "wmos": [
+   109503
+  ],
+  "yaw": [
+   0.0
+  ]
+ },
+ {
+  "bestAxisAlignedAlternative": 1.0,
+  "chanceLevel": 0.2,
+  "inFootprint": 317,
+  "map": 70,
+  "name": "Uldaman",
+  "onContent": 1.0,
+  "onContentInFootprint": 1.0,
+  "spawns": 317,
+  "wmos": [
+   109782
+  ],
+  "yaw": [
+   0.0
+  ]
+ }
+]

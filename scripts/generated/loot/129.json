@@ -1,0 +1,107 @@
+{
+ "bosses": [
+  {
+   "boss": "Tuten'kash",
+   "encounterID": 2780,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 10775,
+     "name": "Carapace of Tuten'kash",
+     "quality": "rare",
+     "slot": "chest, plate",
+     "sourcePercent": "32%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 10777,
+     "name": "Arachnid Gloves",
+     "quality": "rare",
+     "slot": "hands, leather",
+     "sourcePercent": "30%"
+    }
+   ],
+   "page": "razorfen-downs",
+   "sourceBoss": "Tuten'kash",
+   "sourceItemCount": 2
+  },
+  {
+   "boss": "Mordresh Fire Eye",
+   "encounterID": 2782,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 10770,
+     "name": "Mordresh's Lifeless Skull",
+     "quality": "rare",
+     "slot": "held in off-hand",
+     "sourcePercent": "32%"
+    }
+   ],
+   "page": "razorfen-downs",
+   "sourceBoss": "Mordresh Fire Eye",
+   "sourceItemCount": 1
+  },
+  {
+   "boss": "Glutton",
+   "encounterID": 2784,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 10772,
+     "name": "Glutton's Cleaver",
+     "quality": "rare",
+     "slot": "one-hand, axe",
+     "sourcePercent": "50%"
+    }
+   ],
+   "page": "razorfen-downs",
+   "sourceBoss": "Glutton",
+   "sourceItemCount": 1
+  },
+  {
+   "boss": "Ragglesnout",
+   "encounterID": 2783,
+   "items": [],
+   "page": "razorfen-downs",
+   "sourceBoss": "Ragglesnout",
+   "sourceItemCount": 0
+  },
+  {
+   "boss": "Plaguemaw the Rotting",
+   "encounterID": 2781,
+   "items": [],
+   "page": "razorfen-downs",
+   "sourceBoss": "Plaguemaw the Rotting",
+   "sourceItemCount": 0
+  },
+  {
+   "boss": "Amnennar the Coldbringer",
+   "encounterID": 2785,
+   "items": [],
+   "page": "razorfen-downs",
+   "sourceBoss": "Amnennar the Coldbringer",
+   "sourceItemCount": 0
+  }
+ ],
+ "bossesWithoutSourceEntry": [],
+ "map": 129,
+ "source": "wowtbc.gg/warcraftforever",
+ "unmatchedSourceBosses": [
+  {
+   "boss": "Lady Falther'ess",
+   "items": 0,
+   "page": "razorfen-downs"
+  },
+  {
+   "boss": "Trash",
+   "items": 0,
+   "page": "razorfen-downs"
+  }
+ ],
+ "unresolvedItems": []
+}

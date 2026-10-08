@@ -1,0 +1,13 @@
+dist/
+*.zip
+*.log
+*.tmp
+.vscode/
+.idea/
+scripts/.cache/
+previews/
+# Raw third-party inputs: recreate with scripts/External-Spawns.py and scripts/Scrape-Loot.py (not redistributed)
+scripts/generated/spawns/
+scripts/generated/loot/source-*.json
+__pycache__/
+*.pyc

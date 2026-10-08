@@ -1,0 +1,365 @@
+{
+ "bosses": [
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    585
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 585,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Lady Anacondra",
+   "notes": [
+    "retail pin ignored: retail uses a different WMO for this dungeon"
+   ],
+   "onContent": true,
+   "order": 1,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      3671
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      15.34,
+      297.18,
+      -87.7
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    15.34,
+    297.18,
+    -87.7
+   ],
+   "x": 0.2885,
+   "y": 0.766
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    586
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 586,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Lord Cobrahn",
+   "notes": [
+    "retail pin ignored: retail uses a different WMO for this dungeon"
+   ],
+   "onContent": true,
+   "order": 2,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      3669
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -151.14,
+      414.37,
+      -72.63
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -151.14,
+    414.37,
+    -72.63
+   ],
+   "x": 0.5674,
+   "y": 0.8797
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    587
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 587,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Kresh",
+   "notes": [
+    "retail pin ignored: retail uses a different WMO for this dungeon"
+   ],
+   "onContent": true,
+   "order": 3,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      3653
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -64.41,
+      319.08,
+      -106.7
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -64.41,
+    319.08,
+    -106.7
+   ],
+   "x": 0.4221,
+   "y": 0.7873
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    588
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 588,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Lord Pythas",
+   "notes": [
+    "retail pin ignored: retail uses a different WMO for this dungeon"
+   ],
+   "onContent": true,
+   "order": 4,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      3670
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      36.81,
+      -241.06,
+      -79.5
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    36.81,
+    -241.06,
+    -79.5
+   ],
+   "x": 0.2525,
+   "y": 0.2438
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    589
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 589,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Skum",
+   "notes": [
+    "retail pin ignored: retail uses a different WMO for this dungeon"
+   ],
+   "onContent": true,
+   "order": 5,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      3674
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -285.58,
+      -312.97,
+      -69.19
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -285.58,
+    -312.97,
+    -69.19
+   ],
+   "x": 0.7926,
+   "y": 0.1741
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    590
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 590,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Lord Serpentis",
+   "notes": [
+    "retail pin ignored: retail uses a different WMO for this dungeon"
+   ],
+   "onContent": true,
+   "order": 6,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      3673
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -120.16,
+      -24.62,
+      -28.58
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -120.16,
+    -24.62,
+    -28.58
+   ],
+   "x": 0.5155,
+   "y": 0.4538
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    591
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 591,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Verdan the Everliving",
+   "notes": [
+    "retail pin ignored: retail uses a different WMO for this dungeon"
+   ],
+   "onContent": true,
+   "order": 7,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      5775
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -81.86,
+      32.26,
+      -30.99
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -81.86,
+    32.26,
+    -30.99
+   ],
+   "x": 0.4513,
+   "y": 0.509
+  },
+  {
+   "confidence": "none",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    592
+   ],
+   "id": 592,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Mutanus the Devourer",
+   "notes": [
+    "retail pin ignored: retail uses a different WMO for this dungeon",
+    "no coordinate source: not in the server database or in retail Encounter Journal"
+   ],
+   "order": 8,
+   "sources": [],
+   "status": "unresolved",
+   "worldPosition": null
+  }
+ ],
+ "counts": {
+  "unresolved": 1,
+  "verified-source-registration": 7
+ },
+ "floors": [
+  {
+   "floor": 1,
+   "groupCount": 23,
+   "source": "single-floor",
+   "uiMapID": 279,
+   "wmoRoot": 7952328
+  }
+ ],
+ "foreverBuild": "1.60.1.70245",
+ "frame": {
+  "formula": "local = Rot(180 - yaw) * (world - origin); canvas = (local.x*rho - minX, maxY - local.y*rho)",
+  "origin": [
+   0.0,
+   0.0
+  ],
+  "perFloorFrames": [
+   {
+    "floor": 1,
+    "origin": [
+     0.0,
+     0.0
+    ],
+    "yaw": 0.0
+   }
+  ],
+  "yaw": 0.0
+ },
+ "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+ "layouts": {
+  "1": "wmo:1194x2062:50"
+ },
+ "mapID": 43,
+ "name": "Wailing Caverns",
+ "notes": [],
+ "retailBuild": "12.1.0.69933"
+}

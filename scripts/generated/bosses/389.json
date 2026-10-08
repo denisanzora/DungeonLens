@@ -1,0 +1,207 @@
+{
+ "bosses": [
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2732
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2732,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Oggleflint",
+   "notes": [],
+   "onContent": true,
+   "order": 1,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      11517
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -147.55,
+      38.71,
+      -38.8
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -147.55,
+    38.71,
+    -38.8
+   ],
+   "x": 0.4603,
+   "y": 0.5092
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2733
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2733,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Taragaman the Hungerer",
+   "notes": [],
+   "onContent": true,
+   "order": 2,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      11520
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -244.74,
+      150.09,
+      -18.75
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -244.74,
+    150.09,
+    -18.75
+   ],
+   "x": 0.6389,
+   "y": 0.7402
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2734
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2734,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Jergosh the Invoker",
+   "notes": [],
+   "onContent": true,
+   "order": 3,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      11518
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -376.81,
+      209.22,
+      -21.8
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -376.81,
+    209.22,
+    -21.8
+   ],
+   "x": 0.8816,
+   "y": 0.8628
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2735
+   ],
+   "floor": 1,
+   "floorSource": "single-floor-map",
+   "id": 2735,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Bazzalan",
+   "notes": [],
+   "onContent": true,
+   "order": 4,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      11519
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -384.87,
+      146.04,
+      7.82
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -384.87,
+    146.04,
+    7.82
+   ],
+   "x": 0.8964,
+   "y": 0.7318
+  }
+ ],
+ "counts": {
+  "verified-source-registration": 4
+ },
+ "floors": [
+  {
+   "floor": 1,
+   "groupCount": 12,
+   "source": "single-floor",
+   "uiMapID": 213,
+   "wmoRoot": 109483
+  }
+ ],
+ "foreverBuild": "1.60.1.70245",
+ "frame": {
+  "formula": "local = Rot(180 - yaw) * (world - origin); canvas = (local.x*rho - minX, maxY - local.y*rho)",
+  "origin": [
+   0.0,
+   0.0
+  ],
+  "perFloorFrames": [
+   {
+    "floor": 1,
+    "origin": [
+     0.0,
+     0.0
+    ],
+    "yaw": 0.0
+   }
+  ],
+  "yaw": 0.0
+ },
+ "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+ "layouts": {
+  "1": "wmo:1088x964:19"
+ },
+ "mapID": 389,
+ "name": "Ragefire Chasm",
+ "notes": [],
+ "retailBuild": "12.1.0.69933"
+}

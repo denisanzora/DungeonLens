@@ -1,0 +1,1499 @@
+{
+ "build": "1.60.1.70245",
+ "classification": "D",
+ "classificationReason": "wmo-multi-floor",
+ "directory": "Uldaman",
+ "ground": null,
+ "instanceID": 70,
+ "instanceType": 1,
+ "layout": "global-wmo",
+ "mapID": 70,
+ "mapType": 2,
+ "maxPlayers": 10,
+ "name": "Uldaman",
+ "nativeDungeonUiMaps": [],
+ "uiMapAssignments": [],
+ "wdt": {
+  "adtTileCount": 0,
+  "chunks": [
+   "MVER",
+   "MPHD",
+   "MAIN",
+   "MAID",
+   "MODF"
+  ],
+  "globalWMO": {
+   "fileDataID": 109782,
+   "isFileDataID": true,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "mphdFlags": 577,
+  "usesGlobalWMO": true
+ },
+ "wdtFileDataID": 791372,
+ "wmos": [
+  {
+   "floors": {
+    "maxStackDepth": 2,
+    "stackedGroupPairs": [
+     [
+      2,
+      8
+     ],
+     [
+      8,
+      11
+     ],
+     [
+      11,
+      31
+     ]
+    ],
+    "zMax": 2.1637182235717773,
+    "zMidpoints": [
+     -43.79,
+     -43.48,
+     -41.89,
+     -41.24,
+     -41.23,
+     -41.02,
+     -40.35,
+     -40.29,
+     -40.28,
+     -40.21,
+     -40.1,
+     -40.02,
+     -39.81,
+     -38.65,
+     -37.44,
+     -37.1,
+     -36.9,
+     -36.66,
+     -36.6,
+     -36.52,
+     -36.45,
+     -36.44,
+     -36.02,
+     -36.01,
+     -35.58,
+     -35.32,
+     -35.3,
+     -35.05,
+     -34.43,
+     -33.66,
+     -33.19,
+     -33.18,
+     -32.45,
+     -31.47,
+     -31.16,
+     -30.57,
+     -30.2,
+     -30.06,
+     -30.05,
+     -29.33,
+     -27.63,
+     -27.43,
+     -27.3,
+     -27.29,
+     -23.64,
+     -23.21,
+     -17.06,
+     -15.61,
+     -15.41,
+     -12.87
+    ],
+    "zMin": -56.35408020019531
+   },
+   "groupCount": 51,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 109783,
+     "index": 0,
+     "maximum": [
+      254.16668701171875,
+      -80.48899841308594,
+      -16.278722763061523
+     ],
+     "minimum": [
+      201.7951202392578,
+      -148.70379638671875,
+      -50.07318115234375
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 213434,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_000_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1259
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109784,
+     "index": 1,
+     "maximum": [
+      315.9266357421875,
+      -102.22127532958984,
+      -31.90766716003418
+     ],
+     "minimum": [
+      295.4488525390625,
+      -137.67828369140625,
+      -48.66643524169922
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 213435,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_001_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1260
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109785,
+     "index": 2,
+     "maximum": [
+      -67.19863891601562,
+      -237.1407470703125,
+      0.8751491904258728
+     ],
+     "minimum": [
+      -141.83546447753906,
+      -308.2575988769531,
+      -26.6158447265625
+     ],
+     "name": "reflecting_room",
+     "tiles": [
+      {
+       "fileDataID": 213436,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_002_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1261
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109786,
+     "index": 3,
+     "maximum": [
+      26.182334899902344,
+      -269.9303894042969,
+      -36.81316375732422
+     ],
+     "minimum": [
+      -1.649187684059143,
+      -291.4521179199219,
+      -50.147918701171875
+     ],
+     "name": "Hall of the Keepers",
+     "tiles": [
+      {
+       "fileDataID": 213437,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_003_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1262
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109787,
+     "index": 4,
+     "maximum": [
+      44.52962875366211,
+      -289.09710693359375,
+      -32.53791046142578
+     ],
+     "minimum": [
+      6.928142547607422,
+      -316.7735900878906,
+      -47.50949478149414
+     ],
+     "name": "titan_mid08b",
+     "tiles": [
+      {
+       "fileDataID": 213438,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_004_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1263
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109788,
+     "index": 5,
+     "maximum": [
+      5.374597072601318,
+      -203.77674865722656,
+      2.1637182235717773
+     ],
+     "minimum": [
+      -60.15342330932617,
+      -266.9675598144531,
+      -36.28895950317383
+     ],
+     "name": "Dig Two",
+     "tiles": [
+      {
+       "fileDataID": 213439,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_005_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1264
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109789,
+     "index": 6,
+     "maximum": [
+      279.0569152832031,
+      42.510223388671875,
+      -31.612361907958984
+     ],
+     "minimum": [
+      257.6910705566406,
+      22.641475677490234,
+      -45.69334411621094
+     ],
+     "name": "creation_upper01",
+     "tiles": [
+      {
+       "fileDataID": 213440,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_006_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1265
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109790,
+     "index": 7,
+     "maximum": [
+      63.52328872680664,
+      -246.7943115234375,
+      -24.41002082824707
+     ],
+     "minimum": [
+      24.44171142578125,
+      -283.5950622558594,
+      -50.47496032714844
+     ],
+     "name": "Hall of the Crafters",
+     "tiles": [
+      {
+       "fileDataID": 213441,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_007_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1266
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109791,
+     "index": 8,
+     "maximum": [
+      -67.18817901611328,
+      -235.3620147705078,
+      -29.81549072265625
+     ],
+     "minimum": [
+      -141.8249969482422,
+      -310.00787353515625,
+      -52.23240280151367
+     ],
+     "name": "titan_high12",
+     "tiles": [
+      {
+       "fileDataID": 213442,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_008_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1267
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109792,
+     "index": 9,
+     "maximum": [
+      -5.080639362335205,
+      -298.12054443359375,
+      -11.23377799987793
+     ],
+     "minimum": [
+      -62.37724685668945,
+      -340.19158935546875,
+      -43.62207794189453
+     ],
+     "name": "titan_mid08b04",
+     "tiles": [
+      {
+       "fileDataID": 213443,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_009_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1268
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109793,
+     "index": 10,
+     "maximum": [
+      -112.86698913574219,
+      -211.78634643554688,
+      -17.88661003112793
+     ],
+     "minimum": [
+      -140.1824188232422,
+      -236.61314392089844,
+      -42.521209716796875
+     ],
+     "name": "titan_roundext01",
+     "tiles": [
+      {
+       "fileDataID": 213444,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_010_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1269
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109794,
+     "index": 11,
+     "maximum": [
+      -48.185821533203125,
+      -238.6622772216797,
+      -4.199410438537598
+     ],
+     "minimum": [
+      -74.82697296142578,
+      -266.5861511230469,
+      -26.615846633911133
+     ],
+     "name": "Hall of the Crafters",
+     "tiles": [
+      {
+       "fileDataID": 213445,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_011_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1270
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109795,
+     "index": 12,
+     "maximum": [
+      170.4126434326172,
+      -295.9923095703125,
+      -28.787935256958008
+     ],
+     "minimum": [
+      118.92498016357422,
+      -345.123779296875,
+      -50.824161529541016
+     ],
+     "name": "titan_low05a",
+     "tiles": [
+      {
+       "fileDataID": 213446,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_012_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1271
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109796,
+     "index": 13,
+     "maximum": [
+      170.5206298828125,
+      -240.1708221435547,
+      -26.224760055541992
+     ],
+     "minimum": [
+      116.5074462890625,
+      -301.4368591308594,
+      -54.48004150390625
+     ],
+     "name": "titan_high11",
+     "tiles": [
+      {
+       "fileDataID": 213447,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_013_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1272
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109797,
+     "index": 14,
+     "maximum": [
+      140.58135986328125,
+      -335.047607421875,
+      -31.719505310058594
+     ],
+     "minimum": [
+      98.67108917236328,
+      -367.5922546386719,
+      -48.83248519897461
+     ],
+     "name": "Temple Hall",
+     "tiles": [
+      {
+       "fileDataID": 213448,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_014_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1273
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109798,
+     "index": 15,
+     "maximum": [
+      131.9761199951172,
+      -298.1910705566406,
+      -21.51046371459961
+     ],
+     "minimum": [
+      73.91210174560547,
+      -343.3145446777344,
+      -51.36711120605469
+     ],
+     "name": "creation_low01",
+     "tiles": [
+      {
+       "fileDataID": 213449,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_015_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1274
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109799,
+     "index": 16,
+     "maximum": [
+      10.751558303833008,
+      -354.7406311035156,
+      -27.79973030090332
+     ],
+     "minimum": [
+      -15.214885711669922,
+      -383.0826416015625,
+      -44.21910095214844
+     ],
+     "name": "Khaz'goroth's Seat",
+     "tiles": [
+      {
+       "fileDataID": 213450,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_016_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1275
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109800,
+     "index": 17,
+     "maximum": [
+      203.38641357421875,
+      -259.039306640625,
+      -33.080692291259766
+     ],
+     "minimum": [
+      156.89251708984375,
+      -334.1440734863281,
+      -54.49440383911133
+     ],
+     "name": "titan_high17x",
+     "tiles": [
+      {
+       "fileDataID": 213451,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_017_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1276
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109801,
+     "index": 18,
+     "maximum": [
+      174.1815185546875,
+      -192.7692108154297,
+      -29.586456298828125
+     ],
+     "minimum": [
+      140.72381591796875,
+      -231.06358337402344,
+      -50.620670318603516
+     ],
+     "name": "titan_rampmiddle",
+     "tiles": [
+      {
+       "fileDataID": 213452,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_018_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1277
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109802,
+     "index": 19,
+     "maximum": [
+      99.91877746582031,
+      -344.133056640625,
+      -30.53459358215332
+     ],
+     "minimum": [
+      37.600914001464844,
+      -390.6248779296875,
+      -51.948299407958984
+     ],
+     "name": "Hall of the Crafters",
+     "tiles": [
+      {
+       "fileDataID": 213453,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_019_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1278
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109803,
+     "index": 20,
+     "maximum": [
+      52.7593994140625,
+      -313.3360900878906,
+      -24.926494598388672
+     ],
+     "minimum": [
+      -8.36066722869873,
+      -361.8591613769531,
+      -48.278045654296875
+     ],
+     "name": "titan_tocreation",
+     "tiles": [
+      {
+       "fileDataID": 213454,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_020_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1279
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109804,
+     "index": 21,
+     "maximum": [
+      8.626033782958984,
+      -261.86651611328125,
+      -22.25188636779785
+     ],
+     "minimum": [
+      -32.261837005615234,
+      -301.1045837402344,
+      -40.6944580078125
+     ],
+     "name": "Hall of the Crafters",
+     "tiles": [
+      {
+       "fileDataID": 213455,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_021_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1280
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109805,
+     "index": 22,
+     "maximum": [
+      253.70982360839844,
+      -42.19059371948242,
+      -21.971284866333008
+     ],
+     "minimum": [
+      202.21600341796875,
+      -78.33991241455078,
+      -48.13133239746094
+     ],
+     "name": "titan_high02",
+     "tiles": [
+      {
+       "fileDataID": 213456,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_022_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1281
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109806,
+     "index": 23,
+     "maximum": [
+      253.70982360839844,
+      -151.01571655273438,
+      -20.582271575927734
+     ],
+     "minimum": [
+      202.21600341796875,
+      -187.16502380371094,
+      -46.74231719970703
+     ],
+     "name": "titan_high03",
+     "tiles": [
+      {
+       "fileDataID": 213457,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_023_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1282
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109807,
+     "index": 24,
+     "maximum": [
+      106.8050308227539,
+      -246.75326538085938,
+      -23.581729888916016
+     ],
+     "minimum": [
+      70.65035247802734,
+      -298.248046875,
+      -49.74177551269531
+     ],
+     "name": "titan_high06",
+     "tiles": [
+      {
+       "fileDataID": 213458,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_024_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1283
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109808,
+     "index": 25,
+     "maximum": [
+      -133.87271118164062,
+      -272.2514953613281,
+      -28.150693893432617
+     ],
+     "minimum": [
+      -176.09616088867188,
+      -320.1660461425781,
+      -52.2662467956543
+     ],
+     "name": "titan_mid08b01",
+     "tiles": [
+      {
+       "fileDataID": 213459,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_025_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1284
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109809,
+     "index": 26,
+     "maximum": [
+      202.27310180664062,
+      -129.1207275390625,
+      -22.799564361572266
+     ],
+     "minimum": [
+      165.6419677734375,
+      -178.183349609375,
+      -49.24000549316406
+     ],
+     "name": "titan_high15",
+     "tiles": [
+      {
+       "fileDataID": 213460,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_026_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1285
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109810,
+     "index": 27,
+     "maximum": [
+      -53.614383697509766,
+      -371.349365234375,
+      -14.214856147766113
+     ],
+     "minimum": [
+      -101.10115051269531,
+      -418.83612060546875,
+      -40.374900817871094
+     ],
+     "name": "titan_high01",
+     "tiles": [
+      {
+       "fileDataID": 213461,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_027_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1286
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109811,
+     "index": 28,
+     "maximum": [
+      -136.2145233154297,
+      -222.66836547851562,
+      -4.751444339752197
+     ],
+     "minimum": [
+      -184.30628967285156,
+      -272.6963806152344,
+      -42.518680572509766
+     ],
+     "name": "titan_high05",
+     "tiles": [
+      {
+       "fileDataID": 213462,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_028_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1287
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109812,
+     "index": 29,
+     "maximum": [
+      -62.61826705932617,
+      -191.66015625,
+      -17.881616592407227
+     ],
+     "minimum": [
+      -116.83844757080078,
+      -229.81752014160156,
+      -55.009849548339844
+     ],
+     "name": "titan_high13",
+     "tiles": [
+      {
+       "fileDataID": 213463,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_029_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1288
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109813,
+     "index": 30,
+     "maximum": [
+      299.0309753417969,
+      -51.1729850769043,
+      -24.1885929107666
+     ],
+     "minimum": [
+      253.6542205810547,
+      -100.23648834228516,
+      -48.84322738647461
+     ],
+     "name": "titan_high17",
+     "tiles": [
+      {
+       "fileDataID": 213464,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_030_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1289
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109814,
+     "index": 31,
+     "maximum": [
+      -42.37355041503906,
+      -226.0347137451172,
+      -28.150699615478516
+     ],
+     "minimum": [
+      -74.81648254394531,
+      -272.9119873046875,
+      -54.31073760986328
+     ],
+     "name": "totemplefacade01",
+     "tiles": [
+      {
+       "fileDataID": 213465,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_031_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1290
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109815,
+     "index": 32,
+     "maximum": [
+      310.167236328125,
+      -129.11990356445312,
+      -22.799558639526367
+     ],
+     "minimum": [
+      253.6542205810547,
+      -178.18434143066406,
+      -47.79610824584961
+     ],
+     "name": "titan_mid01",
+     "tiles": [
+      {
+       "fileDataID": 213466,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_032_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1291
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109816,
+     "index": 33,
+     "maximum": [
+      202.27310180664062,
+      -51.17288589477539,
+      -24.188594818115234
+     ],
+     "minimum": [
+      151.1837615966797,
+      -101.9658203125,
+      -50.004844665527344
+     ],
+     "name": "Hall of the Keepers",
+     "tiles": [
+      {
+       "fileDataID": 213467,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_033_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1292
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109817,
+     "index": 34,
+     "maximum": [
+      121.53984832763672,
+      -187.0283660888672,
+      -17.887338638305664
+     ],
+     "minimum": [
+      31.17967987060547,
+      -246.85006713867188,
+      -50.969146728515625
+     ],
+     "name": "titan_mid11",
+     "tiles": [
+      {
+       "fileDataID": 213468,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_034_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1293
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109818,
+     "index": 35,
+     "maximum": [
+      -27.66451644897461,
+      -409.1086120605469,
+      -16.422893524169922
+     ],
+     "minimum": [
+      -85.19345092773438,
+      -466.3337097167969,
+      -42.23915100097656
+     ],
+     "name": "Hall of the Keepers",
+     "tiles": [
+      {
+       "fileDataID": 213469,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_035_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1294
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109819,
+     "index": 36,
+     "maximum": [
+      15.919841766357422,
+      -380.4530944824219,
+      -18.142528533935547
+     ],
+     "minimum": [
+      -30.438379287719727,
+      -427.4001159667969,
+      -48.2384147644043
+     ],
+     "name": "titan_high09",
+     "tiles": [
+      {
+       "fileDataID": 213470,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_036_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1295
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109820,
+     "index": 37,
+     "maximum": [
+      184.9616241455078,
+      -355.0152282714844,
+      -11.845547676086426
+     ],
+     "minimum": [
+      125.44806671142578,
+      -410.1839904785156,
+      -42.75596237182617
+     ],
+     "name": "Temple Hall",
+     "tiles": [
+      {
+       "fileDataID": 213471,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_037_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1296
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109821,
+     "index": 38,
+     "maximum": [
+      -4.664350986480713,
+      -338.2288818359375,
+      -2.5629849433898926
+     ],
+     "minimum": [
+      -79.50845336914062,
+      -398.4925231933594,
+      -43.863399505615234
+     ],
+     "name": "titan_mid12",
+     "tiles": [
+      {
+       "fileDataID": 213472,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_038_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1297
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109822,
+     "index": 39,
+     "maximum": [
+      144.65133666992188,
+      -204.52098083496094,
+      -31.23237419128418
+     ],
+     "minimum": [
+      106.6373519897461,
+      -248.32980346679688,
+      -52.556880950927734
+     ],
+     "name": "Hall of the Crafters",
+     "tiles": [
+      {
+       "fileDataID": 213473,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_039_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1298
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109823,
+     "index": 40,
+     "maximum": [
+      -134.20713806152344,
+      -268.9130554199219,
+      -2.5341408252716064
+     ],
+     "minimum": [
+      -166.6501007080078,
+      -315.79046630859375,
+      -28.694190979003906
+     ],
+     "name": "titan_mid06",
+     "tiles": [
+      {
+       "fileDataID": 213474,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_040_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1299
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109824,
+     "index": 41,
+     "maximum": [
+      276.83685302734375,
+      -187.0900421142578,
+      -8.930401802062988
+     ],
+     "minimum": [
+      187.76651000976562,
+      -298.77386474609375,
+      -51.19011688232422
+     ],
+     "name": "Hall of the Keepers",
+     "tiles": [
+      {
+       "fileDataID": 213475,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_041_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1300
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109825,
+     "index": 42,
+     "maximum": [
+      198.79901123046875,
+      38.439327239990234,
+      -23.850875854492188
+     ],
+     "minimum": [
+      179.09986877441406,
+      7.2783732414245605,
+      -36.25607681274414
+     ],
+     "name": "titan_low05d01",
+     "tiles": [
+      {
+       "fileDataID": 213476,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_042_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1301
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109826,
+     "index": 43,
+     "maximum": [
+      264.1685791015625,
+      69.76377868652344,
+      -10.319414138793945
+     ],
+     "minimum": [
+      183.2783966064453,
+      -42.26528549194336,
+      -52.007808685302734
+     ],
+     "name": "The Stone Vault",
+     "tiles": [
+      {
+       "fileDataID": 213477,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_043_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1302
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109827,
+     "index": 44,
+     "maximum": [
+      371.4725036621094,
+      -72.00202178955078,
+      -17.441909790039062
+     ],
+     "minimum": [
+      315.87109375,
+      -155.41021728515625,
+      -56.35408020019531
+     ],
+     "name": "titan_ramp01",
+     "tiles": [
+      {
+       "fileDataID": 213478,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_044_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1303
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109828,
+     "index": 45,
+     "maximum": [
+      254.76039123535156,
+      -294.9519348144531,
+      -23.54109764099121
+     ],
+     "minimum": [
+      214.36766052246094,
+      -332.4570007324219,
+      -47.62534713745117
+     ],
+     "name": "Hall of the Crafters",
+     "tiles": [
+      {
+       "fileDataID": 213479,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_045_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 6174
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109829,
+     "index": 46,
+     "maximum": [
+      222.39576721191406,
+      -373.8998107910156,
+      -14.592971801757812
+     ],
+     "minimum": [
+      184.90582275390625,
+      -411.43505859375,
+      -40.65790939331055
+     ],
+     "name": "titan_ramp02",
+     "tiles": [
+      {
+       "fileDataID": 213480,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_046_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 8105
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109830,
+     "index": 47,
+     "maximum": [
+      268.98883056640625,
+      -361.4365234375,
+      -25.112632751464844
+     ],
+     "minimum": [
+      228.5467987060547,
+      -383.5919494628906,
+      -39.779666900634766
+     ],
+     "name": "Hall of the Crafters",
+     "tiles": [
+      {
+       "fileDataID": 213481,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_047_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 8106
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109831,
+     "index": 48,
+     "maximum": [
+      236.42323303222656,
+      -352.6330261230469,
+      -29.79510498046875
+     ],
+     "minimum": [
+      206.11732482910156,
+      -373.9556579589844,
+      -40.83616256713867
+     ],
+     "name": "titan_mid07",
+     "tiles": [
+      {
+       "fileDataID": 213482,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_048_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 8107
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 109832,
+     "index": 49,
+     "maximum": [
+      278.37188720703125,
+      -389.8258972167969,
+      -26.066158294677734
+     ],
+     "minimum": [
+      261.4951477050781,
+      -408.4643249511719,
+      -38.557621002197266
+     ],
+     "name": "Hall of the Keepers",
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109833,
+     "index": 50,
+     "maximum": [
+      270.3861389160156,
+      -383.5364074707031,
+      -23.530967712402344
+     ],
+     "minimum": [
+      249.36476135253906,
+      -401.720947265625,
+      -37.6119499206543
+     ],
+     "name": "creation_stairjunction04",
+     "tiles": [
+      {
+       "fileDataID": 213483,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_050_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 8109
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/dungeon/kz_uldaman/kz_uldaman_b_",
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 50,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 50,
+    "tiledGroups": 50
+   },
+   "rootFileDataID": 109782,
+   "rootMD5": "1cb8fddb9a2dda1d60c82e5787b4a26a",
+   "rootPath": "world/wmo/dungeon/kz_uldaman/kz_uldaman_b.wmo"
+  }
+ ]
+}

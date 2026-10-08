@@ -1,0 +1,306 @@
+{
+ "bosses": [
+  {
+   "boss": "Lady Anacondra",
+   "encounterID": 585,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 5404,
+     "name": "Serpent's Shoulders",
+     "quality": "rare",
+     "slot": "shoulder, leather",
+     "sourcePercent": "47%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 10412,
+     "name": "Belt of the Fang",
+     "quality": "rare",
+     "slot": "waist, leather",
+     "sourcePercent": "9%"
+    }
+   ],
+   "page": "wailing-caverns",
+   "sourceBoss": "Lady Anacondra",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Lord Cobrahn",
+   "encounterID": 586,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6460,
+     "name": "Cobrahn's Grasp",
+     "quality": "rare",
+     "slot": "waist, mail",
+     "sourcePercent": "17%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6465,
+     "name": "Robe of the Moccasin",
+     "quality": "rare",
+     "slot": "chest, cloth",
+     "sourcePercent": "54%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 10410,
+     "name": "Leggings of the Fang",
+     "quality": "rare",
+     "slot": "legs, leather",
+     "sourcePercent": "17%"
+    }
+   ],
+   "page": "wailing-caverns",
+   "sourceBoss": "Lord Cobrahn",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Kresh",
+   "encounterID": 587,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 13245,
+     "name": "Kresh's Back",
+     "quality": "rare",
+     "slot": "off hand, shield",
+     "sourcePercent": "12%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6447,
+     "name": "Worn Turtle Shell Shield",
+     "quality": "rare",
+     "slot": "off hand, shield",
+     "sourcePercent": "69%"
+    }
+   ],
+   "page": "wailing-caverns",
+   "sourceBoss": "Kresh",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Lord Pythas",
+   "encounterID": 588,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6472,
+     "name": "Stinging Viper",
+     "quality": "rare",
+     "slot": "one-hand, mace",
+     "sourcePercent": "29%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6473,
+     "name": "Armor of the Fang",
+     "quality": "rare",
+     "slot": "chest, leather",
+     "sourcePercent": "55%"
+    }
+   ],
+   "page": "wailing-caverns",
+   "sourceBoss": "Lord Pythas",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Skum",
+   "encounterID": 589,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6449,
+     "name": "Glowing Lizardscale Cloak",
+     "quality": "rare",
+     "slot": "back, cloth",
+     "sourcePercent": "45%"
+    },
+    {
+     "foreverNew": true,
+     "idSource": "foreverdb.net item link + Forever Item table (exists, slot fits)",
+     "itemID": 273137,
+     "name": "Skum's Bucket",
+     "quality": "rare",
+     "slot": "held in off-hand",
+     "sourcePercent": null
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6448,
+     "name": "Tail Spike",
+     "quality": "rare",
+     "slot": "one-hand, dagger",
+     "sourcePercent": "46%"
+    }
+   ],
+   "page": "wailing-caverns",
+   "sourceBoss": "Skum",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Lord Serpentis",
+   "encounterID": 590,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6469,
+     "name": "Venomstrike",
+     "quality": "rare",
+     "slot": "ranged, bow",
+     "sourcePercent": "17%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 5970,
+     "name": "Serpent Gloves",
+     "quality": "rare",
+     "slot": "hands, cloth",
+     "sourcePercent": "19%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6459,
+     "name": "Savage Trodders",
+     "quality": "rare",
+     "slot": "feet, mail",
+     "sourcePercent": "23%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 10411,
+     "name": "Footpads of the Fang",
+     "quality": "rare",
+     "slot": "feet, leather",
+     "sourcePercent": "21%"
+    }
+   ],
+   "page": "wailing-caverns",
+   "sourceBoss": "Lord Serpentis",
+   "sourceItemCount": 4
+  },
+  {
+   "boss": "Verdan the Everliving",
+   "encounterID": 591,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6630,
+     "name": "Seedcloud Buckler",
+     "quality": "rare",
+     "slot": "off hand, shield",
+     "sourcePercent": "38%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6631,
+     "name": "Living Root",
+     "quality": "rare",
+     "slot": "two-hand, staff",
+     "sourcePercent": "38%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6629,
+     "name": "Sporid Cape",
+     "quality": "rare",
+     "slot": "back, cloth",
+     "sourcePercent": "19%"
+    }
+   ],
+   "page": "wailing-caverns",
+   "sourceBoss": "Verdan the Everliving",
+   "sourceItemCount": 3
+  },
+  {
+   "boss": "Mutanus the Devourer",
+   "encounterID": 592,
+   "items": [
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6461,
+     "name": "Slime-encrusted Pads",
+     "quality": "rare",
+     "slot": "shoulder, cloth",
+     "sourcePercent": "29%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6463,
+     "name": "Deep Fathom Ring",
+     "quality": "rare",
+     "slot": "finger",
+     "sourcePercent": "30%"
+    },
+    {
+     "foreverNew": false,
+     "idSource": "Forever Item table + classic-era item name",
+     "itemID": 6627,
+     "name": "Mutant Scale Breastplate",
+     "quality": "rare",
+     "slot": "chest, mail",
+     "sourcePercent": "23%"
+    }
+   ],
+   "page": "wailing-caverns",
+   "sourceBoss": "Mutanus the Devourer",
+   "sourceItemCount": 3
+  }
+ ],
+ "bossesWithoutSourceEntry": [],
+ "map": 43,
+ "source": "wowtbc.gg/warcraftforever",
+ "unmatchedSourceBosses": [
+  {
+   "boss": "Deviate Faerie Dragon",
+   "items": 2,
+   "page": "wailing-caverns"
+  },
+  {
+   "boss": "Trash",
+   "items": 1,
+   "page": "wailing-caverns"
+  }
+ ],
+ "unresolvedItems": [
+  {
+   "boss": "Lady Anacondra",
+   "name": "Snake Eye Kaleidoscope",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Kresh",
+   "name": "Cloak of Hermitic Bliss",
+   "reason": "no ID in client tables"
+  },
+  {
+   "boss": "Lord Pythas",
+   "name": "Slither Cord",
+   "reason": "no ID in client tables"
+  }
+ ]
+}

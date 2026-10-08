@@ -1,0 +1,4342 @@
+{
+ "build": "1.60.1.70245",
+ "classification": "D",
+ "classificationReason": "mixed-ground-and-wmo-minimaps",
+ "directory": "Shadowfang",
+ "ground": {
+  "adtTileCount": 25,
+  "adtTilesWithoutMinimap": 0,
+  "bounds": {
+   "maxX": 29,
+   "maxY": 34,
+   "minX": 25,
+   "minY": 30
+  },
+  "contentBounds": {
+   "maxX": 29,
+   "maxY": 34,
+   "minX": 25,
+   "minY": 30
+  },
+  "contentTileCount": 25,
+  "gridColumns": 5,
+  "gridRows": 5,
+  "missingCoordinates": [],
+  "tileCount": 25,
+  "tileDimensions": [
+   "512x512"
+  ],
+  "tiles": [
+   {
+    "fileDataID": 209637,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 25,
+    "y": 30
+   },
+   {
+    "fileDataID": 209642,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 26,
+    "y": 30
+   },
+   {
+    "fileDataID": 209647,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 27,
+    "y": 30
+   },
+   {
+    "fileDataID": 209652,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 28,
+    "y": 30
+   },
+   {
+    "fileDataID": 209657,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 29,
+    "y": 30
+   },
+   {
+    "fileDataID": 209638,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 25,
+    "y": 31
+   },
+   {
+    "fileDataID": 209643,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 26,
+    "y": 31
+   },
+   {
+    "fileDataID": 209648,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 27,
+    "y": 31
+   },
+   {
+    "fileDataID": 209653,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 28,
+    "y": 31
+   },
+   {
+    "fileDataID": 209658,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 29,
+    "y": 31
+   },
+   {
+    "fileDataID": 209639,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 25,
+    "y": 32
+   },
+   {
+    "fileDataID": 209644,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 26,
+    "y": 32
+   },
+   {
+    "fileDataID": 209649,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 27,
+    "y": 32
+   },
+   {
+    "fileDataID": 209654,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 28,
+    "y": 32
+   },
+   {
+    "fileDataID": 209659,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 29,
+    "y": 32
+   },
+   {
+    "fileDataID": 209640,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 25,
+    "y": 33
+   },
+   {
+    "fileDataID": 209645,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 26,
+    "y": 33
+   },
+   {
+    "fileDataID": 209650,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 27,
+    "y": 33
+   },
+   {
+    "fileDataID": 209655,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 28,
+    "y": 33
+   },
+   {
+    "fileDataID": 209660,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 29,
+    "y": 33
+   },
+   {
+    "fileDataID": 209641,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 25,
+    "y": 34
+   },
+   {
+    "fileDataID": 209646,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 26,
+    "y": 34
+   },
+   {
+    "fileDataID": 209651,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 27,
+    "y": 34
+   },
+   {
+    "fileDataID": 209656,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 28,
+    "y": 34
+   },
+   {
+    "fileDataID": 209661,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 29,
+    "y": 34
+   }
+  ]
+ },
+ "instanceID": 33,
+ "instanceType": 1,
+ "layout": "terrain",
+ "mapID": 33,
+ "mapType": 1,
+ "maxPlayers": 10,
+ "name": "Shadowfang Keep",
+ "nativeDungeonUiMaps": [],
+ "placedWMOCountWithoutMinimaps": 4,
+ "placedWMOsWithoutMinimaps": [
+  {
+   "hasMinimaps": false,
+   "placementCount": 2,
+   "rootFileDataID": 106779,
+   "rootPath": "world/wmo/azeroth/buildings/duskwood_stable/duskwood_stable.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 111513,
+   "rootPath": "world/wmo/dungeon/md_shipwreck/shipwreck_a.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 2,
+   "rootFileDataID": 113964,
+   "rootPath": "world/wmo/khazmodan/buildings/greatwall/greatwall_gate.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 3,
+   "rootFileDataID": 113976,
+   "rootPath": "world/wmo/khazmodan/buildings/greatwall/greatwall_wall_04.wmo"
+  }
+ ],
+ "uiMapAssignments": [],
+ "wdt": {
+  "adtTileCount": 25,
+  "chunks": [
+   "MVER",
+   "MPHD",
+   "MAIN",
+   "MAID"
+  ],
+  "mphdFlags": 584,
+  "usesGlobalWMO": false
+ },
+ "wdtFileDataID": 790796,
+ "wmos": [
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 12.514751434326172,
+    "zMidpoints": [
+     7.11
+    ],
+    "zMin": 1.698729157447815
+   },
+   "groupCount": 2,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 106733,
+     "index": 0,
+     "maximum": [
+      10.66884994506836,
+      7.780393123626709,
+      12.514751434326172
+     ],
+     "minimum": [
+      -9.484932899475098,
+      -7.875834941864014,
+      1.698729157447815
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 209881,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_blacksmith/duskwood_blacksmith_000_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 721
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 106734,
+     "index": 1,
+     "maximum": [
+      16.235414505004883,
+      23.934741973876953,
+      27.051429748535156
+     ],
+     "minimum": [
+      -28.078693389892578,
+      -13.956985473632812,
+      -2.845475673675537
+     ],
+     "name": null,
+     "tiles": []
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/azeroth/buildings/duskwood_blacksmith/duskwood_blacksmith_",
+   "placements": [
+    {
+     "position": [
+      15031.3262,
+      16.9989,
+      17411.4844
+     ],
+     "rotation": [
+      0.0,
+      23.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 218383
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 1,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 1,
+    "tiledGroups": 1
+   },
+   "rootFileDataID": 106732,
+   "rootMD5": "6bab00bd2dcc2ee388c6eb1d117b42f1",
+   "rootPath": "world/wmo/azeroth/buildings/duskwood_blacksmith/duskwood_blacksmith.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 13.270939826965332,
+    "zMidpoints": [
+     8.66
+    ],
+    "zMin": 4.0525665283203125
+   },
+   "groupCount": 2,
+   "groups": [
+    {
+     "flags": 8,
+     "groupFileDataID": 106736,
+     "index": 0,
+     "maximum": [
+      9.59707260131836,
+      8.874414443969727,
+      16.904447555541992
+     ],
+     "minimum": [
+      -9.332298278808594,
+      -9.19920825958252,
+      -0.027779050171375275
+     ],
+     "name": null,
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106737,
+     "index": 1,
+     "maximum": [
+      6.835772514343262,
+      8.260397911071777,
+      13.270939826965332
+     ],
+     "minimum": [
+      -6.492843151092529,
+      -6.0538530349731445,
+      4.0525665283203125
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 209882,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_human_farm/duskwood_human_farm_001_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 730
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/azeroth/buildings/duskwood_human_farm/duskwood_human_farm_",
+   "placements": [
+    {
+     "position": [
+      14960.7236,
+      128.6711,
+      16495.9922
+     ],
+     "rotation": [
+      0.0,
+      92.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 216359
+    },
+    {
+     "position": [
+      14930.8555,
+      13.9957,
+      17470.6836
+     ],
+     "rotation": [
+      0.0,
+      224.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 217930
+    },
+    {
+     "position": [
+      15004.5205,
+      13.878,
+      17398.5527
+     ],
+     "rotation": [
+      0.0,
+      181.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 218299
+    },
+    {
+     "position": [
+      15065.1699,
+      27.6652,
+      17392.0195
+     ],
+     "rotation": [
+      0.0,
+      181.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 218303
+    },
+    {
+     "position": [
+      14952.708,
+      13.94,
+      17424.375
+     ],
+     "rotation": [
+      0.0,
+      91.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 218360
+    },
+    {
+     "position": [
+      15006.2148,
+      20.8267,
+      17424.207
+     ],
+     "rotation": [
+      0.0,
+      4.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 218384
+    },
+    {
+     "position": [
+      15103.291,
+      22.7394,
+      17454.4219
+     ],
+     "rotation": [
+      0.0,
+      293.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 218631
+    },
+    {
+     "position": [
+      14971.7148,
+      15.6069,
+      17500.8496
+     ],
+     "rotation": [
+      0.0,
+      219.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 218756
+    },
+    {
+     "position": [
+      14992.8896,
+      15.5274,
+      17509.9785
+     ],
+     "rotation": [
+      0.0,
+      272.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 218757
+    },
+    {
+     "position": [
+      15014.7236,
+      15.4389,
+      17502.7988
+     ],
+     "rotation": [
+      0.0,
+      325.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 218765
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 1,
+     "1": 1,
+     "2": 1,
+     "4": 0,
+     "8": 0
+    },
+    "best": 0.5,
+    "matchedGroups": 1,
+    "tiledGroups": 1
+   },
+   "rootFileDataID": 106735,
+   "rootMD5": "bbd69beacdf474d106368efafc1c861c",
+   "rootPath": "world/wmo/azeroth/buildings/duskwood_human_farm/duskwood_human_farm.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 2,
+    "stackedGroupPairs": [
+     [
+      1,
+      2
+     ]
+    ],
+    "zMax": 11.855043411254883,
+    "zMidpoints": [
+     1.69,
+     1.71,
+     3.75,
+     7.49,
+     8.02
+    ],
+    "zMin": -0.843313455581665
+   },
+   "groupCount": 6,
+   "groups": [
+    {
+     "flags": 8,
+     "groupFileDataID": 106741,
+     "index": 0,
+     "maximum": [
+      23.869579315185547,
+      22.89708137512207,
+      15.072333335876465
+     ],
+     "minimum": [
+      -8.988425254821777,
+      -14.45567512512207,
+      -4.510108470916748
+     ],
+     "name": null,
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106742,
+     "index": 1,
+     "maximum": [
+      17.477611541748047,
+      3.894808769226074,
+      3.9447457790374756
+     ],
+     "minimum": [
+      6.152348518371582,
+      -7.137890815734863,
+      -0.5308147072792053
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 209883,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_humantwostory/duskwood_humantwostory_001_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 724
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106743,
+     "index": 2,
+     "maximum": [
+      20.336824417114258,
+      4.61738920211792,
+      11.855043411254883
+     ],
+     "minimum": [
+      5.027459621429443,
+      -11.06641674041748,
+      4.1850199699401855
+     ],
+     "name": "exterior",
+     "tiles": [
+      {
+       "fileDataID": 209884,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_humantwostory/duskwood_humantwostory_002_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 725
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106744,
+     "index": 3,
+     "maximum": [
+      20.13897132873535,
+      18.30658721923828,
+      11.424513816833496
+     ],
+     "minimum": [
+      4.112945079803467,
+      4.508281230926514,
+      3.5547444820404053
+     ],
+     "name": "entrance",
+     "tiles": [
+      {
+       "fileDataID": 209885,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_humantwostory/duskwood_humantwostory_003_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 726
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106745,
+     "index": 4,
+     "maximum": [
+      17.541505813598633,
+      15.114924430847168,
+      3.9447457790374756
+     ],
+     "minimum": [
+      3.0126895904541016,
+      3.8392527103424072,
+      -0.5692148208618164
+     ],
+     "name": "upstairs",
+     "tiles": [
+      {
+       "fileDataID": 209886,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_humantwostory/duskwood_humantwostory_004_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 727
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106746,
+     "index": 5,
+     "maximum": [
+      6.207916736602783,
+      4.599064350128174,
+      8.345879554748535
+     ],
+     "minimum": [
+      -5.458339214324951,
+      -7.188457012176514,
+      -0.843313455581665
+     ],
+     "name": "upperback",
+     "tiles": [
+      {
+       "fileDataID": 209887,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_humantwostory/duskwood_humantwostory_005_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 728
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/azeroth/buildings/duskwood_humantwostory/duskwood_humantwostory_",
+   "placements": [
+    {
+     "position": [
+      14971.5078,
+      25.7895,
+      17398.5625
+     ],
+     "rotation": [
+      0.0,
+      90.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 218297
+    },
+    {
+     "position": [
+      15087.1279,
+      27.4164,
+      17463.1836
+     ],
+     "rotation": [
+      0.0,
+      292.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 218616
+    },
+    {
+     "position": [
+      14966.6348,
+      20.0471,
+      17477.8887
+     ],
+     "rotation": [
+      0.0,
+      269.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 218680
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 4,
+     "1": 4,
+     "2": 5,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 5,
+    "tiledGroups": 5
+   },
+   "rootFileDataID": 106740,
+   "rootMD5": "f442fbb3f4e22db1d0269df03e8a584e",
+   "rootPath": "world/wmo/azeroth/buildings/duskwood_humantwostory/duskwood_humantwostory.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 2,
+    "stackedGroupPairs": [
+     [
+      2,
+      7
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      4,
+      6
+     ]
+    ],
+    "zMax": 16.439435958862305,
+    "zMidpoints": [
+     -3.16,
+     2.38,
+     3.48,
+     3.54,
+     8.05,
+     11.77,
+     11.79,
+     11.79,
+     11.79,
+     11.79
+    ],
+    "zMin": -6.761812686920166
+   },
+   "groupCount": 11,
+   "groups": [
+    {
+     "flags": 8,
+     "groupFileDataID": 106748,
+     "index": 0,
+     "maximum": [
+      21.942615509033203,
+      18.76671028137207,
+      23.276613235473633
+     ],
+     "minimum": [
+      -37.77299880981445,
+      -13.525418281555176,
+      -2.509817600250244
+     ],
+     "name": null,
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106749,
+     "index": 1,
+     "maximum": [
+      20.47116470336914,
+      -0.3776881992816925,
+      4.37204647064209
+     ],
+     "minimum": [
+      14.111644744873047,
+      -4.856584072113037,
+      0.3954527676105499
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 209888,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_001_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 732
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106750,
+     "index": 2,
+     "maximum": [
+      14.167328834533691,
+      2.822838306427002,
+      6.565201759338379
+     ],
+     "minimum": [
+      9.977810859680176,
+      -4.940431118011475,
+      0.3954527676105499
+     ],
+     "name": "exterior",
+     "tiles": [
+      {
+       "fileDataID": 209889,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_002_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 733
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106751,
+     "index": 3,
+     "maximum": [
+      -17.00946044921875,
+      4.355214595794678,
+      6.684334754943848
+     ],
+     "minimum": [
+      -33.03268051147461,
+      -8.627368927001953,
+      0.3954615890979767
+     ],
+     "name": "hall",
+     "tiles": [
+      {
+       "fileDataID": 209890,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_003_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 735
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106752,
+     "index": 4,
+     "maximum": [
+      -15.21663761138916,
+      1.7366511821746826,
+      16.439435958862305
+     ],
+     "minimum": [
+      -33.504150390625,
+      -10.723105430603027,
+      7.107014179229736
+     ],
+     "name": "entry",
+     "tiles": [
+      {
+       "fileDataID": 209891,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_004_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 739
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106753,
+     "index": 5,
+     "maximum": [
+      -1.2754827737808228,
+      3.892812967300415,
+      16.319196701049805
+     ],
+     "minimum": [
+      -15.46663761138916,
+      -9.92844295501709,
+      7.265183448791504
+     ],
+     "name": "kitchen",
+     "tiles": [
+      {
+       "fileDataID": 209892,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_005_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 740
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106754,
+     "index": 6,
+     "maximum": [
+      -17.01403045654297,
+      12.679150581359863,
+      0.4510285556316376
+     ],
+     "minimum": [
+      -36.747108459472656,
+      -8.665312767028809,
+      -6.761812686920166
+     ],
+     "name": "room03",
+     "tiles": [
+      {
+       "fileDataID": 209893,
+       "height": 64,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_006_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 741
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106755,
+     "index": 7,
+     "maximum": [
+      14.145209312438965,
+      4.266018867492676,
+      16.319196701049805
+     ],
+     "minimum": [
+      -0.7175195813179016,
+      -9.92844295501709,
+      7.266311168670654
+     ],
+     "name": "room04",
+     "tiles": [
+      {
+       "fileDataID": 209894,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_007_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 738
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106756,
+     "index": 8,
+     "maximum": [
+      15.73867416381836,
+      15.608723640441895,
+      16.321521759033203
+     ],
+     "minimum": [
+      3.0555477142333984,
+      4.8925371170043945,
+      7.266208171844482
+     ],
+     "name": "cellar",
+     "tiles": [
+      {
+       "fileDataID": 209895,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_008_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 737
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106757,
+     "index": 9,
+     "maximum": [
+      3.1111032962799072,
+      15.528806686401367,
+      16.32151985168457
+     ],
+     "minimum": [
+      -4.95742130279541,
+      0.8781032562255859,
+      7.25258731842041
+     ],
+     "name": "room02",
+     "tiles": [
+      {
+       "fileDataID": 209896,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_009_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 734
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106758,
+     "index": 10,
+     "maximum": [
+      14.38597297668457,
+      15.54039192199707,
+      16.321521759033203
+     ],
+     "minimum": [
+      -17.065021514892578,
+      -11.07707405090332,
+      -0.21472708880901337
+     ],
+     "name": "room01",
+     "tiles": [
+      {
+       "fileDataID": 209897,
+       "height": 64,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_010_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 736
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/azeroth/buildings/duskwood_inn/duskwood_inn_",
+   "placements": [
+    {
+     "position": [
+      14908.7637,
+      16.9946,
+      17449.2227
+     ],
+     "rotation": [
+      0.0,
+      90.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 217923
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 6,
+     "1": 6,
+     "2": 10,
+     "4": 2,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 10,
+    "tiledGroups": 10
+   },
+   "rootFileDataID": 106747,
+   "rootMD5": "5dddc552e3a6fd4ce3d48969da85da65",
+   "rootPath": "world/wmo/azeroth/buildings/duskwood_inn/duskwood_inn.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 31.23395538330078,
+    "zMidpoints": [
+     4.46,
+     8.74,
+     10.43,
+     15.65
+    ],
+    "zMin": 0.05935721844434738
+   },
+   "groupCount": 5,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 106788,
+     "index": 0,
+     "maximum": [
+      -24.294267654418945,
+      0.8941210508346558,
+      7.943650722503662
+     ],
+     "minimum": [
+      -27.885826110839844,
+      -3.7505972385406494,
+      0.9697498679161072
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 209914,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_townhall_nowall/duskwood_townhall_nowall_000_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 757
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106789,
+     "index": 1,
+     "maximum": [
+      -27.83026695251465,
+      4.018614768981934,
+      16.52157211303711
+     ],
+     "minimum": [
+      -40.24615478515625,
+      -7.09326696395874,
+      0.9601331353187561
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 209915,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_townhall_nowall/duskwood_townhall_nowall_001_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 758
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 106790,
+     "index": 2,
+     "maximum": [
+      -11.693597793579102,
+      19.65187644958496,
+      59.44802474975586
+     ],
+     "minimum": [
+      -67.94279479980469,
+      -35.76280975341797,
+      -1.4797331094741821
+     ],
+     "name": "entry01",
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106791,
+     "index": 3,
+     "maximum": [
+      -41.56037521362305,
+      13.158075332641602,
+      19.9075927734375
+     ],
+     "minimum": [
+      -58.99623107910156,
+      -29.069124221801758,
+      0.9461259841918945
+     ],
+     "name": "entry02",
+     "tiles": [
+      {
+       "fileDataID": 209916,
+       "height": 128,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_townhall_nowall/duskwood_townhall_nowall_003_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 760
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106792,
+     "index": 4,
+     "maximum": [
+      -30.65001106262207,
+      -7.034021377563477,
+      31.23395538330078
+     ],
+     "minimum": [
+      -41.61593246459961,
+      -20.178285598754883,
+      0.05935721844434738
+     ],
+     "name": "exterior",
+     "tiles": [
+      {
+       "fileDataID": 209917,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwood_townhall_nowall/duskwood_townhall_nowall_004_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 756
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/azeroth/buildings/duskwood_townhall_nowall/duskwood_townhall_nowall_",
+   "placements": [
+    {
+     "position": [
+      14986.7021,
+      18.7724,
+      17480.0762
+     ],
+     "rotation": [
+      0.0,
+      270.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 218687
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 3,
+     "1": 3,
+     "2": 4,
+     "4": 1,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 4,
+    "tiledGroups": 4
+   },
+   "rootFileDataID": 106787,
+   "rootMD5": "d928ccc20ee99561b72495bb25b2bce1",
+   "rootPath": "world/wmo/azeroth/buildings/duskwood_townhall_nowall/duskwood_townhall_nowall.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 19.85147476196289,
+    "zMidpoints": [
+     4.18,
+     10.81
+    ],
+    "zMin": 1.7591955661773682
+   },
+   "groupCount": 3,
+   "groups": [
+    {
+     "flags": 8,
+     "groupFileDataID": 106794,
+     "index": 0,
+     "maximum": [
+      12.231377601623535,
+      18.636476516723633,
+      21.482391357421875
+     ],
+     "minimum": [
+      -12.231380462646484,
+      -18.636474609375,
+      -0.09117380529642105
+     ],
+     "name": null,
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106795,
+     "index": 1,
+     "maximum": [
+      4.870707035064697,
+      -6.258483409881592,
+      6.5432634353637695
+     ],
+     "minimum": [
+      -8.526973724365234,
+      -11.42636775970459,
+      1.8128395080566406
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 209918,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwoodabandoned_barn/duskwoodabandoned_barn_001_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 659
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106796,
+     "index": 2,
+     "maximum": [
+      9.050633430480957,
+      12.494346618652344,
+      19.85147476196289
+     ],
+     "minimum": [
+      -9.022928237915039,
+      -11.844528198242188,
+      1.7591955661773682
+     ],
+     "name": "barn_exterior01",
+     "tiles": [
+      {
+       "fileDataID": 209919,
+       "height": 64,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwoodabandoned_barn/duskwoodabandoned_barn_002_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 660
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/azeroth/buildings/duskwoodabandoned_barn/duskwoodabandoned_barn_",
+   "placements": [
+    {
+     "position": [
+      14974.1465,
+      26.9838,
+      16054.583
+     ],
+     "rotation": [
+      0.0,
+      267.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 215449
+    },
+    {
+     "position": [
+      15325.1816,
+      46.4619,
+      16088.999
+     ],
+     "rotation": [
+      0.0,
+      52.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 215590
+    },
+    {
+     "position": [
+      15008.2334,
+      113.0051,
+      16922.5332
+     ],
+     "rotation": [
+      0.0,
+      179.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 217587
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 1,
+     "1": 1,
+     "2": 2,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 2,
+    "tiledGroups": 2
+   },
+   "rootFileDataID": 106793,
+   "rootMD5": "9f3ba7d977523fe660a5afac5cb4b938",
+   "rootPath": "world/wmo/azeroth/buildings/duskwoodabandoned_barn/duskwoodabandoned_barn.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 13.270939826965332,
+    "zMidpoints": [
+     8.66
+    ],
+    "zMin": 4.0525665283203125
+   },
+   "groupCount": 2,
+   "groups": [
+    {
+     "flags": 8,
+     "groupFileDataID": 106801,
+     "index": 0,
+     "maximum": [
+      9.59707260131836,
+      8.874414443969727,
+      16.904447555541992
+     ],
+     "minimum": [
+      -9.332298278808594,
+      -9.19920825958252,
+      -0.027779050171375275
+     ],
+     "name": null,
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106802,
+     "index": 1,
+     "maximum": [
+      6.835772514343262,
+      8.260397911071777,
+      13.270939826965332
+     ],
+     "minimum": [
+      -6.492843151092529,
+      -6.0538530349731445,
+      4.0525665283203125
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 209921,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwoodabandoned_human_farm/duskwoodabandoned_human_farm_001_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 670
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/azeroth/buildings/duskwoodabandoned_human_farm/duskwoodabandoned_human_farm_",
+   "placements": [
+    {
+     "position": [
+      14935.3604,
+      24.9558,
+      16009.6035
+     ],
+     "rotation": [
+      0.0,
+      183.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 215362
+    },
+    {
+     "position": [
+      15079.543,
+      111.2445,
+      16958.8555
+     ],
+     "rotation": [
+      0.0,
+      294.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 217691
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 1,
+     "1": 1,
+     "2": 1,
+     "4": 0,
+     "8": 0
+    },
+    "best": 0.5,
+    "matchedGroups": 1,
+    "tiledGroups": 1
+   },
+   "rootFileDataID": 106800,
+   "rootMD5": "359563884a021fe735cfb8dd64795d42",
+   "rootPath": "world/wmo/azeroth/buildings/duskwoodabandoned_human_farm/duskwoodabandoned_human_farm.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 2,
+    "stackedGroupPairs": [
+     [
+      1,
+      2
+     ]
+    ],
+    "zMax": 11.855043411254883,
+    "zMidpoints": [
+     1.69,
+     1.71,
+     3.75,
+     7.49,
+     8.02
+    ],
+    "zMin": -0.843313455581665
+   },
+   "groupCount": 6,
+   "groups": [
+    {
+     "flags": 8,
+     "groupFileDataID": 106804,
+     "index": 0,
+     "maximum": [
+      23.869579315185547,
+      22.89708137512207,
+      15.068315505981445
+     ],
+     "minimum": [
+      -8.988425254821777,
+      -14.45680046081543,
+      -4.510108470916748
+     ],
+     "name": null,
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106805,
+     "index": 1,
+     "maximum": [
+      17.477611541748047,
+      3.894808769226074,
+      3.9447457790374756
+     ],
+     "minimum": [
+      6.152348518371582,
+      -7.137890815734863,
+      -0.5308147072792053
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 209922,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwoodabandoned_humantwostory/duskwoodabandoned_humantwostory_001_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 664
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106806,
+     "index": 2,
+     "maximum": [
+      20.336824417114258,
+      4.61738920211792,
+      11.855043411254883
+     ],
+     "minimum": [
+      5.027459621429443,
+      -11.06641674041748,
+      4.1850199699401855
+     ],
+     "name": "exterior",
+     "tiles": [
+      {
+       "fileDataID": 209923,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwoodabandoned_humantwostory/duskwoodabandoned_humantwostory_002_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 665
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106807,
+     "index": 3,
+     "maximum": [
+      20.13897132873535,
+      18.30658721923828,
+      11.424513816833496
+     ],
+     "minimum": [
+      4.112945079803467,
+      4.508281230926514,
+      3.5547444820404053
+     ],
+     "name": "entrance",
+     "tiles": [
+      {
+       "fileDataID": 209924,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwoodabandoned_humantwostory/duskwoodabandoned_humantwostory_003_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 666
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106808,
+     "index": 4,
+     "maximum": [
+      17.63780403137207,
+      15.114924430847168,
+      3.9447457790374756
+     ],
+     "minimum": [
+      3.0126895904541016,
+      3.8392527103424072,
+      -0.5692148208618164
+     ],
+     "name": "upstairs",
+     "tiles": [
+      {
+       "fileDataID": 209925,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwoodabandoned_humantwostory/duskwoodabandoned_humantwostory_004_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 667
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 106809,
+     "index": 5,
+     "maximum": [
+      6.207916736602783,
+      4.599064350128174,
+      8.345879554748535
+     ],
+     "minimum": [
+      -5.475645542144775,
+      -7.188457012176514,
+      -0.843313455581665
+     ],
+     "name": "upperback",
+     "tiles": [
+      {
+       "fileDataID": 209926,
+       "height": 32,
+       "path": "world/minimaps/wmo/azeroth/buildings/duskwoodabandoned_humantwostory/duskwoodabandoned_humantwostory_005_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 668
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/azeroth/buildings/duskwoodabandoned_humantwostory/duskwoodabandoned_humantwostory_",
+   "placements": [
+    {
+     "position": [
+      15312.9766,
+      48.3399,
+      16185.1348
+     ],
+     "rotation": [
+      0.0,
+      272.5784,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 215845
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 4,
+     "1": 4,
+     "2": 5,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 5,
+    "tiledGroups": 5
+   },
+   "rootFileDataID": 106803,
+   "rootMD5": "4e91e85369e235ee9ac108ccafd1d210",
+   "rootPath": "world/wmo/azeroth/buildings/duskwoodabandoned_humantwostory/duskwoodabandoned_humantwostory.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 5,
+    "stackedGroupPairs": [
+     [
+      0,
+      41
+     ],
+     [
+      0,
+      42
+     ],
+     [
+      0,
+      43
+     ],
+     [
+      0,
+      44
+     ],
+     [
+      0,
+      45
+     ],
+     [
+      0,
+      46
+     ],
+     [
+      7,
+      58
+     ],
+     [
+      8,
+      41
+     ],
+     [
+      8,
+      43
+     ],
+     [
+      8,
+      46
+     ],
+     [
+      9,
+      41
+     ],
+     [
+      9,
+      43
+     ],
+     [
+      9,
+      45
+     ],
+     [
+      9,
+      51
+     ],
+     [
+      9,
+      55
+     ],
+     [
+      10,
+      41
+     ],
+     [
+      10,
+      43
+     ],
+     [
+      10,
+      45
+     ],
+     [
+      13,
+      68
+     ],
+     [
+      14,
+      18
+     ],
+     [
+      14,
+      68
+     ],
+     [
+      14,
+      69
+     ],
+     [
+      35,
+      60
+     ],
+     [
+      36,
+      60
+     ],
+     [
+      37,
+      60
+     ],
+     [
+      40,
+      47
+     ],
+     [
+      40,
+      57
+     ],
+     [
+      40,
+      70
+     ],
+     [
+      41,
+      44
+     ],
+     [
+      41,
+      45
+     ],
+     [
+      41,
+      46
+     ],
+     [
+      41,
+      51
+     ],
+     [
+      41,
+      55
+     ],
+     [
+      42,
+      44
+     ],
+     [
+      43,
+      51
+     ],
+     [
+      43,
+      55
+     ],
+     [
+      45,
+      51
+     ],
+     [
+      45,
+      55
+     ],
+     [
+      47,
+      57
+     ],
+     [
+      47,
+      70
+     ],
+     [
+      48,
+      52
+     ],
+     [
+      48,
+      70
+     ],
+     [
+      49,
+      53
+     ],
+     [
+      50,
+      54
+     ],
+     [
+      51,
+      55
+     ],
+     [
+      51,
+      57
+     ],
+     [
+      51,
+      70
+     ],
+     [
+      52,
+      70
+     ],
+     [
+      55,
+      70
+     ],
+     [
+      56,
+      70
+     ],
+     [
+      57,
+      70
+     ],
+     [
+      60,
+      63
+     ],
+     [
+      76,
+      77
+     ]
+    ],
+    "zMax": 95.810302734375,
+    "zMidpoints": [
+     1.92,
+     4.88,
+     5.13,
+     5.82,
+     9.07,
+     11.71,
+     11.85,
+     13.28,
+     13.61,
+     14.96,
+     15.34,
+     16.09,
+     17.89,
+     17.89,
+     20.29,
+     20.81,
+     21.34,
+     21.6,
+     21.99,
+     22.0,
+     22.09,
+     22.13,
+     22.14,
+     22.14,
+     22.14,
+     23.99,
+     23.99,
+     24.51,
+     24.77,
+     24.77,
+     24.77,
+     24.77,
+     24.77,
+     24.77,
+     24.77,
+     24.8,
+     24.8,
+     24.8,
+     25.21,
+     25.87,
+     26.4,
+     26.46,
+     26.62,
+     26.76,
+     27.02,
+     27.73,
+     32.92,
+     34.84,
+     34.86,
+     34.87,
+     36.75,
+     39.25,
+     42.38,
+     46.55,
+     50.92,
+     54.46,
+     56.43,
+     58.38,
+     59.8,
+     60.58,
+     62.77,
+     63.16,
+     64.72,
+     66.3,
+     68.89,
+     72.06,
+     75.25,
+     77.85,
+     81.68,
+     84.37
+    ],
+    "zMin": -2.415709972381592
+   },
+   "groupCount": 78,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 109972,
+     "index": 0,
+     "maximum": [
+      -99.05884552001953,
+      22.616971969604492,
+      28.946292877197266
+     ],
+     "minimum": [
+      -107.8674545288086,
+      14.099968910217285,
+      19.024187088012695
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 213686,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_000_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1338
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 109973,
+     "index": 1,
+     "maximum": [
+      -56.69612121582031,
+      -27.99884796142578,
+      18.355466842651367
+     ],
+     "minimum": [
+      -64.02584838867188,
+      -32.013771057128906,
+      12.324076652526855
+     ],
+     "name": "Shadowfang Keep",
+     "tiles": [
+      {
+       "fileDataID": 213687,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_001_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1339
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 109974,
+     "index": 2,
+     "maximum": [
+      -16.87965202331543,
+      13.731880187988281,
+      4.31579065322876
+     ],
+     "minimum": [
+      -20.310039520263672,
+      8.815210342407227,
+      -0.47686174511909485
+     ],
+     "name": "Tower02",
+     "tiles": [
+      {
+       "fileDataID": 213688,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_002_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1340
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109975,
+     "index": 3,
+     "maximum": [
+      -192.2103271484375,
+      -42.54131317138672,
+      31.068777084350586
+     ],
+     "minimum": [
+      -203.20066833496094,
+      -53.53018569946289,
+      18.533226013183594
+     ],
+     "name": "overpass01",
+     "tiles": [
+      {
+       "fileDataID": 213689,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_003_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1341
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109976,
+     "index": 4,
+     "maximum": [
+      -192.2103271484375,
+      -31.608003616333008,
+      31.06877326965332
+     ],
+     "minimum": [
+      -203.20066833496094,
+      -42.59687042236328,
+      18.533222198486328
+     ],
+     "name": "divider",
+     "tiles": [
+      {
+       "fileDataID": 213690,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_004_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1343
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109977,
+     "index": 5,
+     "maximum": [
+      -192.21197509765625,
+      -20.67291831970215,
+      31.068771362304688
+     ],
+     "minimum": [
+      -203.20065307617188,
+      -31.66356086730957,
+      18.533222198486328
+     ],
+     "name": "BigHall11",
+     "tiles": [
+      {
+       "fileDataID": 213691,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_005_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1344
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109978,
+     "index": 6,
+     "maximum": [
+      -179.33413696289062,
+      -20.673864364624023,
+      29.922914505004883
+     ],
+     "minimum": [
+      -192.26751708984375,
+      -31.6646671295166,
+      13.277976989746094
+     ],
+     "name": "BigHall13",
+     "tiles": [
+      {
+       "fileDataID": 213692,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_006_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1345
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 109979,
+     "index": 7,
+     "maximum": [
+      -168.40101623535156,
+      -20.674026489257812,
+      27.306150436401367
+     ],
+     "minimum": [
+      -179.38967895507812,
+      -31.66641616821289,
+      13.275477409362793
+     ],
+     "name": "BigHall12",
+     "tiles": [
+      {
+       "fileDataID": 213693,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_007_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1346
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 109980,
+     "index": 8,
+     "maximum": [
+      -87.02083587646484,
+      25.196741104125977,
+      30.38620376586914
+     ],
+     "minimum": [
+      -99.1144027709961,
+      14.099968910217285,
+      20.02418327331543
+     ],
+     "name": "BigHall14",
+     "tiles": [
+      {
+       "fileDataID": 213694,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_008_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1347
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109981,
+     "index": 9,
+     "maximum": [
+      -99.35045623779297,
+      31.23383331298828,
+      26.9462890625
+     ],
+     "minimum": [
+      -107.8674545288086,
+      22.56141471862793,
+      17.024188995361328
+     ],
+     "name": "BigHall15",
+     "tiles": [
+      {
+       "fileDataID": 213695,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_009_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1348
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109982,
+     "index": 10,
+     "maximum": [
+      -92.95427703857422,
+      32.62901306152344,
+      24.946290969848633
+     ],
+     "minimum": [
+      -99.40601348876953,
+      25.607303619384766,
+      16.675825119018555
+     ],
+     "name": "Tower01",
+     "tiles": [
+      {
+       "fileDataID": 213696,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_010_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1349
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109983,
+     "index": 11,
+     "maximum": [
+      -46.08528137207031,
+      -11.302879333496094,
+      22.52177619934082
+     ],
+     "minimum": [
+      -56.751708984375,
+      -16.002742767333984,
+      13.258227348327637
+     ],
+     "name": "Tower03",
+     "tiles": [
+      {
+       "fileDataID": 213697,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_011_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1350
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109984,
+     "index": 12,
+     "maximum": [
+      -45.908660888671875,
+      4.817159175872803,
+      22.52177619934082
+     ],
+     "minimum": [
+      -56.751708984375,
+      -11.358434677124023,
+      13.252470970153809
+     ],
+     "name": "Tower04",
+     "tiles": [
+      {
+       "fileDataID": 213698,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_012_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1351
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109985,
+     "index": 13,
+     "maximum": [
+      -42.26942825317383,
+      -14.690473556518555,
+      22.5301456451416
+     ],
+     "minimum": [
+      -56.75172805786133,
+      -32.558860778808594,
+      9.640339851379395
+     ],
+     "name": "overpass03",
+     "tiles": [
+      {
+       "fileDataID": 213699,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_013_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1352
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109986,
+     "index": 14,
+     "maximum": [
+      -9.96259880065918,
+      -7.51650857925415,
+      19.936519622802734
+     ],
+     "minimum": [
+      -42.32847213745117,
+      -34.92679214477539,
+      3.7572498321533203
+     ],
+     "name": "overpass04",
+     "tiles": [
+      {
+       "fileDataID": 213700,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_014_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1353
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109987,
+     "index": 15,
+     "maximum": [
+      -12.083537101745605,
+      30.4455509185791,
+      10.249670028686523
+     ],
+     "minimum": [
+      -26.266860961914062,
+      13.495123863220215,
+      -0.4896630346775055
+     ],
+     "name": "overpass02",
+     "tiles": [
+      {
+       "fileDataID": 213701,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_015_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1354
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109988,
+     "index": 16,
+     "maximum": [
+      -26.211292266845703,
+      32.75297927856445,
+      19.757951736450195
+     ],
+     "minimum": [
+      -62.2473030090332,
+      3.980994701385498,
+      3.662662982940674
+     ],
+     "name": "apartments01",
+     "tiles": [
+      {
+       "fileDataID": 213702,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_016_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1355
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109989,
+     "index": 17,
+     "maximum": [
+      -12.931854248046875,
+      26.947803497314453,
+      19.729246139526367
+     ],
+     "minimum": [
+      -26.266857147216797,
+      13.136322021484375,
+      10.194113731384277
+     ],
+     "name": "apartments03",
+     "tiles": [
+      {
+       "fileDataID": 213703,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_017_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1356
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 109990,
+     "index": 18,
+     "maximum": [
+      -8.72041130065918,
+      -16.65689468383789,
+      26.364797592163086
+     ],
+     "minimum": [
+      -11.94614028930664,
+      -19.970130920410156,
+      22.66485595703125
+     ],
+     "name": "apartments04",
+     "tiles": [
+      {
+       "fileDataID": 213704,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_018_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1357
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 109991,
+     "index": 19,
+     "maximum": [
+      35.717369079589844,
+      14.732330322265625,
+      17.04372215270996
+     ],
+     "minimum": [
+      25.20098114013672,
+      -16.674579620361328,
+      -8.826210975646973
+     ],
+     "name": "apartments05",
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109992,
+     "index": 20,
+     "maximum": [
+      -162.97999572753906,
+      -114.47513580322266,
+      23.218994140625
+     ],
+     "minimum": [
+      -184.8096160888672,
+      -128.05201721191406,
+      3.993067741394043
+     ],
+     "name": "HallToExt",
+     "tiles": [
+      {
+       "fileDataID": 213705,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_020_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1359
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109993,
+     "index": 21,
+     "maximum": [
+      -189.39016723632812,
+      -83.8283920288086,
+      35.0231819152832
+     ],
+     "minimum": [
+      -209.77040100097656,
+      -117.11898040771484,
+      18.487062454223633
+     ],
+     "name": "Gate01",
+     "tiles": [
+      {
+       "fileDataID": 213706,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_021_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1360
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109994,
+     "index": 22,
+     "maximum": [
+      -168.40028381347656,
+      -127.99333953857422,
+      31.036235809326172
+     ],
+     "minimum": [
+      -179.3892364501953,
+      -138.98728942871094,
+      13.242640495300293
+     ],
+     "name": "GHStairs",
+     "tiles": [
+      {
+       "fileDataID": 213707,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_022_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1361
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109995,
+     "index": 23,
+     "maximum": [
+      -157.46707153320312,
+      -127.99671173095703,
+      31.036231994628906
+     ],
+     "minimum": [
+      -168.4559783935547,
+      -138.98721313476562,
+      13.24543571472168
+     ],
+     "name": "Nursery",
+     "tiles": [
+      {
+       "fileDataID": 213708,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_023_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1362
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109996,
+     "index": 24,
+     "maximum": [
+      -146.53297424316406,
+      -95.19751739501953,
+      31.036235809326172
+     ],
+     "minimum": [
+      -157.52330017089844,
+      -106.18646240234375,
+      18.500688552856445
+     ],
+     "name": "BigHall04",
+     "tiles": [
+      {
+       "fileDataID": 213709,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_024_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1363
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109997,
+     "index": 25,
+     "maximum": [
+      -146.53294372558594,
+      -106.13082885742188,
+      31.036235809326172
+     ],
+     "minimum": [
+      -157.5232696533203,
+      -117.11979675292969,
+      18.500688552856445
+     ],
+     "name": "BigHall05",
+     "tiles": [
+      {
+       "fileDataID": 213710,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_025_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1364
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109998,
+     "index": 26,
+     "maximum": [
+      -146.53294372558594,
+      -117.06423950195312,
+      31.036235809326172
+     ],
+     "minimum": [
+      -157.5232696533203,
+      -128.0531005859375,
+      18.500688552856445
+     ],
+     "name": "BigHall09",
+     "tiles": [
+      {
+       "fileDataID": 213711,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_026_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1365
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109999,
+     "index": 27,
+     "maximum": [
+      -146.53294372558594,
+      -127.99755096435547,
+      31.036235809326172
+     ],
+     "minimum": [
+      -157.52261352539062,
+      -138.98817443847656,
+      18.500688552856445
+     ],
+     "name": "BigHall08",
+     "tiles": [
+      {
+       "fileDataID": 213712,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_027_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1366
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110000,
+     "index": 28,
+     "maximum": [
+      -192.20950317382812,
+      -117.06339263916016,
+      31.036235809326172
+     ],
+     "minimum": [
+      -203.19984436035156,
+      -128.05227661132812,
+      18.500688552856445
+     ],
+     "name": "BigHall07",
+     "tiles": [
+      {
+       "fileDataID": 213713,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_028_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1367
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110001,
+     "index": 29,
+     "maximum": [
+      -192.21029663085938,
+      -127.9967269897461,
+      31.036235809326172
+     ],
+     "minimum": [
+      -203.1999969482422,
+      -138.98736572265625,
+      18.500688552856445
+     ],
+     "name": "BigHall06",
+     "tiles": [
+      {
+       "fileDataID": 213714,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_029_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1368
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110002,
+     "index": 30,
+     "maximum": [
+      -179.3336944580078,
+      -127.99671173095703,
+      31.036239624023438
+     ],
+     "minimum": [
+      -192.26712036132812,
+      -138.98721313476562,
+      13.245443344116211
+     ],
+     "name": "BigHall01",
+     "tiles": [
+      {
+       "fileDataID": 213715,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_030_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1369
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110003,
+     "index": 31,
+     "maximum": [
+      -146.5333251953125,
+      -84.26173400878906,
+      34.4223747253418
+     ],
+     "minimum": [
+      -157.52435302734375,
+      -95.25315856933594,
+      18.500703811645508
+     ],
+     "name": "BigHall02",
+     "tiles": [
+      {
+       "fileDataID": 213716,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_031_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1370
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110004,
+     "index": 32,
+     "maximum": [
+      -148.77102661132812,
+      -73.9649429321289,
+      29.725502014160156
+     ],
+     "minimum": [
+      -154.55075073242188,
+      -84.31904602050781,
+      23.52289390563965
+     ],
+     "name": "BigHall03",
+     "tiles": [
+      {
+       "fileDataID": 213717,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_032_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1371
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110005,
+     "index": 33,
+     "maximum": [
+      -124.36272430419922,
+      -64.514892578125,
+      30.500059127807617
+     ],
+     "minimum": [
+      -129.8046875,
+      -70.31526947021484,
+      23.53095245361328
+     ],
+     "name": "BigHall10",
+     "tiles": [
+      {
+       "fileDataID": 213718,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_033_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1372
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110006,
+     "index": 34,
+     "maximum": [
+      -120.23734283447266,
+      -59.750732421875,
+      29.95381736755371
+     ],
+     "minimum": [
+      -127.2227783203125,
+      -68.24520874023438,
+      19.577486038208008
+     ],
+     "name": "VisBlock07",
+     "tiles": [
+      {
+       "fileDataID": 213719,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_034_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1373
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110007,
+     "index": 35,
+     "maximum": [
+      -119.28668975830078,
+      -51.38924026489258,
+      27.830848693847656
+     ],
+     "minimum": [
+      -127.77149963378906,
+      -59.91598892211914,
+      16.17392921447754
+     ],
+     "name": "VisBlock08",
+     "tiles": [
+      {
+       "fileDataID": 213720,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_035_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1374
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 110008,
+     "index": 36,
+     "maximum": [
+      -118.87673950195312,
+      -41.43143081665039,
+      28.006074905395508
+     ],
+     "minimum": [
+      -126.67328643798828,
+      -49.836177825927734,
+      16.175121307373047
+     ],
+     "name": "VisBlock12",
+     "tiles": [
+      {
+       "fileDataID": 213721,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_036_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1375
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110009,
+     "index": 37,
+     "maximum": [
+      -122.87535095214844,
+      -43.63847732543945,
+      26.519922256469727
+     ],
+     "minimum": [
+      -133.78884887695312,
+      -55.23487091064453,
+      16.169036865234375
+     ],
+     "name": "Visblock13",
+     "tiles": [
+      {
+       "fileDataID": 213722,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_037_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1376
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 110010,
+     "index": 38,
+     "maximum": [
+      -15.460615158081055,
+      16.399045944213867,
+      17.76561164855957
+     ],
+     "minimum": [
+      -75.06831359863281,
+      -35.761287689208984,
+      -0.5242890119552612
+     ],
+     "name": "VisBlock14",
+     "tiles": []
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 110011,
+     "index": 39,
+     "maximum": [
+      28.55501365661621,
+      39.50161361694336,
+      50.89201736450195
+     ],
+     "minimum": [
+      -15.516172409057617,
+      -46.98579406738281,
+      -31.79654312133789
+     ],
+     "name": "Visblock15",
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110012,
+     "index": 40,
+     "maximum": [
+      -99.51791381835938,
+      83.10215759277344,
+      71.2664794921875
+     ],
+     "minimum": [
+      -123.16460418701172,
+      72.30368041992188,
+      61.33116912841797
+     ],
+     "name": "c",
+     "tiles": [
+      {
+       "fileDataID": 213724,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_040_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1379
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110013,
+     "index": 41,
+     "maximum": [
+      -91.5745849609375,
+      31.226064682006836,
+      59.53662872314453
+     ],
+     "minimum": [
+      -108.38240814208984,
+      14.821060180664062,
+      49.38966751098633
+     ],
+     "name": "shadowExt01",
+     "tiles": [
+      {
+       "fileDataID": 213725,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_041_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1380
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110014,
+     "index": 42,
+     "maximum": [
+      -92.32100677490234,
+      18.670137405395508,
+      56.61996078491211
+     ],
+     "minimum": [
+      -113.53604125976562,
+      8.095792770385742,
+      45.22300338745117
+     ],
+     "name": "WizardHall07",
+     "tiles": [
+      {
+       "fileDataID": 213726,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_042_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1381
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110015,
+     "index": 43,
+     "maximum": [
+      -92.32100677490234,
+      30.057252883911133,
+      52.45329666137695
+     ],
+     "minimum": [
+      -113.53604125976562,
+      17.60676383972168,
+      40.63966751098633
+     ],
+     "name": "SpiralStair01",
+     "tiles": [
+      {
+       "fileDataID": 213727,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_043_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1382
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110016,
+     "index": 44,
+     "maximum": [
+      -103.80045318603516,
+      23.33199119567871,
+      44.11996078491211
+     ],
+     "minimum": [
+      -113.53602600097656,
+      8.842233657836914,
+      34.38966751098633
+     ],
+     "name": "SpiralStair02",
+     "tiles": [
+      {
+       "fileDataID": 213728,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_044_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1383
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110017,
+     "index": 45,
+     "maximum": [
+      -93.84423065185547,
+      31.226072311401367,
+      41.61996078491211
+     ],
+     "minimum": [
+      -112.78960418701172,
+      20.321670532226562,
+      31.889665603637695
+     ],
+     "name": "SpiralStair03",
+     "tiles": [
+      {
+       "fileDataID": 213729,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_045_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1384
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110018,
+     "index": 46,
+     "maximum": [
+      -91.5745849609375,
+      23.331981658935547,
+      47.86996078491211
+     ],
+     "minimum": [
+      -106.8107681274414,
+      8.095802307128906,
+      36.88966751098633
+     ],
+     "name": "SpiralStair05",
+     "tiles": [
+      {
+       "fileDataID": 213730,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_046_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1385
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110019,
+     "index": 47,
+     "maximum": [
+      -98.94821166992188,
+      83.09964752197266,
+      61.290428161621094
+     ],
+     "minimum": [
+      -123.16459655761719,
+      72.30369567871094,
+      51.5778923034668
+     ],
+     "name": "SpiralStair06",
+     "tiles": [
+      {
+       "fileDataID": 213731,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_047_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1386
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110020,
+     "index": 48,
+     "maximum": [
+      -119.31423950195312,
+      79.80695343017578,
+      63.24109649658203
+     ],
+     "minimum": [
+      -136.36683654785156,
+      62.75433349609375,
+      53.5285758972168
+     ],
+     "name": "SpiralStair04",
+     "tiles": [
+      {
+       "fileDataID": 213732,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_048_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1387
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110021,
+     "index": 49,
+     "maximum": [
+      -128.8636016845703,
+      66.60468292236328,
+      65.67942810058594
+     ],
+     "minimum": [
+      -139.65953063964844,
+      43.49864196777344,
+      55.47924041748047
+     ],
+     "name": "WizardHall01",
+     "tiles": [
+      {
+       "fileDataID": 213733,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_049_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1388
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110022,
+     "index": 50,
+     "maximum": [
+      -122.23782348632812,
+      46.137203216552734,
+      67.63011169433594
+     ],
+     "minimum": [
+      -138.1809539794922,
+      28.393632888793945,
+      57.91758346557617
+     ],
+     "name": "WizardHall02",
+     "tiles": [
+      {
+       "fileDataID": 213734,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_050_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1389
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110023,
+     "index": 51,
+     "maximum": [
+      -99.51791381835938,
+      35.21156311035156,
+      69.58070373535156
+     ],
+     "minimum": [
+      -127.20652770996094,
+      22.6240291595459,
+      59.86825180053711
+     ],
+     "name": "WizardHall04",
+     "tiles": [
+      {
+       "fileDataID": 213735,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_051_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1390
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110024,
+     "index": 52,
+     "maximum": [
+      -119.314208984375,
+      79.80694580078125,
+      74.05107879638672
+     ],
+     "minimum": [
+      -136.36683654785156,
+      62.75432586669922,
+      63.72969436645508
+     ],
+     "name": "WizardHall05",
+     "tiles": [
+      {
+       "fileDataID": 213736,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_052_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1391
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110025,
+     "index": 53,
+     "maximum": [
+      -128.86358642578125,
+      66.60469055175781,
+      77.60276794433594
+     ],
+     "minimum": [
+      -139.65953063964844,
+      43.49864196777344,
+      66.51370239257812
+     ],
+     "name": "WizardHall06",
+     "tiles": [
+      {
+       "fileDataID": 213737,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_053_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1392
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110026,
+     "index": 54,
+     "maximum": [
+      -122.23779296875,
+      46.13720703125,
+      80.46942138671875
+     ],
+     "minimum": [
+      -138.18092346191406,
+      28.393634796142578,
+      70.03751373291016
+     ],
+     "name": "WizardHall08",
+     "tiles": [
+      {
+       "fileDataID": 213738,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_054_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1393
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110027,
+     "index": 55,
+     "maximum": [
+      -99.51791381835938,
+      35.211570739746094,
+      82.7894287109375
+     ],
+     "minimum": [
+      -127.2065200805664,
+      22.624040603637695,
+      72.90269470214844
+     ],
+     "name": "WizardHall09",
+     "tiles": [
+      {
+       "fileDataID": 213739,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_055_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1394
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110028,
+     "index": 56,
+     "maximum": [
+      -85.95115661621094,
+      74.74237823486328,
+      75.72441101074219
+     ],
+     "minimum": [
+      -124.48733520507812,
+      30.985313415527344,
+      50.58721923828125
+     ],
+     "name": "WizardHall10",
+     "tiles": [
+      {
+       "fileDataID": 213740,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_056_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1395
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110029,
+     "index": 57,
+     "maximum": [
+      -88.25149536132812,
+      84.81019592285156,
+      94.20591735839844
+     ],
+     "minimum": [
+      -122.18699645996094,
+      30.98531723022461,
+      74.53999328613281
+     ],
+     "name": "WizardHall11",
+     "tiles": [
+      {
+       "fileDataID": 213741,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_057_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1397
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110030,
+     "index": 58,
+     "maximum": [
+      -152.37557983398438,
+      -0.9691340327262878,
+      12.622013092041016
+     ],
+     "minimum": [
+      -180.44992065429688,
+      -50.68378448486328,
+      -2.366440534591675
+     ],
+     "name": "wizardsroom",
+     "tiles": [
+      {
+       "fileDataID": 213742,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_058_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1398
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 110031,
+     "index": 59,
+     "maximum": [
+      -140.14303588867188,
+      9.115690231323242,
+      12.855690956115723
+     ],
+     "minimum": [
+      -159.4828338623047,
+      -10.224133491516113,
+      -1.2249681949615479
+     ],
+     "name": "Foyer",
+     "tiles": [
+      {
+       "fileDataID": 213743,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_059_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1399
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 110032,
+     "index": 60,
+     "maximum": [
+      -121.548583984375,
+      -22.220439910888672,
+      15.77375316619873
+     ],
+     "minimum": [
+      -152.13711547851562,
+      -60.816650390625,
+      2.3758299350738525
+     ],
+     "name": "Entrance",
+     "tiles": [
+      {
+       "fileDataID": 213744,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_060_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1400
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110033,
+     "index": 61,
+     "maximum": [
+      -161.70689392089844,
+      -49.21303939819336,
+      28.980104446411133
+     ],
+     "minimum": [
+      -187.40731811523438,
+      -115.94586944580078,
+      -2.415709972381592
+     ],
+     "name": "Kitchen_Entrance01",
+     "tiles": [
+      {
+       "fileDataID": 213745,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_061_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1401
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110034,
+     "index": 62,
+     "maximum": [
+      -183.21505737304688,
+      -53.47459030151367,
+      34.4307746887207
+     ],
+     "minimum": [
+      -218.10903930664062,
+      -84.33761596679688,
+      17.310749053955078
+     ],
+     "name": "Stable",
+     "tiles": [
+      {
+       "fileDataID": 213746,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_062_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1402
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110035,
+     "index": 63,
+     "maximum": [
+      -140.83737182617188,
+      -40.30084228515625,
+      46.21499252319336
+     ],
+     "minimum": [
+      -167.78480529785156,
+      -66.36112976074219,
+      23.524715423583984
+     ],
+     "name": "GreatHall",
+     "tiles": [
+      {
+       "fileDataID": 213747,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_063_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1403
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110036,
+     "index": 64,
+     "maximum": [
+      -130.84506225585938,
+      -52.86385726928711,
+      46.214988708496094
+     ],
+     "minimum": [
+      -157.7919158935547,
+      -78.92362213134766,
+      23.46595573425293
+     ],
+     "name": "LordsChamber",
+     "tiles": [
+      {
+       "fileDataID": 213748,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_064_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1404
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110037,
+     "index": 65,
+     "maximum": [
+      -120.85202026367188,
+      -65.42593383789062,
+      46.21497344970703
+     ],
+     "minimum": [
+      -147.79922485351562,
+      -91.48637390136719,
+      23.5004940032959
+     ],
+     "name": "Chapel01",
+     "tiles": [
+      {
+       "fileDataID": 213749,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_065_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1405
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110038,
+     "index": 66,
+     "maximum": [
+      -30.06835174560547,
+      -39.50536346435547,
+      29.0937442779541
+     ],
+     "minimum": [
+      -34.612831115722656,
+      -48.47396469116211,
+      18.894983291625977
+     ],
+     "name": "Chapel02",
+     "tiles": [
+      {
+       "fileDataID": 213750,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_066_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1406
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 110039,
+     "index": 67,
+     "maximum": [
+      -30.06835174560547,
+      -48.41840744018555,
+      25.797645568847656
+     ],
+     "minimum": [
+      -37.38094711303711,
+      -53.23555374145508,
+      18.455900192260742
+     ],
+     "name": "Chapel03",
+     "tiles": [
+      {
+       "fileDataID": 213751,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_067_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1407
+    },
+    {
+     "flags": 9216,
+     "groupFileDataID": 110040,
+     "index": 68,
+     "maximum": [
+      -14.472692489624023,
+      -17.241151809692383,
+      32.805904388427734
+     ],
+     "minimum": [
+      -50.263633728027344,
+      -39.56092071533203,
+      22.66305160522461
+     ],
+     "name": "WoodHall01",
+     "tiles": [
+      {
+       "fileDataID": 213752,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_068_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1408
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110041,
+     "index": 69,
+     "maximum": [
+      -6.250560283660889,
+      -19.744129180908203,
+      30.130277633666992
+     ],
+     "minimum": [
+      -15.09553337097168,
+      -38.73432922363281,
+      22.663026809692383
+     ],
+     "name": "WoodHall02",
+     "tiles": [
+      {
+       "fileDataID": 213753,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_069_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1409
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110042,
+     "index": 70,
+     "maximum": [
+      -89.04185485839844,
+      102.70875549316406,
+      49.17164611816406
+     ],
+     "minimum": [
+      -126.63856506347656,
+      31.170515060424805,
+      16.674579620361328
+     ],
+     "name": "HeroHall01",
+     "tiles": [
+      {
+       "fileDataID": 213754,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_070_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1410
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 110043,
+     "index": 71,
+     "maximum": [
+      -75.01274871826172,
+      26.709354400634766,
+      21.97638511657715
+     ],
+     "minimum": [
+      -175.74337768554688,
+      -41.124813079833984,
+      0.16713353991508484
+     ],
+     "name": "HeroHall02",
+     "tiles": []
+    },
+    {
+     "flags": 2147484808,
+     "groupFileDataID": 110044,
+     "index": 72,
+     "maximum": [
+      -78.64803314208984,
+      45.698970794677734,
+      89.21357727050781
+     ],
+     "minimum": [
+      -138.54039001464844,
+      -0.6673612594604492,
+      38.0441780090332
+     ],
+     "name": "WolfLair",
+     "tiles": []
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 110045,
+     "index": 73,
+     "maximum": [
+      -15.460612297058105,
+      40.85826873779297,
+      39.06467056274414
+     ],
+     "minimum": [
+      -75.06831359863281,
+      -54.80001449584961,
+      -31.796537399291992
+     ],
+     "name": "BackHalf",
+     "tiles": []
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 110046,
+     "index": 74,
+     "maximum": [
+      -63.65036392211914,
+      40.86919021606445,
+      51.00595474243164
+     ],
+     "minimum": [
+      -192.75192260742188,
+      -74.67084503173828,
+      -34.60649490356445
+     ],
+     "name": "TowerFacade01",
+     "tiles": []
+    },
+    {
+     "flags": 2147484680,
+     "groupFileDataID": 110047,
+     "index": 75,
+     "maximum": [
+      -108.6651840209961,
+      131.47560119628906,
+      62.91483688354492
+     ],
+     "minimum": [
+      -111.8049545288086,
+      125.25161743164062,
+      56.69084930419922
+     ],
+     "name": "shadowExt02",
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 463824,
+     "index": 76,
+     "maximum": [
+      -111.74938201904297,
+      131.47560119628906,
+      62.91483688354492
+     ],
+     "minimum": [
+      -114.88914489746094,
+      125.25161743164062,
+      56.69084930419922
+     ],
+     "name": "ShadowExt03",
+     "tiles": [
+      {
+       "fileDataID": 460795,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_076_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 30857
+    },
+    {
+     "flags": 9472,
+     "groupFileDataID": 463825,
+     "index": 77,
+     "maximum": [
+      -72.16461944580078,
+      135.36085510253906,
+      95.810302734375
+     ],
+     "minimum": [
+      -122.64707946777344,
+      84.75460815429688,
+      67.5546646118164
+     ],
+     "name": "ext",
+     "tiles": [
+      {
+       "fileDataID": 460796,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_077_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1396
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_",
+   "placements": [
+    {
+     "position": [
+      14972.1885,
+      77.338,
+      17300.8086
+     ],
+     "rotation": [
+      0.0,
+      68.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 218202
+    }
+   ],
+   "rejectedTiles": [
+    "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_038_00_00.blp",
+    "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_071_00_00.blp",
+    "world/minimaps/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior_072_00_00.blp"
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 35,
+     "1": 35,
+     "2": 70,
+     "4": 7,
+     "8": 1
+    },
+    "best": 2,
+    "matchedGroups": 70,
+    "tiledGroups": 70
+   },
+   "rootFileDataID": 109971,
+   "rootMD5": "63d2a957b1256ad9d18b08b7d5b81e8a",
+   "rootPath": "world/wmo/dungeon/ld_shadowfang/ld_shadowfanginterior.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 0.6428201794624329,
+    "zMidpoints": [
+     -14.58,
+     -14.02,
+     -11.44,
+     -6.89
+    ],
+    "zMin": -20.731590270996094
+   },
+   "groupCount": 5,
+   "groups": [
+    {
+     "flags": 8,
+     "groupFileDataID": 110651,
+     "index": 0,
+     "maximum": [
+      14.027250289916992,
+      8.888341903686523,
+      17.272539138793945
+     ],
+     "minimum": [
+      -14.061952590942383,
+      -9.63365364074707,
+      -2.5186614990234375
+     ],
+     "name": null,
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110652,
+     "index": 1,
+     "maximum": [
+      18.73626708984375,
+      2.874567747116089,
+      0.6428201794624329
+     ],
+     "minimum": [
+      -0.652870774269104,
+      -11.689092636108398,
+      -14.43278694152832
+     ],
+     "name": "Crypt",
+     "tiles": [
+      {
+       "fileDataID": 214521,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/md_cryptonerm/md_cryptonerm_001_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1485
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110653,
+     "index": 2,
+     "maximum": [
+      12.211285591125488,
+      -12.241669654846191,
+      -9.182290077209473
+     ],
+     "minimum": [
+      4.1847333908081055,
+      -18.214902877807617,
+      -19.978450775146484
+     ],
+     "name": "Ext",
+     "tiles": [
+      {
+       "fileDataID": 214522,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/md_cryptonerm/md_cryptonerm_002_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1488
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110654,
+     "index": 3,
+     "maximum": [
+      19.74810791015625,
+      -11.142051696777344,
+      -8.53294563293457
+     ],
+     "minimum": [
+      12.150823593139648,
+      -18.085973739624023,
+      -14.3470458984375
+     ],
+     "name": "Stair01",
+     "tiles": [
+      {
+       "fileDataID": 214523,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/md_cryptonerm/md_cryptonerm_003_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1489
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110655,
+     "index": 4,
+     "maximum": [
+      5.754294395446777,
+      4.078781604766846,
+      -7.299161434173584
+     ],
+     "minimum": [
+      -21.650108337402344,
+      -34.45688247680664,
+      -20.731590270996094
+     ],
+     "name": "Stairs06",
+     "tiles": [
+      {
+       "fileDataID": 214524,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/md_cryptonerm/md_cryptonerm_004_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1490
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/dungeon/md_cryptonerm/md_cryptonerm_",
+   "placements": [
+    {
+     "position": [
+      14893.7734,
+      125.3288,
+      16558.9629
+     ],
+     "rotation": [
+      0.0,
+      268.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 216541
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 2,
+     "1": 2,
+     "2": 4,
+     "4": 1,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 4,
+    "tiledGroups": 4
+   },
+   "rootFileDataID": 110650,
+   "rootMD5": "57312f85374c1c3dc7828fbfb7111440",
+   "rootPath": "world/wmo/dungeon/md_cryptonerm/md_cryptonerm.wmo"
+  }
+ ]
+}

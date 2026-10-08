@@ -1,0 +1,2634 @@
+{
+ "build": "1.60.1.70245",
+ "classification": "D",
+ "classificationReason": "mixed-ground-and-wmo-minimaps",
+ "directory": "2998",
+ "ground": {
+  "adtTileCount": 39,
+  "adtTilesWithoutMinimap": 0,
+  "bounds": {
+   "maxX": 39,
+   "maxY": 42,
+   "minX": 33,
+   "minY": 36
+  },
+  "contentBounds": {
+   "maxX": 39,
+   "maxY": 41,
+   "minX": 33,
+   "minY": 37
+  },
+  "contentTileCount": 35,
+  "gridColumns": 7,
+  "gridRows": 7,
+  "missingCoordinates": [
+   [
+    33,
+    36
+   ],
+   [
+    34,
+    36
+   ],
+   [
+    35,
+    36
+   ],
+   [
+    36,
+    36
+   ],
+   [
+    37,
+    36
+   ],
+   [
+    33,
+    42
+   ],
+   [
+    34,
+    42
+   ],
+   [
+    35,
+    42
+   ],
+   [
+    36,
+    42
+   ],
+   [
+    37,
+    42
+   ]
+  ],
+  "tileCount": 39,
+  "tileDimensions": [
+   "512x512"
+  ],
+  "tiles": [
+   {
+    "fileDataID": 7474475,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 38,
+    "y": 36
+   },
+   {
+    "fileDataID": 7474477,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 39,
+    "y": 36
+   },
+   {
+    "fileDataID": 7473414,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 33,
+    "y": 37
+   },
+   {
+    "fileDataID": 7473448,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 34,
+    "y": 37
+   },
+   {
+    "fileDataID": 7473454,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 35,
+    "y": 37
+   },
+   {
+    "fileDataID": 7473456,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 36,
+    "y": 37
+   },
+   {
+    "fileDataID": 7473458,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 37,
+    "y": 37
+   },
+   {
+    "fileDataID": 7474479,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 38,
+    "y": 37
+   },
+   {
+    "fileDataID": 7474481,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 39,
+    "y": 37
+   },
+   {
+    "fileDataID": 7473416,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 33,
+    "y": 38
+   },
+   {
+    "fileDataID": 7287260,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 34,
+    "y": 38
+   },
+   {
+    "fileDataID": 7287262,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 35,
+    "y": 38
+   },
+   {
+    "fileDataID": 7287264,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 36,
+    "y": 38
+   },
+   {
+    "fileDataID": 7473476,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 37,
+    "y": 38
+   },
+   {
+    "fileDataID": 7474483,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 38,
+    "y": 38
+   },
+   {
+    "fileDataID": 7474485,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 39,
+    "y": 38
+   },
+   {
+    "fileDataID": 7473418,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 33,
+    "y": 39
+   },
+   {
+    "fileDataID": 7287266,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 34,
+    "y": 39
+   },
+   {
+    "fileDataID": 7287268,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 35,
+    "y": 39
+   },
+   {
+    "fileDataID": 7287270,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 36,
+    "y": 39
+   },
+   {
+    "fileDataID": 7473482,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 37,
+    "y": 39
+   },
+   {
+    "fileDataID": 7474511,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 38,
+    "y": 39
+   },
+   {
+    "fileDataID": 7474513,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 39,
+    "y": 39
+   },
+   {
+    "fileDataID": 7473432,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 33,
+    "y": 40
+   },
+   {
+    "fileDataID": 7287272,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 34,
+    "y": 40
+   },
+   {
+    "fileDataID": 7287274,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 35,
+    "y": 40
+   },
+   {
+    "fileDataID": 7287276,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 36,
+    "y": 40
+   },
+   {
+    "fileDataID": 7473484,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 37,
+    "y": 40
+   },
+   {
+    "fileDataID": 7474515,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 38,
+    "y": 40
+   },
+   {
+    "fileDataID": 7474517,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 39,
+    "y": 40
+   },
+   {
+    "fileDataID": 7473434,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 33,
+    "y": 41
+   },
+   {
+    "fileDataID": 7473503,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 34,
+    "y": 41
+   },
+   {
+    "fileDataID": 7473509,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 35,
+    "y": 41
+   },
+   {
+    "fileDataID": 7473511,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 36,
+    "y": 41
+   },
+   {
+    "fileDataID": 7473486,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 37,
+    "y": 41
+   },
+   {
+    "fileDataID": 7474519,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 38,
+    "y": 41
+   },
+   {
+    "fileDataID": 7474521,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 39,
+    "y": 41
+   },
+   {
+    "fileDataID": 7474547,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 38,
+    "y": 42
+   },
+   {
+    "fileDataID": 7474549,
+    "height": 512,
+    "uniform": true,
+    "width": 512,
+    "x": 39,
+    "y": 42
+   }
+  ]
+ },
+ "instanceID": 2998,
+ "instanceType": 1,
+ "layout": "terrain",
+ "mapID": 2998,
+ "mapType": 1,
+ "maxPlayers": 0,
+ "name": "Excavation Site: Wetlands",
+ "nativeDungeonUiMaps": [],
+ "placedWMOCountWithoutMinimaps": 7,
+ "placedWMOsWithoutMinimaps": [
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 108096,
+   "rootPath": "world/wmo/azeroth/collidable doodads/duskwood/chasmbridge/duskwoodchasmbridge.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 2,
+   "rootFileDataID": 108121,
+   "rootPath": "world/wmo/azeroth/collidable doodads/elwynn/widebridge/elwynnwidebridge.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 108185,
+   "rootPath": "world/wmo/azeroth/collidable doodads/swampofsorrows/swampdock01/swampdock01.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 3,
+   "rootFileDataID": 108195,
+   "rootPath": "world/wmo/azeroth/collidable doodads/wetlands/wetlandswagon/final/wetlandsbustedwagon.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 113245,
+   "rootPath": "world/wmo/kalimdor/collidabledoodads/darkshore/darkshoreexcavation/dsexcavationplatform.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 113303,
+   "rootPath": "world/wmo/kalimdor/collidabledoodads/mulgore/taurentent01/taurentent01.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 2,
+   "rootFileDataID": 114111,
+   "rootPath": "world/wmo/khazmodan/collidable doodads/lochmodan/excavationsite/excavationplatform03.wmo"
+  }
+ ],
+ "uiMapAssignments": [],
+ "wdt": {
+  "adtTileCount": 39,
+  "chunks": [
+   "MVER",
+   "MPHD",
+   "MAIN",
+   "MAID"
+  ],
+  "mphdFlags": 970,
+  "usesGlobalWMO": false
+ },
+ "wdtFileDataID": 7252920,
+ "wmos": [
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 13.5217924118042,
+    "zMidpoints": [
+     5.13
+    ],
+    "zMin": -3.267132043838501
+   },
+   "groupCount": 2,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 110498,
+     "index": 0,
+     "maximum": [
+      -17.65892791748047,
+      12.244651794433594,
+      13.5217924118042
+     ],
+     "minimum": [
+      -49.417091369628906,
+      -14.21056842803955,
+      -3.267132043838501
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 214406,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/md_caveden/md_mushroomden_000_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1650
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 110499,
+     "index": 1,
+     "maximum": [
+      6.96058988571167,
+      21.910343170166016,
+      19.59830093383789
+     ],
+     "minimum": [
+      -36.53788375854492,
+      -21.862695693969727,
+      -7.114898681640625
+     ],
+     "name": null,
+     "tiles": []
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/dungeon/md_caveden/md_mushroomden_",
+   "placements": [
+    {
+     "position": [
+      19038.752,
+      118.8861,
+      20631.3184
+     ],
+     "rotation": [
+      0.0,
+      222.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65888146
+    },
+    {
+     "position": [
+      20073.373,
+      10.9646,
+      21344.7695
+     ],
+     "rotation": [
+      0.0,
+      217.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 67368526
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 1,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 1,
+    "tiledGroups": 1
+   },
+   "rootFileDataID": 110497,
+   "rootMD5": "c337d472068ac7befc6c58223e3bda30",
+   "rootPath": "world/wmo/dungeon/md_caveden/md_mushroomden.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 2,
+    "stackedGroupPairs": [
+     [
+      0,
+      3
+     ],
+     [
+      3,
+      8
+     ],
+     [
+      7,
+      8
+     ]
+    ],
+    "zMax": 0.6428201794624329,
+    "zMidpoints": [
+     -25.33,
+     -24.31,
+     -19.99,
+     -19.12,
+     -19.1,
+     -16.32,
+     -16.28,
+     -9.7,
+     -6.89
+    ],
+    "zMin": -32.1773796081543
+   },
+   "groupCount": 10,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 110603,
+     "index": 0,
+     "maximum": [
+      38.61940383911133,
+      -5.345251083374023,
+      -4.90086555480957
+     ],
+     "minimum": [
+      -7.109024524688721,
+      -24.649091720581055,
+      -14.491456985473633
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 214477,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/md_crypt/md_crypt_000_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1473
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110604,
+     "index": 1,
+     "maximum": [
+      41.183834075927734,
+      28.75444984436035,
+      -14.325761795043945
+     ],
+     "minimum": [
+      19.411970138549805,
+      6.4184064865112305,
+      -23.905193328857422
+     ],
+     "name": "Crypt",
+     "tiles": [
+      {
+       "fileDataID": 214478,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/md_crypt/md_crypt_001_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1474
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110605,
+     "index": 2,
+     "maximum": [
+      9.821971893310547,
+      28.754446029663086,
+      -14.325750350952148
+     ],
+     "minimum": [
+      -12.014431953430176,
+      6.418404579162598,
+      -23.86734962463379
+     ],
+     "name": "CryptRm01",
+     "tiles": [
+      {
+       "fileDataID": 214479,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/md_crypt/md_crypt_002_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1475
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110606,
+     "index": 3,
+     "maximum": [
+      33.86191940307617,
+      -1.0030245780944824,
+      -18.478933334350586
+     ],
+     "minimum": [
+      -4.673752307891846,
+      -28.407438278198242,
+      -32.1773796081543
+     ],
+     "name": "CryptRm02",
+     "tiles": [
+      {
+       "fileDataID": 214480,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/md_crypt/md_crypt_003_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1476
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110607,
+     "index": 4,
+     "maximum": [
+      21.333206176757812,
+      14.27981948852539,
+      -16.82207679748535
+     ],
+     "minimum": [
+      7.872910499572754,
+      8.498981475830078,
+      -23.153371810913086
+     ],
+     "name": "CryptRm03",
+     "tiles": [
+      {
+       "fileDataID": 214481,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/md_crypt/md_crypt_004_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1477
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110608,
+     "index": 5,
+     "maximum": [
+      33.458065032958984,
+      6.473962783813477,
+      -9.328863143920898
+     ],
+     "minimum": [
+      26.98936653137207,
+      -5.401020526885986,
+      -23.315940856933594
+     ],
+     "name": "CryptRm04",
+     "tiles": [
+      {
+       "fileDataID": 214482,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/md_crypt/md_crypt_005_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1478
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110609,
+     "index": 6,
+     "maximum": [
+      1.8175655603408813,
+      6.473962306976318,
+      -9.328939437866211
+     ],
+     "minimum": [
+      -4.176190376281738,
+      -5.401017189025879,
+      -23.235980987548828
+     ],
+     "name": "CryptHall",
+     "tiles": [
+      {
+       "fileDataID": 214483,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/md_crypt/md_crypt_006_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1479
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110610,
+     "index": 7,
+     "maximum": [
+      17.626953125,
+      10.218321800231934,
+      -17.265533447265625
+     ],
+     "minimum": [
+      11.522443771362305,
+      -2.612640380859375,
+      -31.359756469726562
+     ],
+     "name": "Stairs04",
+     "tiles": [
+      {
+       "fileDataID": 214484,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/md_crypt/md_crypt_007_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1480
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 110611,
+     "index": 8,
+     "maximum": [
+      18.73626708984375,
+      2.8745672702789307,
+      0.6428201794624329
+     ],
+     "minimum": [
+      -0.6528692841529846,
+      -11.684480667114258,
+      -14.43278694152832
+     ],
+     "name": "Stairs06",
+     "tiles": [
+      {
+       "fileDataID": 214485,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/md_crypt/md_crypt_008_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1482
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 110612,
+     "index": 9,
+     "maximum": [
+      14.027250289916992,
+      9.61967945098877,
+      17.272539138793945
+     ],
+     "minimum": [
+      -14.656557083129883,
+      -9.63365364074707,
+      -1.4525495767593384
+     ],
+     "name": "Stairs05",
+     "tiles": []
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/dungeon/md_crypt/md_crypt_",
+   "placements": [
+    {
+     "position": [
+      19287.25,
+      30.7672,
+      19911.7129
+     ],
+     "rotation": [
+      0.0,
+      177.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 67430144
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 4,
+     "1": 4,
+     "2": 9,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 9,
+    "tiledGroups": 9
+   },
+   "rootFileDataID": 110602,
+   "rootMD5": "3cbc3cde6ccabff6ea0e07d2aadd55b6",
+   "rootPath": "world/wmo/dungeon/md_crypt/md_crypt.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 66.34913635253906,
+    "zMidpoints": [
+     5.73,
+     5.98,
+     11.15,
+     22.86,
+     37.33,
+     51.97,
+     58.44,
+     59.51
+    ],
+    "zMin": -1.108924388885498
+   },
+   "groupCount": 10,
+   "groups": [
+    {
+     "flags": 40960,
+     "groupFileDataID": 110708,
+     "index": 0,
+     "maximum": [
+      7.087856292724609,
+      167.33236694335938,
+      64.1852035522461
+     ],
+     "minimum": [
+      -6.914199352264404,
+      132.3136749267578,
+      39.74526596069336
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 214566,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/md_dwarven tunnels/mediumtunnel_000_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1777
+    },
+    {
+     "flags": 40960,
+     "groupFileDataID": 110709,
+     "index": 1,
+     "maximum": [
+      7.087861061096191,
+      132.3695068359375,
+      51.78604507446289
+     ],
+     "minimum": [
+      -6.9141974449157715,
+      96.80205535888672,
+      22.882719039916992
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 214567,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/md_dwarven tunnels/mediumtunnel_001_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1778
+    },
+    {
+     "flags": 40960,
+     "groupFileDataID": 110710,
+     "index": 2,
+     "maximum": [
+      7.087878227233887,
+      61.3525390625,
+      22.410707473754883
+     ],
+     "minimum": [
+      -6.914185523986816,
+      26.3588924407959,
+      -0.11909257620573044
+     ],
+     "name": "tunnel04",
+     "tiles": [
+      {
+       "fileDataID": 214568,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/md_dwarven tunnels/mediumtunnel_002_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1779
+    },
+    {
+     "flags": 40960,
+     "groupFileDataID": 110711,
+     "index": 3,
+     "maximum": [
+      7.087869167327881,
+      96.85803985595703,
+      35.472469329833984
+     ],
+     "minimum": [
+      -6.914193630218506,
+      61.29698181152344,
+      10.242354393005371
+     ],
+     "name": "tunnel03",
+     "tiles": [
+      {
+       "fileDataID": 214569,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/md_dwarven tunnels/mediumtunnel_003_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1780
+    },
+    {
+     "flags": 40960,
+     "groupFileDataID": 110712,
+     "index": 4,
+     "maximum": [
+      7.0869364738464355,
+      26.414453506469727,
+      13.076109886169434
+     ],
+     "minimum": [
+      -6.914178848266602,
+      13.940546035766602,
+      -1.1088602542877197
+     ],
+     "name": "tunnel01",
+     "tiles": [
+      {
+       "fileDataID": 214570,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/md_dwarven tunnels/mediumtunnel_004_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1781
+    },
+    {
+     "flags": 32776,
+     "groupFileDataID": 110713,
+     "index": 5,
+     "maximum": [
+      19.6344051361084,
+      23.813703536987305,
+      20.023042678833008
+     ],
+     "minimum": [
+      -19.625181198120117,
+      -0.35813766717910767,
+      -5.029120445251465
+     ],
+     "name": "tunnel02",
+     "tiles": []
+    },
+    {
+     "flags": 40960,
+     "groupFileDataID": 110714,
+     "index": 6,
+     "maximum": [
+      8.639116287231445,
+      13.996103286743164,
+      12.5767183303833
+     ],
+     "minimum": [
+      -8.487481117248535,
+      4.874551773071289,
+      -1.108924388885498
+     ],
+     "name": "tunnel_intA1",
+     "tiles": [
+      {
+       "fileDataID": 214571,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/md_dwarven tunnels/mediumtunnel_006_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1783
+    },
+    {
+     "flags": 32776,
+     "groupFileDataID": 110715,
+     "index": 7,
+     "maximum": [
+      19.798879623413086,
+      194.01864624023438,
+      73.79546356201172
+     ],
+     "minimum": [
+      -19.46070671081543,
+      169.84681701660156,
+      48.7432975769043
+     ],
+     "name": "anvilmarpass_extA01",
+     "tiles": []
+    },
+    {
+     "flags": 40960,
+     "groupFileDataID": 110716,
+     "index": 8,
+     "maximum": [
+      8.661181449890137,
+      188.78594970703125,
+      66.34913635253906
+     ],
+     "minimum": [
+      -8.46541690826416,
+      179.6643829345703,
+      52.66349411010742
+     ],
+     "name": "entrance",
+     "tiles": [
+      {
+       "fileDataID": 214572,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/md_dwarven tunnels/mediumtunnel_008_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1785
+    },
+    {
+     "flags": 40960,
+     "groupFileDataID": 110717,
+     "index": 9,
+     "maximum": [
+      7.087879180908203,
+      179.72052001953125,
+      65.49929809570312
+     ],
+     "minimum": [
+      -6.913236141204834,
+      167.27682495117188,
+      51.38331604003906
+     ],
+     "name": "anvilmarpass_extB01",
+     "tiles": [
+      {
+       "fileDataID": 214573,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/md_dwarven tunnels/mediumtunnel_009_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1786
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/dungeon/md_dwarven tunnels/mediumtunnel_",
+   "placements": [
+    {
+     "position": [
+      19529.5762,
+      160.4989,
+      21184.0781
+     ],
+     "rotation": [
+      0.0,
+      270.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65888285
+    },
+    {
+     "position": [
+      19686.3262,
+      45.7717,
+      21153.0762
+     ],
+     "rotation": [
+      0.0,
+      182.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65888635
+    },
+    {
+     "position": [
+      19547.5195,
+      214.4804,
+      21490.2949
+     ],
+     "rotation": [
+      0.0,
+      352.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65887036
+    },
+    {
+     "position": [
+      19757.4492,
+      268.0455,
+      21552.3242
+     ],
+     "rotation": [
+      0.0,
+      272.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 67368287
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 2,
+     "1": 2,
+     "2": 8,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 8,
+    "tiledGroups": 8
+   },
+   "rootFileDataID": 110707,
+   "rootMD5": "87f3ac69e77c9317746d7ff01bfec47f",
+   "rootPath": "world/wmo/dungeon/md_dwarven tunnels/mediumtunnel.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 36.84622573852539,
+    "zMidpoints": [
+     5.73,
+     5.98,
+     11.15,
+     22.46,
+     28.94,
+     30.0
+    ],
+    "zMin": -1.108924388885498
+   },
+   "groupCount": 8,
+   "groups": [
+    {
+     "flags": 40960,
+     "groupFileDataID": 110730,
+     "index": 0,
+     "maximum": [
+      7.087871551513672,
+      96.31570434570312,
+      34.68229675292969
+     ],
+     "minimum": [
+      -6.914184093475342,
+      61.29698181152344,
+      10.242356300354004
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 214582,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/md_dwarven tunnels/smalltunnel_000_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2447
+    },
+    {
+     "flags": 40960,
+     "groupFileDataID": 110731,
+     "index": 1,
+     "maximum": [
+      7.087878227233887,
+      61.3525390625,
+      22.410707473754883
+     ],
+     "minimum": [
+      -6.914185523986816,
+      26.3588924407959,
+      -0.11909257620573044
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 214583,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/md_dwarven tunnels/smalltunnel_001_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2448
+    },
+    {
+     "flags": 40960,
+     "groupFileDataID": 110732,
+     "index": 2,
+     "maximum": [
+      7.0869364738464355,
+      26.414453506469727,
+      13.076109886169434
+     ],
+     "minimum": [
+      -6.914178848266602,
+      13.940528869628906,
+      -1.1088602542877197
+     ],
+     "name": "tunnel04",
+     "tiles": [
+      {
+       "fileDataID": 214584,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/md_dwarven tunnels/smalltunnel_002_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2449
+    },
+    {
+     "flags": 32776,
+     "groupFileDataID": 110733,
+     "index": 3,
+     "maximum": [
+      19.6344051361084,
+      23.813703536987305,
+      20.023042678833008
+     ],
+     "minimum": [
+      -19.625181198120117,
+      -0.35813766717910767,
+      -5.029120445251465
+     ],
+     "name": "tunnel01",
+     "tiles": []
+    },
+    {
+     "flags": 40960,
+     "groupFileDataID": 110734,
+     "index": 4,
+     "maximum": [
+      8.639116287231445,
+      13.996102333068848,
+      12.5767183303833
+     ],
+     "minimum": [
+      -8.487481117248535,
+      4.87449836730957,
+      -1.108924388885498
+     ],
+     "name": "tunnel_intA1",
+     "tiles": [
+      {
+       "fileDataID": 214585,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/md_dwarven tunnels/smalltunnel_004_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2451
+    },
+    {
+     "flags": 32776,
+     "groupFileDataID": 110735,
+     "index": 5,
+     "maximum": [
+      19.79889488220215,
+      123.00196838378906,
+      44.29255294799805
+     ],
+     "minimum": [
+      -19.460691452026367,
+      98.83012390136719,
+      19.240388870239258
+     ],
+     "name": "anvilmarpass_extA01",
+     "tiles": []
+    },
+    {
+     "flags": 40960,
+     "groupFileDataID": 110736,
+     "index": 6,
+     "maximum": [
+      8.6611967086792,
+      117.76931762695312,
+      36.84622573852539
+     ],
+     "minimum": [
+      -8.465401649475098,
+      108.647705078125,
+      23.160581588745117
+     ],
+     "name": "entrance",
+     "tiles": [
+      {
+       "fileDataID": 214586,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/md_dwarven tunnels/smalltunnel_006_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2453
+    },
+    {
+     "flags": 40960,
+     "groupFileDataID": 110737,
+     "index": 7,
+     "maximum": [
+      7.087894439697266,
+      108.70326232910156,
+      35.99639129638672
+     ],
+     "minimum": [
+      -6.9132208824157715,
+      96.25984954833984,
+      21.880409240722656
+     ],
+     "name": "anvilmarpass_extB01",
+     "tiles": [
+      {
+       "fileDataID": 214587,
+       "height": 32,
+       "path": "world/minimaps/wmo/dungeon/md_dwarven tunnels/smalltunnel_007_00_00.blp",
+       "width": 32,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2454
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/dungeon/md_dwarven tunnels/smalltunnel_",
+   "placements": [
+    {
+     "position": [
+      18467.2383,
+      200.836,
+      21229.8086
+     ],
+     "rotation": [
+      0.0,
+      272.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65887743
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 2,
+     "1": 2,
+     "2": 6,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 6,
+    "tiledGroups": 6
+   },
+   "rootFileDataID": 110729,
+   "rootMD5": "b984ab4b9f14ab171352670a73255a00",
+   "rootPath": "world/wmo/dungeon/md_dwarven tunnels/smalltunnel.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 8.986700057983398,
+    "zMidpoints": [
+     -8.74,
+     -8.72,
+     -7.96,
+     -6.64,
+     -5.97,
+     -0.2
+    ],
+    "zMin": -21.3651065826416
+   },
+   "groupCount": 7,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 111195,
+     "index": 0,
+     "maximum": [
+      -9.677212715148926,
+      -38.948089599609375,
+      4.908166408538818
+     ],
+     "minimum": [
+      -52.94131088256836,
+      -110.08467864990234,
+      -18.188142776489258
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 215059,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/md_mountaincave/md_mushroomcave03_000_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7381
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 111196,
+     "index": 1,
+     "maximum": [
+      -87.60950469970703,
+      -146.42652893066406,
+      -0.5464810132980347
+     ],
+     "minimum": [
+      -153.68177795410156,
+      -190.28982543945312,
+      -16.891080856323242
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 215060,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/md_mountaincave/md_mushroomcave03_001_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7382
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 111197,
+     "index": 2,
+     "maximum": [
+      -96.08291625976562,
+      -3.596670389175415,
+      7.773586750030518
+     ],
+     "minimum": [
+      -189.462158203125,
+      -155.05567932128906,
+      -19.72178840637207
+     ],
+     "name": "cave1elbow",
+     "tiles": [
+      {
+       "fileDataID": 215061,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/md_mountaincave/md_mushroomcave03_002_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 215062,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/md_mountaincave/md_mushroomcave03_002_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 7383
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 111198,
+     "index": 3,
+     "maximum": [
+      -45.85190200805664,
+      -44.90485763549805,
+      5.454046249389648
+     ],
+     "minimum": [
+      -96.13847351074219,
+      -100.11796569824219,
+      -21.3651065826416
+     ],
+     "name": "cave1farelbow",
+     "tiles": [
+      {
+       "fileDataID": 215063,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/md_mountaincave/md_mushroomcave03_003_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7384
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 111199,
+     "index": 4,
+     "maximum": [
+      -20.691837310791016,
+      2.149915933609009,
+      8.986700057983398
+     ],
+     "minimum": [
+      -104.12985229492188,
+      -49.08958053588867,
+      -9.377604484558105
+     ],
+     "name": "cave1bigroom",
+     "tiles": [
+      {
+       "fileDataID": 215064,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/md_mountaincave/md_mushroomcave03_004_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7385
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 111200,
+     "index": 5,
+     "maximum": [
+      14.005983352661133,
+      28.963882446289062,
+      15.755632400512695
+     ],
+     "minimum": [
+      -42.90290451049805,
+      -31.17911148071289,
+      -16.930347442626953
+     ],
+     "name": "cave1cliff",
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 111201,
+     "index": 6,
+     "maximum": [
+      -20.720277786254883,
+      -99.60269927978516,
+      2.9104037284851074
+     ],
+     "minimum": [
+      -97.9912338256836,
+      -189.42556762695312,
+      -20.387956619262695
+     ],
+     "name": "cave1beginning",
+     "tiles": [
+      {
+       "fileDataID": 215065,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/md_mountaincave/md_mushroomcave03_006_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7387
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/dungeon/md_mountaincave/md_mushroomcave03_",
+   "placements": [
+    {
+     "position": [
+      20321.7461,
+      73.3117,
+      20182.6484
+     ],
+     "rotation": [
+      0.0,
+      323.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 67429302
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 6,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 6,
+    "tiledGroups": 6
+   },
+   "rootFileDataID": 111194,
+   "rootMD5": "8a781c0d09423ee14af0c81192aa476b",
+   "rootPath": "world/wmo/dungeon/md_mountaincave/md_mushroomcave03.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 14.531917572021484,
+    "zMidpoints": [
+     -12.88,
+     -11.67,
+     -9.19,
+     -6.1,
+     -5.57,
+     -1.0,
+     -0.08
+    ],
+    "zMin": -30.966629028320312
+   },
+   "groupCount": 8,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 111203,
+     "index": 0,
+     "maximum": [
+      -23.337068557739258,
+      21.562744140625,
+      11.236572265625
+     ],
+     "minimum": [
+      -69.60050201416016,
+      -29.592226028442383,
+      -13.24421501159668
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 215066,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/md_mountaincave/md_mushroomcave04_000_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7388
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 111204,
+     "index": 1,
+     "maximum": [
+      17.285367965698242,
+      45.01087188720703,
+      38.99903106689453
+     ],
+     "minimum": [
+      -50.88601303100586,
+      -37.839290618896484,
+      -13.67099666595459
+     ],
+     "name": null,
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 111205,
+     "index": 2,
+     "maximum": [
+      -57.40525817871094,
+      45.115718841552734,
+      14.531917572021484
+     ],
+     "minimum": [
+      -99.83070373535156,
+      -16.80410385131836,
+      -14.69437313079834
+     ],
+     "name": "mountaincave11a",
+     "tiles": [
+      {
+       "fileDataID": 215067,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/md_mountaincave/md_mushroomcave04_002_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7390
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 111206,
+     "index": 3,
+     "maximum": [
+      -75.623779296875,
+      -16.327791213989258,
+      11.236570358276367
+     ],
+     "minimum": [
+      -137.5028839111328,
+      -67.28126525878906,
+      -22.368709564208984
+     ],
+     "name": "cave2exterior",
+     "tiles": [
+      {
+       "fileDataID": 215068,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/md_mountaincave/md_mushroomcave04_003_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7391
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 111207,
+     "index": 4,
+     "maximum": [
+      -137.4473419189453,
+      22.183048248291016,
+      -2.84655499458313
+     ],
+     "minimum": [
+      -211.25489807128906,
+      -78.88237762451172,
+      -22.919485092163086
+     ],
+     "name": "cave2beginningB",
+     "tiles": [
+      {
+       "fileDataID": 215069,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/md_mountaincave/md_mushroomcave04_004_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7392
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 111208,
+     "index": 5,
+     "maximum": [
+      -95.80105590820312,
+      87.2373046875,
+      0.3367581069469452
+     ],
+     "minimum": [
+      -194.67578125,
+      4.73590612411499,
+      -23.681411743164062
+     ],
+     "name": "cave2elbow",
+     "tiles": [
+      {
+       "fileDataID": 215070,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/md_mountaincave/md_mushroomcave04_005_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7393
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 111209,
+     "index": 6,
+     "maximum": [
+      -201.20574951171875,
+      39.82565689086914,
+      11.171224594116211
+     ],
+     "minimum": [
+      -304.7076110839844,
+      -62.48923110961914,
+      -23.373872756958008
+     ],
+     "name": "cave2_boulderroom",
+     "tiles": [
+      {
+       "fileDataID": 215071,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/md_mountaincave/md_mushroomcave04_006_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 7394
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 111210,
+     "index": 7,
+     "maximum": [
+      -129.9254150390625,
+      -49.13217544555664,
+      12.5960054397583
+     ],
+     "minimum": [
+      -296.7196044921875,
+      -194.41598510742188,
+      -30.966629028320312
+     ],
+     "name": "cave2smallpool",
+     "tiles": [
+      {
+       "fileDataID": 215072,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/md_mountaincave/md_mushroomcave04_007_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 215073,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/md_mountaincave/md_mushroomcave04_007_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 215074,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/md_mountaincave/md_mushroomcave04_007_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 215075,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/md_mountaincave/md_mushroomcave04_007_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 7395
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/dungeon/md_mountaincave/md_mushroomcave04_",
+   "placements": [
+    {
+     "position": [
+      19636.7168,
+      47.7056,
+      20957.4062
+     ],
+     "rotation": [
+      0.0,
+      63.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65888405
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 7,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 7,
+    "tiledGroups": 7
+   },
+   "rootFileDataID": 111202,
+   "rootMD5": "cb7e3ac9adca77f167f5035d84f49e83",
+   "rootPath": "world/wmo/dungeon/md_mountaincave/md_mushroomcave04.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 5.243180274963379,
+    "zMidpoints": [
+     1.43
+    ],
+    "zMin": -2.3815882205963135
+   },
+   "groupCount": 2,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 113870,
+     "index": 0,
+     "maximum": [
+      -2.9788670539855957,
+      7.708975791931152,
+      5.243180274963379
+     ],
+     "minimum": [
+      -25.41072654724121,
+      -8.659110069274902,
+      -2.3815882205963135
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 217383,
+       "height": 64,
+       "path": "world/minimaps/wmo/khazmodan/buildings/dwarven_1story_hovel/mud_hovel/mud_hovel_000_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1908
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 113871,
+     "index": 1,
+     "maximum": [
+      7.378775596618652,
+      10.381999015808105,
+      13.984562873840332
+     ],
+     "minimum": [
+      -10.843950271606445,
+      -9.752996444702148,
+      -1.745605230331421
+     ],
+     "name": null,
+     "tiles": []
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/khazmodan/buildings/dwarven_1story_hovel/mud_hovel/mud_hovel_",
+   "placements": [
+    {
+     "position": [
+      18533.8574,
+      168.8275,
+      21100.2383
+     ],
+     "rotation": [
+      0.0,
+      255.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65887003
+    },
+    {
+     "position": [
+      18183.1035,
+      169.0825,
+      21214.9102
+     ],
+     "rotation": [
+      0.0,
+      243.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65887148
+    },
+    {
+     "position": [
+      18592.5801,
+      168.8963,
+      21046.0059
+     ],
+     "rotation": [
+      0.0,
+      256.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65888290
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 1,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 1,
+    "tiledGroups": 1
+   },
+   "rootFileDataID": 113869,
+   "rootMD5": "95855bf2102cf16374a8faf86cb4bfba",
+   "rootPath": "world/wmo/khazmodan/buildings/dwarven_1story_hovel/mud_hovel/mud_hovel.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 4.571990966796875,
+    "zMidpoints": [
+     -1.98
+    ],
+    "zMin": -8.536123275756836
+   },
+   "groupCount": 2,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 113879,
+     "index": 0,
+     "maximum": [
+      2.2075371742248535,
+      9.14968204498291,
+      4.571990966796875
+     ],
+     "minimum": [
+      -21.801612854003906,
+      -9.49153995513916,
+      -8.536123275756836
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 217386,
+       "height": 64,
+       "path": "world/minimaps/wmo/khazmodan/buildings/dwarven_2story_hovel/mud_2story/mud_2story_000_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 1906
+    },
+    {
+     "flags": 2149580808,
+     "groupFileDataID": 113880,
+     "index": 1,
+     "maximum": [
+      9.079425811767578,
+      12.697572708129883,
+      12.352322578430176
+     ],
+     "minimum": [
+      -12.314878463745117,
+      -12.32126235961914,
+      -3.813753604888916
+     ],
+     "name": null,
+     "tiles": []
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/khazmodan/buildings/dwarven_2story_hovel/mud_2story/mud_2story_",
+   "placements": [
+    {
+     "position": [
+      18330.707,
+      149.9668,
+      21172.3164
+     ],
+     "rotation": [
+      0.0,
+      128.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65889746
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 1,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 1,
+    "tiledGroups": 1
+   },
+   "rootFileDataID": 113878,
+   "rootMD5": "b625a2a877a922f15266060b4c39918b",
+   "rootPath": "world/wmo/khazmodan/buildings/dwarven_2story_hovel/mud_2story/mud_2story.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 12.675520896911621,
+    "zMidpoints": [
+     5.62
+    ],
+    "zMin": -1.4263708591461182
+   },
+   "groupCount": 2,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 113923,
+     "index": 0,
+     "maximum": [
+      11.622159004211426,
+      19.412508010864258,
+      12.675520896911621
+     ],
+     "minimum": [
+      -29.352689743041992,
+      -19.432861328125,
+      -1.4263708591461182
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 217415,
+       "height": 128,
+       "path": "world/minimaps/wmo/khazmodan/buildings/dwarven_guardtower/dwarven_guardtower_000_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 772
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 113924,
+     "index": 1,
+     "maximum": [
+      27.418012619018555,
+      43.57052230834961,
+      23.94896697998047
+     ],
+     "minimum": [
+      -38.28659439086914,
+      -27.3559513092041,
+      -2.7293598651885986
+     ],
+     "name": null,
+     "tiles": []
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/khazmodan/buildings/dwarven_guardtower/dwarven_guardtower_",
+   "placements": [
+    {
+     "position": [
+      19443.125,
+      204.1839,
+      21274.4766
+     ],
+     "rotation": [
+      0.0,
+      2.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65888636
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 1,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 1,
+    "tiledGroups": 1
+   },
+   "rootFileDataID": 113922,
+   "rootMD5": "53f0584f0181c580ba6174dd3b6ba200",
+   "rootPath": "world/wmo/khazmodan/buildings/dwarven_guardtower/dwarven_guardtower.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 12.675520896911621,
+    "zMidpoints": [
+     5.62
+    ],
+    "zMin": -1.4263708591461182
+   },
+   "groupCount": 2,
+   "groups": [
+    {
+     "flags": 8192,
+     "groupFileDataID": 113948,
+     "index": 0,
+     "maximum": [
+      11.622159004211426,
+      19.412508010864258,
+      12.675520896911621
+     ],
+     "minimum": [
+      -29.352689743041992,
+      -19.432861328125,
+      -1.4263708591461182
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 217430,
+       "height": 128,
+       "path": "world/minimaps/wmo/khazmodan/buildings/dwarven_snowtower/dwarven_snowtower_000_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 775
+    },
+    {
+     "flags": 8,
+     "groupFileDataID": 113949,
+     "index": 1,
+     "maximum": [
+      27.418012619018555,
+      43.57052230834961,
+      23.94896697998047
+     ],
+     "minimum": [
+      -38.28659439086914,
+      -27.3559513092041,
+      -2.5355045795440674
+     ],
+     "name": null,
+     "tiles": []
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/khazmodan/buildings/dwarven_snowtower/dwarven_snowtower_",
+   "placements": [
+    {
+     "position": [
+      18774.4395,
+      504.824,
+      21661.9199
+     ],
+     "rotation": [
+      0.0,
+      321.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 65888139
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 1,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 1,
+    "tiledGroups": 1
+   },
+   "rootFileDataID": 113947,
+   "rootMD5": "516608abda3d2b7287ce2d9a5b4b6e7f",
+   "rootPath": "world/wmo/khazmodan/buildings/dwarven_snowtower/dwarven_snowtower.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 64.04852294921875,
+    "zMidpoints": [
+     22.13,
+     29.32
+    ],
+    "zMin": -10.227224349975586
+   },
+   "groupCount": 3,
+   "groups": [
+    {
+     "flags": 2149580808,
+     "groupFileDataID": 113991,
+     "index": 0,
+     "maximum": [
+      30.004968643188477,
+      46.30552291870117,
+      112.5563735961914
+     ],
+     "minimum": [
+      -25.53205680847168,
+      -46.3051643371582,
+      -15.171090126037598
+     ],
+     "name": null,
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 397972,
+     "index": 1,
+     "maximum": [
+      -40.64879608154297,
+      30.375566482543945,
+      64.04852294921875
+     ],
+     "minimum": [
+      -101.33550262451172,
+      -27.298662185668945,
+      -5.409045696258545
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 408881,
+       "height": 128,
+       "path": "world/minimaps/wmo/khazmodan/buildings/wetlands_grimbatol/wetlands_grimbatol_001_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 28396
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 397973,
+     "index": 2,
+     "maximum": [
+      16.714488983154297,
+      21.291580200195312,
+      54.482666015625
+     ],
+     "minimum": [
+      -40.714359283447266,
+      -21.047273635864258,
+      -10.227224349975586
+     ],
+     "name": "ext",
+     "tiles": [
+      {
+       "fileDataID": 408882,
+       "height": 128,
+       "path": "world/minimaps/wmo/khazmodan/buildings/wetlands_grimbatol/wetlands_grimbatol_002_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 28397
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/khazmodan/buildings/wetlands_grimbatol/wetlands_grimbatol_",
+   "placements": [
+    {
+     "position": [
+      20508.4023,
+      293.231,
+      21101.3926
+     ],
+     "rotation": [
+      0.0,
+      18.5,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 67428259
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 2,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 2,
+    "tiledGroups": 2
+   },
+   "rootFileDataID": 113990,
+   "rootMD5": "7303c3d85d83acf3666cabebc945abee",
+   "rootPath": "world/wmo/khazmodan/buildings/wetlands_grimbatol/wetlands_grimbatol.wmo"
+  },
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 68.64036560058594,
+    "zMidpoints": [
+     63.84,
+     63.85
+    ],
+    "zMin": 59.04905700683594
+   },
+   "groupCount": 3,
+   "groups": [
+    {
+     "flags": 8,
+     "groupFileDataID": 114100,
+     "index": 0,
+     "maximum": [
+      99.9678726196289,
+      215.82093811035156,
+      75.00462341308594
+     ],
+     "minimum": [
+      -51.71889877319336,
+      -226.81326293945312,
+      -78.48258972167969
+     ],
+     "name": null,
+     "tiles": []
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 410002,
+     "index": 1,
+     "maximum": [
+      57.28506088256836,
+      160.16641235351562,
+      68.64036560058594
+     ],
+     "minimum": [
+      25.02515983581543,
+      124.76895904541016,
+      59.06093215942383
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 435580,
+       "height": 128,
+       "path": "world/minimaps/wmo/khazmodan/collidable doodads/lochmodan/dwarvendam/dwarvendam01_001_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 29927
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 410003,
+     "index": 2,
+     "maximum": [
+      57.28506088256836,
+      -124.73373413085938,
+      68.64036560058594
+     ],
+     "minimum": [
+      25.02003288269043,
+      -160.13612365722656,
+      59.04905700683594
+     ],
+     "name": "DwarfDam",
+     "tiles": [
+      {
+       "fileDataID": 435581,
+       "height": 128,
+       "path": "world/minimaps/wmo/khazmodan/collidable doodads/lochmodan/dwarvendam/dwarvendam01_002_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 29928
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/khazmodan/collidable doodads/lochmodan/dwarvendam/dwarvendam01_",
+   "placements": [
+    {
+     "position": [
+      20382.8926,
+      251.0264,
+      21788.5449
+     ],
+     "rotation": [
+      0.0,
+      179.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 67429039
+    },
+    {
+     "position": [
+      20382.8926,
+      251.0264,
+      22321.8789
+     ],
+     "rotation": [
+      0.0,
+      179.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 67422836
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 2,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 2,
+    "tiledGroups": 2
+   },
+   "rootFileDataID": 114099,
+   "rootMD5": "3f83d1c322a5f2b98caff30c52fc1ff4",
+   "rootPath": "world/wmo/khazmodan/collidable doodads/lochmodan/dwarvendam/dwarvendam01.wmo"
+  }
+ ]
+}

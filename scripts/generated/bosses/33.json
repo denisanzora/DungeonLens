@@ -1,0 +1,500 @@
+{
+ "bosses": [
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2748
+   ],
+   "floor": 6,
+   "floorSource": "group-containment",
+   "id": 2748,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Rethilgore",
+   "notes": [],
+   "onContent": true,
+   "order": 1,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      3914
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -252.09,
+      2123.11,
+      81.18
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -252.09,
+    2123.11,
+    81.18
+   ],
+   "x": 0.6079,
+   "y": 0.6014
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2749
+   ],
+   "floor": 7,
+   "floorSource": "group-containment",
+   "id": 2749,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Razorclaw the Butcher",
+   "notes": [],
+   "onContent": true,
+   "order": 2,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      3886
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -202.6,
+      2257.96,
+      76.28
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -202.6,
+    2257.96,
+    76.28
+   ],
+   "x": 0.1522,
+   "y": 0.6034
+  },
+  {
+   "agreementYards": 4.6,
+   "confidence": "high",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2750
+   ],
+   "floor": 7,
+   "floorSource": "group-containment",
+   "id": 2750,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Baron Silverlaine",
+   "notes": [],
+   "onContent": true,
+   "order": 3,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      3887
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -275.34,
+      2297.35,
+      76.24
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.3044,
+      0.774
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 311,
+     "world": [
+      -271.2,
+      2295.32
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -275.34,
+    2297.35,
+    76.24
+   ],
+   "x": 0.0882,
+   "y": 0.9375
+  },
+  {
+   "agreementYards": 3.4,
+   "confidence": "high",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2751
+   ],
+   "floor": 6,
+   "floorSource": "group-containment",
+   "id": 2751,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Commander Springvale",
+   "notes": [],
+   "onContent": true,
+   "order": 4,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      4278
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -222.59,
+      2259.44,
+      102.84
+     ]
+    },
+    {
+     "build": "12.1.0.69933",
+     "mapXY": [
+      0.2804,
+      0.5973
+     ],
+     "type": "blizzard-retail-journal-pin",
+     "uiMapID": 310,
+     "world": [
+      -225.27,
+      2257.36
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -222.59,
+    2259.44,
+    102.84
+   ],
+   "x": 0.1854,
+   "y": 0.6817
+  },
+  {
+   "confidence": "low",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2752
+   ],
+   "floor": 5,
+   "floorSource": "ambiguous-between-floors-[5, 6]",
+   "id": 2752,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Odo the Blindwatcher",
+   "notes": [
+    "ambiguous-between-floors-[5, 6]"
+   ],
+   "onContent": true,
+   "order": 5,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      4279
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -236.71,
+      2146.08,
+      100.11
+     ]
+    }
+   ],
+   "status": "approximate",
+   "worldPosition": [
+    -236.71,
+    2146.08,
+    100.11
+   ],
+   "x": 0.3471,
+   "y": 0.8417
+  },
+  {
+   "confidence": "low",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2753
+   ],
+   "floor": 2,
+   "floorSource": "ambiguous-between-floors-[2, 3]",
+   "id": 2753,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Fenrus the Devourer",
+   "notes": [
+    "ambiguous-between-floors-[2, 3]"
+   ],
+   "onContent": true,
+   "order": 6,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      4274
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -135.61,
+      2168.66,
+      128.78
+     ]
+    }
+   ],
+   "status": "approximate",
+   "worldPosition": [
+    -135.61,
+    2168.66,
+    128.78
+   ],
+   "x": 0.2389,
+   "y": 0.7644
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2754
+   ],
+   "floor": 1,
+   "floorSource": "group-containment",
+   "id": 2754,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Wolf Master Nandos",
+   "notes": [],
+   "onContent": true,
+   "order": 7,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      3927
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -120.72,
+      2162.03,
+      155.76
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -120.72,
+    2162.03,
+    155.76
+   ],
+   "x": 0.1624,
+   "y": 0.7479
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2755
+   ],
+   "floor": 1,
+   "floorSource": "group-containment",
+   "id": 2755,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Archmage Arugal",
+   "notes": [],
+   "onContent": true,
+   "order": 8,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      4275
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      -76.75,
+      2152.41,
+      155.79
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    -76.75,
+    2152.41,
+    155.79
+   ],
+   "x": 0.1113,
+   "y": 0.5552
+  }
+ ],
+ "counts": {
+  "approximate": 2,
+  "verified-source-registration": 6
+ },
+ "floors": [
+  {
+   "floor": 1,
+   "groupCount": 4,
+   "source": "blizzard-retail-uimap-assignment",
+   "uiMapID": 315,
+   "wmoRoot": 109971
+  },
+  {
+   "floor": 2,
+   "groupCount": 7,
+   "source": "blizzard-retail-uimap-assignment",
+   "uiMapID": 314,
+   "wmoRoot": 109971
+  },
+  {
+   "floor": 3,
+   "groupCount": 7,
+   "source": "blizzard-retail-uimap-assignment",
+   "uiMapID": 313,
+   "wmoRoot": 109971
+  },
+  {
+   "floor": 4,
+   "groupCount": 7,
+   "source": "blizzard-retail-uimap-assignment",
+   "uiMapID": 312,
+   "wmoRoot": 109971
+  },
+  {
+   "floor": 5,
+   "groupCount": 12,
+   "source": "blizzard-retail-uimap-assignment",
+   "uiMapID": 316,
+   "wmoRoot": 109971
+  },
+  {
+   "floor": 6,
+   "groupCount": 34,
+   "source": "blizzard-retail-uimap-assignment",
+   "uiMapID": 310,
+   "wmoRoot": 109971
+  },
+  {
+   "floor": 7,
+   "groupCount": 4,
+   "source": "blizzard-retail-uimap-assignment",
+   "uiMapID": 311,
+   "wmoRoot": 109971
+  }
+ ],
+ "foreverBuild": "1.60.1.70245",
+ "frame": {
+  "formula": "local = Rot(180 - yaw) * (world - origin); canvas = (local.x*rho - minX, maxY - local.y*rho)",
+  "origin": [
+   -234.14259999999922,
+   2094.477500000001
+  ],
+  "perFloorFrames": [
+   {
+    "floor": 1,
+    "origin": [
+     -234.14259999999922,
+     2094.477500000001
+    ],
+    "yaw": 68.5
+   },
+   {
+    "floor": 2,
+    "origin": [
+     -234.14259999999922,
+     2094.477500000001
+    ],
+    "yaw": 68.5
+   },
+   {
+    "floor": 3,
+    "origin": [
+     -234.14259999999922,
+     2094.477500000001
+    ],
+    "yaw": 68.5
+   },
+   {
+    "floor": 4,
+    "origin": [
+     -234.14259999999922,
+     2094.477500000001
+    ],
+    "yaw": 68.5
+   },
+   {
+    "floor": 5,
+    "origin": [
+     -234.14259999999922,
+     2094.477500000001
+    ],
+    "yaw": 68.5
+   },
+   {
+    "floor": 6,
+    "origin": [
+     -234.14259999999922,
+     2094.477500000001
+    ],
+    "yaw": 68.5
+   },
+   {
+    "floor": 7,
+    "origin": [
+     -234.14259999999922,
+     2094.477500000001
+    ],
+    "yaw": 68.5
+   }
+  ],
+  "yaw": 68.5
+ },
+ "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+ "layouts": {
+  "1": "wmo:281x461:4:f1",
+  "2": "wmo:289x355:7:f2",
+  "3": "wmo:319x371:7:f3",
+  "4": "wmo:296x302:7:f4",
+  "5": "wmo:500x429:12:f5",
+  "6": "wmo:652x561:34:f6",
+  "7": "wmo:312x492:4:f7"
+ },
+ "mapID": 33,
+ "name": "Shadowfang Keep",
+ "notes": [],
+ "retailBuild": "12.1.0.69933"
+}

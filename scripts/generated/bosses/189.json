@@ -1,0 +1,378 @@
+{
+ "bosses": [
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    444
+   ],
+   "floor": 1,
+   "floorSource": "group-containment",
+   "id": 444,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Interrogator Vishas",
+   "notes": [],
+   "onContent": true,
+   "order": 1,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      3983
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      1786.55,
+      1124.44,
+      7.57
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    1786.55,
+    1124.44,
+    7.57
+   ],
+   "x": 0.4597,
+   "y": 0.3854
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    2779
+   ],
+   "floor": 1,
+   "floorSource": "group-containment",
+   "id": 2779,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Bloodmage Thalnos",
+   "notes": [],
+   "onContent": true,
+   "order": 2,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      4543
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      1820.34,
+      1416.71,
+      -7.92
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    1820.34,
+    1416.71,
+    -7.92
+   ],
+   "x": 0.3959,
+   "y": 0.8191
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    446
+   ],
+   "floor": 2,
+   "floorSource": "group-containment",
+   "id": 446,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Houndmaster Loksey",
+   "notes": [],
+   "onContent": true,
+   "order": 3,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      3974
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      119.94,
+      -260.87,
+      18.63
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    119.94,
+    -260.87,
+    18.63
+   ],
+   "x": 0.6193,
+   "y": 0.6866
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    447
+   ],
+   "floor": 2,
+   "floorSource": "group-containment",
+   "id": 447,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Arcanist Doan",
+   "notes": [],
+   "onContent": true,
+   "order": 4,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      6487
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      148.32,
+      -428.69,
+      18.49
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    148.32,
+    -428.69,
+    18.49
+   ],
+   "x": 0.5159,
+   "y": 0.2775
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    448
+   ],
+   "floor": 3,
+   "floorSource": "group-containment",
+   "id": 448,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "Herod",
+   "notes": [],
+   "onContent": true,
+   "order": 5,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      3975
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      1965.09,
+      -431.61,
+      6.26
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    1965.09,
+    -431.61,
+    6.26
+   ],
+   "x": 0.0459,
+   "y": 0.4031
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    449
+   ],
+   "floor": 4,
+   "floorSource": "group-containment",
+   "id": 449,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "High Inquisitor Fairbanks",
+   "notes": [],
+   "onContent": true,
+   "order": 6,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      4542
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      1158.86,
+      1354.27,
+      30.39
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    1158.86,
+    1354.27,
+    30.39
+   ],
+   "x": 0.1237,
+   "y": 0.5662
+  },
+  {
+   "confidence": "medium",
+   "difficulties": [
+    0
+   ],
+   "encounterIDs": [
+    450
+   ],
+   "floor": 4,
+   "floorSource": "group-containment",
+   "id": 450,
+   "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+   "name": "High Inquisitor Whitemane",
+   "notes": [],
+   "onContent": true,
+   "order": 7,
+   "sources": [
+    {
+     "clusters": 1,
+     "entries": [
+      3977
+     ],
+     "origin": "azerothcore-wotlk db_world",
+     "spawnRows": 1,
+     "type": "server-spawn-db",
+     "world": [
+      1202.13,
+      1399.07,
+      29.09
+     ]
+    }
+   ],
+   "status": "verified-source-registration",
+   "worldPosition": [
+    1202.13,
+    1399.07,
+    29.09
+   ],
+   "x": 0.0498,
+   "y": 0.6848
+  }
+ ],
+ "counts": {
+  "verified-source-registration": 7
+ },
+ "floors": [
+  {
+   "floor": 1,
+   "groupCount": 24,
+   "source": "wmo-page",
+   "uiMapID": null,
+   "wmoRoot": 7958652
+  },
+  {
+   "floor": 2,
+   "groupCount": 26,
+   "source": "wmo-page",
+   "uiMapID": null,
+   "wmoRoot": 7958653
+  },
+  {
+   "floor": 3,
+   "groupCount": 20,
+   "source": "wmo-page",
+   "uiMapID": null,
+   "wmoRoot": 7958654
+  },
+  {
+   "floor": 4,
+   "groupCount": 24,
+   "source": "wmo-page",
+   "uiMapID": null,
+   "wmoRoot": 7958650
+  }
+ ],
+ "foreverBuild": "1.60.1.70245",
+ "frame": {
+  "formula": "local = Rot(180 - yaw) * (world - origin); canvas = (local.x*rho - minX, maxY - local.y*rho)",
+  "origin": [
+   1558.7031000000006,
+   1020.131800000001
+  ],
+  "perFloorFrames": [
+   {
+    "floor": 1,
+    "origin": [
+     1558.7031000000006,
+     1020.131800000001
+    ],
+    "yaw": 0.0
+   },
+   {
+    "floor": 2,
+    "origin": [
+     125.1913999999997,
+     -174.1836000000003
+    ],
+    "yaw": 0.0
+   },
+   {
+    "floor": 3,
+    "origin": [
+     1459.330100000001,
+     -295.77349999999933
+    ],
+    "yaw": 0.0
+   },
+   {
+    "floor": 4,
+    "origin": [
+     704.2695000000003,
+     1295.8799000000017
+    ],
+    "yaw": 0.0
+   }
+  ],
+  "yaw": 0.0
+ },
+ "identitySource": "DungeonEncounter.db2 build 1.60.1.70245",
+ "layouts": {
+  "1": "wmo:1060x1348:35:f1",
+  "2": "wmo:549x821:26:f2",
+  "3": "wmo:1183x596:20:f3",
+  "4": "wmo:1171x755:33:f4"
+ },
+ "mapID": 189,
+ "name": "Scarlet Monastery",
+ "notes": [],
+ "retailBuild": "12.1.0.69933"
+}

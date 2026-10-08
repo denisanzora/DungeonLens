@@ -1,0 +1,1318 @@
+{
+ "build": "1.60.1.70245",
+ "classification": "D",
+ "classificationReason": "mixed-ground-and-wmo-minimaps",
+ "directory": "RazorfenKraulInstance",
+ "ground": {
+  "adtTileCount": 6,
+  "adtTilesWithoutMinimap": 0,
+  "bounds": {
+   "maxX": 29,
+   "maxY": 28,
+   "minX": 27,
+   "minY": 27
+  },
+  "contentBounds": {
+   "maxX": 29,
+   "maxY": 28,
+   "minX": 27,
+   "minY": 27
+  },
+  "contentTileCount": 6,
+  "gridColumns": 3,
+  "gridRows": 2,
+  "missingCoordinates": [],
+  "tileCount": 6,
+  "tileDimensions": [
+   "512x512"
+  ],
+  "tiles": [
+   {
+    "fileDataID": 209586,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 27,
+    "y": 27
+   },
+   {
+    "fileDataID": 209588,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 28,
+    "y": 27
+   },
+   {
+    "fileDataID": 209590,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 29,
+    "y": 27
+   },
+   {
+    "fileDataID": 209587,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 27,
+    "y": 28
+   },
+   {
+    "fileDataID": 209589,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 28,
+    "y": 28
+   },
+   {
+    "fileDataID": 209591,
+    "height": 512,
+    "uniform": false,
+    "width": 512,
+    "x": 29,
+    "y": 28
+   }
+  ]
+ },
+ "instanceID": 47,
+ "instanceType": 1,
+ "layout": "terrain",
+ "mapID": 47,
+ "mapType": 1,
+ "maxPlayers": 10,
+ "name": "Razorfen Kraul",
+ "nativeDungeonUiMaps": [],
+ "placedWMOCountWithoutMinimaps": 3,
+ "placedWMOsWithoutMinimaps": [
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 112647,
+   "rootPath": "world/wmo/elevators/thousandneedleselevator/thousandneedleselevator.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 1,
+   "rootFileDataID": 112875,
+   "rootPath": "world/wmo/kalimdor/buildings/nightelfmoonwell/nightelfmoonwell.wmo"
+  },
+  {
+   "hasMinimaps": false,
+   "placementCount": 2,
+   "rootFileDataID": 113293,
+   "rootPath": "world/wmo/kalimdor/collidabledoodads/mulgore/centaurtents/centaurtent02.wmo"
+  }
+ ],
+ "uiMapAssignments": [],
+ "wdt": {
+  "adtTileCount": 6,
+  "chunks": [
+   "MVER",
+   "MPHD",
+   "MAIN",
+   "MAID"
+  ],
+  "mphdFlags": 584,
+  "usesGlobalWMO": false
+ },
+ "wdtFileDataID": 790640,
+ "wmos": [
+  {
+   "floors": {
+    "maxStackDepth": 1,
+    "stackedGroupPairs": [],
+    "zMax": 112.4766616821289,
+    "zMidpoints": [
+     -17.7,
+     -16.77,
+     -14.32,
+     -12.58,
+     -12.39,
+     -12.09,
+     -11.98,
+     -11.09,
+     -11.05,
+     -10.22,
+     -8.69,
+     -8.05,
+     -6.47,
+     -5.0,
+     -2.87,
+     -1.93,
+     -1.64,
+     -1.27,
+     0.81,
+     0.91,
+     1.29,
+     1.68,
+     2.55,
+     3.32,
+     28.5
+    ],
+    "zMin": -55.47820281982422
+   },
+   "groupCount": 26,
+   "groups": [
+    {
+     "flags": 1319168,
+     "groupFileDataID": 109524,
+     "index": 0,
+     "maximum": [
+      231.9597930908203,
+      -111.56330871582031,
+      16.21538734436035
+     ],
+     "minimum": [
+      152.80491638183594,
+      -202.4156494140625,
+      -12.852718353271484
+     ],
+     "name": null,
+     "tiles": [
+      {
+       "fileDataID": 213103,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_000_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2235
+    },
+    {
+     "flags": 1319168,
+     "groupFileDataID": 109525,
+     "index": 1,
+     "maximum": [
+      68.72875213623047,
+      15.885801315307617,
+      11.589320182800293
+     ],
+     "minimum": [
+      -25.981002807617188,
+      -62.4798583984375,
+      -9.00194263458252
+     ],
+     "name": "Razorfen Kraul",
+     "tiles": [
+      {
+       "fileDataID": 213104,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_001_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2236
+    },
+    {
+     "flags": 1319168,
+     "groupFileDataID": 109526,
+     "index": 2,
+     "maximum": [
+      265.3423767089844,
+      -32.95929718017578,
+      10.822635650634766
+     ],
+     "minimum": [
+      153.26004028320312,
+      -105.42485046386719,
+      -35.60457992553711
+     ],
+     "name": "trench004",
+     "tiles": [
+      {
+       "fileDataID": 213105,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_002_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2237
+    },
+    {
+     "flags": 8448,
+     "groupFileDataID": 109527,
+     "index": 3,
+     "maximum": [
+      451.1803283691406,
+      232.19622802734375,
+      1.3492653369903564
+     ],
+     "minimum": [
+      354.7803955078125,
+      110.2767562866211,
+      -29.99844741821289
+     ],
+     "name": "trench_005",
+     "tiles": [
+      {
+       "fileDataID": 213106,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_003_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2238
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109528,
+     "index": 4,
+     "maximum": [
+      476.8600158691406,
+      116.53974151611328,
+      -3.46022891998291
+     ],
+     "minimum": [
+      357.0680847167969,
+      56.06465530395508,
+      -31.939346313476562
+     ],
+     "name": "trench_010",
+     "tiles": [
+      {
+       "fileDataID": 213107,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_004_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2239
+    },
+    {
+     "flags": 1319168,
+     "groupFileDataID": 109529,
+     "index": 5,
+     "maximum": [
+      26.572710037231445,
+      -119.70974731445312,
+      15.04587173461914
+     ],
+     "minimum": [
+      -45.40037155151367,
+      -287.039306640625,
+      -25.04362678527832
+     ],
+     "name": "cave_01",
+     "tiles": [
+      {
+       "fileDataID": 213108,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_005_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 213109,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_005_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 2240
+    },
+    {
+     "flags": 1319168,
+     "groupFileDataID": 109530,
+     "index": 6,
+     "maximum": [
+      153.09823608398438,
+      -154.26905822753906,
+      17.27646255493164
+     ],
+     "minimum": [
+      65.5062484741211,
+      -263.306884765625,
+      -21.14253044128418
+     ],
+     "name": "cave_02",
+     "tiles": [
+      {
+       "fileDataID": 213110,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_006_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2241
+    },
+    {
+     "flags": 1319168,
+     "groupFileDataID": 109531,
+     "index": 7,
+     "maximum": [
+      172.92445373535156,
+      -18.372507095336914,
+      10.78410530090332
+     ],
+     "minimum": [
+      39.61663055419922,
+      -111.7462158203125,
+      -31.222673416137695
+     ],
+     "name": "23",
+     "tiles": [
+      {
+       "fileDataID": 213111,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_007_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 213112,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_007_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2242
+    },
+    {
+     "flags": 1319168,
+     "groupFileDataID": 109532,
+     "index": 8,
+     "maximum": [
+      123.15774536132812,
+      15.077000617980957,
+      13.91750717163086
+     ],
+     "minimum": [
+      68.6731948852539,
+      -26.2218074798584,
+      -8.814010620117188
+     ],
+     "name": "44",
+     "tiles": [
+      {
+       "fileDataID": 213113,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_008_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2243
+    },
+    {
+     "flags": 1319168,
+     "groupFileDataID": 109533,
+     "index": 9,
+     "maximum": [
+      209.14224243164062,
+      92.3828125,
+      14.25782585144043
+     ],
+     "minimum": [
+      123.13914489746094,
+      -31.241636276245117,
+      -31.631179809570312
+     ],
+     "name": "pit",
+     "tiles": [
+      {
+       "fileDataID": 213114,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_009_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2244
+    },
+    {
+     "flags": 1319168,
+     "groupFileDataID": 109534,
+     "index": 10,
+     "maximum": [
+      323.7940673828125,
+      160.4394073486328,
+      12.146567344665527
+     ],
+     "minimum": [
+      219.9188690185547,
+      62.03373336791992,
+      -36.09805679321289
+     ],
+     "name": "towardhighlevel",
+     "tiles": [
+      {
+       "fileDataID": 213115,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_010_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2245
+    },
+    {
+     "flags": 1319168,
+     "groupFileDataID": 109535,
+     "index": 11,
+     "maximum": [
+      425.641357421875,
+      80.12654113769531,
+      21.986026763916016
+     ],
+     "minimum": [
+      300.3791198730469,
+      -39.57927322387695,
+      -34.93048095703125
+     ],
+     "name": "temp",
+     "tiles": [
+      {
+       "fileDataID": 213116,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_011_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2246
+    },
+    {
+     "flags": 1319168,
+     "groupFileDataID": 109536,
+     "index": 12,
+     "maximum": [
+      377.64959716796875,
+      124.86831665039062,
+      19.028575897216797
+     ],
+     "minimum": [
+      223.3528594970703,
+      -19.569093704223633,
+      -41.20927810668945
+     ],
+     "name": "end",
+     "tiles": [
+      {
+       "fileDataID": 213117,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_012_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 213118,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_012_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 213119,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_012_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 213120,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_012_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 2247
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109537,
+     "index": 13,
+     "maximum": [
+      388.0458068847656,
+      249.58815002441406,
+      -5.368428707122803
+     ],
+     "minimum": [
+      302.45550537109375,
+      216.44923400878906,
+      -28.164833068847656
+     ],
+     "name": "intheend",
+     "tiles": [
+      {
+       "fileDataID": 213121,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_013_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2248
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109538,
+     "index": 14,
+     "maximum": [
+      361.417236328125,
+      117.25151824951172,
+      -4.594369888305664
+     ],
+     "minimum": [
+      326.8601379394531,
+      74.23587799072266,
+      -17.50882911682129
+     ],
+     "name": "yahoo",
+     "tiles": [
+      {
+       "fileDataID": 213122,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_014_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2249
+    },
+    {
+     "flags": 1319168,
+     "groupFileDataID": 109539,
+     "index": 15,
+     "maximum": [
+      359.2979431152344,
+      -12.323492050170898,
+      11.075995445251465
+     ],
+     "minimum": [
+      283.9650573730469,
+      -62.101158142089844,
+      -27.17021942138672
+     ],
+     "name": "chachahoohoo",
+     "tiles": [
+      {
+       "fileDataID": 213123,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_015_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2250
+    },
+    {
+     "flags": 1048840,
+     "groupFileDataID": 109540,
+     "index": 16,
+     "maximum": [
+      -43.618953704833984,
+      -10.67518138885498,
+      14.73910903930664
+     ],
+     "minimum": [
+      -111.38346862792969,
+      -66.38371276855469,
+      -10.774027824401855
+     ],
+     "name": "front",
+     "tiles": []
+    },
+    {
+     "flags": 1319168,
+     "groupFileDataID": 109541,
+     "index": 17,
+     "maximum": [
+      39.689476013183594,
+      -60.33530044555664,
+      18.228065490722656
+     ],
+     "minimum": [
+      -35.418212890625,
+      -119.76900482177734,
+      -23.96780776977539
+     ],
+     "name": "endoftheend",
+     "tiles": [
+      {
+       "fileDataID": 213124,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_017_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2252
+    },
+    {
+     "flags": 1057024,
+     "groupFileDataID": 109542,
+     "index": 18,
+     "maximum": [
+      -21.06940460205078,
+      -6.755528926849365,
+      3.702272891998291
+     ],
+     "minimum": [
+      -44.919273376464844,
+      -31.359766006469727,
+      -6.238331317901611
+     ],
+     "name": "hahaha",
+     "tiles": [
+      {
+       "fileDataID": 213125,
+       "height": 64,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_018_00_00.blp",
+       "width": 64,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2253
+    },
+    {
+     "flags": 1114184,
+     "groupFileDataID": 109543,
+     "index": 19,
+     "maximum": [
+      602.8853149414062,
+      366.2336730957031,
+      112.4766616821289
+     ],
+     "minimum": [
+      -215.04605102539062,
+      -404.6753845214844,
+      -55.47820281982422
+     ],
+     "name": "trench001",
+     "tiles": [
+      {
+       "fileDataID": 2510527,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 2510534,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      },
+      {
+       "fileDataID": 2510541,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_00_02.blp",
+       "width": 256,
+       "x": 0,
+       "y": 2
+      },
+      {
+       "fileDataID": 2510548,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_00_03.blp",
+       "width": 256,
+       "x": 0,
+       "y": 3
+      },
+      {
+       "fileDataID": 2510555,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_00_04.blp",
+       "width": 256,
+       "x": 0,
+       "y": 4
+      },
+      {
+       "fileDataID": 2510562,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_00_05.blp",
+       "width": 256,
+       "x": 0,
+       "y": 5
+      },
+      {
+       "fileDataID": 2510569,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_00_06.blp",
+       "width": 256,
+       "x": 0,
+       "y": 6
+      },
+      {
+       "fileDataID": 2510528,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_01_00.blp",
+       "width": 256,
+       "x": 1,
+       "y": 0
+      },
+      {
+       "fileDataID": 2510535,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_01_01.blp",
+       "width": 256,
+       "x": 1,
+       "y": 1
+      },
+      {
+       "fileDataID": 2510542,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_01_02.blp",
+       "width": 256,
+       "x": 1,
+       "y": 2
+      },
+      {
+       "fileDataID": 2510549,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_01_03.blp",
+       "width": 256,
+       "x": 1,
+       "y": 3
+      },
+      {
+       "fileDataID": 2510556,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_01_04.blp",
+       "width": 256,
+       "x": 1,
+       "y": 4
+      },
+      {
+       "fileDataID": 2510563,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_01_05.blp",
+       "width": 256,
+       "x": 1,
+       "y": 5
+      },
+      {
+       "fileDataID": 2510570,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_01_06.blp",
+       "width": 256,
+       "x": 1,
+       "y": 6
+      },
+      {
+       "fileDataID": 2510529,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_02_00.blp",
+       "width": 256,
+       "x": 2,
+       "y": 0
+      },
+      {
+       "fileDataID": 2510536,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_02_01.blp",
+       "width": 256,
+       "x": 2,
+       "y": 1
+      },
+      {
+       "fileDataID": 2510543,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_02_02.blp",
+       "width": 256,
+       "x": 2,
+       "y": 2
+      },
+      {
+       "fileDataID": 2510550,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_02_03.blp",
+       "width": 256,
+       "x": 2,
+       "y": 3
+      },
+      {
+       "fileDataID": 2510557,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_02_04.blp",
+       "width": 256,
+       "x": 2,
+       "y": 4
+      },
+      {
+       "fileDataID": 2510564,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_02_05.blp",
+       "width": 256,
+       "x": 2,
+       "y": 5
+      },
+      {
+       "fileDataID": 2510571,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_02_06.blp",
+       "width": 256,
+       "x": 2,
+       "y": 6
+      },
+      {
+       "fileDataID": 2510530,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_03_00.blp",
+       "width": 256,
+       "x": 3,
+       "y": 0
+      },
+      {
+       "fileDataID": 2510537,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_03_01.blp",
+       "width": 256,
+       "x": 3,
+       "y": 1
+      },
+      {
+       "fileDataID": 2510544,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_03_02.blp",
+       "width": 256,
+       "x": 3,
+       "y": 2
+      },
+      {
+       "fileDataID": 2510551,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_03_03.blp",
+       "width": 256,
+       "x": 3,
+       "y": 3
+      },
+      {
+       "fileDataID": 2510558,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_03_04.blp",
+       "width": 256,
+       "x": 3,
+       "y": 4
+      },
+      {
+       "fileDataID": 2510565,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_03_05.blp",
+       "width": 256,
+       "x": 3,
+       "y": 5
+      },
+      {
+       "fileDataID": 2510572,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_03_06.blp",
+       "width": 256,
+       "x": 3,
+       "y": 6
+      },
+      {
+       "fileDataID": 2510531,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_04_00.blp",
+       "width": 256,
+       "x": 4,
+       "y": 0
+      },
+      {
+       "fileDataID": 2510538,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_04_01.blp",
+       "width": 256,
+       "x": 4,
+       "y": 1
+      },
+      {
+       "fileDataID": 2510545,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_04_02.blp",
+       "width": 256,
+       "x": 4,
+       "y": 2
+      },
+      {
+       "fileDataID": 2510552,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_04_03.blp",
+       "width": 256,
+       "x": 4,
+       "y": 3
+      },
+      {
+       "fileDataID": 2510559,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_04_04.blp",
+       "width": 256,
+       "x": 4,
+       "y": 4
+      },
+      {
+       "fileDataID": 2510566,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_04_05.blp",
+       "width": 256,
+       "x": 4,
+       "y": 5
+      },
+      {
+       "fileDataID": 2510573,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_04_06.blp",
+       "width": 256,
+       "x": 4,
+       "y": 6
+      },
+      {
+       "fileDataID": 2510532,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_05_00.blp",
+       "width": 256,
+       "x": 5,
+       "y": 0
+      },
+      {
+       "fileDataID": 2510539,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_05_01.blp",
+       "width": 256,
+       "x": 5,
+       "y": 1
+      },
+      {
+       "fileDataID": 2510546,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_05_02.blp",
+       "width": 256,
+       "x": 5,
+       "y": 2
+      },
+      {
+       "fileDataID": 2510553,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_05_03.blp",
+       "width": 256,
+       "x": 5,
+       "y": 3
+      },
+      {
+       "fileDataID": 2510560,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_05_04.blp",
+       "width": 256,
+       "x": 5,
+       "y": 4
+      },
+      {
+       "fileDataID": 2510567,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_05_05.blp",
+       "width": 256,
+       "x": 5,
+       "y": 5
+      },
+      {
+       "fileDataID": 2510574,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_05_06.blp",
+       "width": 256,
+       "x": 5,
+       "y": 6
+      },
+      {
+       "fileDataID": 2510533,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_06_00.blp",
+       "width": 256,
+       "x": 6,
+       "y": 0
+      },
+      {
+       "fileDataID": 2510540,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_06_01.blp",
+       "width": 256,
+       "x": 6,
+       "y": 1
+      },
+      {
+       "fileDataID": 2510547,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_06_02.blp",
+       "width": 256,
+       "x": 6,
+       "y": 2
+      },
+      {
+       "fileDataID": 2510554,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_06_03.blp",
+       "width": 256,
+       "x": 6,
+       "y": 3
+      },
+      {
+       "fileDataID": 2510561,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_06_04.blp",
+       "width": 256,
+       "x": 6,
+       "y": 4
+      },
+      {
+       "fileDataID": 2510568,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_06_05.blp",
+       "width": 256,
+       "x": 6,
+       "y": 5
+      },
+      {
+       "fileDataID": 2510575,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_019_06_06.blp",
+       "width": 256,
+       "x": 6,
+       "y": 6
+      }
+     ],
+     "wmoGroupID": 2254
+    },
+    {
+     "flags": 1319168,
+     "groupFileDataID": 109544,
+     "index": 20,
+     "maximum": [
+      65.56180572509766,
+      -174.38018798828125,
+      18.352537155151367
+     ],
+     "minimum": [
+      17.289199829101562,
+      -285.4557189941406,
+      -21.625146865844727
+     ],
+     "name": "exterior",
+     "tiles": [
+      {
+       "fileDataID": 213126,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_020_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2255
+    },
+    {
+     "flags": 1319168,
+     "groupFileDataID": 109545,
+     "index": 21,
+     "maximum": [
+      88.96696472167969,
+      -108.17659759521484,
+      12.702648162841797
+     ],
+     "minimum": [
+      45.58700942993164,
+      -164.044189453125,
+      -11.092252731323242
+     ],
+     "name": "canopy",
+     "tiles": [
+      {
+       "fileDataID": 213127,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_021_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2256
+    },
+    {
+     "flags": 1319168,
+     "groupFileDataID": 109546,
+     "index": 22,
+     "maximum": [
+      145.35914611816406,
+      -81.38326263427734,
+      15.890302658081055
+     ],
+     "minimum": [
+      87.96699523925781,
+      -158.43643188476562,
+      -9.257715225219727
+     ],
+     "name": "23andahalf",
+     "tiles": [
+      {
+       "fileDataID": 213128,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_022_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2257
+    },
+    {
+     "flags": 1319168,
+     "groupFileDataID": 109547,
+     "index": 23,
+     "maximum": [
+      180.50550842285156,
+      -81.82188415527344,
+      13.592320442199707
+     ],
+     "minimum": [
+      121.48372650146484,
+      -137.00669860839844,
+      -11.778106689453125
+     ],
+     "name": "kitchen",
+     "tiles": [
+      {
+       "fileDataID": 213129,
+       "height": 128,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_023_00_00.blp",
+       "width": 128,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2258
+    },
+    {
+     "flags": 1319168,
+     "groupFileDataID": 109548,
+     "index": 24,
+     "maximum": [
+      269.7504577636719,
+      90.19712829589844,
+      13.491870880126953
+     ],
+     "minimum": [
+      178.822509765625,
+      -70.64503479003906,
+      -38.65697479248047
+     ],
+     "name": "pantry",
+     "tiles": [
+      {
+       "fileDataID": 213130,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_024_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      },
+      {
+       "fileDataID": 213131,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_024_00_01.blp",
+       "width": 256,
+       "x": 0,
+       "y": 1
+      }
+     ],
+     "wmoGroupID": 2259
+    },
+    {
+     "flags": 8192,
+     "groupFileDataID": 109549,
+     "index": 25,
+     "maximum": [
+      364.7674255371094,
+      180.6212158203125,
+      6.33880090713501
+     ],
+     "minimum": [
+      300.4020690917969,
+      101.22700500488281,
+      -30.523597717285156
+     ],
+     "name": "cupboard",
+     "tiles": [
+      {
+       "fileDataID": 213132,
+       "height": 256,
+       "path": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_025_00_00.blp",
+       "width": 256,
+       "x": 0,
+       "y": 0
+      }
+     ],
+     "wmoGroupID": 2260
+    }
+   ],
+   "minimapPrefix": "world/minimaps/wmo/dungeon/kl_razorfen/razorfenkraul_instance_",
+   "placements": [
+    {
+     "position": [
+      15478.7734,
+      87.6839,
+      15114.4854
+     ],
+     "rotation": [
+      0.0,
+      227.0,
+      0.0
+     ],
+     "scale": 1024,
+     "uniqueID": 302897
+    }
+   ],
+   "rho": {
+    "allCandidates": {
+     "0.5": 0,
+     "1": 0,
+     "2": 25,
+     "4": 0,
+     "8": 0
+    },
+    "best": 2,
+    "matchedGroups": 25,
+    "tiledGroups": 25
+   },
+   "rootFileDataID": 109523,
+   "rootMD5": "dbc824a9ebdce4311047eb71d044ae15",
+   "rootPath": "world/wmo/dungeon/kl_razorfen/razorfenkraul_instance.wmo"
+  }
+ ]
+}

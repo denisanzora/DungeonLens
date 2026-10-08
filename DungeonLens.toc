@@ -1,0 +1,28 @@
+## Interface: 16001
+## Title: DungeonLens
+## Notes: A native current-instance map viewer for World of Warcraft: Forever.
+## Version: 0.2.0
+## SavedVariables: DungeonLensDB
+
+Core.lua
+MapData.lua
+MapRegistry.lua
+DungeonLevels.lua
+DungeonEntrances.lua
+WMOComposition.lua
+BossData.lua
+LootData.lua
+MarkerData.lua
+MapDetector.lua
+Overlay.lua
+MapRenderer.lua
+DungeonWindow.lua
+SeenLoot.lua
+BossPanel.lua
+BossList.lua
+EntranceCard.lua
+MinimapButton.lua
+Authoring.lua
+PositionProbe.lua
+Diagnostics.lua
+CompositePreview.lua
